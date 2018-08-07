@@ -68,26 +68,23 @@ def GetUsersWithPoliticalAds(Keyword, Session):
   for i in range(1, PAGESPERUSER+1):
     UsersFromKeyword.extend(TwitterAPI.users.search(q=Keyword, count=20, include_ext_highlighted_label=True, page=i))
     time.sleep(random.randint(MINWAIT, MAXWAIT))
+  for User in UsersFromKeyword:
+    print(User['verified'])
+    print("At user ", User['screen_name'])
+    print(type(User))
+    print(User['ext_highlighted_label'])
+    if User['verified']:
+      UserID = User['id_str']
+      ScreenName = User['screen_name']
+      Tweets = GetTweetsForUser(UserID, ScreenName)
+      
+      PayloadToWrite = {}
+      PayloadToWrite['UserID'] = User['id_str']
+      PayloadToWrite['ScreenName'] = ScreenName
+      PayloadToWrite['Tweets'] = Tweets
 
-  
-    for User in UsersFromKeyword:
-      print(User['verified'])
-      print("At user ", User['screen_name'])
-      print(type(User))
-      print(User['ext_highlighted_label'])
-      if User['verified']:
-        UserID = User['id_str']
-        ScreenName = User['screen_name']
-        Tweets = GetTweetsForUser(UserID, ScreenName)
-        
-
-        PayloadToWrite = {}
-        PayloadToWrite['UserID'] = User['id_str']
-        PayloadToWrite['ScreenName'] = ScreenName
-        PayloadToWrite['Tweets'] = Tweets
-
-        WriteToDisk(ScreenName, PayloadToWrite, "Tweets")
-        time.sleep(random.randint(MINWAIT,MAXWAIT))
+      WriteToDisk(ScreenName, PayloadToWrite, "Tweets")
+      time.sleep(random.randint(MINWAIT,MAXWAIT))
 
 
 
