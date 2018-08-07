@@ -67,7 +67,9 @@ def GetUsersWithPoliticalAds(Keyword, Session):
   UsersFromKeyword = []
   for i in range(1, PAGESPERUSER+1):
     UsersFromKeyword.extend(TwitterAPI.users.search(q=Keyword, count=20, include_ext_highlighted_label=True, page=i))
+    print(UsersFromKeyword)
     time.sleep(random.randint(MINWAIT, MAXWAIT))
+    exit()
   for User in UsersFromKeyword:
     print(User['verified'])
     print("At user ", User['screen_name'])
@@ -77,13 +79,13 @@ def GetUsersWithPoliticalAds(Keyword, Session):
       UserID = User['id_str']
       ScreenName = User['screen_name']
       Tweets = GetTweetsForUser(UserID, ScreenName)
-      
-      PayloadToWrite = {}
-      PayloadToWrite['UserID'] = User['id_str']
-      PayloadToWrite['ScreenName'] = ScreenName
-      PayloadToWrite['Tweets'] = Tweets
+      if Tweets:
+        PayloadToWrite = {}
+        PayloadToWrite['UserID'] = User['id_str']
+        PayloadToWrite['ScreenName'] = ScreenName
+        PayloadToWrite['Tweets'] = Tweets
 
-      WriteToDisk(ScreenName, PayloadToWrite, "Tweets")
+        WriteToDisk(ScreenName, PayloadToWrite, "Tweets")
       time.sleep(random.randint(MINWAIT,MAXWAIT))
 
 
