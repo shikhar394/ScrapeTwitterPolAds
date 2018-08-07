@@ -42,7 +42,7 @@ TwitterAPI = Twitter(auth=OAuth(ACCESS_KEY_TOKEN, ACCESS_KEY_SECRET,
 
 LoginPost = "https://twitter.com/sessions"
 URL = "https://twitter.com"
-TweetsLinkForUser = "https://ads.twitter.com/transparency/tweets_timeline.json?user_id=%s"
+TweetsLinkForUser = "https://ads.twitter.com/transparency/tweets_timeline.json?user_id=%s&cursor=%s"
 SearchUserLink = 'https://api.twitter.com/1.1/users/search.json?q=%s&count=20&filter:verified'
 
 data = {"session[username_or_email]": USERNAME,
@@ -69,7 +69,7 @@ def GetUsersWithPoliticalAds(Keyword, Session):
     UsersFromKeyword.extend(TwitterAPI.users.search(q=Keyword, count=20, include_ext_highlighted_label=True, page=i))
     time.sleep(random.randint(MINWAIT, MAXWAIT))
 
-  with open("ErrorLog.txt", 'w') as f:
+  
     for User in UsersFromKeyword:
       print(User['verified'])
       print("At user ", User['screen_name'])
@@ -77,20 +77,45 @@ def GetUsersWithPoliticalAds(Keyword, Session):
       print(User['ext_highlighted_label'])
       if User['verified']:
         UserID = User['id_str']
-        Tweets = Session.get(TweetsLinkForUser % UserID).text
-        try:
-          Tweets = json.loads(Tweets)["tweets"]
-          if len(Tweets):
-            UserID = User['id_str']
-            ScreenName = User['screen_name']
-            PayloadToWrite = {}
-            PayloadToWrite['UserID'] = UserID
-            PayloadToWrite['ScreenName'] = ScreenName
-            PayloadToWrite['Tweets'] = Tweets
-            WriteToDisk(ScreenName, PayloadToWrite, "Tweets")
-          time.sleep(random.randint(MINWAIT,MAXWAIT))
-        except:
-          f.write(str(User) + '\n' + str(Tweets) + '\n')
+        ScreenName = User['screen_name']
+        Tweets = GetTweetsForUser(UserID, ScreenName)
+        
+
+        PayloadToWrite = {}
+        PayloadToWrite['UserID'] = User['id_str']
+        PayloadToWrite['ScreenName'] = ScreenName
+        PayloadToWrite['Tweets'] = Tweets
+
+        WriteToDisk(ScreenName, PayloadToWrite, "Tweets")
+        time.sleep(random.randint(MINWAIT,MAXWAIT))
+
+
+
+
+
+def GetTweetsForUser(UserID, ScreenName):
+  """
+  Gets all the political ads for every user. 
+  Works around infinite scrolling through setting the 'cursor' 
+  parameter. 
+  """
+  MoreTweets = True
+  Count = 0
+  AllTweets = []
+  with open(WriteDir[3:]+"ErrorLog.txt", 'a+') as f:
+    while MoreTweets:
+      Tweets = Session.get(TweetsLinkForUser % (UserID, Count)).text
+      try:
+        Tweets = json.loads(Tweets)["tweets"]
+        if len(Tweets):
+          AllTweets.extend(Tweets)
+          Count += 1
+        else:
+          MoreTweets = False
+      except:
+        f.write(ScreenName + '\n' + str(Tweets) + '\n')
+      time.sleep(random.randint(MINWAIT,MAXWAIT))
+  return AllTweets
 
 
 
