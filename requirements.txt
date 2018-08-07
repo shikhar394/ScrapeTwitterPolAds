@@ -1,0 +1,6 @@
+configparser
+BeautifulSoup4
+twitter
+pprint
+requests_oauthlib
+lxml
