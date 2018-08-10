@@ -68,6 +68,8 @@ def GetMetadataForTweets(Tweets, Session):
               See line 96 to 100. 
   Returns 
     - CampaignIDs and ScreenName.
+  Writes
+    - TweetMetadata.json every 10 entries. And the entire file once the AllTweets <dict> is complete. 
   """
   TweetMetadataList = []
   CampaignIDs = {}
@@ -84,65 +86,61 @@ def GetMetadataForTweets(Tweets, Session):
   for Tweet in Tweets:
     TweetID = Tweet['tweetId']
     AllTweets[TweetID] = {}
-    try:
-      OverviewTweet = Session.get(TweetOverviewLink % (TweetID, UserID), headers=Headers)
-      if OverviewTweet.status_code == 200:
-        AllTweets[TweetID]['TweetPerformance'] = json.loads(OverviewTweet.text)
-      else:
-        SendErrorEmail("Didn't get 200 for tweet overview for " + TweetOverviewLink % (TweetID, UserID))
-    except Exception as e:
-      SendErrorEmail("Error on " + TweetOverviewLink % (TweetID, UserID) + " Error: " + str(e))
+    if Tweet['promotedMetadata']['political']:
+      try:
+        OverviewTweet = Session.get(TweetOverviewLink % (TweetID, UserID), headers=Headers)
+        if OverviewTweet.status_code == 200:
+          AllTweets[TweetID]['TweetPerformance'] = json.loads(OverviewTweet.text)
+        else:
+          SendErrorEmail("Didn't get 200 for tweet overview for " + TweetOverviewLink % (TweetID, UserID))
+      except Exception as e:
+        SendErrorEmail("Error on " + TweetOverviewLink % (TweetID, UserID) + " Error: " + str(e))
 
-    time.sleep(random.randint(MINWAIT/10,MAXWAIT/10))
+      time.sleep(random.randint(MINWAIT/10,MAXWAIT/10))
 
-    try:
-      TweetCampaignDetails = Session.get(TweetDetailsLink % (TweetID, UserID), headers=Headers)
-      if TweetCampaignDetails.status_code == 200:
-        AllTweets[TweetID]['TweetCampaigns'] = json.loads(TweetCampaignDetails.text)
-      else:
-        SendErrorEmail("Didn't get 200 for tweet overview for " + TweetDetailsLink % (TweetID, UserID))
-    except Exception as e:
-      SendErrorEmail("Error on " +  TweetDetailsLink % (TweetID, UserID) + " Error: " + str(e))
+      try:
+        TweetCampaignDetails = Session.get(TweetDetailsLink % (TweetID, UserID), headers=Headers)
+        if TweetCampaignDetails.status_code == 200:
+          AllTweets[TweetID]['TweetCampaigns'] = json.loads(TweetCampaignDetails.text)
+        else:
+          SendErrorEmail("Didn't get 200 for tweet overview for " + TweetDetailsLink % (TweetID, UserID))
+      except Exception as e:
+        SendErrorEmail("Error on " +  TweetDetailsLink % (TweetID, UserID) + " Error: " + str(e))
 
-    for Campaigns in AllTweets[TweetID]['TweetCampaigns']['metadata']:
-      if Campaigns['line_item_id'] not in CampaignIDs:
-        CampaignIDs[Campaigns['line_item_id']] = Campaigns['account_id']
-      else:
-        try: 
-          assert(CampaignIDs[Campaigns['line_item_id']] == Campaigns['account_id'])
-        except:
-          print("AccountID changing for campaigns for " + str(Campaigns) + ScreenName)
-          SendErrorEmail("AccountID changing for campaigns for " + str(Campaigns) + ScreenName)
-      
-    if TweetID in AllTweets:
-      if "TweetPerformance" in AllTweets[TweetID] and "TweetCampaigns" in AllTweets[TweetID]:
-        AllTweets[TweetID]['ScreenName'] = ScreenName
-        AllTweets[TweetID]['UserID'] = UserID
+      for Campaigns in AllTweets[TweetID]['TweetCampaigns']['metadata']:
+        if Campaigns['line_item_id'] not in CampaignIDs:
+          CampaignIDs[Campaigns['line_item_id']] = Campaigns['account_id']
+        else:
+          try: 
+            assert(CampaignIDs[Campaigns['line_item_id']] == Campaigns['account_id'])
+          except:
+            print("AccountID changing for campaigns for " + str(Campaigns) + ScreenName)
+            SendErrorEmail("AccountID changing for campaigns for " + str(Campaigns) + ScreenName)
+        
+      if TweetID in AllTweets:
+        if "TweetPerformance" in AllTweets[TweetID] and "TweetCampaigns" in AllTweets[TweetID]:
+          AllTweets[TweetID]['ScreenName'] = ScreenName
+          AllTweets[TweetID]['UserID'] = UserID
 
-    if len(AllTweets) % 5 == 0:
+    if len(AllTweets) % 10 == 0:
       WriteToDisk(ScreenName, AllTweets, "TweetMetadata")
+  WriteToDisk(ScreenName, AllTweets, "TweetMetadata")
+
   return CampaignIDs, ScreenName, UserID
 
 
 
 
 
-def CollectCampaignIDs():
-  CampaignIDs = {}
-  with open("/Users/shikharsakhuja/Desktop/ScrapeTwitterPoliticalAds/crawl_20188910/BetoORourke/TweetMetadata.json") as f:
-    Content = json.load(f)
-    for Tweet in Content:
-      for metadata in Content[Tweet]["TweetCampaigns"]['metadata']:
-        CampaignIDs[metadata['line_item_id']] = metadata['account_id']
-  return CampaignIDs, 'BetoORourke', "342863309"
-
-
-
 def GetMetadataForCampaign(CampaignIDs, ScreenName, UserID, Session):
   """
-
-
-
+  Accepts CampaignID to request overview of particular campaign. UserID and CampaignId for the 
+  precise targeting details of the campaign. 
+  Creates: 
+    - Campaign <dict> primary key of CampaignID.
+       Contains Overview (of campaign) <dict>, TargetDetails (of campaign) <dict>, ScreenName of the user, and UserID. 
+  Writes: 
+    CampaignMetadata.json every 10 entries. And then all the entries once the Campaign <dict> is complete. 
   """
   Campaign = {}
   pprint(CampaignIDs)
@@ -178,8 +176,9 @@ def GetMetadataForCampaign(CampaignIDs, ScreenName, UserID, Session):
 
     time.sleep(random.randint(MINWAIT/5, MAXWAIT/5))
 
-    if len(Campaign)%5 == 0:
+    if len(Campaign)%10 == 0:
       WriteToDisk(ScreenName, Campaign, 'CampaignMetadata')
+  WriteToDisk(ScreenName, Campaign, 'CampaignMetadata')
 
 
 
@@ -200,6 +199,10 @@ def WriteToDisk(ScreenName, PayloadToWrite, Type):
 
 
 def SendErrorEmail(ErrorMessage):
+  """
+  Accepts an error message (in any format) and sends email using the 
+  creds used. 
+  """
   msg = MIMEText(str(ErrorMessage))
   msg['from'] = SCRAPEREMAIL
   msg['to'] = ERROREMAIL
