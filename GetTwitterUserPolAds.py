@@ -75,8 +75,6 @@ def GetUsersWithPoliticalAds(Keyword, Session):
   for User in UsersFromKeyword:
     UserID = User['id_str']
     if User['verified']:
-      print("At user ", User['screen_name'])
-      print(User['ext_highlighted_label'])
       ScreenName = User['screen_name']
       Tweets = GetTweetsForUser(UserID, ScreenName)
       if Tweets:
@@ -106,7 +104,6 @@ def GetTweetsForUser(UserID, ScreenName):
     try:
       Tweets = Session.get(TweetsLinkForUser % (UserID, Count), headers=Headers)
       if Tweets.status_code == 200:
-        print(Count+1, " Tweet page")
         Tweets = json.loads(Tweets.text)["tweets"]
         if len(Tweets):
           AllTweets.extend(Tweets)

@@ -56,9 +56,7 @@ def GetContentsForTweets(Tweets, Session):
   AllTweets = []
   AllTweetLength = len(Tweets['Tweets'])
   for Tweet in Tweets['Tweets']:
-    
     TempTweetList.append(Tweet['tweetId'])
-    
     if len(TempTweetList) == 100:
       TweetString = ','.join(TweetID for TweetID in TempTweetList)
       AllTweets.extend(GetContentForTweetString(TweetString, Session))
@@ -82,7 +80,6 @@ def GetContentForTweetString(TweetString, Session):
       SendErrorEmail("Status code not 200 for " + TweetsLinkForContents % (TweetString))
   except Exception as e:
     SendErrorEmail("Error : " + str(e) + " on " +  TweetsLinkForContents % (TweetString))
-  print(TweetChunk, type(TweetChunk))
   return TweetChunk
 
 

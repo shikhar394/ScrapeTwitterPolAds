@@ -231,8 +231,8 @@ if __name__ == "__main__":
     UsersWithPoliticalAds = {} #ScreenName:UserID
 
     for IssueFolder in os.listdir(CurrentDirectory):
-      if IssueFolder != 'BetoORourke':
-        continue 
+      if IssueFolder[0] == '.':
+        continue
       print(IssueFolder)
       TweetFile = os.path.join(CurrentDirectory, IssueFolder, "Tweets.json")
       with open(TweetFile, 'r') as f:
