@@ -1,0 +1,17 @@
+{
+    "856596564516651008": {
+        "Tweets": [
+            {
+                "lastActiveAtSeconds": 1533356123, 
+                "promotedMetadata": {
+                    "advertiserId": 856596564516651008, 
+                    "political": false
+                }, 
+                "serveable": true, 
+                "id": 1025097686108651520, 
+                "tweetId": "1025097686108651520"
+            }
+        ], 
+        "ScreenName": "JanzforCongress"
+    }
+}

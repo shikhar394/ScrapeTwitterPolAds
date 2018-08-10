@@ -237,13 +237,13 @@ if __name__ == "__main__":
       TweetFile = os.path.join(CurrentDirectory, IssueFolder, "Tweets.json")
       with open(TweetFile, 'r') as f:
         Tweets = json.load(f)
-        #try:
-        #CampaignIDs, ScreenName, UserID = GetMetadataForTweets(Tweets, Session)
+        try:
+          CampaignIDs, ScreenName, UserID = GetMetadataForTweets(Tweets, Session)
         #print(Campaigns)
-        CampaignIDs, ScreenName, UserID = CollectCampaignIDs()
-        GetMetadataForCampaign(CampaignIDs, ScreenName, UserID, Session)
-        time.sleep(random.randint(MINWAIT, MAXWAIT))
-        #except Exception as e:
-        #  SendErrorEmail(e)
-        #  continue
+          #CampaignIDs, ScreenName, UserID = CollectCampaignIDs()
+          GetMetadataForCampaign(CampaignIDs, ScreenName, UserID, Session)
+          time.sleep(random.randint(MINWAIT, MAXWAIT))
+        except Exception as e:
+          SendErrorEmail(e)
+          continue
   print("Total time to get metadata: ", time.time() - Start)

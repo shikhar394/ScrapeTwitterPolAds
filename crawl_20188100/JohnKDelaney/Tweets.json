@@ -1,0 +1,67 @@
+{
+    "426028646": {
+        "Tweets": [
+            {
+                "lastActiveAtSeconds": 1533894716, 
+                "promotedMetadata": {
+                    "advertiserId": 426028646, 
+                    "political": false
+                }, 
+                "serveable": true, 
+                "id": 1005167890687918081, 
+                "tweetId": "1005167890687918081"
+            }, 
+            {
+                "lastActiveAtSeconds": 1533894716, 
+                "promotedMetadata": {
+                    "advertiserId": 426028646, 
+                    "political": false
+                }, 
+                "serveable": true, 
+                "id": 1021636460397490176, 
+                "tweetId": "1021636460397490176"
+            }, 
+            {
+                "lastActiveAtSeconds": 1533894716, 
+                "promotedMetadata": {
+                    "advertiserId": 426028646, 
+                    "political": false
+                }, 
+                "serveable": true, 
+                "id": 1022912511211913221, 
+                "tweetId": "1022912511211913221"
+            }, 
+            {
+                "lastActiveAtSeconds": 1533894716, 
+                "promotedMetadata": {
+                    "advertiserId": 426028646, 
+                    "political": false
+                }, 
+                "serveable": true, 
+                "id": 1022912572801077248, 
+                "tweetId": "1022912572801077248"
+            }, 
+            {
+                "lastActiveAtSeconds": 1533894716, 
+                "promotedMetadata": {
+                    "advertiserId": 426028646, 
+                    "political": false
+                }, 
+                "serveable": true, 
+                "id": 1027324338528182272, 
+                "tweetId": "1027324338528182272"
+            }, 
+            {
+                "lastActiveAtSeconds": 1533894716, 
+                "promotedMetadata": {
+                    "advertiserId": 426028646, 
+                    "political": false
+                }, 
+                "serveable": true, 
+                "id": 1027324394815643649, 
+                "tweetId": "1027324394815643649"
+            }
+        ], 
+        "ScreenName": "JohnKDelaney"
+    }
+}
