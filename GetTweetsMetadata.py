@@ -72,9 +72,14 @@ def GetMetadataForTweets(Tweets, Session):
   TweetMetadataList = []
   CampaignIDs = {}
   AllTweets = {}
-  UserID = Tweets['UserID']
-  ScreenName = Tweets['ScreenName']
-  Tweets = Tweets['Tweets']
+  UserID = list(Tweets.keys())
+  if len(UserID) == 1:
+    UserID = UserID[0]
+    ScreenName = Tweets[UserID]['ScreenName']
+    Tweets = Tweets[UserID]['Tweets']
+  else:
+    SendErrorEmail("Multiple keys check tweets for " + ScreenName)
+  print(UserID, ScreenName)
 
   for Tweet in Tweets:
     TweetID = Tweet['tweetId']
@@ -87,7 +92,6 @@ def GetMetadataForTweets(Tweets, Session):
         SendErrorEmail("Didn't get 200 for tweet overview for " + TweetOverviewLink % (TweetID, UserID))
     except Exception as e:
       SendErrorEmail("Error on " + TweetOverviewLink % (TweetID, UserID) + " Error: " + str(e))
-    print(OverviewTweet.text)
 
     time.sleep(random.randint(MINWAIT/10,MAXWAIT/10))
 
@@ -103,7 +107,6 @@ def GetMetadataForTweets(Tweets, Session):
     for Campaigns in AllTweets[TweetID]['TweetCampaigns']['metadata']:
       if Campaigns['line_item_id'] not in CampaignIDs:
         CampaignIDs[Campaigns['line_item_id']] = Campaigns['account_id']
-        print("Campaign IDs" ,CampaignIDs)
       else:
         try: 
           assert(CampaignIDs[Campaigns['line_item_id']] == Campaigns['account_id'])
@@ -231,7 +234,7 @@ if __name__ == "__main__":
     UsersWithPoliticalAds = {} #ScreenName:UserID
 
     for IssueFolder in os.listdir(CurrentDirectory):
-      if IssueFolder[0] == '.':
+      if IssueFolder[0] == '.' and not IssueFolder == 'BetoORourke':
         continue
       print(IssueFolder)
       TweetFile = os.path.join(CurrentDirectory, IssueFolder, "Tweets.json")
