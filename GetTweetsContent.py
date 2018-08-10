@@ -34,10 +34,12 @@ MINWAIT = int(config['SPECS']['MINWAITTWEET'])
 MAXWAIT = int(config['SPECS']['MAXWAITTWEET'])
 ERROREMAIL = config['ACCOUNT']['ERROREMAIL']
 WriteDir = config['WORKINGDIR']['CURRENT']
+JSON_INDENT = int(config['SPECS']['JSON_INDENT'])
+
 
 LoginPost = "https://twitter.com/sessions"
 URL = "https://twitter.com"
-TweetsLinkForContents = "https://api.twitter.com/1.1/statuses/lookup.json?id=%s"
+TweetsLinkForContents = "https://api.twitter.com/1.1/statuses/lookup.json?id=%s&include_ext_alt_text=true&include_card_uri=true"
 
 data = {"session[username_or_email]": USERNAME,
     "session[password]": PASSWORD,
@@ -50,11 +52,38 @@ data = {"session[username_or_email]": USERNAME,
 
 
 def GetContentsForTweets(Tweets, Session):
-  pprint(Tweets)
-  TweetString = ','.join(Tweet['tweetId'] for Tweet in Tweets['Tweets'])
-  PayloadToWrite = Session.get(TweetsLinkForContents % (TweetString)).text
-  PayloadToWrite = json.loads(PayloadToWrite) #To clean the JSON file
-  WriteToDisk(Tweets['ScreenName'], str(PayloadToWrite), "Contents")
+  TempTweetList = []
+  AllTweets = []
+  AllTweetLength = len(Tweets['Tweets'])
+  for Tweet in Tweets['Tweets']:
+    
+    TempTweetList.append(Tweet['tweetId'])
+    
+    if len(TempTweetList) == 100:
+      TweetString = ','.join(TweetID for TweetID in TempTweetList)
+      AllTweets.extend(GetContentForTweetString(TweetString, Session))
+      TempTweetList = []
+      time.sleep(random.randint(MINWAIT, MAXWAIT))
+  TweetString = ','.join(TweetID for TweetID in TempTweetList)
+  AllTweets.extend(GetContentForTweetString(TweetString, Session))
+  WriteToDisk(Tweets['ScreenName'], AllTweets, 'TweetContents')
+
+
+
+
+
+
+def GetContentForTweetString(TweetString, Session):
+  try:
+    TweetChunk = Session.get(TweetsLinkForContents % (TweetString))
+    if TweetChunk.status_code == 200:
+      TweetChunk = json.loads(TweetChunk.text)
+    else:
+      SendErrorEmail("Status code not 200 for " + TweetsLinkForContents % (TweetString))
+  except Exception as e:
+    SendErrorEmail("Error : " + str(e) + " on " +  TweetsLinkForContents % (TweetString))
+  print(TweetChunk, type(TweetChunk))
+  return TweetChunk
 
 
 
@@ -63,8 +92,25 @@ def GetContentsForTweets(Tweets, Session):
 def WriteToDisk(ScreenName, PayloadToWrite, Type):
   File = os.path.join(ScreenName, Type) + '.json'
   with open(File, 'w') as f:
-    json.dump(PayloadToWrite, f)
+    json.dump(PayloadToWrite, f, indent=JSON_INDENT)
   return
+
+
+
+
+
+def SendErrorEmail(ErrorMessage):
+  print(ErrorMessage)
+  msg = MIMEText(str(ErrorMessage))
+  msg['from'] = SCRAPEREMAIL
+  msg['to'] = ERROREMAIL
+  msg['subject'] = 'Error in getting tweets script'
+  s = smtplib.SMTP('smtp.live.com', 25)
+  s.ehlo()
+  s.starttls()
+  s.login(SCRAPEREMAIL, PASSWORD)
+  s.sendmail(SCRAPEREMAIL, [ERROREMAIL], msg.as_string())
+  s.quit()
 
 
 
@@ -79,6 +125,8 @@ if __name__ == "__main__":
   CurrentDirectory = os.getcwd()
   TwitterSession = OAuth1Session(CONSUMER_KEY, CONSUMER_SECRET, ACCESS_KEY_TOKEN, ACCESS_KEY_SECRET)
   for IssueFolder in os.listdir(CurrentDirectory):
+    if IssueFolder[0] == '.': #Ignore hidden files.
+      continue
     TweetFile = os.path.join(CurrentDirectory, IssueFolder, "Tweets.json")
     with open(TweetFile, 'r') as f:
       Tweets = json.load(f)
@@ -86,13 +134,5 @@ if __name__ == "__main__":
         GetContentsForTweets(Tweets, TwitterSession)
         time.sleep(random.randint(MINWAIT,MAXWAIT))
       except Exception as e:
-        msg = MIMEText(str(e))
-        msg['from'] = SCRAPEREMAIL
-        msg['to'] = ERROREMAIL
-        msg['subject'] = 'Error in contents script'
-        s = smtplib.SMTP('smtp.live.com', 25)
-        s.ehlo()
-        s.starttls()
-        s.sendmail(SCRAPEREMAIL, [ERROREMAIL], msg.as_string())
-        s.quit()
+        SendErrorEmail(e)
   print("Total time to get tweets contents: ", time.time()-Start)
