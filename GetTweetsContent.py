@@ -64,12 +64,12 @@ def GetContentsForTweets(Tweets, Session):
     if len(TempTweetList) == 100:
       TweetString = ','.join(TweetID for TweetID in TempTweetList)
       AllTweets.extend(GetContentForTweetString(TweetString, Session))
-      WriteToDisk(Tweets['ScreenName'], AllTweets, 'TweetContents')
+      WriteToDisk(Tweets[UserID]['ScreenName'], AllTweets, 'TweetContents')
       TempTweetList = []
       time.sleep(random.randint(MINWAIT, MAXWAIT))
   TweetString = ','.join(TweetID for TweetID in TempTweetList)
   AllTweets.extend(GetContentForTweetString(TweetString, Session))
-  WriteToDisk(Tweets['ScreenName'], AllTweets, 'TweetContents')
+  WriteToDisk(Tweets[UserID]['ScreenName'], AllTweets, 'TweetContents')
 
 
 
