@@ -1,0 +1,17 @@
+{
+    "143103639": {
+        "Tweets": [
+            {
+                "lastActiveAtSeconds": 1533741516, 
+                "promotedMetadata": {
+                    "advertiserId": 143103639, 
+                    "political": false
+                }, 
+                "serveable": false, 
+                "id": 1027204852290478080, 
+                "tweetId": "1027204852290478080"
+            }
+        ], 
+        "ScreenName": "McCaskill4MO"
+    }
+}

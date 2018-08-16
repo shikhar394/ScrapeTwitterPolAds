@@ -1,0 +1,17 @@
+{
+    "278094476": {
+        "Tweets": [
+            {
+                "lastActiveAtSeconds": 1534030966, 
+                "promotedMetadata": {
+                    "advertiserId": 278094476, 
+                    "political": false
+                }, 
+                "serveable": false, 
+                "id": 1028352544836337670, 
+                "tweetId": "1028352544836337670"
+            }
+        ], 
+        "ScreenName": "BenCardinforMD"
+    }
+}

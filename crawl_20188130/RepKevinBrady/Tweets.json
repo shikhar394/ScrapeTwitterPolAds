@@ -1,0 +1,17 @@
+{
+    "19926675": {
+        "Tweets": [
+            {
+                "lastActiveAtSeconds": 1533710717, 
+                "promotedMetadata": {
+                    "advertiserId": 19926675, 
+                    "political": false
+                }, 
+                "serveable": true, 
+                "id": 811378224550834178, 
+                "tweetId": "811378224550834178"
+            }
+        ], 
+        "ScreenName": "RepKevinBrady"
+    }
+}

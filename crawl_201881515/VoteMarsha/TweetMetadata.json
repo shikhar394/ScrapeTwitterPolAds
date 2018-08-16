@@ -1,0 +1,132 @@
+{
+    "1010320497177870338": {
+        "ScreenName": "VoteMarsha", 
+        "UserID": "63150856", 
+        "TweetCampaigns": {
+            "metadata": [
+                {
+                    "usd_spend": 212.147938, 
+                    "start_timestamp": 1530552407, 
+                    "account_id": "18ce54pv63b", 
+                    "tweet_count": 1, 
+                    "tailored_audience_used": false, 
+                    "political_disclaimer": {
+                        "organization": "Marsha for Senate", 
+                        "sponsorshipType": "Direct"
+                    }, 
+                    "impressions": 18972, 
+                    "line_item_id": "bzpch", 
+                    "end_timestamp": 1531717140
+                }
+            ]
+        }, 
+        "TweetPerformance": {
+            "isRejected": false, 
+            "tweetPerformance": {
+                "totalSpend": 195.355456, 
+                "totalImpressions": 17161
+            }
+        }
+    }, 
+    "1012411198686588929": {
+        "ScreenName": "VoteMarsha", 
+        "UserID": "63150856", 
+        "TweetCampaigns": {
+            "metadata": [
+                {
+                    "usd_spend": 75.0, 
+                    "start_timestamp": 1530290408, 
+                    "account_id": "18ce54pv63b", 
+                    "tweet_count": 1, 
+                    "tailored_audience_used": false, 
+                    "political_disclaimer": {
+                        "organization": "Marsha for Senate", 
+                        "sponsorshipType": "Direct"
+                    }, 
+                    "impressions": 8252, 
+                    "line_item_id": "bz65b", 
+                    "end_timestamp": 1530421140
+                }, 
+                {
+                    "usd_spend": 73.753499, 
+                    "start_timestamp": 1530289833, 
+                    "account_id": "18ce54pv63b", 
+                    "tweet_count": 2, 
+                    "tailored_audience_used": false, 
+                    "political_disclaimer": {
+                        "organization": "Marsha for Senate", 
+                        "sponsorshipType": "Direct"
+                    }, 
+                    "impressions": 6787, 
+                    "line_item_id": "bz63t", 
+                    "end_timestamp": 1530331188
+                }
+            ]
+        }, 
+        "TweetPerformance": {
+            "isRejected": false, 
+            "tweetPerformance": {
+                "totalSpend": 79.770787, 
+                "totalImpressions": 8529
+            }
+        }
+    }, 
+    "1011957322199990272": {
+        "ScreenName": "VoteMarsha", 
+        "UserID": "63150856", 
+        "TweetCampaigns": {
+            "metadata": [
+                {
+                    "usd_spend": 73.753499, 
+                    "start_timestamp": 1530289833, 
+                    "account_id": "18ce54pv63b", 
+                    "tweet_count": 2, 
+                    "tailored_audience_used": false, 
+                    "political_disclaimer": {
+                        "organization": "Marsha for Senate", 
+                        "sponsorshipType": "Direct"
+                    }, 
+                    "impressions": 6787, 
+                    "line_item_id": "bz63t", 
+                    "end_timestamp": 1530331188
+                }
+            ]
+        }, 
+        "TweetPerformance": {
+            "isRejected": false, 
+            "tweetPerformance": {
+                "totalSpend": 70.229213, 
+                "totalImpressions": 6550
+            }
+        }
+    }, 
+    "1013839858622783489": {
+        "ScreenName": "VoteMarsha", 
+        "UserID": "63150856", 
+        "TweetCampaigns": {
+            "metadata": [
+                {
+                    "usd_spend": 127.5, 
+                    "start_timestamp": 1530555338, 
+                    "account_id": "18ce54pv63b", 
+                    "tweet_count": 1, 
+                    "tailored_audience_used": false, 
+                    "political_disclaimer": {
+                        "organization": "Marsha for Senate", 
+                        "sponsorshipType": "Direct"
+                    }, 
+                    "impressions": 8691, 
+                    "line_item_id": "bzpyt", 
+                    "end_timestamp": 1530848732
+                }
+            ]
+        }, 
+        "TweetPerformance": {
+            "isRejected": false, 
+            "tweetPerformance": {
+                "totalSpend": 127.5, 
+                "totalImpressions": 8691
+            }
+        }
+    }
+}

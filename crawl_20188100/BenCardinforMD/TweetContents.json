@@ -1,0 +1,413 @@
+[
+    {
+        "contributors": null, 
+        "truncated": true, 
+        "text": "#ChesBay #Oysters Help Md by:\n\u2714\ufe0fFiltering water\n\u2714\ufe0fGenerating $ for watermen\n\u2714\ufe0fBoosting tourism\n\u2714\ufe0fCreating jobs on &amp;\u2026 https://t.co/1fAGc0eYPq", 
+        "is_quote_status": false, 
+        "in_reply_to_status_id": null, 
+        "id": 1025026283460288514, 
+        "favorite_count": 22, 
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+        "retweeted": false, 
+        "coordinates": null, 
+        "entities": {
+            "symbols": [], 
+            "user_mentions": [], 
+            "hashtags": [
+                {
+                    "indices": [
+                        0, 
+                        8
+                    ], 
+                    "text": "ChesBay"
+                }, 
+                {
+                    "indices": [
+                        9, 
+                        17
+                    ], 
+                    "text": "Oysters"
+                }
+            ], 
+            "urls": [
+                {
+                    "url": "https://t.co/1fAGc0eYPq", 
+                    "indices": [
+                        121, 
+                        144
+                    ], 
+                    "expanded_url": "https://twitter.com/i/web/status/1025026283460288514", 
+                    "display_url": "twitter.com/i/web/status/1\u2026"
+                }
+            ]
+        }, 
+        "in_reply_to_screen_name": null, 
+        "in_reply_to_user_id": null, 
+        "retweet_count": 8, 
+        "id_str": "1025026283460288514", 
+        "favorited": false, 
+        "user": {
+            "follow_request_sent": false, 
+            "has_extended_profile": false, 
+            "profile_use_background_image": true, 
+            "default_profile_image": false, 
+            "id": 278094476, 
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+            "verified": true, 
+            "translator_type": "none", 
+            "profile_text_color": "333333", 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/960603971663613952/BaJBPXv2_normal.jpg", 
+            "profile_sidebar_fill_color": "DDEEF6", 
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/eWUwHwUwey", 
+                            "indices": [
+                                0, 
+                                23
+                            ], 
+                            "expanded_url": "http://www.bencardin.com", 
+                            "display_url": "bencardin.com"
+                        }
+                    ]
+                }, 
+                "description": {
+                    "urls": []
+                }
+            }, 
+            "followers_count": 5271, 
+            "profile_sidebar_border_color": "C0DEED", 
+            "id_str": "278094476", 
+            "profile_background_color": "175199", 
+            "listed_count": 270, 
+            "is_translation_enabled": false, 
+            "utc_offset": null, 
+            "statuses_count": 1297, 
+            "description": "Working hard for Marylanders. This is the official 2018 campaign Twitter for U.S. Senator Ben Cardin.", 
+            "friends_count": 967, 
+            "location": "Maryland", 
+            "profile_link_color": "E33535", 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/960603971663613952/BaJBPXv2_normal.jpg", 
+            "following": false, 
+            "geo_enabled": true, 
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/278094476/1529611737", 
+            "profile_image_extensions_alt_text": null, 
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+            "screen_name": "BenCardinforMD", 
+            "lang": "en", 
+            "profile_background_tile": false, 
+            "favourites_count": 143, 
+            "name": "Ben Cardin", 
+            "notifications": false, 
+            "url": "https://t.co/eWUwHwUwey", 
+            "created_at": "Wed Apr 06 16:02:24 +0000 2011", 
+            "profile_banner_extensions_alt_text": null, 
+            "contributors_enabled": false, 
+            "time_zone": null, 
+            "protected": false, 
+            "default_profile": false, 
+            "is_translator": false
+        }, 
+        "geo": null, 
+        "in_reply_to_user_id_str": null, 
+        "possibly_sensitive": false, 
+        "lang": "en", 
+        "created_at": "Thu Aug 02 14:31:24 +0000 2018", 
+        "in_reply_to_status_id_str": null, 
+        "place": null
+    }, 
+    {
+        "contributors": null, 
+        "truncated": true, 
+        "text": "\ud83c\udf7b#IPAday\ud83c\udf7b\nAt @FlyingDog out west, @HeavySeasBeer/@UnionBrewing in the Baltimore area, @evolutionbeer on the shore,\u2026 https://t.co/pr8Ay87diD", 
+        "is_quote_status": false, 
+        "in_reply_to_status_id": null, 
+        "id": 1025066842354864128, 
+        "favorite_count": 6, 
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+        "retweeted": false, 
+        "coordinates": null, 
+        "entities": {
+            "symbols": [], 
+            "user_mentions": [
+                {
+                    "id": 8965932, 
+                    "indices": [
+                        13, 
+                        23
+                    ], 
+                    "id_str": "8965932", 
+                    "screen_name": "FlyingDog", 
+                    "name": "Flying Dog Brewery"
+                }, 
+                {
+                    "id": 38692617, 
+                    "indices": [
+                        34, 
+                        48
+                    ], 
+                    "id_str": "38692617", 
+                    "screen_name": "HeavySeasBeer", 
+                    "name": "Heavy Seas Beer"
+                }, 
+                {
+                    "id": 379337836, 
+                    "indices": [
+                        49, 
+                        62
+                    ], 
+                    "id_str": "379337836", 
+                    "screen_name": "UnionBrewing", 
+                    "name": "UNION Craft Brewing"
+                }, 
+                {
+                    "id": 19251005, 
+                    "indices": [
+                        86, 
+                        100
+                    ], 
+                    "id_str": "19251005", 
+                    "screen_name": "evolutionbeer", 
+                    "name": "Evolution Brewing"
+                }
+            ], 
+            "hashtags": [
+                {
+                    "indices": [
+                        1, 
+                        8
+                    ], 
+                    "text": "IPAday"
+                }
+            ], 
+            "urls": [
+                {
+                    "url": "https://t.co/pr8Ay87diD", 
+                    "indices": [
+                        116, 
+                        139
+                    ], 
+                    "expanded_url": "https://twitter.com/i/web/status/1025066842354864128", 
+                    "display_url": "twitter.com/i/web/status/1\u2026"
+                }
+            ]
+        }, 
+        "in_reply_to_screen_name": null, 
+        "in_reply_to_user_id": null, 
+        "retweet_count": 1, 
+        "id_str": "1025066842354864128", 
+        "favorited": false, 
+        "user": {
+            "follow_request_sent": false, 
+            "has_extended_profile": false, 
+            "profile_use_background_image": true, 
+            "default_profile_image": false, 
+            "id": 278094476, 
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+            "verified": true, 
+            "translator_type": "none", 
+            "profile_text_color": "333333", 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/960603971663613952/BaJBPXv2_normal.jpg", 
+            "profile_sidebar_fill_color": "DDEEF6", 
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/eWUwHwUwey", 
+                            "indices": [
+                                0, 
+                                23
+                            ], 
+                            "expanded_url": "http://www.bencardin.com", 
+                            "display_url": "bencardin.com"
+                        }
+                    ]
+                }, 
+                "description": {
+                    "urls": []
+                }
+            }, 
+            "followers_count": 5271, 
+            "profile_sidebar_border_color": "C0DEED", 
+            "id_str": "278094476", 
+            "profile_background_color": "175199", 
+            "listed_count": 270, 
+            "is_translation_enabled": false, 
+            "utc_offset": null, 
+            "statuses_count": 1297, 
+            "description": "Working hard for Marylanders. This is the official 2018 campaign Twitter for U.S. Senator Ben Cardin.", 
+            "friends_count": 967, 
+            "location": "Maryland", 
+            "profile_link_color": "E33535", 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/960603971663613952/BaJBPXv2_normal.jpg", 
+            "following": false, 
+            "geo_enabled": true, 
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/278094476/1529611737", 
+            "profile_image_extensions_alt_text": null, 
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+            "screen_name": "BenCardinforMD", 
+            "lang": "en", 
+            "profile_background_tile": false, 
+            "favourites_count": 143, 
+            "name": "Ben Cardin", 
+            "notifications": false, 
+            "url": "https://t.co/eWUwHwUwey", 
+            "created_at": "Wed Apr 06 16:02:24 +0000 2011", 
+            "profile_banner_extensions_alt_text": null, 
+            "contributors_enabled": false, 
+            "time_zone": null, 
+            "protected": false, 
+            "default_profile": false, 
+            "is_translator": false
+        }, 
+        "geo": null, 
+        "in_reply_to_user_id_str": null, 
+        "possibly_sensitive": false, 
+        "lang": "en", 
+        "created_at": "Thu Aug 02 17:12:34 +0000 2018", 
+        "in_reply_to_status_id_str": null, 
+        "place": null
+    }, 
+    {
+        "contributors": null, 
+        "truncated": true, 
+        "text": "To:@PressSec\nCc:@realDonaldTrump @GOP\nRe: Press Not an Enemy \nA #FreePress is central to democracy\nGlobally, despot\u2026 https://t.co/5cq929dz7I", 
+        "is_quote_status": false, 
+        "in_reply_to_status_id": null, 
+        "id": 1025096473808187392, 
+        "favorite_count": 31, 
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+        "retweeted": false, 
+        "coordinates": null, 
+        "entities": {
+            "symbols": [], 
+            "user_mentions": [
+                {
+                    "id": 818927131883356161, 
+                    "indices": [
+                        3, 
+                        12
+                    ], 
+                    "id_str": "818927131883356161", 
+                    "screen_name": "PressSec", 
+                    "name": "Sarah Sanders"
+                }, 
+                {
+                    "id": 25073877, 
+                    "indices": [
+                        16, 
+                        32
+                    ], 
+                    "id_str": "25073877", 
+                    "screen_name": "realDonaldTrump", 
+                    "name": "Donald J. Trump"
+                }, 
+                {
+                    "id": 11134252, 
+                    "indices": [
+                        33, 
+                        37
+                    ], 
+                    "id_str": "11134252", 
+                    "screen_name": "GOP", 
+                    "name": "GOP"
+                }
+            ], 
+            "hashtags": [
+                {
+                    "indices": [
+                        64, 
+                        74
+                    ], 
+                    "text": "FreePress"
+                }
+            ], 
+            "urls": [
+                {
+                    "url": "https://t.co/5cq929dz7I", 
+                    "indices": [
+                        117, 
+                        140
+                    ], 
+                    "expanded_url": "https://twitter.com/i/web/status/1025096473808187392", 
+                    "display_url": "twitter.com/i/web/status/1\u2026"
+                }
+            ]
+        }, 
+        "in_reply_to_screen_name": null, 
+        "in_reply_to_user_id": null, 
+        "retweet_count": 10, 
+        "id_str": "1025096473808187392", 
+        "favorited": false, 
+        "user": {
+            "follow_request_sent": false, 
+            "has_extended_profile": false, 
+            "profile_use_background_image": true, 
+            "default_profile_image": false, 
+            "id": 278094476, 
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+            "verified": true, 
+            "translator_type": "none", 
+            "profile_text_color": "333333", 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/960603971663613952/BaJBPXv2_normal.jpg", 
+            "profile_sidebar_fill_color": "DDEEF6", 
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/eWUwHwUwey", 
+                            "indices": [
+                                0, 
+                                23
+                            ], 
+                            "expanded_url": "http://www.bencardin.com", 
+                            "display_url": "bencardin.com"
+                        }
+                    ]
+                }, 
+                "description": {
+                    "urls": []
+                }
+            }, 
+            "followers_count": 5271, 
+            "profile_sidebar_border_color": "C0DEED", 
+            "id_str": "278094476", 
+            "profile_background_color": "175199", 
+            "listed_count": 270, 
+            "is_translation_enabled": false, 
+            "utc_offset": null, 
+            "statuses_count": 1297, 
+            "description": "Working hard for Marylanders. This is the official 2018 campaign Twitter for U.S. Senator Ben Cardin.", 
+            "friends_count": 967, 
+            "location": "Maryland", 
+            "profile_link_color": "E33535", 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/960603971663613952/BaJBPXv2_normal.jpg", 
+            "following": false, 
+            "geo_enabled": true, 
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/278094476/1529611737", 
+            "profile_image_extensions_alt_text": null, 
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+            "screen_name": "BenCardinforMD", 
+            "lang": "en", 
+            "profile_background_tile": false, 
+            "favourites_count": 143, 
+            "name": "Ben Cardin", 
+            "notifications": false, 
+            "url": "https://t.co/eWUwHwUwey", 
+            "created_at": "Wed Apr 06 16:02:24 +0000 2011", 
+            "profile_banner_extensions_alt_text": null, 
+            "contributors_enabled": false, 
+            "time_zone": null, 
+            "protected": false, 
+            "default_profile": false, 
+            "is_translator": false
+        }, 
+        "geo": null, 
+        "in_reply_to_user_id_str": null, 
+        "lang": "en", 
+        "created_at": "Thu Aug 02 19:10:19 +0000 2018", 
+        "in_reply_to_status_id_str": null, 
+        "place": null
+    }
+]

@@ -1,0 +1,47 @@
+{
+    "278094476": {
+        "Tweets": [
+            {
+                "lastActiveAtSeconds": 1534083537, 
+                "promotedMetadata": {
+                    "advertiserId": 278094476, 
+                    "political": false
+                }, 
+                "serveable": false, 
+                "id": 1025026283460288514, 
+                "tweetId": "1025026283460288514"
+            }, 
+            {
+                "lastActiveAtSeconds": 1534083537, 
+                "promotedMetadata": {
+                    "advertiserId": 278094476, 
+                    "political": false
+                }, 
+                "serveable": true, 
+                "id": 1025066842354864128, 
+                "tweetId": "1025066842354864128"
+            }, 
+            {
+                "lastActiveAtSeconds": 1534083537, 
+                "promotedMetadata": {
+                    "advertiserId": 278094476, 
+                    "political": false
+                }, 
+                "serveable": false, 
+                "id": 1025096473808187392, 
+                "tweetId": "1025096473808187392"
+            }, 
+            {
+                "lastActiveAtSeconds": 1534083537, 
+                "promotedMetadata": {
+                    "advertiserId": 278094476, 
+                    "political": false
+                }, 
+                "serveable": false, 
+                "id": 1028352544836337670, 
+                "tweetId": "1028352544836337670"
+            }
+        ], 
+        "ScreenName": "BenCardinforMD"
+    }
+}

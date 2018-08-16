@@ -1,7 +1,7 @@
-cd /home/ss9131/TwitterAdScrape
+cd /home/ss9131/ScrapeTwitterPoliticalAds
 
-/home/ss9131/TwitterAdScrape/TwitterScrape/bin/python2.7 /home/ss9131/TwitterAdScrape/GetTwitterUserPolAds.py /home/ss9131/TwitterAdScrape/Crawl_config.cfg > TweetsGetScript.out
+/home/ss9131/ScrapeTwitterPoliticalAds/TwitterScrape/bin/python2.7 GetTwitterUserPolAds.py Crawl_config.cfg
 
-/home/ss9131/TwitterAdScrape/TwitterScrape/bin/python2.7 /home/ss9131/TwitterAdScrape/GetTweetsMetadata.py /home/ss9131/TwitterAdScrape/Crawl_config.cfg > TweetsMetadataGet.out
+/home/ss9131/ScrapeTwitterPoliticalAds/TwitterScrape/bin/python2.7 GetTweetsMetadata.py Crawl_config.cfg 
 
-/home/ss9131/TwitterAdScrape/TwitterScrape/bin/python2.7 /home/ss9131/TwitterAdScrape/GetTweetsContent.py /home/ss9131/TwitterAdScrape/Crawl_config.cfg > TweetsContentsGet.out
+/home/ss9131/ScrapeTwitterPoliticalAds/TwitterScrape/bin/python2.7 GetTweetsContent.py Crawl_config.cfg 

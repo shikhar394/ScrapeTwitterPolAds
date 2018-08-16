@@ -1,0 +1,461 @@
+[
+    {
+        "contributors": null, 
+        "truncated": false, 
+        "text": "WATCH: We all have a story. @ClaireCMC is fighting to protect yours. This is hers. \u2935\ufe0f #MOSen https://t.co/fnrw4H9p5f", 
+        "is_quote_status": false, 
+        "in_reply_to_status_id": null, 
+        "id": 1027204852290478080, 
+        "favorite_count": 115, 
+        "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Media Studio</a>", 
+        "retweeted": false, 
+        "coordinates": null, 
+        "entities": {
+            "symbols": [], 
+            "user_mentions": [
+                {
+                    "id": 16160352, 
+                    "indices": [
+                        28, 
+                        38
+                    ], 
+                    "id_str": "16160352", 
+                    "screen_name": "clairecmc", 
+                    "name": "Claire McCaskill"
+                }
+            ], 
+            "hashtags": [
+                {
+                    "indices": [
+                        86, 
+                        92
+                    ], 
+                    "text": "MOSen"
+                }
+            ], 
+            "urls": [], 
+            "media": [
+                {
+                    "expanded_url": "https://twitter.com/McCaskill4MO/status/1027204852290478080/video/1", 
+                    "display_url": "pic.twitter.com/fnrw4H9p5f", 
+                    "url": "https://t.co/fnrw4H9p5f", 
+                    "media_url_https": "https://pbs.twimg.com/media/DkFa4lwU0AEwJEz.jpg", 
+                    "id_str": "1027196948233605120", 
+                    "sizes": {
+                        "small": {
+                            "h": 383, 
+                            "resize": "fit", 
+                            "w": 680
+                        }, 
+                        "large": {
+                            "h": 719, 
+                            "resize": "fit", 
+                            "w": 1275
+                        }, 
+                        "medium": {
+                            "h": 677, 
+                            "resize": "fit", 
+                            "w": 1200
+                        }, 
+                        "thumb": {
+                            "h": 150, 
+                            "resize": "crop", 
+                            "w": 150
+                        }
+                    }, 
+                    "indices": [
+                        93, 
+                        116
+                    ], 
+                    "type": "photo", 
+                    "id": 1027196948233605120, 
+                    "media_url": "http://pbs.twimg.com/media/DkFa4lwU0AEwJEz.jpg"
+                }
+            ]
+        }, 
+        "in_reply_to_screen_name": null, 
+        "in_reply_to_user_id": null, 
+        "retweet_count": 65, 
+        "id_str": "1027204852290478080", 
+        "favorited": false, 
+        "user": {
+            "follow_request_sent": false, 
+            "has_extended_profile": true, 
+            "profile_use_background_image": true, 
+            "default_profile_image": false, 
+            "id": 143103639, 
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+            "verified": true, 
+            "translator_type": "none", 
+            "profile_text_color": "333333", 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/982034257219497984/v0XZKTo2_normal.jpg", 
+            "profile_sidebar_fill_color": "DDEEF6", 
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/8aDTG7BfDP", 
+                            "indices": [
+                                0, 
+                                23
+                            ], 
+                            "expanded_url": "http://www.ClaireMcCaskill.com", 
+                            "display_url": "ClaireMcCaskill.com"
+                        }
+                    ]
+                }, 
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/IqCXswXubL", 
+                            "indices": [
+                                109, 
+                                132
+                            ], 
+                            "expanded_url": "http://www.ClaireMcCaskill.com/Join", 
+                            "display_url": "ClaireMcCaskill.com/Join"
+                        }
+                    ]
+                }
+            }, 
+            "followers_count": 4461, 
+            "profile_sidebar_border_color": "FFFFFF", 
+            "id_str": "143103639", 
+            "profile_background_color": "BFBAAD", 
+            "listed_count": 126, 
+            "is_translation_enabled": false, 
+            "utc_offset": null, 
+            "statuses_count": 1535, 
+            "description": "The official Twitter account for McCaskill for Missouri 2018 #MOSen. Join our team and help re-elect Claire! https://t.co/IqCXswXubL", 
+            "friends_count": 669, 
+            "location": "Missouri", 
+            "profile_link_color": "E2AC44", 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/982034257219497984/v0XZKTo2_normal.jpg", 
+            "following": false, 
+            "geo_enabled": true, 
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/143103639/1510097893", 
+            "profile_image_extensions_alt_text": null, 
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+            "screen_name": "McCaskill4MO", 
+            "lang": "en", 
+            "profile_background_tile": true, 
+            "favourites_count": 60, 
+            "name": "Team Claire", 
+            "notifications": false, 
+            "url": "https://t.co/8aDTG7BfDP", 
+            "created_at": "Wed May 12 16:03:53 +0000 2010", 
+            "profile_banner_extensions_alt_text": null, 
+            "contributors_enabled": false, 
+            "time_zone": null, 
+            "protected": false, 
+            "default_profile": false, 
+            "is_translator": false
+        }, 
+        "geo": null, 
+        "in_reply_to_user_id_str": null, 
+        "possibly_sensitive": false, 
+        "lang": "en", 
+        "created_at": "Wed Aug 08 14:48:15 +0000 2018", 
+        "in_reply_to_status_id_str": null, 
+        "place": null, 
+        "extended_entities": {
+            "media": [
+                {
+                    "additional_media_info": {
+                        "monetizable": false, 
+                        "embeddable": true, 
+                        "description": "", 
+                        "title": ""
+                    }, 
+                    "expanded_url": "https://twitter.com/McCaskill4MO/status/1027204852290478080/video/1", 
+                    "display_url": "pic.twitter.com/fnrw4H9p5f", 
+                    "url": "https://t.co/fnrw4H9p5f", 
+                    "ext_alt_text": null, 
+                    "media_url_https": "https://pbs.twimg.com/media/DkFa4lwU0AEwJEz.jpg", 
+                    "video_info": {
+                        "aspect_ratio": [
+                            16, 
+                            9
+                        ], 
+                        "duration_millis": 61103, 
+                        "variants": [
+                            {
+                                "url": "https://video.twimg.com/amplify_video/1027196948233605120/vid/320x180/EsHPzQkBv6QeojL2.mp4?tag=8", 
+                                "bitrate": 288000, 
+                                "content_type": "video/mp4"
+                            }, 
+                            {
+                                "url": "https://video.twimg.com/amplify_video/1027196948233605120/pl/xFPUroEvSYbVa1bB.m3u8?tag=8", 
+                                "content_type": "application/x-mpegURL"
+                            }, 
+                            {
+                                "url": "https://video.twimg.com/amplify_video/1027196948233605120/vid/640x360/wIkmDQcbKP2vGtMy.mp4?tag=8", 
+                                "bitrate": 832000, 
+                                "content_type": "video/mp4"
+                            }, 
+                            {
+                                "url": "https://video.twimg.com/amplify_video/1027196948233605120/vid/1280x720/OiSSVYCtyeS5oqsS.mp4?tag=8", 
+                                "bitrate": 2176000, 
+                                "content_type": "video/mp4"
+                            }
+                        ]
+                    }, 
+                    "id_str": "1027196948233605120", 
+                    "sizes": {
+                        "small": {
+                            "h": 383, 
+                            "resize": "fit", 
+                            "w": 680
+                        }, 
+                        "large": {
+                            "h": 719, 
+                            "resize": "fit", 
+                            "w": 1275
+                        }, 
+                        "medium": {
+                            "h": 677, 
+                            "resize": "fit", 
+                            "w": 1200
+                        }, 
+                        "thumb": {
+                            "h": 150, 
+                            "resize": "crop", 
+                            "w": 150
+                        }
+                    }, 
+                    "indices": [
+                        93, 
+                        116
+                    ], 
+                    "type": "video", 
+                    "id": 1027196948233605120, 
+                    "media_url": "http://pbs.twimg.com/media/DkFa4lwU0AEwJEz.jpg"
+                }
+            ]
+        }
+    }, 
+    {
+        "contributors": null, 
+        "truncated": false, 
+        "text": "WATCH: For Pat and her family, this administration\u2019s tariffs are personal. #MOSen https://t.co/Qt1w7YjrrM", 
+        "is_quote_status": false, 
+        "in_reply_to_status_id": null, 
+        "id": 1026497232487493632, 
+        "favorite_count": 167, 
+        "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Media Studio</a>", 
+        "retweeted": false, 
+        "coordinates": null, 
+        "entities": {
+            "symbols": [], 
+            "user_mentions": [], 
+            "hashtags": [
+                {
+                    "indices": [
+                        75, 
+                        81
+                    ], 
+                    "text": "MOSen"
+                }
+            ], 
+            "urls": [], 
+            "media": [
+                {
+                    "expanded_url": "https://twitter.com/McCaskill4MO/status/1026497232487493632/video/1", 
+                    "display_url": "pic.twitter.com/Qt1w7YjrrM", 
+                    "url": "https://t.co/Qt1w7YjrrM", 
+                    "media_url_https": "https://pbs.twimg.com/media/Dj7Zm04XcAEQCHG.jpg", 
+                    "id_str": "1026480141550186496", 
+                    "sizes": {
+                        "large": {
+                            "h": 1080, 
+                            "resize": "fit", 
+                            "w": 1920
+                        }, 
+                        "small": {
+                            "h": 383, 
+                            "resize": "fit", 
+                            "w": 680
+                        }, 
+                        "medium": {
+                            "h": 675, 
+                            "resize": "fit", 
+                            "w": 1200
+                        }, 
+                        "thumb": {
+                            "h": 150, 
+                            "resize": "crop", 
+                            "w": 150
+                        }
+                    }, 
+                    "indices": [
+                        82, 
+                        105
+                    ], 
+                    "type": "photo", 
+                    "id": 1026480141550186496, 
+                    "media_url": "http://pbs.twimg.com/media/Dj7Zm04XcAEQCHG.jpg"
+                }
+            ]
+        }, 
+        "in_reply_to_screen_name": null, 
+        "in_reply_to_user_id": null, 
+        "retweet_count": 91, 
+        "id_str": "1026497232487493632", 
+        "favorited": false, 
+        "user": {
+            "follow_request_sent": false, 
+            "has_extended_profile": true, 
+            "profile_use_background_image": true, 
+            "default_profile_image": false, 
+            "id": 143103639, 
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+            "verified": true, 
+            "translator_type": "none", 
+            "profile_text_color": "333333", 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/982034257219497984/v0XZKTo2_normal.jpg", 
+            "profile_sidebar_fill_color": "DDEEF6", 
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/8aDTG7BfDP", 
+                            "indices": [
+                                0, 
+                                23
+                            ], 
+                            "expanded_url": "http://www.ClaireMcCaskill.com", 
+                            "display_url": "ClaireMcCaskill.com"
+                        }
+                    ]
+                }, 
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/IqCXswXubL", 
+                            "indices": [
+                                109, 
+                                132
+                            ], 
+                            "expanded_url": "http://www.ClaireMcCaskill.com/Join", 
+                            "display_url": "ClaireMcCaskill.com/Join"
+                        }
+                    ]
+                }
+            }, 
+            "followers_count": 4461, 
+            "profile_sidebar_border_color": "FFFFFF", 
+            "id_str": "143103639", 
+            "profile_background_color": "BFBAAD", 
+            "listed_count": 126, 
+            "is_translation_enabled": false, 
+            "utc_offset": null, 
+            "statuses_count": 1535, 
+            "description": "The official Twitter account for McCaskill for Missouri 2018 #MOSen. Join our team and help re-elect Claire! https://t.co/IqCXswXubL", 
+            "friends_count": 669, 
+            "location": "Missouri", 
+            "profile_link_color": "E2AC44", 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/982034257219497984/v0XZKTo2_normal.jpg", 
+            "following": false, 
+            "geo_enabled": true, 
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/143103639/1510097893", 
+            "profile_image_extensions_alt_text": null, 
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+            "screen_name": "McCaskill4MO", 
+            "lang": "en", 
+            "profile_background_tile": true, 
+            "favourites_count": 60, 
+            "name": "Team Claire", 
+            "notifications": false, 
+            "url": "https://t.co/8aDTG7BfDP", 
+            "created_at": "Wed May 12 16:03:53 +0000 2010", 
+            "profile_banner_extensions_alt_text": null, 
+            "contributors_enabled": false, 
+            "time_zone": null, 
+            "protected": false, 
+            "default_profile": false, 
+            "is_translator": false
+        }, 
+        "geo": null, 
+        "in_reply_to_user_id_str": null, 
+        "possibly_sensitive": false, 
+        "lang": "en", 
+        "created_at": "Mon Aug 06 15:56:26 +0000 2018", 
+        "in_reply_to_status_id_str": null, 
+        "place": null, 
+        "extended_entities": {
+            "media": [
+                {
+                    "additional_media_info": {
+                        "monetizable": false, 
+                        "embeddable": true, 
+                        "description": "Let\u2019s call these tariffs what they really are\u2014another tax on hardworking Missourians.", 
+                        "title": "The True Costs of Tariffs"
+                    }, 
+                    "expanded_url": "https://twitter.com/McCaskill4MO/status/1026497232487493632/video/1", 
+                    "display_url": "pic.twitter.com/Qt1w7YjrrM", 
+                    "url": "https://t.co/Qt1w7YjrrM", 
+                    "ext_alt_text": null, 
+                    "media_url_https": "https://pbs.twimg.com/media/Dj7Zm04XcAEQCHG.jpg", 
+                    "video_info": {
+                        "aspect_ratio": [
+                            16, 
+                            9
+                        ], 
+                        "duration_millis": 162129, 
+                        "variants": [
+                            {
+                                "url": "https://video.twimg.com/amplify_video/1026480141550186496/pl/vockwtT2xWgznRcF.m3u8?tag=8", 
+                                "content_type": "application/x-mpegURL"
+                            }, 
+                            {
+                                "url": "https://video.twimg.com/amplify_video/1026480141550186496/vid/1280x720/vg44CLuNR1hu3ELG.mp4?tag=8", 
+                                "bitrate": 2176000, 
+                                "content_type": "video/mp4"
+                            }, 
+                            {
+                                "url": "https://video.twimg.com/amplify_video/1026480141550186496/vid/640x360/DTPkhejJv2cr7EgX.mp4?tag=8", 
+                                "bitrate": 832000, 
+                                "content_type": "video/mp4"
+                            }, 
+                            {
+                                "url": "https://video.twimg.com/amplify_video/1026480141550186496/vid/320x180/ECC4EHr6gEJTYoCb.mp4?tag=8", 
+                                "bitrate": 288000, 
+                                "content_type": "video/mp4"
+                            }
+                        ]
+                    }, 
+                    "id_str": "1026480141550186496", 
+                    "sizes": {
+                        "large": {
+                            "h": 1080, 
+                            "resize": "fit", 
+                            "w": 1920
+                        }, 
+                        "small": {
+                            "h": 383, 
+                            "resize": "fit", 
+                            "w": 680
+                        }, 
+                        "medium": {
+                            "h": 675, 
+                            "resize": "fit", 
+                            "w": 1200
+                        }, 
+                        "thumb": {
+                            "h": 150, 
+                            "resize": "crop", 
+                            "w": 150
+                        }
+                    }, 
+                    "indices": [
+                        82, 
+                        105
+                    ], 
+                    "type": "video", 
+                    "id": 1026480141550186496, 
+                    "media_url": "http://pbs.twimg.com/media/Dj7Zm04XcAEQCHG.jpg"
+                }
+            ]
+        }
+    }
+]

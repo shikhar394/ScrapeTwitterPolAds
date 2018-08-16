@@ -4,6 +4,7 @@ import datetime
 import json
 import os
 import random
+import shutil
 import smtplib
 import sys
 import time
@@ -203,9 +204,9 @@ if __name__ == "__main__":
       Count += 1
       print("Seed # %s out of %s", (Count, len(TotalSeeds)))
       GetUsersWithPoliticalAds(Keyword.strip(), Session)
-      time.sleep(random.randint(MINWAIT,MAXWAIT))
+      time.sleep(random.randint(MINWAIT/10,MAXWAIT/10))
     FinalNameDir = WriteDir[3:]
-    os.rename(WriteDir, FinalNameDir)
+    shutil.move(WriteDir, FinalNameDir)
     config.set("WORKINGDIR", "CURRENT", FinalNameDir)
     with open(sys.argv[1], 'wb') as configfile:
       config.write(configfile)

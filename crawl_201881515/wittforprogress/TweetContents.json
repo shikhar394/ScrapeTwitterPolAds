@@ -1,0 +1,105 @@
+[
+    {
+        "contributors": null, 
+        "truncated": true, 
+        "text": "If I'm elected to Congress, I will support a constitutional amendment like the Dignity Amendment, to enshrine LGBTQ\u2026 https://t.co/TV8Xz1tCi5", 
+        "is_quote_status": false, 
+        "in_reply_to_status_id": null, 
+        "id": 1024724507703963648, 
+        "favorite_count": 42, 
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+        "retweeted": false, 
+        "coordinates": null, 
+        "entities": {
+            "symbols": [], 
+            "user_mentions": [], 
+            "hashtags": [], 
+            "urls": [
+                {
+                    "url": "https://t.co/TV8Xz1tCi5", 
+                    "indices": [
+                        117, 
+                        140
+                    ], 
+                    "expanded_url": "https://twitter.com/i/web/status/1024724507703963648", 
+                    "display_url": "twitter.com/i/web/status/1\u2026"
+                }
+            ]
+        }, 
+        "in_reply_to_screen_name": null, 
+        "in_reply_to_user_id": null, 
+        "retweet_count": 13, 
+        "id_str": "1024724507703963648", 
+        "favorited": false, 
+        "user": {
+            "follow_request_sent": false, 
+            "has_extended_profile": true, 
+            "profile_use_background_image": false, 
+            "default_profile_image": false, 
+            "id": 4840975044, 
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+            "verified": true, 
+            "translator_type": "none", 
+            "profile_text_color": "000000", 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/829790612954161152/IU09MI1B_normal.jpg", 
+            "profile_sidebar_fill_color": "000000", 
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/sbo8tyFZ8w", 
+                            "indices": [
+                                0, 
+                                23
+                            ], 
+                            "expanded_url": "http://wittforprogress.com", 
+                            "display_url": "wittforprogress.com"
+                        }
+                    ]
+                }, 
+                "description": {
+                    "urls": []
+                }
+            }, 
+            "followers_count": 842, 
+            "profile_sidebar_border_color": "000000", 
+            "id_str": "4840975044", 
+            "profile_background_color": "000000", 
+            "listed_count": 32, 
+            "is_translation_enabled": false, 
+            "utc_offset": null, 
+            "statuses_count": 3343, 
+            "description": "Running for California's 27th District against incumbent, Judy Chu. Better times are around the corner, just vote 'Yes' for progress", 
+            "friends_count": 395, 
+            "location": "Pasadena, California", 
+            "profile_link_color": "19CF86", 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/829790612954161152/IU09MI1B_normal.jpg", 
+            "following": false, 
+            "geo_enabled": true, 
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/4840975044/1507837466", 
+            "profile_image_extensions_alt_text": null, 
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+            "screen_name": "wittforprogress", 
+            "lang": "en", 
+            "profile_background_tile": false, 
+            "favourites_count": 1721, 
+            "name": "Bryan Witt", 
+            "notifications": false, 
+            "url": "https://t.co/sbo8tyFZ8w", 
+            "created_at": "Sun Jan 31 18:40:37 +0000 2016", 
+            "profile_banner_extensions_alt_text": null, 
+            "contributors_enabled": false, 
+            "time_zone": null, 
+            "protected": false, 
+            "default_profile": false, 
+            "is_translator": false
+        }, 
+        "geo": null, 
+        "in_reply_to_user_id_str": null, 
+        "possibly_sensitive": false, 
+        "lang": "en", 
+        "created_at": "Wed Aug 01 18:32:15 +0000 2018", 
+        "in_reply_to_status_id_str": null, 
+        "place": null
+    }
+]
