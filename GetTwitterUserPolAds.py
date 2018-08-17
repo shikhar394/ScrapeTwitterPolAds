@@ -19,7 +19,17 @@ from requests_oauthlib import OAuth1Session
 from twitter import *
 
 if len(sys.argv) < 2:
-    exit("Usage:python3 FBAdScrapeScript.py crawl_config.cfg")
+    exit("Usage:python3 FBAdScrapeScript.py crawl_config.cfg [Optional: TwitterHandles.csv]")
+
+TwitterHandlesFile = ''
+
+if len(sys.argv) == 2:
+  CrawlFile = sys.argv[1]
+  TwitterHandlesFile = 'congress.csv' #Default if a new handles file is not provided. 
+
+if len(sys.argv) == 3:
+  TwitterHandlesFile = sys.argv[2] # A new twitter handles file is provided. 
+
 
 config = configparser.ConfigParser()
 config.read(sys.argv[1])
@@ -147,15 +157,19 @@ def WriteToDisk(ScreenName, PayloadToWrite, Type):
 
 
 
-def extractSeedWordsCSV(SeedListName, FirstName = True, LastName = True):
+def extractSeedWordsCSV(FirstName = True, LastName = True):
     """
     Names of Political Candidates in the CSV format. 
     The default parameters allow us to choose whether we want to get first names 
     or last names.
     """
-    with open(SeedListName, 'r') as f:
-      CurrentSeeds = set([' '.join(seedWord).strip() for seedWord in csv.reader(f) if seedWord != " "])
-      CurrentSeeds.update(set([seedWord[1] for seedWord in csv.reader(f) if seedWord != " "]))
+    if TwitterHandlesFile.lower().startswith("twitter"):
+      with open(TwitterHandlesFile) as f:
+        CurrentSeeds = set([seedWord[2].strip()[len('@'):] for seedWord in csv.reader(f) if seedWord[2].strip() != ""])
+    else:
+      with open(TwitterHandlesFile, 'r') as f:
+        CurrentSeeds = set([' '.join(seedWord).strip() for seedWord in csv.reader(f) if seedWord != " "])
+        CurrentSeeds.update(set([seedWord[1] for seedWord in csv.reader(f) if seedWord != " "]))
 
     with open(MASTERSEEDLIST, 'w+') as f:
       SeedsMaster = set([Seed.strip() for Seed in f.readlines()])
@@ -198,7 +212,8 @@ if __name__ == "__main__":
     # update data, post and you are logged in.
     data["authenticity_token"] = AUTH_TOKEN
     Resp = Session.post(LoginPost, data=data, headers=Headers)
-    TotalSeeds = extractSeedWordsCSV("congress.csv")
+    print("Handles file", TwitterHandlesFile)
+    TotalSeeds = extractSeedWordsCSV()
     #for Keyword in open("Keywords.txt"):
     for Keyword in TotalSeeds:
       Count += 1
