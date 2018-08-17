@@ -165,7 +165,7 @@ def extractSeedWordsCSV(FirstName = True, LastName = True):
     """
     if TwitterHandlesFile.lower().startswith("twitter"):
       with open(TwitterHandlesFile) as f:
-        CurrentSeeds = set([seedWord[2].strip()[len('@'):] for seedWord in csv.reader(f) if seedWord[2].strip() != ""])
+        CurrentSeeds = set([seedWord[2].strip()[len('@'):] for seedWord in csv.reader(f) if seedWord[2].strip()[len('@'):] != ""])
     else:
       with open(TwitterHandlesFile, 'r') as f:
         CurrentSeeds = set([' '.join(seedWord).strip() for seedWord in csv.reader(f) if seedWord != " "])
