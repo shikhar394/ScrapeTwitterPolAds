@@ -26,9 +26,11 @@ TwitterHandlesFile = ''
 if len(sys.argv) == 2:
   CrawlFile = sys.argv[1]
   TwitterHandlesFile = 'congress.csv' #Default if a new handles file is not provided. 
+  TwitterHandles = False
 
 if len(sys.argv) == 3:
   TwitterHandlesFile = sys.argv[2] # A new twitter handles file is provided. 
+  TwitterHandles = True
 
 
 config = configparser.ConfigParser()
@@ -74,18 +76,23 @@ Headers = {'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_4) AppleW
 
 
 
-def GetUsersWithPoliticalAds(Keyword, Session):
+def GetUsersWithPoliticalAds(Keyword, Session, TwitterHandles):
   print("Getting tweets for keyword ", Keyword)
   UsersFromKeyword = []
   PayloadToWrite = {}
-  for i in range(1, PAGESPERUSER+1):
-    TwitterResponse = TwitterAPI.users.search(q=Keyword, count=20, include_ext_highlighted_label=True, page=i)
-    UsersFromKeyword.extend(TwitterResponse)
-    #print(UsersFromKeyword)
-    time.sleep(random.randint(MINWAIT, MAXWAIT))
+
+  if TwitterHandles: # If the twitter handles file, then just make a simple query to get user metadata
+    UsersFromKeyword = TwitterAPI.users.search(q=Keyword, include_ext_highlighted_label=True)
+  else:
+    for i in range(1, PAGESPERUSER+1): # If just keyword search, then make a deep search for all results. 
+      TwitterResponse = TwitterAPI.users.search(q=Keyword, count=20, include_ext_highlighted_label=True, page=i)
+      UsersFromKeyword.extend(TwitterResponse)
+      #print(UsersFromKeyword)
+      time.sleep(random.randint(MINWAIT, MAXWAIT))
+
   for User in UsersFromKeyword:
     UserID = User['id_str']
-    if User['verified']:
+    if User['verified'] or TwitterHandles: #If curated list of twitter handles, don't check for verified stamp
       ScreenName = User['screen_name']
       Tweets = GetTweetsForUser(UserID, ScreenName)
       if Tweets:
@@ -218,7 +225,7 @@ if __name__ == "__main__":
     for Keyword in TotalSeeds:
       Count += 1
       print("Seed # %s out of %s", (Count, len(TotalSeeds)))
-      GetUsersWithPoliticalAds(Keyword.strip(), Session)
+      GetUsersWithPoliticalAds(Keyword.strip(), Session, TwitterHandles)
       time.sleep(random.randint(MINWAIT/10,MAXWAIT/10))
     FinalNameDir = WriteDir[3:]
     shutil.move(WriteDir, FinalNameDir)
