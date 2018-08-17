@@ -1,0 +1,17 @@
+{
+    "179810978": {
+        "Tweets": [
+            {
+                "lastActiveAtSeconds": 1534430267, 
+                "promotedMetadata": {
+                    "advertiserId": 179810978, 
+                    "political": false
+                }, 
+                "serveable": true, 
+                "id": 1026630417225601024, 
+                "tweetId": "1026630417225601024"
+            }
+        ], 
+        "ScreenName": "CathyMyersWI"
+    }
+}
