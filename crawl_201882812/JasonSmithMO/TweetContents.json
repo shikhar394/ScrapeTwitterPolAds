@@ -1,0 +1,877 @@
+[
+    {
+        "contributors": null, 
+        "truncated": false, 
+        "text": "FOLLOW if you think President Trump\u2019s call to abolish the Democrats\u2019 filibuster is spot-on https://t.co/CBWwEbNVLf", 
+        "is_quote_status": false, 
+        "in_reply_to_status_id": null, 
+        "id": 979221615425867781, 
+        "favorite_count": 41, 
+        "source": "<a href=\"https://ads-api.twitter.com\" rel=\"nofollow\">Twitter Ads Composer</a>", 
+        "retweeted": false, 
+        "coordinates": null, 
+        "entities": {
+            "symbols": [], 
+            "user_mentions": [], 
+            "hashtags": [], 
+            "urls": [], 
+            "media": [
+                {
+                    "expanded_url": "https://twitter.com/JasonSmithMO/status/979221615425867781/photo/1", 
+                    "display_url": "pic.twitter.com/CBWwEbNVLf", 
+                    "url": "https://t.co/CBWwEbNVLf", 
+                    "media_url_https": "https://pbs.twimg.com/media/DZYu0cdU8AEyQXd.jpg", 
+                    "id_str": "979021447526936577", 
+                    "sizes": {
+                        "large": {
+                            "h": 322, 
+                            "resize": "fit", 
+                            "w": 800
+                        }, 
+                        "small": {
+                            "h": 274, 
+                            "resize": "fit", 
+                            "w": 680
+                        }, 
+                        "medium": {
+                            "h": 322, 
+                            "resize": "fit", 
+                            "w": 800
+                        }, 
+                        "thumb": {
+                            "h": 150, 
+                            "resize": "crop", 
+                            "w": 150
+                        }
+                    }, 
+                    "indices": [
+                        91, 
+                        114
+                    ], 
+                    "type": "photo", 
+                    "id": 979021447526936577, 
+                    "media_url": "http://pbs.twimg.com/media/DZYu0cdU8AEyQXd.jpg"
+                }
+            ]
+        }, 
+        "in_reply_to_screen_name": null, 
+        "in_reply_to_user_id": null, 
+        "scopes": {
+            "followers": false
+        }, 
+        "retweet_count": 14, 
+        "id_str": "979221615425867781", 
+        "favorited": false, 
+        "user": {
+            "follow_request_sent": false, 
+            "has_extended_profile": true, 
+            "profile_use_background_image": true, 
+            "default_profile_image": false, 
+            "id": 26653478, 
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+            "verified": true, 
+            "translator_type": "none", 
+            "profile_text_color": "333333", 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/692918036811112448/kpv03Qk6_normal.jpg", 
+            "profile_sidebar_fill_color": "DDEEF6", 
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/xd201iEYL3", 
+                            "indices": [
+                                0, 
+                                23
+                            ], 
+                            "expanded_url": "http://www.electjasonsmith.com/", 
+                            "display_url": "electjasonsmith.com"
+                        }
+                    ]
+                }, 
+                "description": {
+                    "urls": []
+                }
+            }, 
+            "followers_count": 10604, 
+            "profile_sidebar_border_color": "000000", 
+            "id_str": "26653478", 
+            "profile_background_color": "0A3B56", 
+            "listed_count": 168, 
+            "is_translation_enabled": false, 
+            "utc_offset": null, 
+            "statuses_count": 3242, 
+            "description": "Honored to represent the families of Missouri's Eighth District in the United States House of Representatives. #mo8", 
+            "friends_count": 1918, 
+            "location": "MO 8th Congressional District", 
+            "profile_link_color": "0A3B56", 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/692918036811112448/kpv03Qk6_normal.jpg", 
+            "following": false, 
+            "geo_enabled": true, 
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/26653478/1465348869", 
+            "profile_image_extensions_alt_text": null, 
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+            "screen_name": "JasonSmithMO", 
+            "lang": "en", 
+            "profile_background_tile": false, 
+            "favourites_count": 30, 
+            "name": "Jason Smith", 
+            "notifications": false, 
+            "url": "https://t.co/xd201iEYL3", 
+            "created_at": "Thu Mar 26 01:26:16 +0000 2009", 
+            "profile_banner_extensions_alt_text": null, 
+            "contributors_enabled": false, 
+            "time_zone": null, 
+            "protected": false, 
+            "default_profile": false, 
+            "is_translator": false
+        }, 
+        "geo": null, 
+        "in_reply_to_user_id_str": null, 
+        "possibly_sensitive": false, 
+        "lang": "en", 
+        "created_at": "Thu Mar 29 05:00:00 +0000 2018", 
+        "in_reply_to_status_id_str": null, 
+        "place": null, 
+        "extended_entities": {
+            "media": [
+                {
+                    "expanded_url": "https://twitter.com/JasonSmithMO/status/979221615425867781/photo/1", 
+                    "display_url": "pic.twitter.com/CBWwEbNVLf", 
+                    "url": "https://t.co/CBWwEbNVLf", 
+                    "ext_alt_text": null, 
+                    "media_url_https": "https://pbs.twimg.com/media/DZYu0cdU8AEyQXd.jpg", 
+                    "id_str": "979021447526936577", 
+                    "sizes": {
+                        "large": {
+                            "h": 322, 
+                            "resize": "fit", 
+                            "w": 800
+                        }, 
+                        "small": {
+                            "h": 274, 
+                            "resize": "fit", 
+                            "w": 680
+                        }, 
+                        "medium": {
+                            "h": 322, 
+                            "resize": "fit", 
+                            "w": 800
+                        }, 
+                        "thumb": {
+                            "h": 150, 
+                            "resize": "crop", 
+                            "w": 150
+                        }
+                    }, 
+                    "indices": [
+                        91, 
+                        114
+                    ], 
+                    "type": "photo", 
+                    "id": 979021447526936577, 
+                    "media_url": "http://pbs.twimg.com/media/DZYu0cdU8AEyQXd.jpg"
+                }
+            ]
+        }
+    }, 
+    {
+        "contributors": null, 
+        "truncated": false, 
+        "text": "FOLLOW if you side with President Trump\u2019s crackdown on leftwing sanctuary policies. https://t.co/cxVdAnwFmq", 
+        "is_quote_status": false, 
+        "in_reply_to_status_id": null, 
+        "id": 979221613605371904, 
+        "favorite_count": 293, 
+        "source": "<a href=\"https://ads-api.twitter.com\" rel=\"nofollow\">Twitter Ads Composer</a>", 
+        "retweeted": false, 
+        "coordinates": null, 
+        "entities": {
+            "symbols": [], 
+            "user_mentions": [], 
+            "hashtags": [], 
+            "urls": [], 
+            "media": [
+                {
+                    "expanded_url": "https://twitter.com/JasonSmithMO/status/979221613605371904/photo/1", 
+                    "display_url": "pic.twitter.com/cxVdAnwFmq", 
+                    "url": "https://t.co/cxVdAnwFmq", 
+                    "media_url_https": "https://pbs.twimg.com/media/DZYsrwrVoAALtdr.jpg", 
+                    "id_str": "979019099312332800", 
+                    "sizes": {
+                        "large": {
+                            "h": 322, 
+                            "resize": "fit", 
+                            "w": 800
+                        }, 
+                        "small": {
+                            "h": 274, 
+                            "resize": "fit", 
+                            "w": 680
+                        }, 
+                        "medium": {
+                            "h": 322, 
+                            "resize": "fit", 
+                            "w": 800
+                        }, 
+                        "thumb": {
+                            "h": 150, 
+                            "resize": "crop", 
+                            "w": 150
+                        }
+                    }, 
+                    "indices": [
+                        84, 
+                        107
+                    ], 
+                    "type": "photo", 
+                    "id": 979019099312332800, 
+                    "media_url": "http://pbs.twimg.com/media/DZYsrwrVoAALtdr.jpg"
+                }
+            ]
+        }, 
+        "in_reply_to_screen_name": null, 
+        "in_reply_to_user_id": null, 
+        "scopes": {
+            "followers": false
+        }, 
+        "retweet_count": 87, 
+        "id_str": "979221613605371904", 
+        "favorited": false, 
+        "user": {
+            "follow_request_sent": false, 
+            "has_extended_profile": true, 
+            "profile_use_background_image": true, 
+            "default_profile_image": false, 
+            "id": 26653478, 
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+            "verified": true, 
+            "translator_type": "none", 
+            "profile_text_color": "333333", 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/692918036811112448/kpv03Qk6_normal.jpg", 
+            "profile_sidebar_fill_color": "DDEEF6", 
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/xd201iEYL3", 
+                            "indices": [
+                                0, 
+                                23
+                            ], 
+                            "expanded_url": "http://www.electjasonsmith.com/", 
+                            "display_url": "electjasonsmith.com"
+                        }
+                    ]
+                }, 
+                "description": {
+                    "urls": []
+                }
+            }, 
+            "followers_count": 10604, 
+            "profile_sidebar_border_color": "000000", 
+            "id_str": "26653478", 
+            "profile_background_color": "0A3B56", 
+            "listed_count": 168, 
+            "is_translation_enabled": false, 
+            "utc_offset": null, 
+            "statuses_count": 3242, 
+            "description": "Honored to represent the families of Missouri's Eighth District in the United States House of Representatives. #mo8", 
+            "friends_count": 1918, 
+            "location": "MO 8th Congressional District", 
+            "profile_link_color": "0A3B56", 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/692918036811112448/kpv03Qk6_normal.jpg", 
+            "following": false, 
+            "geo_enabled": true, 
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/26653478/1465348869", 
+            "profile_image_extensions_alt_text": null, 
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+            "screen_name": "JasonSmithMO", 
+            "lang": "en", 
+            "profile_background_tile": false, 
+            "favourites_count": 30, 
+            "name": "Jason Smith", 
+            "notifications": false, 
+            "url": "https://t.co/xd201iEYL3", 
+            "created_at": "Thu Mar 26 01:26:16 +0000 2009", 
+            "profile_banner_extensions_alt_text": null, 
+            "contributors_enabled": false, 
+            "time_zone": null, 
+            "protected": false, 
+            "default_profile": false, 
+            "is_translator": false
+        }, 
+        "geo": null, 
+        "in_reply_to_user_id_str": null, 
+        "possibly_sensitive": false, 
+        "lang": "en", 
+        "created_at": "Thu Mar 29 05:00:00 +0000 2018", 
+        "in_reply_to_status_id_str": null, 
+        "place": null, 
+        "extended_entities": {
+            "media": [
+                {
+                    "expanded_url": "https://twitter.com/JasonSmithMO/status/979221613605371904/photo/1", 
+                    "display_url": "pic.twitter.com/cxVdAnwFmq", 
+                    "url": "https://t.co/cxVdAnwFmq", 
+                    "ext_alt_text": null, 
+                    "media_url_https": "https://pbs.twimg.com/media/DZYsrwrVoAALtdr.jpg", 
+                    "id_str": "979019099312332800", 
+                    "sizes": {
+                        "large": {
+                            "h": 322, 
+                            "resize": "fit", 
+                            "w": 800
+                        }, 
+                        "small": {
+                            "h": 274, 
+                            "resize": "fit", 
+                            "w": 680
+                        }, 
+                        "medium": {
+                            "h": 322, 
+                            "resize": "fit", 
+                            "w": 800
+                        }, 
+                        "thumb": {
+                            "h": 150, 
+                            "resize": "crop", 
+                            "w": 150
+                        }
+                    }, 
+                    "indices": [
+                        84, 
+                        107
+                    ], 
+                    "type": "photo", 
+                    "id": 979019099312332800, 
+                    "media_url": "http://pbs.twimg.com/media/DZYsrwrVoAALtdr.jpg"
+                }
+            ]
+        }
+    }, 
+    {
+        "contributors": null, 
+        "truncated": false, 
+        "text": "FOLLOW if you want to strengthen the GOP majority for President Trump this fall https://t.co/PlwjuocdEK", 
+        "is_quote_status": false, 
+        "in_reply_to_status_id": null, 
+        "id": 979221613617987585, 
+        "favorite_count": 235, 
+        "source": "<a href=\"https://ads-api.twitter.com\" rel=\"nofollow\">Twitter Ads Composer</a>", 
+        "retweeted": false, 
+        "coordinates": null, 
+        "entities": {
+            "symbols": [], 
+            "user_mentions": [], 
+            "hashtags": [], 
+            "urls": [], 
+            "media": [
+                {
+                    "expanded_url": "https://twitter.com/JasonSmithMO/status/979221613617987585/photo/1", 
+                    "display_url": "pic.twitter.com/PlwjuocdEK", 
+                    "url": "https://t.co/PlwjuocdEK", 
+                    "media_url_https": "https://pbs.twimg.com/media/DZYt7U-U0AA8V18.jpg", 
+                    "id_str": "979020466265313280", 
+                    "sizes": {
+                        "large": {
+                            "h": 322, 
+                            "resize": "fit", 
+                            "w": 800
+                        }, 
+                        "small": {
+                            "h": 274, 
+                            "resize": "fit", 
+                            "w": 680
+                        }, 
+                        "medium": {
+                            "h": 322, 
+                            "resize": "fit", 
+                            "w": 800
+                        }, 
+                        "thumb": {
+                            "h": 150, 
+                            "resize": "crop", 
+                            "w": 150
+                        }
+                    }, 
+                    "indices": [
+                        80, 
+                        103
+                    ], 
+                    "type": "photo", 
+                    "id": 979020466265313280, 
+                    "media_url": "http://pbs.twimg.com/media/DZYt7U-U0AA8V18.jpg"
+                }
+            ]
+        }, 
+        "in_reply_to_screen_name": null, 
+        "in_reply_to_user_id": null, 
+        "scopes": {
+            "followers": false
+        }, 
+        "retweet_count": 68, 
+        "id_str": "979221613617987585", 
+        "favorited": false, 
+        "user": {
+            "follow_request_sent": false, 
+            "has_extended_profile": true, 
+            "profile_use_background_image": true, 
+            "default_profile_image": false, 
+            "id": 26653478, 
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+            "verified": true, 
+            "translator_type": "none", 
+            "profile_text_color": "333333", 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/692918036811112448/kpv03Qk6_normal.jpg", 
+            "profile_sidebar_fill_color": "DDEEF6", 
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/xd201iEYL3", 
+                            "indices": [
+                                0, 
+                                23
+                            ], 
+                            "expanded_url": "http://www.electjasonsmith.com/", 
+                            "display_url": "electjasonsmith.com"
+                        }
+                    ]
+                }, 
+                "description": {
+                    "urls": []
+                }
+            }, 
+            "followers_count": 10604, 
+            "profile_sidebar_border_color": "000000", 
+            "id_str": "26653478", 
+            "profile_background_color": "0A3B56", 
+            "listed_count": 168, 
+            "is_translation_enabled": false, 
+            "utc_offset": null, 
+            "statuses_count": 3242, 
+            "description": "Honored to represent the families of Missouri's Eighth District in the United States House of Representatives. #mo8", 
+            "friends_count": 1918, 
+            "location": "MO 8th Congressional District", 
+            "profile_link_color": "0A3B56", 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/692918036811112448/kpv03Qk6_normal.jpg", 
+            "following": false, 
+            "geo_enabled": true, 
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/26653478/1465348869", 
+            "profile_image_extensions_alt_text": null, 
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+            "screen_name": "JasonSmithMO", 
+            "lang": "en", 
+            "profile_background_tile": false, 
+            "favourites_count": 30, 
+            "name": "Jason Smith", 
+            "notifications": false, 
+            "url": "https://t.co/xd201iEYL3", 
+            "created_at": "Thu Mar 26 01:26:16 +0000 2009", 
+            "profile_banner_extensions_alt_text": null, 
+            "contributors_enabled": false, 
+            "time_zone": null, 
+            "protected": false, 
+            "default_profile": false, 
+            "is_translator": false
+        }, 
+        "geo": null, 
+        "in_reply_to_user_id_str": null, 
+        "possibly_sensitive": false, 
+        "lang": "en", 
+        "created_at": "Thu Mar 29 05:00:00 +0000 2018", 
+        "in_reply_to_status_id_str": null, 
+        "place": null, 
+        "extended_entities": {
+            "media": [
+                {
+                    "expanded_url": "https://twitter.com/JasonSmithMO/status/979221613617987585/photo/1", 
+                    "display_url": "pic.twitter.com/PlwjuocdEK", 
+                    "url": "https://t.co/PlwjuocdEK", 
+                    "ext_alt_text": null, 
+                    "media_url_https": "https://pbs.twimg.com/media/DZYt7U-U0AA8V18.jpg", 
+                    "id_str": "979020466265313280", 
+                    "sizes": {
+                        "large": {
+                            "h": 322, 
+                            "resize": "fit", 
+                            "w": 800
+                        }, 
+                        "small": {
+                            "h": 274, 
+                            "resize": "fit", 
+                            "w": 680
+                        }, 
+                        "medium": {
+                            "h": 322, 
+                            "resize": "fit", 
+                            "w": 800
+                        }, 
+                        "thumb": {
+                            "h": 150, 
+                            "resize": "crop", 
+                            "w": 150
+                        }
+                    }, 
+                    "indices": [
+                        80, 
+                        103
+                    ], 
+                    "type": "photo", 
+                    "id": 979020466265313280, 
+                    "media_url": "http://pbs.twimg.com/media/DZYt7U-U0AA8V18.jpg"
+                }
+            ]
+        }
+    }, 
+    {
+        "contributors": null, 
+        "truncated": false, 
+        "text": "FOLLOW if you are seeing more $$$ in your paycheck thanks to GOP tax cuts https://t.co/MoZXjEYSfm", 
+        "is_quote_status": false, 
+        "in_reply_to_status_id": null, 
+        "id": 979221618038923265, 
+        "favorite_count": 14, 
+        "source": "<a href=\"https://ads-api.twitter.com\" rel=\"nofollow\">Twitter Ads Composer</a>", 
+        "retweeted": false, 
+        "coordinates": null, 
+        "entities": {
+            "symbols": [], 
+            "user_mentions": [], 
+            "hashtags": [], 
+            "urls": [], 
+            "media": [
+                {
+                    "expanded_url": "https://twitter.com/JasonSmithMO/status/979221618038923265/photo/1", 
+                    "display_url": "pic.twitter.com/MoZXjEYSfm", 
+                    "url": "https://t.co/MoZXjEYSfm", 
+                    "media_url_https": "https://pbs.twimg.com/media/DZYubl-U8AM3MdD.jpg", 
+                    "id_str": "979021020584538115", 
+                    "sizes": {
+                        "large": {
+                            "h": 322, 
+                            "resize": "fit", 
+                            "w": 800
+                        }, 
+                        "small": {
+                            "h": 274, 
+                            "resize": "fit", 
+                            "w": 680
+                        }, 
+                        "medium": {
+                            "h": 322, 
+                            "resize": "fit", 
+                            "w": 800
+                        }, 
+                        "thumb": {
+                            "h": 150, 
+                            "resize": "crop", 
+                            "w": 150
+                        }
+                    }, 
+                    "indices": [
+                        74, 
+                        97
+                    ], 
+                    "type": "photo", 
+                    "id": 979021020584538115, 
+                    "media_url": "http://pbs.twimg.com/media/DZYubl-U8AM3MdD.jpg"
+                }
+            ]
+        }, 
+        "in_reply_to_screen_name": null, 
+        "in_reply_to_user_id": null, 
+        "scopes": {
+            "followers": false
+        }, 
+        "retweet_count": 4, 
+        "id_str": "979221618038923265", 
+        "favorited": false, 
+        "user": {
+            "follow_request_sent": false, 
+            "has_extended_profile": true, 
+            "profile_use_background_image": true, 
+            "default_profile_image": false, 
+            "id": 26653478, 
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+            "verified": true, 
+            "translator_type": "none", 
+            "profile_text_color": "333333", 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/692918036811112448/kpv03Qk6_normal.jpg", 
+            "profile_sidebar_fill_color": "DDEEF6", 
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/xd201iEYL3", 
+                            "indices": [
+                                0, 
+                                23
+                            ], 
+                            "expanded_url": "http://www.electjasonsmith.com/", 
+                            "display_url": "electjasonsmith.com"
+                        }
+                    ]
+                }, 
+                "description": {
+                    "urls": []
+                }
+            }, 
+            "followers_count": 10604, 
+            "profile_sidebar_border_color": "000000", 
+            "id_str": "26653478", 
+            "profile_background_color": "0A3B56", 
+            "listed_count": 168, 
+            "is_translation_enabled": false, 
+            "utc_offset": null, 
+            "statuses_count": 3242, 
+            "description": "Honored to represent the families of Missouri's Eighth District in the United States House of Representatives. #mo8", 
+            "friends_count": 1918, 
+            "location": "MO 8th Congressional District", 
+            "profile_link_color": "0A3B56", 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/692918036811112448/kpv03Qk6_normal.jpg", 
+            "following": false, 
+            "geo_enabled": true, 
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/26653478/1465348869", 
+            "profile_image_extensions_alt_text": null, 
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+            "screen_name": "JasonSmithMO", 
+            "lang": "en", 
+            "profile_background_tile": false, 
+            "favourites_count": 30, 
+            "name": "Jason Smith", 
+            "notifications": false, 
+            "url": "https://t.co/xd201iEYL3", 
+            "created_at": "Thu Mar 26 01:26:16 +0000 2009", 
+            "profile_banner_extensions_alt_text": null, 
+            "contributors_enabled": false, 
+            "time_zone": null, 
+            "protected": false, 
+            "default_profile": false, 
+            "is_translator": false
+        }, 
+        "geo": null, 
+        "in_reply_to_user_id_str": null, 
+        "possibly_sensitive": false, 
+        "lang": "en", 
+        "created_at": "Thu Mar 29 05:00:01 +0000 2018", 
+        "in_reply_to_status_id_str": null, 
+        "place": null, 
+        "extended_entities": {
+            "media": [
+                {
+                    "expanded_url": "https://twitter.com/JasonSmithMO/status/979221618038923265/photo/1", 
+                    "display_url": "pic.twitter.com/MoZXjEYSfm", 
+                    "url": "https://t.co/MoZXjEYSfm", 
+                    "ext_alt_text": null, 
+                    "media_url_https": "https://pbs.twimg.com/media/DZYubl-U8AM3MdD.jpg", 
+                    "id_str": "979021020584538115", 
+                    "sizes": {
+                        "large": {
+                            "h": 322, 
+                            "resize": "fit", 
+                            "w": 800
+                        }, 
+                        "small": {
+                            "h": 274, 
+                            "resize": "fit", 
+                            "w": 680
+                        }, 
+                        "medium": {
+                            "h": 322, 
+                            "resize": "fit", 
+                            "w": 800
+                        }, 
+                        "thumb": {
+                            "h": 150, 
+                            "resize": "crop", 
+                            "w": 150
+                        }
+                    }, 
+                    "indices": [
+                        74, 
+                        97
+                    ], 
+                    "type": "photo", 
+                    "id": 979021020584538115, 
+                    "media_url": "http://pbs.twimg.com/media/DZYubl-U8AM3MdD.jpg"
+                }
+            ]
+        }
+    }, 
+    {
+        "contributors": null, 
+        "truncated": false, 
+        "text": "FOLLOW to put an end to Schumer/Pelosi obstruction of the Trump agenda https://t.co/hBZi2NLTaY", 
+        "is_quote_status": false, 
+        "in_reply_to_status_id": null, 
+        "id": 979221620777562113, 
+        "favorite_count": 43, 
+        "source": "<a href=\"https://ads-api.twitter.com\" rel=\"nofollow\">Twitter Ads Composer</a>", 
+        "retweeted": false, 
+        "coordinates": null, 
+        "entities": {
+            "symbols": [], 
+            "user_mentions": [], 
+            "hashtags": [], 
+            "urls": [], 
+            "media": [
+                {
+                    "expanded_url": "https://twitter.com/JasonSmithMO/status/979221620777562113/photo/1", 
+                    "display_url": "pic.twitter.com/hBZi2NLTaY", 
+                    "url": "https://t.co/hBZi2NLTaY", 
+                    "media_url_https": "https://pbs.twimg.com/media/DZYqlSQUMAAhAo3.jpg", 
+                    "id_str": "979016789043458048", 
+                    "sizes": {
+                        "large": {
+                            "h": 322, 
+                            "resize": "fit", 
+                            "w": 800
+                        }, 
+                        "small": {
+                            "h": 274, 
+                            "resize": "fit", 
+                            "w": 680
+                        }, 
+                        "medium": {
+                            "h": 322, 
+                            "resize": "fit", 
+                            "w": 800
+                        }, 
+                        "thumb": {
+                            "h": 150, 
+                            "resize": "crop", 
+                            "w": 150
+                        }
+                    }, 
+                    "indices": [
+                        71, 
+                        94
+                    ], 
+                    "type": "photo", 
+                    "id": 979016789043458048, 
+                    "media_url": "http://pbs.twimg.com/media/DZYqlSQUMAAhAo3.jpg"
+                }
+            ]
+        }, 
+        "in_reply_to_screen_name": null, 
+        "in_reply_to_user_id": null, 
+        "scopes": {
+            "followers": false
+        }, 
+        "retweet_count": 7, 
+        "id_str": "979221620777562113", 
+        "favorited": false, 
+        "user": {
+            "follow_request_sent": false, 
+            "has_extended_profile": true, 
+            "profile_use_background_image": true, 
+            "default_profile_image": false, 
+            "id": 26653478, 
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+            "verified": true, 
+            "translator_type": "none", 
+            "profile_text_color": "333333", 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/692918036811112448/kpv03Qk6_normal.jpg", 
+            "profile_sidebar_fill_color": "DDEEF6", 
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/xd201iEYL3", 
+                            "indices": [
+                                0, 
+                                23
+                            ], 
+                            "expanded_url": "http://www.electjasonsmith.com/", 
+                            "display_url": "electjasonsmith.com"
+                        }
+                    ]
+                }, 
+                "description": {
+                    "urls": []
+                }
+            }, 
+            "followers_count": 10604, 
+            "profile_sidebar_border_color": "000000", 
+            "id_str": "26653478", 
+            "profile_background_color": "0A3B56", 
+            "listed_count": 168, 
+            "is_translation_enabled": false, 
+            "utc_offset": null, 
+            "statuses_count": 3242, 
+            "description": "Honored to represent the families of Missouri's Eighth District in the United States House of Representatives. #mo8", 
+            "friends_count": 1918, 
+            "location": "MO 8th Congressional District", 
+            "profile_link_color": "0A3B56", 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/692918036811112448/kpv03Qk6_normal.jpg", 
+            "following": false, 
+            "geo_enabled": true, 
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/26653478/1465348869", 
+            "profile_image_extensions_alt_text": null, 
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+            "screen_name": "JasonSmithMO", 
+            "lang": "en", 
+            "profile_background_tile": false, 
+            "favourites_count": 30, 
+            "name": "Jason Smith", 
+            "notifications": false, 
+            "url": "https://t.co/xd201iEYL3", 
+            "created_at": "Thu Mar 26 01:26:16 +0000 2009", 
+            "profile_banner_extensions_alt_text": null, 
+            "contributors_enabled": false, 
+            "time_zone": null, 
+            "protected": false, 
+            "default_profile": false, 
+            "is_translator": false
+        }, 
+        "geo": null, 
+        "in_reply_to_user_id_str": null, 
+        "possibly_sensitive": false, 
+        "lang": "en", 
+        "created_at": "Thu Mar 29 05:00:02 +0000 2018", 
+        "in_reply_to_status_id_str": null, 
+        "place": null, 
+        "extended_entities": {
+            "media": [
+                {
+                    "expanded_url": "https://twitter.com/JasonSmithMO/status/979221620777562113/photo/1", 
+                    "display_url": "pic.twitter.com/hBZi2NLTaY", 
+                    "url": "https://t.co/hBZi2NLTaY", 
+                    "ext_alt_text": null, 
+                    "media_url_https": "https://pbs.twimg.com/media/DZYqlSQUMAAhAo3.jpg", 
+                    "id_str": "979016789043458048", 
+                    "sizes": {
+                        "large": {
+                            "h": 322, 
+                            "resize": "fit", 
+                            "w": 800
+                        }, 
+                        "small": {
+                            "h": 274, 
+                            "resize": "fit", 
+                            "w": 680
+                        }, 
+                        "medium": {
+                            "h": 322, 
+                            "resize": "fit", 
+                            "w": 800
+                        }, 
+                        "thumb": {
+                            "h": 150, 
+                            "resize": "crop", 
+                            "w": 150
+                        }
+                    }, 
+                    "indices": [
+                        71, 
+                        94
+                    ], 
+                    "type": "photo", 
+                    "id": 979016789043458048, 
+                    "media_url": "http://pbs.twimg.com/media/DZYqlSQUMAAhAo3.jpg"
+                }
+            ]
+        }
+    }
+]

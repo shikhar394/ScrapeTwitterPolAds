@@ -1,0 +1,428 @@
+[
+    {
+        "contributors": null, 
+        "truncated": true, 
+        "text": ".@realDonaldTrump needs an ally in the U.S. Senate to defend his agenda and stand up for conservative values. FOLLO\u2026 https://t.co/hXFSlmArXC", 
+        "is_quote_status": false, 
+        "in_reply_to_status_id": null, 
+        "id": 1010320497177870338, 
+        "favorite_count": 987, 
+        "source": "<a href=\"https://ads-api.twitter.com\" rel=\"nofollow\">Twitter Ads Composer</a>", 
+        "retweeted": false, 
+        "coordinates": null, 
+        "entities": {
+            "symbols": [], 
+            "user_mentions": [
+                {
+                    "id": 25073877, 
+                    "indices": [
+                        1, 
+                        17
+                    ], 
+                    "id_str": "25073877", 
+                    "screen_name": "realDonaldTrump", 
+                    "name": "Donald J. Trump"
+                }
+            ], 
+            "hashtags": [], 
+            "urls": [
+                {
+                    "url": "https://t.co/hXFSlmArXC", 
+                    "indices": [
+                        117, 
+                        140
+                    ], 
+                    "expanded_url": "https://twitter.com/i/web/status/1010320497177870338", 
+                    "display_url": "twitter.com/i/web/status/1\u2026"
+                }
+            ]
+        }, 
+        "in_reply_to_screen_name": null, 
+        "in_reply_to_user_id": null, 
+        "scopes": {
+            "followers": false
+        }, 
+        "retweet_count": 492, 
+        "id_str": "1010320497177870338", 
+        "favorited": false, 
+        "user": {
+            "follow_request_sent": false, 
+            "has_extended_profile": false, 
+            "profile_use_background_image": true, 
+            "default_profile_image": false, 
+            "id": 63150856, 
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+            "verified": true, 
+            "translator_type": "none", 
+            "profile_text_color": "333333", 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1025487729939939332/po-YQAat_normal.jpg", 
+            "profile_sidebar_fill_color": "F3F3F3", 
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/1y6JSRDk0T", 
+                            "indices": [
+                                0, 
+                                23
+                            ], 
+                            "expanded_url": "http://www.marshablackburn.com", 
+                            "display_url": "marshablackburn.com"
+                        }
+                    ]
+                }, 
+                "description": {
+                    "urls": []
+                }
+            }, 
+            "followers_count": 25390, 
+            "profile_sidebar_border_color": "FFFFFF", 
+            "id_str": "63150856", 
+            "profile_background_color": "EBEBEB", 
+            "listed_count": 715, 
+            "is_translation_enabled": false, 
+            "utc_offset": null, 
+            "statuses_count": 3921, 
+            "description": "Wife, mother of two, Marshie to my grand kids. Running for the U.S. Senate to fight for Tennessee values in Washington.      Snap:teammarsha \u2022 Insta:team.marsha", 
+            "friends_count": 3061, 
+            "location": "Tennessee, USA", 
+            "profile_link_color": "990000", 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1025487729939939332/po-YQAat_normal.jpg", 
+            "following": false, 
+            "geo_enabled": true, 
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/63150856/1533330422", 
+            "profile_image_extensions_alt_text": null, 
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+            "screen_name": "VoteMarsha", 
+            "lang": "en", 
+            "profile_background_tile": false, 
+            "favourites_count": 255, 
+            "name": "Marsha Blackburn", 
+            "notifications": false, 
+            "url": "https://t.co/1y6JSRDk0T", 
+            "created_at": "Wed Aug 05 14:44:11 +0000 2009", 
+            "profile_banner_extensions_alt_text": null, 
+            "contributors_enabled": false, 
+            "time_zone": null, 
+            "protected": false, 
+            "default_profile": false, 
+            "is_translator": false
+        }, 
+        "geo": null, 
+        "in_reply_to_user_id_str": null, 
+        "possibly_sensitive": false, 
+        "lang": "en", 
+        "created_at": "Sat Jun 23 00:35:52 +0000 2018", 
+        "in_reply_to_status_id_str": null, 
+        "place": null
+    }, 
+    {
+        "contributors": null, 
+        "truncated": true, 
+        "text": "I'm honored to have such a strong group of leaders in the veteran community on my team. As Tennessee's next Senator\u2026 https://t.co/3fObCeh52s", 
+        "is_quote_status": false, 
+        "in_reply_to_status_id": null, 
+        "id": 1013839858622783489, 
+        "favorite_count": 291, 
+        "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Media Studio</a>", 
+        "retweeted": false, 
+        "coordinates": null, 
+        "entities": {
+            "symbols": [], 
+            "user_mentions": [], 
+            "hashtags": [], 
+            "urls": [
+                {
+                    "url": "https://t.co/3fObCeh52s", 
+                    "indices": [
+                        117, 
+                        140
+                    ], 
+                    "expanded_url": "https://twitter.com/i/web/status/1013839858622783489", 
+                    "display_url": "twitter.com/i/web/status/1\u2026"
+                }
+            ]
+        }, 
+        "in_reply_to_screen_name": null, 
+        "in_reply_to_user_id": null, 
+        "retweet_count": 107, 
+        "id_str": "1013839858622783489", 
+        "favorited": false, 
+        "user": {
+            "follow_request_sent": false, 
+            "has_extended_profile": false, 
+            "profile_use_background_image": true, 
+            "default_profile_image": false, 
+            "id": 63150856, 
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+            "verified": true, 
+            "translator_type": "none", 
+            "profile_text_color": "333333", 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1025487729939939332/po-YQAat_normal.jpg", 
+            "profile_sidebar_fill_color": "F3F3F3", 
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/1y6JSRDk0T", 
+                            "indices": [
+                                0, 
+                                23
+                            ], 
+                            "expanded_url": "http://www.marshablackburn.com", 
+                            "display_url": "marshablackburn.com"
+                        }
+                    ]
+                }, 
+                "description": {
+                    "urls": []
+                }
+            }, 
+            "followers_count": 25390, 
+            "profile_sidebar_border_color": "FFFFFF", 
+            "id_str": "63150856", 
+            "profile_background_color": "EBEBEB", 
+            "listed_count": 715, 
+            "is_translation_enabled": false, 
+            "utc_offset": null, 
+            "statuses_count": 3921, 
+            "description": "Wife, mother of two, Marshie to my grand kids. Running for the U.S. Senate to fight for Tennessee values in Washington.      Snap:teammarsha \u2022 Insta:team.marsha", 
+            "friends_count": 3061, 
+            "location": "Tennessee, USA", 
+            "profile_link_color": "990000", 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1025487729939939332/po-YQAat_normal.jpg", 
+            "following": false, 
+            "geo_enabled": true, 
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/63150856/1533330422", 
+            "profile_image_extensions_alt_text": null, 
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+            "screen_name": "VoteMarsha", 
+            "lang": "en", 
+            "profile_background_tile": false, 
+            "favourites_count": 255, 
+            "name": "Marsha Blackburn", 
+            "notifications": false, 
+            "url": "https://t.co/1y6JSRDk0T", 
+            "created_at": "Wed Aug 05 14:44:11 +0000 2009", 
+            "profile_banner_extensions_alt_text": null, 
+            "contributors_enabled": false, 
+            "time_zone": null, 
+            "protected": false, 
+            "default_profile": false, 
+            "is_translator": false
+        }, 
+        "geo": null, 
+        "in_reply_to_user_id_str": null, 
+        "possibly_sensitive": false, 
+        "lang": "en", 
+        "created_at": "Mon Jul 02 17:40:33 +0000 2018", 
+        "in_reply_to_status_id_str": null, 
+        "place": null
+    }, 
+    {
+        "contributors": null, 
+        "truncated": true, 
+        "text": "The Supreme Court is one of the most important reasons why we must protect the Senate Majority this November.\u2026 https://t.co/pGyarg4CPa", 
+        "is_quote_status": false, 
+        "in_reply_to_status_id": null, 
+        "id": 1012411198686588929, 
+        "favorite_count": 522, 
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+        "retweeted": false, 
+        "coordinates": null, 
+        "entities": {
+            "symbols": [], 
+            "user_mentions": [], 
+            "hashtags": [], 
+            "urls": [
+                {
+                    "url": "https://t.co/pGyarg4CPa", 
+                    "indices": [
+                        111, 
+                        134
+                    ], 
+                    "expanded_url": "https://twitter.com/i/web/status/1012411198686588929", 
+                    "display_url": "twitter.com/i/web/status/1\u2026"
+                }
+            ]
+        }, 
+        "in_reply_to_screen_name": null, 
+        "in_reply_to_user_id": null, 
+        "retweet_count": 185, 
+        "id_str": "1012411198686588929", 
+        "favorited": false, 
+        "user": {
+            "follow_request_sent": false, 
+            "has_extended_profile": false, 
+            "profile_use_background_image": true, 
+            "default_profile_image": false, 
+            "id": 63150856, 
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+            "verified": true, 
+            "translator_type": "none", 
+            "profile_text_color": "333333", 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1025487729939939332/po-YQAat_normal.jpg", 
+            "profile_sidebar_fill_color": "F3F3F3", 
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/1y6JSRDk0T", 
+                            "indices": [
+                                0, 
+                                23
+                            ], 
+                            "expanded_url": "http://www.marshablackburn.com", 
+                            "display_url": "marshablackburn.com"
+                        }
+                    ]
+                }, 
+                "description": {
+                    "urls": []
+                }
+            }, 
+            "followers_count": 25390, 
+            "profile_sidebar_border_color": "FFFFFF", 
+            "id_str": "63150856", 
+            "profile_background_color": "EBEBEB", 
+            "listed_count": 715, 
+            "is_translation_enabled": false, 
+            "utc_offset": null, 
+            "statuses_count": 3921, 
+            "description": "Wife, mother of two, Marshie to my grand kids. Running for the U.S. Senate to fight for Tennessee values in Washington.      Snap:teammarsha \u2022 Insta:team.marsha", 
+            "friends_count": 3061, 
+            "location": "Tennessee, USA", 
+            "profile_link_color": "990000", 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1025487729939939332/po-YQAat_normal.jpg", 
+            "following": false, 
+            "geo_enabled": true, 
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/63150856/1533330422", 
+            "profile_image_extensions_alt_text": null, 
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+            "screen_name": "VoteMarsha", 
+            "lang": "en", 
+            "profile_background_tile": false, 
+            "favourites_count": 255, 
+            "name": "Marsha Blackburn", 
+            "notifications": false, 
+            "url": "https://t.co/1y6JSRDk0T", 
+            "created_at": "Wed Aug 05 14:44:11 +0000 2009", 
+            "profile_banner_extensions_alt_text": null, 
+            "contributors_enabled": false, 
+            "time_zone": null, 
+            "protected": false, 
+            "default_profile": false, 
+            "is_translator": false
+        }, 
+        "geo": null, 
+        "in_reply_to_user_id_str": null, 
+        "possibly_sensitive": false, 
+        "lang": "en", 
+        "created_at": "Thu Jun 28 19:03:34 +0000 2018", 
+        "in_reply_to_status_id_str": null, 
+        "place": null
+    }, 
+    {
+        "contributors": null, 
+        "truncated": true, 
+        "text": "One of the senate's most important responsibilities is confirming conservative judges to the Supreme Court and fede\u2026 https://t.co/MGezW0CnXv", 
+        "is_quote_status": false, 
+        "in_reply_to_status_id": null, 
+        "id": 1011957322199990272, 
+        "favorite_count": 265, 
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>", 
+        "retweeted": false, 
+        "coordinates": null, 
+        "entities": {
+            "symbols": [], 
+            "user_mentions": [], 
+            "hashtags": [], 
+            "urls": [
+                {
+                    "url": "https://t.co/MGezW0CnXv", 
+                    "indices": [
+                        117, 
+                        140
+                    ], 
+                    "expanded_url": "https://twitter.com/i/web/status/1011957322199990272", 
+                    "display_url": "twitter.com/i/web/status/1\u2026"
+                }
+            ]
+        }, 
+        "in_reply_to_screen_name": null, 
+        "in_reply_to_user_id": null, 
+        "retweet_count": 122, 
+        "id_str": "1011957322199990272", 
+        "favorited": false, 
+        "user": {
+            "follow_request_sent": false, 
+            "has_extended_profile": false, 
+            "profile_use_background_image": true, 
+            "default_profile_image": false, 
+            "id": 63150856, 
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+            "verified": true, 
+            "translator_type": "none", 
+            "profile_text_color": "333333", 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1025487729939939332/po-YQAat_normal.jpg", 
+            "profile_sidebar_fill_color": "F3F3F3", 
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/1y6JSRDk0T", 
+                            "indices": [
+                                0, 
+                                23
+                            ], 
+                            "expanded_url": "http://www.marshablackburn.com", 
+                            "display_url": "marshablackburn.com"
+                        }
+                    ]
+                }, 
+                "description": {
+                    "urls": []
+                }
+            }, 
+            "followers_count": 25390, 
+            "profile_sidebar_border_color": "FFFFFF", 
+            "id_str": "63150856", 
+            "profile_background_color": "EBEBEB", 
+            "listed_count": 715, 
+            "is_translation_enabled": false, 
+            "utc_offset": null, 
+            "statuses_count": 3921, 
+            "description": "Wife, mother of two, Marshie to my grand kids. Running for the U.S. Senate to fight for Tennessee values in Washington.      Snap:teammarsha \u2022 Insta:team.marsha", 
+            "friends_count": 3061, 
+            "location": "Tennessee, USA", 
+            "profile_link_color": "990000", 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1025487729939939332/po-YQAat_normal.jpg", 
+            "following": false, 
+            "geo_enabled": true, 
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/63150856/1533330422", 
+            "profile_image_extensions_alt_text": null, 
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+            "screen_name": "VoteMarsha", 
+            "lang": "en", 
+            "profile_background_tile": false, 
+            "favourites_count": 255, 
+            "name": "Marsha Blackburn", 
+            "notifications": false, 
+            "url": "https://t.co/1y6JSRDk0T", 
+            "created_at": "Wed Aug 05 14:44:11 +0000 2009", 
+            "profile_banner_extensions_alt_text": null, 
+            "contributors_enabled": false, 
+            "time_zone": null, 
+            "protected": false, 
+            "default_profile": false, 
+            "is_translator": false
+        }, 
+        "geo": null, 
+        "in_reply_to_user_id_str": null, 
+        "possibly_sensitive": false, 
+        "lang": "en", 
+        "created_at": "Wed Jun 27 13:00:01 +0000 2018", 
+        "in_reply_to_status_id_str": null, 
+        "place": null
+    }
+]

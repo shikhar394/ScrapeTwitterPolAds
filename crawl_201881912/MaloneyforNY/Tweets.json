@@ -1,0 +1,17 @@
+{
+    "1002547959865708544": {
+        "Tweets": [
+            {
+                "lastActiveAtSeconds": 1534555700, 
+                "promotedMetadata": {
+                    "advertiserId": 1002547959865708544, 
+                    "political": false
+                }, 
+                "serveable": true, 
+                "id": 1029815060703539200, 
+                "tweetId": "1029815060703539200"
+            }
+        ], 
+        "ScreenName": "MaloneyforNY"
+    }
+}

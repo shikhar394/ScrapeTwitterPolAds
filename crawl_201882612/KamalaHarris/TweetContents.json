@@ -1,0 +1,417 @@
+[
+    {
+        "card_uri": "card://1032088022022537216", 
+        "contributors": null, 
+        "truncated": true, 
+        "text": "Add your name to my petition demanding Republicans hold a vote on legislation to limit Trump\u2019s ability to fire Muel\u2026 https://t.co/TfDNo4Osq0", 
+        "is_quote_status": false, 
+        "in_reply_to_status_id": null, 
+        "id": 1032088397760946176, 
+        "favorite_count": 188, 
+        "source": "<a href=\"https://ads-api.twitter.com\" rel=\"nofollow\">Twitter Ads Composer</a>", 
+        "retweeted": false, 
+        "coordinates": null, 
+        "entities": {
+            "symbols": [], 
+            "user_mentions": [], 
+            "hashtags": [], 
+            "urls": [
+                {
+                    "url": "https://t.co/TfDNo4Osq0", 
+                    "indices": [
+                        117, 
+                        140
+                    ], 
+                    "expanded_url": "https://twitter.com/i/web/status/1032088397760946176", 
+                    "display_url": "twitter.com/i/web/status/1\u2026"
+                }
+            ]
+        }, 
+        "in_reply_to_screen_name": null, 
+        "in_reply_to_user_id": null, 
+        "scopes": {
+            "followers": false
+        }, 
+        "retweet_count": 67, 
+        "id_str": "1032088397760946176", 
+        "favorited": false, 
+        "user": {
+            "follow_request_sent": false, 
+            "has_extended_profile": false, 
+            "profile_use_background_image": false, 
+            "default_profile_image": false, 
+            "id": 30354991, 
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif", 
+            "verified": true, 
+            "translator_type": "none", 
+            "profile_text_color": "333333", 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/877902898889412608/6Vfu5kVd_normal.jpg", 
+            "profile_sidebar_fill_color": "FFFFFF", 
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/IbL01p7pYJ", 
+                            "indices": [
+                                0, 
+                                22
+                            ], 
+                            "expanded_url": "http://KamalaHarris.org", 
+                            "display_url": "KamalaHarris.org"
+                        }
+                    ]
+                }, 
+                "description": {
+                    "urls": []
+                }
+            }, 
+            "followers_count": 1652931, 
+            "profile_sidebar_border_color": "FFFFFF", 
+            "id_str": "30354991", 
+            "profile_background_color": "FFFFFF", 
+            "listed_count": 7727, 
+            "is_translation_enabled": false, 
+            "utc_offset": null, 
+            "statuses_count": 8697, 
+            "description": "U.S. Senator for California. Former CA Attorney General. Fighting for justice and giving voice to the voiceless. Wife, Momala, Sister, Auntie. Aspiring chef.", 
+            "friends_count": 717, 
+            "location": "California", 
+            "profile_link_color": "4468A6", 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/877902898889412608/6Vfu5kVd_normal.jpg", 
+            "following": false, 
+            "geo_enabled": true, 
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/30354991/1521473795", 
+            "profile_image_extensions_alt_text": null, 
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif", 
+            "screen_name": "KamalaHarris", 
+            "lang": "en", 
+            "profile_background_tile": false, 
+            "favourites_count": 211, 
+            "name": "Kamala Harris", 
+            "notifications": false, 
+            "url": "http://t.co/IbL01p7pYJ", 
+            "created_at": "Sat Apr 11 00:42:07 +0000 2009", 
+            "profile_banner_extensions_alt_text": null, 
+            "contributors_enabled": false, 
+            "time_zone": null, 
+            "protected": false, 
+            "default_profile": false, 
+            "is_translator": false
+        }, 
+        "geo": null, 
+        "in_reply_to_user_id_str": null, 
+        "possibly_sensitive": false, 
+        "lang": "en", 
+        "created_at": "Wed Aug 22 02:13:43 +0000 2018", 
+        "in_reply_to_status_id_str": null, 
+        "place": null
+    }, 
+    {
+        "card_uri": "card://1032041737739554816", 
+        "contributors": null, 
+        "truncated": false, 
+        "text": "Add your name to my petition demanding Republicans hold a vote on legislation to limit Trump\u2019s ability to fire Mueller.", 
+        "is_quote_status": false, 
+        "in_reply_to_status_id": null, 
+        "id": 1032045936397234177, 
+        "favorite_count": 861, 
+        "source": "<a href=\"https://ads-api.twitter.com\" rel=\"nofollow\">Twitter Ads Composer</a>", 
+        "retweeted": false, 
+        "coordinates": null, 
+        "entities": {
+            "symbols": [], 
+            "user_mentions": [], 
+            "hashtags": [], 
+            "urls": []
+        }, 
+        "in_reply_to_screen_name": null, 
+        "in_reply_to_user_id": null, 
+        "scopes": {
+            "followers": false
+        }, 
+        "retweet_count": 392, 
+        "id_str": "1032045936397234177", 
+        "favorited": false, 
+        "user": {
+            "follow_request_sent": false, 
+            "has_extended_profile": false, 
+            "profile_use_background_image": false, 
+            "default_profile_image": false, 
+            "id": 30354991, 
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif", 
+            "verified": true, 
+            "translator_type": "none", 
+            "profile_text_color": "333333", 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/877902898889412608/6Vfu5kVd_normal.jpg", 
+            "profile_sidebar_fill_color": "FFFFFF", 
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/IbL01p7pYJ", 
+                            "indices": [
+                                0, 
+                                22
+                            ], 
+                            "expanded_url": "http://KamalaHarris.org", 
+                            "display_url": "KamalaHarris.org"
+                        }
+                    ]
+                }, 
+                "description": {
+                    "urls": []
+                }
+            }, 
+            "followers_count": 1652931, 
+            "profile_sidebar_border_color": "FFFFFF", 
+            "id_str": "30354991", 
+            "profile_background_color": "FFFFFF", 
+            "listed_count": 7727, 
+            "is_translation_enabled": false, 
+            "utc_offset": null, 
+            "statuses_count": 8697, 
+            "description": "U.S. Senator for California. Former CA Attorney General. Fighting for justice and giving voice to the voiceless. Wife, Momala, Sister, Auntie. Aspiring chef.", 
+            "friends_count": 717, 
+            "location": "California", 
+            "profile_link_color": "4468A6", 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/877902898889412608/6Vfu5kVd_normal.jpg", 
+            "following": false, 
+            "geo_enabled": true, 
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/30354991/1521473795", 
+            "profile_image_extensions_alt_text": null, 
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif", 
+            "screen_name": "KamalaHarris", 
+            "lang": "en", 
+            "profile_background_tile": false, 
+            "favourites_count": 211, 
+            "name": "Kamala Harris", 
+            "notifications": false, 
+            "url": "http://t.co/IbL01p7pYJ", 
+            "created_at": "Sat Apr 11 00:42:07 +0000 2009", 
+            "profile_banner_extensions_alt_text": null, 
+            "contributors_enabled": false, 
+            "time_zone": null, 
+            "protected": false, 
+            "default_profile": false, 
+            "is_translator": false
+        }, 
+        "geo": null, 
+        "in_reply_to_user_id_str": null, 
+        "lang": "en", 
+        "created_at": "Tue Aug 21 23:25:00 +0000 2018", 
+        "in_reply_to_status_id_str": null, 
+        "place": null
+    }, 
+    {
+        "card_uri": "card://1013903493461991424", 
+        "contributors": null, 
+        "truncated": true, 
+        "text": "The White House just attacked me. As a career prosecutor I actually went after gangs and transnational criminal org\u2026 https://t.co/zs9Qy1glri", 
+        "is_quote_status": false, 
+        "in_reply_to_status_id": null, 
+        "id": 1013903909994164224, 
+        "favorite_count": 159, 
+        "source": "<a href=\"https://ads-api.twitter.com\" rel=\"nofollow\">Twitter Ads Composer</a>", 
+        "retweeted": false, 
+        "coordinates": null, 
+        "entities": {
+            "symbols": [], 
+            "user_mentions": [], 
+            "hashtags": [], 
+            "urls": [
+                {
+                    "url": "https://t.co/zs9Qy1glri", 
+                    "indices": [
+                        117, 
+                        140
+                    ], 
+                    "expanded_url": "https://twitter.com/i/web/status/1013903909994164224", 
+                    "display_url": "twitter.com/i/web/status/1\u2026"
+                }
+            ]
+        }, 
+        "in_reply_to_screen_name": null, 
+        "in_reply_to_user_id": null, 
+        "scopes": {
+            "followers": false
+        }, 
+        "retweet_count": 53, 
+        "id_str": "1013903909994164224", 
+        "favorited": false, 
+        "user": {
+            "follow_request_sent": false, 
+            "has_extended_profile": false, 
+            "profile_use_background_image": false, 
+            "default_profile_image": false, 
+            "id": 30354991, 
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif", 
+            "verified": true, 
+            "translator_type": "none", 
+            "profile_text_color": "333333", 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/877902898889412608/6Vfu5kVd_normal.jpg", 
+            "profile_sidebar_fill_color": "FFFFFF", 
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/IbL01p7pYJ", 
+                            "indices": [
+                                0, 
+                                22
+                            ], 
+                            "expanded_url": "http://KamalaHarris.org", 
+                            "display_url": "KamalaHarris.org"
+                        }
+                    ]
+                }, 
+                "description": {
+                    "urls": []
+                }
+            }, 
+            "followers_count": 1652931, 
+            "profile_sidebar_border_color": "FFFFFF", 
+            "id_str": "30354991", 
+            "profile_background_color": "FFFFFF", 
+            "listed_count": 7727, 
+            "is_translation_enabled": false, 
+            "utc_offset": null, 
+            "statuses_count": 8697, 
+            "description": "U.S. Senator for California. Former CA Attorney General. Fighting for justice and giving voice to the voiceless. Wife, Momala, Sister, Auntie. Aspiring chef.", 
+            "friends_count": 717, 
+            "location": "California", 
+            "profile_link_color": "4468A6", 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/877902898889412608/6Vfu5kVd_normal.jpg", 
+            "following": false, 
+            "geo_enabled": true, 
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/30354991/1521473795", 
+            "profile_image_extensions_alt_text": null, 
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif", 
+            "screen_name": "KamalaHarris", 
+            "lang": "en", 
+            "profile_background_tile": false, 
+            "favourites_count": 211, 
+            "name": "Kamala Harris", 
+            "notifications": false, 
+            "url": "http://t.co/IbL01p7pYJ", 
+            "created_at": "Sat Apr 11 00:42:07 +0000 2009", 
+            "profile_banner_extensions_alt_text": null, 
+            "contributors_enabled": false, 
+            "time_zone": null, 
+            "protected": false, 
+            "default_profile": false, 
+            "is_translator": false
+        }, 
+        "geo": null, 
+        "in_reply_to_user_id_str": null, 
+        "lang": "en", 
+        "created_at": "Mon Jul 02 21:55:04 +0000 2018", 
+        "in_reply_to_status_id_str": null, 
+        "place": null
+    }, 
+    {
+        "card_uri": "card://1013903313903878146", 
+        "contributors": null, 
+        "truncated": true, 
+        "text": "The White House just attacked me. As a career prosecutor I actually went after gangs and transnational criminal org\u2026 https://t.co/I1XY6SsF9e", 
+        "is_quote_status": false, 
+        "in_reply_to_status_id": null, 
+        "id": 1013903885793017856, 
+        "favorite_count": 422, 
+        "source": "<a href=\"https://ads-api.twitter.com\" rel=\"nofollow\">Twitter Ads Composer</a>", 
+        "retweeted": false, 
+        "coordinates": null, 
+        "entities": {
+            "symbols": [], 
+            "user_mentions": [], 
+            "hashtags": [], 
+            "urls": [
+                {
+                    "url": "https://t.co/I1XY6SsF9e", 
+                    "indices": [
+                        117, 
+                        140
+                    ], 
+                    "expanded_url": "https://twitter.com/i/web/status/1013903885793017856", 
+                    "display_url": "twitter.com/i/web/status/1\u2026"
+                }
+            ]
+        }, 
+        "in_reply_to_screen_name": null, 
+        "in_reply_to_user_id": null, 
+        "scopes": {
+            "followers": false
+        }, 
+        "retweet_count": 126, 
+        "id_str": "1013903885793017856", 
+        "favorited": false, 
+        "user": {
+            "follow_request_sent": false, 
+            "has_extended_profile": false, 
+            "profile_use_background_image": false, 
+            "default_profile_image": false, 
+            "id": 30354991, 
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif", 
+            "verified": true, 
+            "translator_type": "none", 
+            "profile_text_color": "333333", 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/877902898889412608/6Vfu5kVd_normal.jpg", 
+            "profile_sidebar_fill_color": "FFFFFF", 
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/IbL01p7pYJ", 
+                            "indices": [
+                                0, 
+                                22
+                            ], 
+                            "expanded_url": "http://KamalaHarris.org", 
+                            "display_url": "KamalaHarris.org"
+                        }
+                    ]
+                }, 
+                "description": {
+                    "urls": []
+                }
+            }, 
+            "followers_count": 1652931, 
+            "profile_sidebar_border_color": "FFFFFF", 
+            "id_str": "30354991", 
+            "profile_background_color": "FFFFFF", 
+            "listed_count": 7727, 
+            "is_translation_enabled": false, 
+            "utc_offset": null, 
+            "statuses_count": 8697, 
+            "description": "U.S. Senator for California. Former CA Attorney General. Fighting for justice and giving voice to the voiceless. Wife, Momala, Sister, Auntie. Aspiring chef.", 
+            "friends_count": 717, 
+            "location": "California", 
+            "profile_link_color": "4468A6", 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/877902898889412608/6Vfu5kVd_normal.jpg", 
+            "following": false, 
+            "geo_enabled": true, 
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/30354991/1521473795", 
+            "profile_image_extensions_alt_text": null, 
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif", 
+            "screen_name": "KamalaHarris", 
+            "lang": "en", 
+            "profile_background_tile": false, 
+            "favourites_count": 211, 
+            "name": "Kamala Harris", 
+            "notifications": false, 
+            "url": "http://t.co/IbL01p7pYJ", 
+            "created_at": "Sat Apr 11 00:42:07 +0000 2009", 
+            "profile_banner_extensions_alt_text": null, 
+            "contributors_enabled": false, 
+            "time_zone": null, 
+            "protected": false, 
+            "default_profile": false, 
+            "is_translator": false
+        }, 
+        "geo": null, 
+        "in_reply_to_user_id_str": null, 
+        "lang": "en", 
+        "created_at": "Mon Jul 02 21:54:58 +0000 2018", 
+        "in_reply_to_status_id_str": null, 
+        "place": null
+    }
+]

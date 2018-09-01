@@ -1,0 +1,532 @@
+[
+    {
+        "card_uri": "card://1022581870792339456", 
+        "contributors": null, 
+        "truncated": true, 
+        "text": "While our opponent raised $50,600 last quarter by exploiting a campaign finance loophole, our campaign is relying o\u2026 https://t.co/paz0x2iZHw", 
+        "is_quote_status": false, 
+        "in_reply_to_status_id": null, 
+        "id": 1022581995283468289, 
+        "favorite_count": 38, 
+        "source": "<a href=\"https://ads-api.twitter.com\" rel=\"nofollow\">Twitter Ads Composer</a>", 
+        "retweeted": false, 
+        "coordinates": null, 
+        "entities": {
+            "symbols": [], 
+            "user_mentions": [], 
+            "hashtags": [], 
+            "urls": [
+                {
+                    "url": "https://t.co/paz0x2iZHw", 
+                    "indices": [
+                        117, 
+                        140
+                    ], 
+                    "expanded_url": "https://twitter.com/i/web/status/1022581995283468289", 
+                    "display_url": "twitter.com/i/web/status/1\u2026"
+                }
+            ]
+        }, 
+        "in_reply_to_screen_name": null, 
+        "in_reply_to_user_id": null, 
+        "scopes": {
+            "followers": false
+        }, 
+        "retweet_count": 15, 
+        "id_str": "1022581995283468289", 
+        "favorited": false, 
+        "user": {
+            "follow_request_sent": false, 
+            "has_extended_profile": false, 
+            "profile_use_background_image": true, 
+            "default_profile_image": false, 
+            "id": 16473577, 
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+            "verified": true, 
+            "translator_type": "none", 
+            "profile_text_color": "111100", 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1879706550/20120307-TwitterProfPic_normal.jpg", 
+            "profile_sidebar_fill_color": "FFFFFF", 
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/OGzZc7FkEs", 
+                            "indices": [
+                                0, 
+                                22
+                            ], 
+                            "expanded_url": "http://www.jontester.com", 
+                            "display_url": "jontester.com"
+                        }
+                    ]
+                }, 
+                "description": {
+                    "urls": []
+                }
+            }, 
+            "followers_count": 25512, 
+            "profile_sidebar_border_color": "EFD5AE", 
+            "id_str": "16473577", 
+            "profile_background_color": "EEE2CC", 
+            "listed_count": 802, 
+            "is_translation_enabled": false, 
+            "utc_offset": null, 
+            "statuses_count": 2829, 
+            "description": "Senate campaign of Jon Tester - dirt farmer & Montana Senator from Big Sandy - RTs, Replies & Follows \u2260 Endorsement", 
+            "friends_count": 3279, 
+            "location": "Big Sandy, Montana", 
+            "profile_link_color": "001C24", 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1879706550/20120307-TwitterProfPic_normal.jpg", 
+            "following": false, 
+            "geo_enabled": true, 
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/16473577/1487804650", 
+            "profile_image_extensions_alt_text": null, 
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+            "screen_name": "jontester", 
+            "lang": "en", 
+            "profile_background_tile": false, 
+            "favourites_count": 13, 
+            "name": "Jon Tester", 
+            "notifications": false, 
+            "url": "http://t.co/OGzZc7FkEs", 
+            "created_at": "Fri Sep 26 19:59:20 +0000 2008", 
+            "profile_banner_extensions_alt_text": null, 
+            "contributors_enabled": false, 
+            "time_zone": null, 
+            "protected": false, 
+            "default_profile": false, 
+            "is_translator": false
+        }, 
+        "geo": null, 
+        "in_reply_to_user_id_str": null, 
+        "lang": "en", 
+        "created_at": "Thu Jul 26 20:38:40 +0000 2018", 
+        "in_reply_to_status_id_str": null, 
+        "place": null
+    }, 
+    {
+        "card_uri": "card://1022581870792339456", 
+        "contributors": null, 
+        "truncated": true, 
+        "text": "To show our opponent what an ethical, honest, and hardworking campaign looks like, we\u2019re trying to bring in $50,600\u2026 https://t.co/FLbHDogA9g", 
+        "is_quote_status": false, 
+        "in_reply_to_status_id": null, 
+        "id": 1022582612995371008, 
+        "favorite_count": 33, 
+        "source": "<a href=\"https://ads-api.twitter.com\" rel=\"nofollow\">Twitter Ads Composer</a>", 
+        "retweeted": false, 
+        "coordinates": null, 
+        "entities": {
+            "symbols": [], 
+            "user_mentions": [], 
+            "hashtags": [], 
+            "urls": [
+                {
+                    "url": "https://t.co/FLbHDogA9g", 
+                    "indices": [
+                        117, 
+                        140
+                    ], 
+                    "expanded_url": "https://twitter.com/i/web/status/1022582612995371008", 
+                    "display_url": "twitter.com/i/web/status/1\u2026"
+                }
+            ]
+        }, 
+        "in_reply_to_screen_name": null, 
+        "in_reply_to_user_id": null, 
+        "scopes": {
+            "followers": false
+        }, 
+        "retweet_count": 23, 
+        "id_str": "1022582612995371008", 
+        "favorited": false, 
+        "user": {
+            "follow_request_sent": false, 
+            "has_extended_profile": false, 
+            "profile_use_background_image": true, 
+            "default_profile_image": false, 
+            "id": 16473577, 
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+            "verified": true, 
+            "translator_type": "none", 
+            "profile_text_color": "111100", 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1879706550/20120307-TwitterProfPic_normal.jpg", 
+            "profile_sidebar_fill_color": "FFFFFF", 
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/OGzZc7FkEs", 
+                            "indices": [
+                                0, 
+                                22
+                            ], 
+                            "expanded_url": "http://www.jontester.com", 
+                            "display_url": "jontester.com"
+                        }
+                    ]
+                }, 
+                "description": {
+                    "urls": []
+                }
+            }, 
+            "followers_count": 25512, 
+            "profile_sidebar_border_color": "EFD5AE", 
+            "id_str": "16473577", 
+            "profile_background_color": "EEE2CC", 
+            "listed_count": 802, 
+            "is_translation_enabled": false, 
+            "utc_offset": null, 
+            "statuses_count": 2829, 
+            "description": "Senate campaign of Jon Tester - dirt farmer & Montana Senator from Big Sandy - RTs, Replies & Follows \u2260 Endorsement", 
+            "friends_count": 3279, 
+            "location": "Big Sandy, Montana", 
+            "profile_link_color": "001C24", 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1879706550/20120307-TwitterProfPic_normal.jpg", 
+            "following": false, 
+            "geo_enabled": true, 
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/16473577/1487804650", 
+            "profile_image_extensions_alt_text": null, 
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+            "screen_name": "jontester", 
+            "lang": "en", 
+            "profile_background_tile": false, 
+            "favourites_count": 13, 
+            "name": "Jon Tester", 
+            "notifications": false, 
+            "url": "http://t.co/OGzZc7FkEs", 
+            "created_at": "Fri Sep 26 19:59:20 +0000 2008", 
+            "profile_banner_extensions_alt_text": null, 
+            "contributors_enabled": false, 
+            "time_zone": null, 
+            "protected": false, 
+            "default_profile": false, 
+            "is_translator": false
+        }, 
+        "geo": null, 
+        "in_reply_to_user_id_str": null, 
+        "lang": "en", 
+        "created_at": "Thu Jul 26 20:41:08 +0000 2018", 
+        "in_reply_to_status_id_str": null, 
+        "place": null
+    }, 
+    {
+        "card_uri": "card://1022190157452066816", 
+        "contributors": null, 
+        "truncated": true, 
+        "text": "Mike Pence just attacked Jon Tester for supporting Planned Parenthood. In truth, Jon is fighting to ensure that wom\u2026 https://t.co/WFDzjPfxrE", 
+        "is_quote_status": false, 
+        "in_reply_to_status_id": null, 
+        "id": 1022193280358830081, 
+        "favorite_count": 439, 
+        "source": "<a href=\"https://ads-api.twitter.com\" rel=\"nofollow\">Twitter Ads Composer</a>", 
+        "retweeted": false, 
+        "coordinates": null, 
+        "entities": {
+            "symbols": [], 
+            "user_mentions": [], 
+            "hashtags": [], 
+            "urls": [
+                {
+                    "url": "https://t.co/WFDzjPfxrE", 
+                    "indices": [
+                        117, 
+                        140
+                    ], 
+                    "expanded_url": "https://twitter.com/i/web/status/1022193280358830081", 
+                    "display_url": "twitter.com/i/web/status/1\u2026"
+                }
+            ]
+        }, 
+        "in_reply_to_screen_name": null, 
+        "in_reply_to_user_id": null, 
+        "scopes": {
+            "followers": false
+        }, 
+        "retweet_count": 185, 
+        "id_str": "1022193280358830081", 
+        "favorited": false, 
+        "user": {
+            "follow_request_sent": false, 
+            "has_extended_profile": false, 
+            "profile_use_background_image": true, 
+            "default_profile_image": false, 
+            "id": 16473577, 
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+            "verified": true, 
+            "translator_type": "none", 
+            "profile_text_color": "111100", 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1879706550/20120307-TwitterProfPic_normal.jpg", 
+            "profile_sidebar_fill_color": "FFFFFF", 
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/OGzZc7FkEs", 
+                            "indices": [
+                                0, 
+                                22
+                            ], 
+                            "expanded_url": "http://www.jontester.com", 
+                            "display_url": "jontester.com"
+                        }
+                    ]
+                }, 
+                "description": {
+                    "urls": []
+                }
+            }, 
+            "followers_count": 25512, 
+            "profile_sidebar_border_color": "EFD5AE", 
+            "id_str": "16473577", 
+            "profile_background_color": "EEE2CC", 
+            "listed_count": 802, 
+            "is_translation_enabled": false, 
+            "utc_offset": null, 
+            "statuses_count": 2829, 
+            "description": "Senate campaign of Jon Tester - dirt farmer & Montana Senator from Big Sandy - RTs, Replies & Follows \u2260 Endorsement", 
+            "friends_count": 3279, 
+            "location": "Big Sandy, Montana", 
+            "profile_link_color": "001C24", 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1879706550/20120307-TwitterProfPic_normal.jpg", 
+            "following": false, 
+            "geo_enabled": true, 
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/16473577/1487804650", 
+            "profile_image_extensions_alt_text": null, 
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+            "screen_name": "jontester", 
+            "lang": "en", 
+            "profile_background_tile": false, 
+            "favourites_count": 13, 
+            "name": "Jon Tester", 
+            "notifications": false, 
+            "url": "http://t.co/OGzZc7FkEs", 
+            "created_at": "Fri Sep 26 19:59:20 +0000 2008", 
+            "profile_banner_extensions_alt_text": null, 
+            "contributors_enabled": false, 
+            "time_zone": null, 
+            "protected": false, 
+            "default_profile": false, 
+            "is_translator": false
+        }, 
+        "geo": null, 
+        "in_reply_to_user_id_str": null, 
+        "lang": "en", 
+        "created_at": "Wed Jul 25 18:54:04 +0000 2018", 
+        "in_reply_to_status_id_str": null, 
+        "place": null
+    }, 
+    {
+        "card_uri": "card://1022581870792339456", 
+        "contributors": null, 
+        "truncated": true, 
+        "text": "While our opponent raised $50,600 last quarter from wealthy donors exploiting a campaign finance loophole, we\u2019ve ha\u2026 https://t.co/NrYcPhGVHp", 
+        "is_quote_status": false, 
+        "in_reply_to_status_id": null, 
+        "id": 1022582684831248384, 
+        "favorite_count": 42, 
+        "source": "<a href=\"https://ads-api.twitter.com\" rel=\"nofollow\">Twitter Ads Composer</a>", 
+        "retweeted": false, 
+        "coordinates": null, 
+        "entities": {
+            "symbols": [], 
+            "user_mentions": [], 
+            "hashtags": [], 
+            "urls": [
+                {
+                    "url": "https://t.co/NrYcPhGVHp", 
+                    "indices": [
+                        117, 
+                        140
+                    ], 
+                    "expanded_url": "https://twitter.com/i/web/status/1022582684831248384", 
+                    "display_url": "twitter.com/i/web/status/1\u2026"
+                }
+            ]
+        }, 
+        "in_reply_to_screen_name": null, 
+        "in_reply_to_user_id": null, 
+        "scopes": {
+            "followers": false
+        }, 
+        "retweet_count": 19, 
+        "id_str": "1022582684831248384", 
+        "favorited": false, 
+        "user": {
+            "follow_request_sent": false, 
+            "has_extended_profile": false, 
+            "profile_use_background_image": true, 
+            "default_profile_image": false, 
+            "id": 16473577, 
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+            "verified": true, 
+            "translator_type": "none", 
+            "profile_text_color": "111100", 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1879706550/20120307-TwitterProfPic_normal.jpg", 
+            "profile_sidebar_fill_color": "FFFFFF", 
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/OGzZc7FkEs", 
+                            "indices": [
+                                0, 
+                                22
+                            ], 
+                            "expanded_url": "http://www.jontester.com", 
+                            "display_url": "jontester.com"
+                        }
+                    ]
+                }, 
+                "description": {
+                    "urls": []
+                }
+            }, 
+            "followers_count": 25512, 
+            "profile_sidebar_border_color": "EFD5AE", 
+            "id_str": "16473577", 
+            "profile_background_color": "EEE2CC", 
+            "listed_count": 802, 
+            "is_translation_enabled": false, 
+            "utc_offset": null, 
+            "statuses_count": 2829, 
+            "description": "Senate campaign of Jon Tester - dirt farmer & Montana Senator from Big Sandy - RTs, Replies & Follows \u2260 Endorsement", 
+            "friends_count": 3279, 
+            "location": "Big Sandy, Montana", 
+            "profile_link_color": "001C24", 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1879706550/20120307-TwitterProfPic_normal.jpg", 
+            "following": false, 
+            "geo_enabled": true, 
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/16473577/1487804650", 
+            "profile_image_extensions_alt_text": null, 
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+            "screen_name": "jontester", 
+            "lang": "en", 
+            "profile_background_tile": false, 
+            "favourites_count": 13, 
+            "name": "Jon Tester", 
+            "notifications": false, 
+            "url": "http://t.co/OGzZc7FkEs", 
+            "created_at": "Fri Sep 26 19:59:20 +0000 2008", 
+            "profile_banner_extensions_alt_text": null, 
+            "contributors_enabled": false, 
+            "time_zone": null, 
+            "protected": false, 
+            "default_profile": false, 
+            "is_translator": false
+        }, 
+        "geo": null, 
+        "in_reply_to_user_id_str": null, 
+        "lang": "en", 
+        "created_at": "Thu Jul 26 20:41:25 +0000 2018", 
+        "in_reply_to_status_id_str": null, 
+        "place": null
+    }, 
+    {
+        "card_uri": "card://1022581870792339456", 
+        "contributors": null, 
+        "truncated": true, 
+        "text": "Donate today. We're proving it's possible to win the right way. There\u2019s nothing Matt Rosendale and his wealthy dono\u2026 https://t.co/GWevHEhvv7", 
+        "is_quote_status": false, 
+        "in_reply_to_status_id": null, 
+        "id": 1022582649326452736, 
+        "favorite_count": 19, 
+        "source": "<a href=\"https://ads-api.twitter.com\" rel=\"nofollow\">Twitter Ads Composer</a>", 
+        "retweeted": false, 
+        "coordinates": null, 
+        "entities": {
+            "symbols": [], 
+            "user_mentions": [], 
+            "hashtags": [], 
+            "urls": [
+                {
+                    "url": "https://t.co/GWevHEhvv7", 
+                    "indices": [
+                        117, 
+                        140
+                    ], 
+                    "expanded_url": "https://twitter.com/i/web/status/1022582649326452736", 
+                    "display_url": "twitter.com/i/web/status/1\u2026"
+                }
+            ]
+        }, 
+        "in_reply_to_screen_name": null, 
+        "in_reply_to_user_id": null, 
+        "scopes": {
+            "followers": false
+        }, 
+        "retweet_count": 8, 
+        "id_str": "1022582649326452736", 
+        "favorited": false, 
+        "user": {
+            "follow_request_sent": false, 
+            "has_extended_profile": false, 
+            "profile_use_background_image": true, 
+            "default_profile_image": false, 
+            "id": 16473577, 
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+            "verified": true, 
+            "translator_type": "none", 
+            "profile_text_color": "111100", 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1879706550/20120307-TwitterProfPic_normal.jpg", 
+            "profile_sidebar_fill_color": "FFFFFF", 
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/OGzZc7FkEs", 
+                            "indices": [
+                                0, 
+                                22
+                            ], 
+                            "expanded_url": "http://www.jontester.com", 
+                            "display_url": "jontester.com"
+                        }
+                    ]
+                }, 
+                "description": {
+                    "urls": []
+                }
+            }, 
+            "followers_count": 25512, 
+            "profile_sidebar_border_color": "EFD5AE", 
+            "id_str": "16473577", 
+            "profile_background_color": "EEE2CC", 
+            "listed_count": 802, 
+            "is_translation_enabled": false, 
+            "utc_offset": null, 
+            "statuses_count": 2829, 
+            "description": "Senate campaign of Jon Tester - dirt farmer & Montana Senator from Big Sandy - RTs, Replies & Follows \u2260 Endorsement", 
+            "friends_count": 3279, 
+            "location": "Big Sandy, Montana", 
+            "profile_link_color": "001C24", 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1879706550/20120307-TwitterProfPic_normal.jpg", 
+            "following": false, 
+            "geo_enabled": true, 
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/16473577/1487804650", 
+            "profile_image_extensions_alt_text": null, 
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+            "screen_name": "jontester", 
+            "lang": "en", 
+            "profile_background_tile": false, 
+            "favourites_count": 13, 
+            "name": "Jon Tester", 
+            "notifications": false, 
+            "url": "http://t.co/OGzZc7FkEs", 
+            "created_at": "Fri Sep 26 19:59:20 +0000 2008", 
+            "profile_banner_extensions_alt_text": null, 
+            "contributors_enabled": false, 
+            "time_zone": null, 
+            "protected": false, 
+            "default_profile": false, 
+            "is_translator": false
+        }, 
+        "geo": null, 
+        "in_reply_to_user_id_str": null, 
+        "lang": "en", 
+        "created_at": "Thu Jul 26 20:41:16 +0000 2018", 
+        "in_reply_to_status_id_str": null, 
+        "place": null
+    }
+]

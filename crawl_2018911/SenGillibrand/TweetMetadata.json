@@ -1,0 +1,645 @@
+{
+    "1027664863374393344": {
+        "ScreenName": "SenGillibrand", 
+        "UserID": "72198806", 
+        "TweetCampaigns": {
+            "metadata": [
+                {
+                    "usd_spend": 52360.16802, 
+                    "start_timestamp": 1531262580, 
+                    "account_id": "18ce54qbbr5", 
+                    "tweet_count": 21, 
+                    "tailored_audience_used": false, 
+                    "political_disclaimer": {
+                        "organization": "Gillibrand for Senate", 
+                        "sponsorshipType": "Direct"
+                    }, 
+                    "impressions": 4695183, 
+                    "line_item_id": "bzr7v", 
+                    "end_timestamp": 1535810398
+                }
+            ]
+        }, 
+        "TweetPerformance": {
+            "isRejected": false, 
+            "tweetPerformance": {
+                "totalSpend": 4031.825973, 
+                "totalImpressions": 312962
+            }
+        }
+    }, 
+    "1017161672455147520": {
+        "ScreenName": "SenGillibrand", 
+        "UserID": "72198806", 
+        "TweetCampaigns": {
+            "metadata": [
+                {
+                    "usd_spend": 400.696064, 
+                    "start_timestamp": 1531262580, 
+                    "account_id": "18ce54qbbr5", 
+                    "tweet_count": 4, 
+                    "tailored_audience_used": true, 
+                    "political_disclaimer": {
+                        "organization": "Gillibrand for Senate", 
+                        "sponsorshipType": "Direct"
+                    }, 
+                    "impressions": 31470, 
+                    "line_item_id": "c21xt", 
+                    "end_timestamp": 1532387097
+                }
+            ]
+        }, 
+        "TweetPerformance": {
+            "isRejected": false, 
+            "tweetPerformance": {
+                "totalSpend": 87.506436, 
+                "totalImpressions": 6050
+            }
+        }
+    }, 
+    "1016809901308297216": {
+        "ScreenName": "SenGillibrand", 
+        "UserID": "72198806", 
+        "TweetCampaigns": {
+            "metadata": [
+                {
+                    "usd_spend": 52360.16802, 
+                    "start_timestamp": 1531262580, 
+                    "account_id": "18ce54qbbr5", 
+                    "tweet_count": 21, 
+                    "tailored_audience_used": false, 
+                    "political_disclaimer": {
+                        "organization": "Gillibrand for Senate", 
+                        "sponsorshipType": "Direct"
+                    }, 
+                    "impressions": 4695178, 
+                    "line_item_id": "bzr7v", 
+                    "end_timestamp": 1535810398
+                }
+            ]
+        }, 
+        "TweetPerformance": {
+            "isRejected": false, 
+            "tweetPerformance": {
+                "totalSpend": 10204.915009, 
+                "totalImpressions": 970978
+            }
+        }
+    }, 
+    "1017161721624981504": {
+        "ScreenName": "SenGillibrand", 
+        "UserID": "72198806", 
+        "TweetCampaigns": {
+            "metadata": [
+                {
+                    "usd_spend": 400.696064, 
+                    "start_timestamp": 1531262580, 
+                    "account_id": "18ce54qbbr5", 
+                    "tweet_count": 4, 
+                    "tailored_audience_used": true, 
+                    "political_disclaimer": {
+                        "organization": "Gillibrand for Senate", 
+                        "sponsorshipType": "Direct"
+                    }, 
+                    "impressions": 31470, 
+                    "line_item_id": "c21xt", 
+                    "end_timestamp": 1532387097
+                }
+            ]
+        }, 
+        "TweetPerformance": {
+            "isRejected": false, 
+            "tweetPerformance": {
+                "totalSpend": 172.656766, 
+                "totalImpressions": 13876
+            }
+        }
+    }, 
+    "1027660884129148935": {
+        "ScreenName": "SenGillibrand", 
+        "UserID": "72198806", 
+        "TweetCampaigns": {
+            "metadata": [
+                {
+                    "usd_spend": 52360.16802, 
+                    "start_timestamp": 1531262580, 
+                    "account_id": "18ce54qbbr5", 
+                    "tweet_count": 21, 
+                    "tailored_audience_used": false, 
+                    "political_disclaimer": {
+                        "organization": "Gillibrand for Senate", 
+                        "sponsorshipType": "Direct"
+                    }, 
+                    "impressions": 4695180, 
+                    "line_item_id": "bzr7v", 
+                    "end_timestamp": 1535810398
+                }
+            ]
+        }, 
+        "TweetPerformance": {
+            "isRejected": false, 
+            "tweetPerformance": {
+                "totalSpend": 52.281012, 
+                "totalImpressions": 6808
+            }
+        }
+    }, 
+    "1016809888003964929": {
+        "ScreenName": "SenGillibrand", 
+        "UserID": "72198806", 
+        "TweetCampaigns": {
+            "metadata": [
+                {
+                    "usd_spend": 52360.16802, 
+                    "start_timestamp": 1531262580, 
+                    "account_id": "18ce54qbbr5", 
+                    "tweet_count": 21, 
+                    "tailored_audience_used": false, 
+                    "political_disclaimer": {
+                        "organization": "Gillibrand for Senate", 
+                        "sponsorshipType": "Direct"
+                    }, 
+                    "impressions": 4695173, 
+                    "line_item_id": "bzr7v", 
+                    "end_timestamp": 1535810398
+                }
+            ]
+        }, 
+        "TweetPerformance": {
+            "isRejected": false, 
+            "tweetPerformance": {
+                "totalSpend": 8529.795134, 
+                "totalImpressions": 754710
+            }
+        }
+    }, 
+    "1027660294137425920": {
+        "ScreenName": "SenGillibrand", 
+        "UserID": "72198806", 
+        "TweetCampaigns": {
+            "metadata": [
+                {
+                    "usd_spend": 52360.16802, 
+                    "start_timestamp": 1531262580, 
+                    "account_id": "18ce54qbbr5", 
+                    "tweet_count": 21, 
+                    "tailored_audience_used": false, 
+                    "political_disclaimer": {
+                        "organization": "Gillibrand for Senate", 
+                        "sponsorshipType": "Direct"
+                    }, 
+                    "impressions": 4695178, 
+                    "line_item_id": "bzr7v", 
+                    "end_timestamp": 1535810398
+                }
+            ]
+        }, 
+        "TweetPerformance": {
+            "isRejected": false, 
+            "tweetPerformance": {
+                "totalSpend": 1149.077262, 
+                "totalImpressions": 99931
+            }
+        }
+    }, 
+    "1027660570198065153": {
+        "ScreenName": "SenGillibrand", 
+        "UserID": "72198806", 
+        "TweetCampaigns": {
+            "metadata": [
+                {
+                    "usd_spend": 52360.16802, 
+                    "start_timestamp": 1531262580, 
+                    "account_id": "18ce54qbbr5", 
+                    "tweet_count": 21, 
+                    "tailored_audience_used": false, 
+                    "political_disclaimer": {
+                        "organization": "Gillibrand for Senate", 
+                        "sponsorshipType": "Direct"
+                    }, 
+                    "impressions": 4695180, 
+                    "line_item_id": "bzr7v", 
+                    "end_timestamp": 1535810398
+                }
+            ]
+        }, 
+        "TweetPerformance": {
+            "isRejected": false, 
+            "tweetPerformance": {
+                "totalSpend": 266.982282, 
+                "totalImpressions": 26143
+            }
+        }
+    }, 
+    "966791454445076480": {
+        "ScreenName": "SenGillibrand", 
+        "UserID": "72198806", 
+        "TweetCampaigns": {
+            "metadata": [
+                {
+                    "usd_spend": 52360.16802, 
+                    "start_timestamp": 1531262580, 
+                    "account_id": "18ce54qbbr5", 
+                    "tweet_count": 21, 
+                    "tailored_audience_used": false, 
+                    "political_disclaimer": {
+                        "organization": "Gillibrand for Senate", 
+                        "sponsorshipType": "Direct"
+                    }, 
+                    "impressions": 4695166, 
+                    "line_item_id": "bzr7v", 
+                    "end_timestamp": 1535810398
+                }
+            ]
+        }, 
+        "TweetPerformance": {
+            "isRejected": false, 
+            "tweetPerformance": null
+        }
+    }, 
+    "1027664568556744704": {
+        "ScreenName": "SenGillibrand", 
+        "UserID": "72198806", 
+        "TweetCampaigns": {
+            "metadata": [
+                {
+                    "usd_spend": 52360.16802, 
+                    "start_timestamp": 1531262580, 
+                    "account_id": "18ce54qbbr5", 
+                    "tweet_count": 21, 
+                    "tailored_audience_used": false, 
+                    "political_disclaimer": {
+                        "organization": "Gillibrand for Senate", 
+                        "sponsorshipType": "Direct"
+                    }, 
+                    "impressions": 4695183, 
+                    "line_item_id": "bzr7v", 
+                    "end_timestamp": 1535810398
+                }
+            ]
+        }, 
+        "TweetPerformance": {
+            "isRejected": false, 
+            "tweetPerformance": {
+                "totalSpend": 3005.263358, 
+                "totalImpressions": 300657
+            }
+        }
+    }, 
+    "1017161644080652288": {
+        "ScreenName": "SenGillibrand", 
+        "UserID": "72198806", 
+        "TweetCampaigns": {
+            "metadata": [
+                {
+                    "usd_spend": 400.696064, 
+                    "start_timestamp": 1531262580, 
+                    "account_id": "18ce54qbbr5", 
+                    "tweet_count": 4, 
+                    "tailored_audience_used": true, 
+                    "political_disclaimer": {
+                        "organization": "Gillibrand for Senate", 
+                        "sponsorshipType": "Direct"
+                    }, 
+                    "impressions": 31470, 
+                    "line_item_id": "c21xt", 
+                    "end_timestamp": 1532387097
+                }
+            ]
+        }, 
+        "TweetPerformance": {
+            "isRejected": false, 
+            "tweetPerformance": {
+                "totalSpend": 126.796323, 
+                "totalImpressions": 10526
+            }
+        }
+    }, 
+    "1027664665487138818": {
+        "ScreenName": "SenGillibrand", 
+        "UserID": "72198806", 
+        "TweetCampaigns": {
+            "metadata": [
+                {
+                    "usd_spend": 52360.16802, 
+                    "start_timestamp": 1531262580, 
+                    "account_id": "18ce54qbbr5", 
+                    "tweet_count": 21, 
+                    "tailored_audience_used": false, 
+                    "political_disclaimer": {
+                        "organization": "Gillibrand for Senate", 
+                        "sponsorshipType": "Direct"
+                    }, 
+                    "impressions": 4695183, 
+                    "line_item_id": "bzr7v", 
+                    "end_timestamp": 1535810398
+                }
+            ]
+        }, 
+        "TweetPerformance": {
+            "isRejected": false, 
+            "tweetPerformance": {
+                "totalSpend": 429.629902, 
+                "totalImpressions": 33540
+            }
+        }
+    }, 
+    "1016809862473248770": {
+        "ScreenName": "SenGillibrand", 
+        "UserID": "72198806", 
+        "TweetCampaigns": {
+            "metadata": [
+                {
+                    "usd_spend": 52360.16802, 
+                    "start_timestamp": 1531262580, 
+                    "account_id": "18ce54qbbr5", 
+                    "tweet_count": 21, 
+                    "tailored_audience_used": false, 
+                    "political_disclaimer": {
+                        "organization": "Gillibrand for Senate", 
+                        "sponsorshipType": "Direct"
+                    }, 
+                    "impressions": 4695173, 
+                    "line_item_id": "bzr7v", 
+                    "end_timestamp": 1535810398
+                }
+            ]
+        }, 
+        "TweetPerformance": {
+            "isRejected": false, 
+            "tweetPerformance": {
+                "totalSpend": 16425.502507, 
+                "totalImpressions": 1480204
+            }
+        }
+    }, 
+    "966791414842474496": {
+        "ScreenName": "SenGillibrand", 
+        "UserID": "72198806", 
+        "TweetCampaigns": {
+            "metadata": [
+                {
+                    "usd_spend": 52360.16802, 
+                    "start_timestamp": 1531262580, 
+                    "account_id": "18ce54qbbr5", 
+                    "tweet_count": 21, 
+                    "tailored_audience_used": false, 
+                    "political_disclaimer": {
+                        "organization": "Gillibrand for Senate", 
+                        "sponsorshipType": "Direct"
+                    }, 
+                    "impressions": 4695170, 
+                    "line_item_id": "bzr7v", 
+                    "end_timestamp": 1535810398
+                }
+            ]
+        }, 
+        "TweetPerformance": {
+            "isRejected": false, 
+            "tweetPerformance": null
+        }
+    }, 
+    "966787578945875968": {
+        "ScreenName": "SenGillibrand", 
+        "UserID": "72198806", 
+        "TweetCampaigns": {
+            "metadata": [
+                {
+                    "usd_spend": 52360.16802, 
+                    "start_timestamp": 1531262580, 
+                    "account_id": "18ce54qbbr5", 
+                    "tweet_count": 21, 
+                    "tailored_audience_used": false, 
+                    "political_disclaimer": {
+                        "organization": "Gillibrand for Senate", 
+                        "sponsorshipType": "Direct"
+                    }, 
+                    "impressions": 4695166, 
+                    "line_item_id": "bzr7v", 
+                    "end_timestamp": 1535810398
+                }
+            ]
+        }, 
+        "TweetPerformance": {
+            "isRejected": false, 
+            "tweetPerformance": null
+        }
+    }, 
+    "966791550419197952": {
+        "ScreenName": "SenGillibrand", 
+        "UserID": "72198806", 
+        "TweetCampaigns": {
+            "metadata": [
+                {
+                    "usd_spend": 52360.16802, 
+                    "start_timestamp": 1531262580, 
+                    "account_id": "18ce54qbbr5", 
+                    "tweet_count": 21, 
+                    "tailored_audience_used": false, 
+                    "political_disclaimer": {
+                        "organization": "Gillibrand for Senate", 
+                        "sponsorshipType": "Direct"
+                    }, 
+                    "impressions": 4695173, 
+                    "line_item_id": "bzr7v", 
+                    "end_timestamp": 1535810398
+                }
+            ]
+        }, 
+        "TweetPerformance": {
+            "isRejected": false, 
+            "tweetPerformance": null
+        }
+    }, 
+    "1016809875207217152": {
+        "ScreenName": "SenGillibrand", 
+        "UserID": "72198806", 
+        "TweetCampaigns": {
+            "metadata": [
+                {
+                    "usd_spend": 52360.16802, 
+                    "start_timestamp": 1531262580, 
+                    "account_id": "18ce54qbbr5", 
+                    "tweet_count": 21, 
+                    "tailored_audience_used": false, 
+                    "political_disclaimer": {
+                        "organization": "Gillibrand for Senate", 
+                        "sponsorshipType": "Direct"
+                    }, 
+                    "impressions": 4695173, 
+                    "line_item_id": "bzr7v", 
+                    "end_timestamp": 1535810398
+                }
+            ]
+        }, 
+        "TweetPerformance": {
+            "isRejected": false, 
+            "tweetPerformance": {
+                "totalSpend": 8300.900818, 
+                "totalImpressions": 712631
+            }
+        }
+    }, 
+    "966791499655475200": {
+        "ScreenName": "SenGillibrand", 
+        "UserID": "72198806", 
+        "TweetCampaigns": {
+            "metadata": [
+                {
+                    "usd_spend": 52360.16802, 
+                    "start_timestamp": 1531262580, 
+                    "account_id": "18ce54qbbr5", 
+                    "tweet_count": 21, 
+                    "tailored_audience_used": false, 
+                    "political_disclaimer": {
+                        "organization": "Gillibrand for Senate", 
+                        "sponsorshipType": "Direct"
+                    }, 
+                    "impressions": 4695170, 
+                    "line_item_id": "bzr7v", 
+                    "end_timestamp": 1535810398
+                }
+            ]
+        }, 
+        "TweetPerformance": {
+            "isRejected": false, 
+            "tweetPerformance": null
+        }
+    }, 
+    "1012134780769579009": {
+        "ScreenName": "SenGillibrand", 
+        "UserID": "72198806", 
+        "TweetCampaigns": {
+            "metadata": [
+                {
+                    "usd_spend": 1860.0, 
+                    "start_timestamp": 1530191760, 
+                    "account_id": "18ce54qbbr5", 
+                    "tweet_count": 1, 
+                    "tailored_audience_used": false, 
+                    "political_disclaimer": {
+                        "organization": "Gillibrand for Senate", 
+                        "sponsorshipType": "Direct"
+                    }, 
+                    "impressions": 166550, 
+                    "line_item_id": "bypam", 
+                    "end_timestamp": 1530475744
+                }
+            ]
+        }, 
+        "TweetPerformance": {
+            "isRejected": false, 
+            "tweetPerformance": {
+                "totalSpend": 1860.0, 
+                "totalImpressions": 166550
+            }
+        }
+    }, 
+    "966787324418842624": {
+        "ScreenName": "SenGillibrand", 
+        "UserID": "72198806", 
+        "TweetCampaigns": {
+            "metadata": [
+                {
+                    "usd_spend": 52360.16802, 
+                    "start_timestamp": 1531262580, 
+                    "account_id": "18ce54qbbr5", 
+                    "tweet_count": 21, 
+                    "tailored_audience_used": false, 
+                    "political_disclaimer": {
+                        "organization": "Gillibrand for Senate", 
+                        "sponsorshipType": "Direct"
+                    }, 
+                    "impressions": 4695166, 
+                    "line_item_id": "bzr7v", 
+                    "end_timestamp": 1535810398
+                }
+            ]
+        }, 
+        "TweetPerformance": {
+            "isRejected": false, 
+            "tweetPerformance": null
+        }
+    }, 
+    "966787731262095361": {
+        "ScreenName": "SenGillibrand", 
+        "UserID": "72198806", 
+        "TweetCampaigns": {
+            "metadata": [
+                {
+                    "usd_spend": 52360.16802, 
+                    "start_timestamp": 1531262580, 
+                    "account_id": "18ce54qbbr5", 
+                    "tweet_count": 21, 
+                    "tailored_audience_used": false, 
+                    "political_disclaimer": {
+                        "organization": "Gillibrand for Senate", 
+                        "sponsorshipType": "Direct"
+                    }, 
+                    "impressions": 4695170, 
+                    "line_item_id": "bzr7v", 
+                    "end_timestamp": 1535810398
+                }
+            ]
+        }, 
+        "TweetPerformance": {
+            "isRejected": false, 
+            "tweetPerformance": null
+        }
+    }, 
+    "966786420890222592": {
+        "ScreenName": "SenGillibrand", 
+        "UserID": "72198806", 
+        "TweetCampaigns": {
+            "metadata": [
+                {
+                    "usd_spend": 52360.16802, 
+                    "start_timestamp": 1531262580, 
+                    "account_id": "18ce54qbbr5", 
+                    "tweet_count": 21, 
+                    "tailored_audience_used": false, 
+                    "political_disclaimer": {
+                        "organization": "Gillibrand for Senate", 
+                        "sponsorshipType": "Direct"
+                    }, 
+                    "impressions": 4695166, 
+                    "line_item_id": "bzr7v", 
+                    "end_timestamp": 1535810398
+                }
+            ]
+        }, 
+        "TweetPerformance": {
+            "isRejected": false, 
+            "tweetPerformance": null
+        }
+    }, 
+    "1017161752776069120": {
+        "ScreenName": "SenGillibrand", 
+        "UserID": "72198806", 
+        "TweetCampaigns": {
+            "metadata": [
+                {
+                    "usd_spend": 400.696064, 
+                    "start_timestamp": 1531262580, 
+                    "account_id": "18ce54qbbr5", 
+                    "tweet_count": 4, 
+                    "tailored_audience_used": true, 
+                    "political_disclaimer": {
+                        "organization": "Gillibrand for Senate", 
+                        "sponsorshipType": "Direct"
+                    }, 
+                    "impressions": 31470, 
+                    "line_item_id": "c21xt", 
+                    "end_timestamp": 1532387097
+                }
+            ]
+        }, 
+        "TweetPerformance": {
+            "isRejected": false, 
+            "tweetPerformance": {
+                "totalSpend": 13.736539, 
+                "totalImpressions": 1018
+            }
+        }
+    }
+}

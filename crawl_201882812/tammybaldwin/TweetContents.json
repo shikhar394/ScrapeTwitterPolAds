@@ -1,0 +1,3278 @@
+[
+    {
+        "card_uri": "card://1025377451940016131", 
+        "contributors": null, 
+        "truncated": true, 
+        "text": "President Trump is determined to make it harder for people with pre-existing conditions to get quality health care.\u2026 https://t.co/wWOvRIubiI", 
+        "is_quote_status": false, 
+        "in_reply_to_status_id": null, 
+        "id": 1025392443082960899, 
+        "favorite_count": 52, 
+        "source": "<a href=\"https://ads-api.twitter.com\" rel=\"nofollow\">Twitter Ads Composer</a>", 
+        "retweeted": false, 
+        "coordinates": null, 
+        "entities": {
+            "symbols": [], 
+            "user_mentions": [], 
+            "hashtags": [], 
+            "urls": [
+                {
+                    "url": "https://t.co/wWOvRIubiI", 
+                    "indices": [
+                        117, 
+                        140
+                    ], 
+                    "expanded_url": "https://twitter.com/i/web/status/1025392443082960899", 
+                    "display_url": "twitter.com/i/web/status/1\u2026"
+                }
+            ]
+        }, 
+        "in_reply_to_screen_name": null, 
+        "in_reply_to_user_id": null, 
+        "scopes": {
+            "followers": false
+        }, 
+        "retweet_count": 35, 
+        "id_str": "1025392443082960899", 
+        "favorited": false, 
+        "user": {
+            "follow_request_sent": false, 
+            "has_extended_profile": false, 
+            "profile_use_background_image": true, 
+            "default_profile_image": false, 
+            "id": 87510313, 
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+            "verified": true, 
+            "translator_type": "none", 
+            "profile_text_color": "333333", 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1022814956742471681/H8bGnxFb_normal.jpg", 
+            "profile_sidebar_fill_color": "DDEEF6", 
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/Ub0vOuchNn", 
+                            "indices": [
+                                0, 
+                                23
+                            ], 
+                            "expanded_url": "http://www.tammybaldwin.com", 
+                            "display_url": "tammybaldwin.com"
+                        }
+                    ]
+                }, 
+                "description": {
+                    "urls": []
+                }
+            }, 
+            "followers_count": 41252, 
+            "profile_sidebar_border_color": "C0DEED", 
+            "id_str": "87510313", 
+            "profile_background_color": "C0DEED", 
+            "listed_count": 1237, 
+            "is_translation_enabled": false, 
+            "utc_offset": null, 
+            "statuses_count": 4154, 
+            "description": "Campaign account for Senator Tammy Baldwin. Tweets by staff. Tweets from Tammy signed \u2014 TB.", 
+            "friends_count": 4654, 
+            "location": "Wisconsin", 
+            "profile_link_color": "1DA1F2", 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1022814956742471681/H8bGnxFb_normal.jpg", 
+            "following": false, 
+            "geo_enabled": true, 
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/87510313/1535472362", 
+            "profile_image_extensions_alt_text": null, 
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+            "screen_name": "tammybaldwin", 
+            "lang": "en", 
+            "profile_background_tile": false, 
+            "favourites_count": 15, 
+            "name": "Tammy Baldwin", 
+            "notifications": false, 
+            "url": "https://t.co/Ub0vOuchNn", 
+            "created_at": "Wed Nov 04 19:20:25 +0000 2009", 
+            "profile_banner_extensions_alt_text": null, 
+            "contributors_enabled": false, 
+            "time_zone": null, 
+            "protected": false, 
+            "default_profile": true, 
+            "is_translator": false
+        }, 
+        "geo": null, 
+        "in_reply_to_user_id_str": null, 
+        "lang": "en", 
+        "created_at": "Fri Aug 03 14:46:23 +0000 2018", 
+        "in_reply_to_status_id_str": null, 
+        "place": null
+    }, 
+    {
+        "card_uri": "card://1025393799588016128", 
+        "contributors": null, 
+        "truncated": true, 
+        "text": "The Trump administration just announced that it will allow insurance companies to sell #junkplans that will skirt e\u2026 https://t.co/La123oUkW5", 
+        "is_quote_status": false, 
+        "in_reply_to_status_id": null, 
+        "id": 1025394238526115840, 
+        "favorite_count": 9, 
+        "source": "<a href=\"https://ads-api.twitter.com\" rel=\"nofollow\">Twitter Ads Composer</a>", 
+        "retweeted": false, 
+        "coordinates": null, 
+        "entities": {
+            "symbols": [], 
+            "user_mentions": [], 
+            "hashtags": [
+                {
+                    "indices": [
+                        87, 
+                        97
+                    ], 
+                    "text": "junkplans"
+                }
+            ], 
+            "urls": [
+                {
+                    "url": "https://t.co/La123oUkW5", 
+                    "indices": [
+                        117, 
+                        140
+                    ], 
+                    "expanded_url": "https://twitter.com/i/web/status/1025394238526115840", 
+                    "display_url": "twitter.com/i/web/status/1\u2026"
+                }
+            ]
+        }, 
+        "in_reply_to_screen_name": null, 
+        "in_reply_to_user_id": null, 
+        "scopes": {
+            "followers": false
+        }, 
+        "retweet_count": 6, 
+        "id_str": "1025394238526115840", 
+        "favorited": false, 
+        "user": {
+            "follow_request_sent": false, 
+            "has_extended_profile": false, 
+            "profile_use_background_image": true, 
+            "default_profile_image": false, 
+            "id": 87510313, 
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+            "verified": true, 
+            "translator_type": "none", 
+            "profile_text_color": "333333", 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1022814956742471681/H8bGnxFb_normal.jpg", 
+            "profile_sidebar_fill_color": "DDEEF6", 
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/Ub0vOuchNn", 
+                            "indices": [
+                                0, 
+                                23
+                            ], 
+                            "expanded_url": "http://www.tammybaldwin.com", 
+                            "display_url": "tammybaldwin.com"
+                        }
+                    ]
+                }, 
+                "description": {
+                    "urls": []
+                }
+            }, 
+            "followers_count": 41252, 
+            "profile_sidebar_border_color": "C0DEED", 
+            "id_str": "87510313", 
+            "profile_background_color": "C0DEED", 
+            "listed_count": 1237, 
+            "is_translation_enabled": false, 
+            "utc_offset": null, 
+            "statuses_count": 4154, 
+            "description": "Campaign account for Senator Tammy Baldwin. Tweets by staff. Tweets from Tammy signed \u2014 TB.", 
+            "friends_count": 4654, 
+            "location": "Wisconsin", 
+            "profile_link_color": "1DA1F2", 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1022814956742471681/H8bGnxFb_normal.jpg", 
+            "following": false, 
+            "geo_enabled": true, 
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/87510313/1535472362", 
+            "profile_image_extensions_alt_text": null, 
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+            "screen_name": "tammybaldwin", 
+            "lang": "en", 
+            "profile_background_tile": false, 
+            "favourites_count": 15, 
+            "name": "Tammy Baldwin", 
+            "notifications": false, 
+            "url": "https://t.co/Ub0vOuchNn", 
+            "created_at": "Wed Nov 04 19:20:25 +0000 2009", 
+            "profile_banner_extensions_alt_text": null, 
+            "contributors_enabled": false, 
+            "time_zone": null, 
+            "protected": false, 
+            "default_profile": true, 
+            "is_translator": false
+        }, 
+        "geo": null, 
+        "in_reply_to_user_id_str": null, 
+        "lang": "en", 
+        "created_at": "Fri Aug 03 14:53:32 +0000 2018", 
+        "in_reply_to_status_id_str": null, 
+        "place": null
+    }, 
+    {
+        "card_uri": "card://1025392933132886016", 
+        "contributors": null, 
+        "truncated": true, 
+        "text": "The Trump administration is going to let insurance companies sell #junkplans that won\u2019t protect people with pre-exi\u2026 https://t.co/rA75YfigtP", 
+        "is_quote_status": false, 
+        "in_reply_to_status_id": null, 
+        "id": 1025393257096724480, 
+        "favorite_count": 23, 
+        "source": "<a href=\"https://ads-api.twitter.com\" rel=\"nofollow\">Twitter Ads Composer</a>", 
+        "retweeted": false, 
+        "coordinates": null, 
+        "entities": {
+            "symbols": [], 
+            "user_mentions": [], 
+            "hashtags": [
+                {
+                    "indices": [
+                        66, 
+                        76
+                    ], 
+                    "text": "junkplans"
+                }
+            ], 
+            "urls": [
+                {
+                    "url": "https://t.co/rA75YfigtP", 
+                    "indices": [
+                        117, 
+                        140
+                    ], 
+                    "expanded_url": "https://twitter.com/i/web/status/1025393257096724480", 
+                    "display_url": "twitter.com/i/web/status/1\u2026"
+                }
+            ]
+        }, 
+        "in_reply_to_screen_name": null, 
+        "in_reply_to_user_id": null, 
+        "scopes": {
+            "followers": false
+        }, 
+        "retweet_count": 16, 
+        "id_str": "1025393257096724480", 
+        "favorited": false, 
+        "user": {
+            "follow_request_sent": false, 
+            "has_extended_profile": false, 
+            "profile_use_background_image": true, 
+            "default_profile_image": false, 
+            "id": 87510313, 
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+            "verified": true, 
+            "translator_type": "none", 
+            "profile_text_color": "333333", 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1022814956742471681/H8bGnxFb_normal.jpg", 
+            "profile_sidebar_fill_color": "DDEEF6", 
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/Ub0vOuchNn", 
+                            "indices": [
+                                0, 
+                                23
+                            ], 
+                            "expanded_url": "http://www.tammybaldwin.com", 
+                            "display_url": "tammybaldwin.com"
+                        }
+                    ]
+                }, 
+                "description": {
+                    "urls": []
+                }
+            }, 
+            "followers_count": 41252, 
+            "profile_sidebar_border_color": "C0DEED", 
+            "id_str": "87510313", 
+            "profile_background_color": "C0DEED", 
+            "listed_count": 1237, 
+            "is_translation_enabled": false, 
+            "utc_offset": null, 
+            "statuses_count": 4154, 
+            "description": "Campaign account for Senator Tammy Baldwin. Tweets by staff. Tweets from Tammy signed \u2014 TB.", 
+            "friends_count": 4654, 
+            "location": "Wisconsin", 
+            "profile_link_color": "1DA1F2", 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1022814956742471681/H8bGnxFb_normal.jpg", 
+            "following": false, 
+            "geo_enabled": true, 
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/87510313/1535472362", 
+            "profile_image_extensions_alt_text": null, 
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+            "screen_name": "tammybaldwin", 
+            "lang": "en", 
+            "profile_background_tile": false, 
+            "favourites_count": 15, 
+            "name": "Tammy Baldwin", 
+            "notifications": false, 
+            "url": "https://t.co/Ub0vOuchNn", 
+            "created_at": "Wed Nov 04 19:20:25 +0000 2009", 
+            "profile_banner_extensions_alt_text": null, 
+            "contributors_enabled": false, 
+            "time_zone": null, 
+            "protected": false, 
+            "default_profile": true, 
+            "is_translator": false
+        }, 
+        "geo": null, 
+        "in_reply_to_user_id_str": null, 
+        "lang": "en", 
+        "created_at": "Fri Aug 03 14:49:38 +0000 2018", 
+        "in_reply_to_status_id_str": null, 
+        "place": null
+    }, 
+    {
+        "card_uri": "card://1025393703915909120", 
+        "contributors": null, 
+        "truncated": true, 
+        "text": "The Trump administration is going to let insurance companies sell #junkplans that won\u2019t protect people with pre-exi\u2026 https://t.co/aJt5DLdCML", 
+        "is_quote_status": false, 
+        "in_reply_to_status_id": null, 
+        "id": 1025394146981244928, 
+        "favorite_count": 2, 
+        "source": "<a href=\"https://ads-api.twitter.com\" rel=\"nofollow\">Twitter Ads Composer</a>", 
+        "retweeted": false, 
+        "coordinates": null, 
+        "entities": {
+            "symbols": [], 
+            "user_mentions": [], 
+            "hashtags": [
+                {
+                    "indices": [
+                        66, 
+                        76
+                    ], 
+                    "text": "junkplans"
+                }
+            ], 
+            "urls": [
+                {
+                    "url": "https://t.co/aJt5DLdCML", 
+                    "indices": [
+                        117, 
+                        140
+                    ], 
+                    "expanded_url": "https://twitter.com/i/web/status/1025394146981244928", 
+                    "display_url": "twitter.com/i/web/status/1\u2026"
+                }
+            ]
+        }, 
+        "in_reply_to_screen_name": null, 
+        "in_reply_to_user_id": null, 
+        "scopes": {
+            "followers": false
+        }, 
+        "retweet_count": 3, 
+        "id_str": "1025394146981244928", 
+        "favorited": false, 
+        "user": {
+            "follow_request_sent": false, 
+            "has_extended_profile": false, 
+            "profile_use_background_image": true, 
+            "default_profile_image": false, 
+            "id": 87510313, 
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+            "verified": true, 
+            "translator_type": "none", 
+            "profile_text_color": "333333", 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1022814956742471681/H8bGnxFb_normal.jpg", 
+            "profile_sidebar_fill_color": "DDEEF6", 
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/Ub0vOuchNn", 
+                            "indices": [
+                                0, 
+                                23
+                            ], 
+                            "expanded_url": "http://www.tammybaldwin.com", 
+                            "display_url": "tammybaldwin.com"
+                        }
+                    ]
+                }, 
+                "description": {
+                    "urls": []
+                }
+            }, 
+            "followers_count": 41252, 
+            "profile_sidebar_border_color": "C0DEED", 
+            "id_str": "87510313", 
+            "profile_background_color": "C0DEED", 
+            "listed_count": 1237, 
+            "is_translation_enabled": false, 
+            "utc_offset": null, 
+            "statuses_count": 4154, 
+            "description": "Campaign account for Senator Tammy Baldwin. Tweets by staff. Tweets from Tammy signed \u2014 TB.", 
+            "friends_count": 4654, 
+            "location": "Wisconsin", 
+            "profile_link_color": "1DA1F2", 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1022814956742471681/H8bGnxFb_normal.jpg", 
+            "following": false, 
+            "geo_enabled": true, 
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/87510313/1535472362", 
+            "profile_image_extensions_alt_text": null, 
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+            "screen_name": "tammybaldwin", 
+            "lang": "en", 
+            "profile_background_tile": false, 
+            "favourites_count": 15, 
+            "name": "Tammy Baldwin", 
+            "notifications": false, 
+            "url": "https://t.co/Ub0vOuchNn", 
+            "created_at": "Wed Nov 04 19:20:25 +0000 2009", 
+            "profile_banner_extensions_alt_text": null, 
+            "contributors_enabled": false, 
+            "time_zone": null, 
+            "protected": false, 
+            "default_profile": true, 
+            "is_translator": false
+        }, 
+        "geo": null, 
+        "in_reply_to_user_id_str": null, 
+        "lang": "en", 
+        "created_at": "Fri Aug 03 14:53:10 +0000 2018", 
+        "in_reply_to_status_id_str": null, 
+        "place": null
+    }, 
+    {
+        "card_uri": "card://1018945443768614912", 
+        "contributors": null, 
+        "truncated": true, 
+        "text": "There\u2019s no doubt the Russian government interfered in our democracy. It\u2019s wrong for the president to deny that fact\u2026 https://t.co/amXLfkxdyz", 
+        "is_quote_status": false, 
+        "in_reply_to_status_id": null, 
+        "id": 1018948056085983232, 
+        "favorite_count": 8, 
+        "source": "<a href=\"https://ads-api.twitter.com\" rel=\"nofollow\">Twitter Ads Composer</a>", 
+        "retweeted": false, 
+        "coordinates": null, 
+        "entities": {
+            "symbols": [], 
+            "user_mentions": [], 
+            "hashtags": [], 
+            "urls": [
+                {
+                    "url": "https://t.co/amXLfkxdyz", 
+                    "indices": [
+                        117, 
+                        140
+                    ], 
+                    "expanded_url": "https://twitter.com/i/web/status/1018948056085983232", 
+                    "display_url": "twitter.com/i/web/status/1\u2026"
+                }
+            ]
+        }, 
+        "in_reply_to_screen_name": null, 
+        "in_reply_to_user_id": null, 
+        "scopes": {
+            "followers": false
+        }, 
+        "retweet_count": 4, 
+        "id_str": "1018948056085983232", 
+        "favorited": false, 
+        "user": {
+            "follow_request_sent": false, 
+            "has_extended_profile": false, 
+            "profile_use_background_image": true, 
+            "default_profile_image": false, 
+            "id": 87510313, 
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+            "verified": true, 
+            "translator_type": "none", 
+            "profile_text_color": "333333", 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1022814956742471681/H8bGnxFb_normal.jpg", 
+            "profile_sidebar_fill_color": "DDEEF6", 
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/Ub0vOuchNn", 
+                            "indices": [
+                                0, 
+                                23
+                            ], 
+                            "expanded_url": "http://www.tammybaldwin.com", 
+                            "display_url": "tammybaldwin.com"
+                        }
+                    ]
+                }, 
+                "description": {
+                    "urls": []
+                }
+            }, 
+            "followers_count": 41252, 
+            "profile_sidebar_border_color": "C0DEED", 
+            "id_str": "87510313", 
+            "profile_background_color": "C0DEED", 
+            "listed_count": 1237, 
+            "is_translation_enabled": false, 
+            "utc_offset": null, 
+            "statuses_count": 4154, 
+            "description": "Campaign account for Senator Tammy Baldwin. Tweets by staff. Tweets from Tammy signed \u2014 TB.", 
+            "friends_count": 4654, 
+            "location": "Wisconsin", 
+            "profile_link_color": "1DA1F2", 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1022814956742471681/H8bGnxFb_normal.jpg", 
+            "following": false, 
+            "geo_enabled": true, 
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/87510313/1535472362", 
+            "profile_image_extensions_alt_text": null, 
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+            "screen_name": "tammybaldwin", 
+            "lang": "en", 
+            "profile_background_tile": false, 
+            "favourites_count": 15, 
+            "name": "Tammy Baldwin", 
+            "notifications": false, 
+            "url": "https://t.co/Ub0vOuchNn", 
+            "created_at": "Wed Nov 04 19:20:25 +0000 2009", 
+            "profile_banner_extensions_alt_text": null, 
+            "contributors_enabled": false, 
+            "time_zone": null, 
+            "protected": false, 
+            "default_profile": true, 
+            "is_translator": false
+        }, 
+        "geo": null, 
+        "in_reply_to_user_id_str": null, 
+        "lang": "en", 
+        "created_at": "Mon Jul 16 19:58:42 +0000 2018", 
+        "in_reply_to_status_id_str": null, 
+        "place": null
+    }, 
+    {
+        "card_uri": "card://1025393848095100929", 
+        "contributors": null, 
+        "truncated": true, 
+        "text": "Trump\u2019s new #junkplans could make it impossible for millions Americans with pre-existing conditions to get coverage\u2026 https://t.co/NLWJrttwW5", 
+        "is_quote_status": false, 
+        "in_reply_to_status_id": null, 
+        "id": 1025394280314023936, 
+        "favorite_count": 8, 
+        "source": "<a href=\"https://ads-api.twitter.com\" rel=\"nofollow\">Twitter Ads Composer</a>", 
+        "retweeted": false, 
+        "coordinates": null, 
+        "entities": {
+            "symbols": [], 
+            "user_mentions": [], 
+            "hashtags": [
+                {
+                    "indices": [
+                        12, 
+                        22
+                    ], 
+                    "text": "junkplans"
+                }
+            ], 
+            "urls": [
+                {
+                    "url": "https://t.co/NLWJrttwW5", 
+                    "indices": [
+                        117, 
+                        140
+                    ], 
+                    "expanded_url": "https://twitter.com/i/web/status/1025394280314023936", 
+                    "display_url": "twitter.com/i/web/status/1\u2026"
+                }
+            ]
+        }, 
+        "in_reply_to_screen_name": null, 
+        "in_reply_to_user_id": null, 
+        "scopes": {
+            "followers": false
+        }, 
+        "retweet_count": 4, 
+        "id_str": "1025394280314023936", 
+        "favorited": false, 
+        "user": {
+            "follow_request_sent": false, 
+            "has_extended_profile": false, 
+            "profile_use_background_image": true, 
+            "default_profile_image": false, 
+            "id": 87510313, 
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+            "verified": true, 
+            "translator_type": "none", 
+            "profile_text_color": "333333", 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1022814956742471681/H8bGnxFb_normal.jpg", 
+            "profile_sidebar_fill_color": "DDEEF6", 
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/Ub0vOuchNn", 
+                            "indices": [
+                                0, 
+                                23
+                            ], 
+                            "expanded_url": "http://www.tammybaldwin.com", 
+                            "display_url": "tammybaldwin.com"
+                        }
+                    ]
+                }, 
+                "description": {
+                    "urls": []
+                }
+            }, 
+            "followers_count": 41252, 
+            "profile_sidebar_border_color": "C0DEED", 
+            "id_str": "87510313", 
+            "profile_background_color": "C0DEED", 
+            "listed_count": 1237, 
+            "is_translation_enabled": false, 
+            "utc_offset": null, 
+            "statuses_count": 4154, 
+            "description": "Campaign account for Senator Tammy Baldwin. Tweets by staff. Tweets from Tammy signed \u2014 TB.", 
+            "friends_count": 4654, 
+            "location": "Wisconsin", 
+            "profile_link_color": "1DA1F2", 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1022814956742471681/H8bGnxFb_normal.jpg", 
+            "following": false, 
+            "geo_enabled": true, 
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/87510313/1535472362", 
+            "profile_image_extensions_alt_text": null, 
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+            "screen_name": "tammybaldwin", 
+            "lang": "en", 
+            "profile_background_tile": false, 
+            "favourites_count": 15, 
+            "name": "Tammy Baldwin", 
+            "notifications": false, 
+            "url": "https://t.co/Ub0vOuchNn", 
+            "created_at": "Wed Nov 04 19:20:25 +0000 2009", 
+            "profile_banner_extensions_alt_text": null, 
+            "contributors_enabled": false, 
+            "time_zone": null, 
+            "protected": false, 
+            "default_profile": true, 
+            "is_translator": false
+        }, 
+        "geo": null, 
+        "in_reply_to_user_id_str": null, 
+        "lang": "en", 
+        "created_at": "Fri Aug 03 14:53:41 +0000 2018", 
+        "in_reply_to_status_id_str": null, 
+        "place": null
+    }, 
+    {
+        "card_uri": "card://1017847393499271168", 
+        "contributors": null, 
+        "truncated": true, 
+        "text": "Russia attacked our democracy and interfered with our elections. This isn\u2019t a hoax &amp; the Special Counsel\u2019s investig\u2026 https://t.co/0C1GOcWWhZ", 
+        "is_quote_status": false, 
+        "in_reply_to_status_id": null, 
+        "id": 1017847746840092672, 
+        "favorite_count": 280, 
+        "source": "<a href=\"https://ads-api.twitter.com\" rel=\"nofollow\">Twitter Ads Composer</a>", 
+        "retweeted": false, 
+        "coordinates": null, 
+        "entities": {
+            "symbols": [], 
+            "user_mentions": [], 
+            "hashtags": [], 
+            "urls": [
+                {
+                    "url": "https://t.co/0C1GOcWWhZ", 
+                    "indices": [
+                        121, 
+                        144
+                    ], 
+                    "expanded_url": "https://twitter.com/i/web/status/1017847746840092672", 
+                    "display_url": "twitter.com/i/web/status/1\u2026"
+                }
+            ]
+        }, 
+        "in_reply_to_screen_name": null, 
+        "in_reply_to_user_id": null, 
+        "scopes": {
+            "followers": false
+        }, 
+        "retweet_count": 122, 
+        "id_str": "1017847746840092672", 
+        "favorited": false, 
+        "user": {
+            "follow_request_sent": false, 
+            "has_extended_profile": false, 
+            "profile_use_background_image": true, 
+            "default_profile_image": false, 
+            "id": 87510313, 
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+            "verified": true, 
+            "translator_type": "none", 
+            "profile_text_color": "333333", 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1022814956742471681/H8bGnxFb_normal.jpg", 
+            "profile_sidebar_fill_color": "DDEEF6", 
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/Ub0vOuchNn", 
+                            "indices": [
+                                0, 
+                                23
+                            ], 
+                            "expanded_url": "http://www.tammybaldwin.com", 
+                            "display_url": "tammybaldwin.com"
+                        }
+                    ]
+                }, 
+                "description": {
+                    "urls": []
+                }
+            }, 
+            "followers_count": 41252, 
+            "profile_sidebar_border_color": "C0DEED", 
+            "id_str": "87510313", 
+            "profile_background_color": "C0DEED", 
+            "listed_count": 1237, 
+            "is_translation_enabled": false, 
+            "utc_offset": null, 
+            "statuses_count": 4154, 
+            "description": "Campaign account for Senator Tammy Baldwin. Tweets by staff. Tweets from Tammy signed \u2014 TB.", 
+            "friends_count": 4654, 
+            "location": "Wisconsin", 
+            "profile_link_color": "1DA1F2", 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1022814956742471681/H8bGnxFb_normal.jpg", 
+            "following": false, 
+            "geo_enabled": true, 
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/87510313/1535472362", 
+            "profile_image_extensions_alt_text": null, 
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+            "screen_name": "tammybaldwin", 
+            "lang": "en", 
+            "profile_background_tile": false, 
+            "favourites_count": 15, 
+            "name": "Tammy Baldwin", 
+            "notifications": false, 
+            "url": "https://t.co/Ub0vOuchNn", 
+            "created_at": "Wed Nov 04 19:20:25 +0000 2009", 
+            "profile_banner_extensions_alt_text": null, 
+            "contributors_enabled": false, 
+            "time_zone": null, 
+            "protected": false, 
+            "default_profile": true, 
+            "is_translator": false
+        }, 
+        "geo": null, 
+        "in_reply_to_user_id_str": null, 
+        "lang": "en", 
+        "created_at": "Fri Jul 13 19:06:28 +0000 2018", 
+        "in_reply_to_status_id_str": null, 
+        "place": null
+    }, 
+    {
+        "card_uri": "card://1022533055217524736", 
+        "contributors": null, 
+        "truncated": true, 
+        "text": "Thanks to your help, Tammy broke fundraising records last quarter. But for every $1 we raised through small online\u2026 https://t.co/nDVs8bvaMv", 
+        "is_quote_status": false, 
+        "in_reply_to_status_id": null, 
+        "id": 1022533610732060672, 
+        "favorite_count": 6, 
+        "source": "<a href=\"https://ads-api.twitter.com\" rel=\"nofollow\">Twitter Ads Composer</a>", 
+        "retweeted": false, 
+        "coordinates": null, 
+        "entities": {
+            "symbols": [], 
+            "user_mentions": [], 
+            "hashtags": [], 
+            "urls": [
+                {
+                    "url": "https://t.co/nDVs8bvaMv", 
+                    "indices": [
+                        116, 
+                        139
+                    ], 
+                    "expanded_url": "https://twitter.com/i/web/status/1022533610732060672", 
+                    "display_url": "twitter.com/i/web/status/1\u2026"
+                }
+            ]
+        }, 
+        "in_reply_to_screen_name": null, 
+        "in_reply_to_user_id": null, 
+        "scopes": {
+            "followers": false
+        }, 
+        "retweet_count": 1, 
+        "id_str": "1022533610732060672", 
+        "favorited": false, 
+        "user": {
+            "follow_request_sent": false, 
+            "has_extended_profile": false, 
+            "profile_use_background_image": true, 
+            "default_profile_image": false, 
+            "id": 87510313, 
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+            "verified": true, 
+            "translator_type": "none", 
+            "profile_text_color": "333333", 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1022814956742471681/H8bGnxFb_normal.jpg", 
+            "profile_sidebar_fill_color": "DDEEF6", 
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/Ub0vOuchNn", 
+                            "indices": [
+                                0, 
+                                23
+                            ], 
+                            "expanded_url": "http://www.tammybaldwin.com", 
+                            "display_url": "tammybaldwin.com"
+                        }
+                    ]
+                }, 
+                "description": {
+                    "urls": []
+                }
+            }, 
+            "followers_count": 41252, 
+            "profile_sidebar_border_color": "C0DEED", 
+            "id_str": "87510313", 
+            "profile_background_color": "C0DEED", 
+            "listed_count": 1237, 
+            "is_translation_enabled": false, 
+            "utc_offset": null, 
+            "statuses_count": 4154, 
+            "description": "Campaign account for Senator Tammy Baldwin. Tweets by staff. Tweets from Tammy signed \u2014 TB.", 
+            "friends_count": 4654, 
+            "location": "Wisconsin", 
+            "profile_link_color": "1DA1F2", 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1022814956742471681/H8bGnxFb_normal.jpg", 
+            "following": false, 
+            "geo_enabled": true, 
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/87510313/1535472362", 
+            "profile_image_extensions_alt_text": null, 
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+            "screen_name": "tammybaldwin", 
+            "lang": "en", 
+            "profile_background_tile": false, 
+            "favourites_count": 15, 
+            "name": "Tammy Baldwin", 
+            "notifications": false, 
+            "url": "https://t.co/Ub0vOuchNn", 
+            "created_at": "Wed Nov 04 19:20:25 +0000 2009", 
+            "profile_banner_extensions_alt_text": null, 
+            "contributors_enabled": false, 
+            "time_zone": null, 
+            "protected": false, 
+            "default_profile": true, 
+            "is_translator": false
+        }, 
+        "geo": null, 
+        "in_reply_to_user_id_str": null, 
+        "lang": "en", 
+        "created_at": "Thu Jul 26 17:26:25 +0000 2018", 
+        "in_reply_to_status_id_str": null, 
+        "place": null
+    }, 
+    {
+        "card_uri": "card://1017847473845354496", 
+        "contributors": null, 
+        "truncated": true, 
+        "text": "Russia attacked our democracy and interfered with our elections. This isn\u2019t a hoax &amp; the Special Counsel\u2019s investig\u2026 https://t.co/fWjiNTne6v", 
+        "is_quote_status": false, 
+        "in_reply_to_status_id": null, 
+        "id": 1017847780293767168, 
+        "favorite_count": 22, 
+        "source": "<a href=\"https://ads-api.twitter.com\" rel=\"nofollow\">Twitter Ads Composer</a>", 
+        "retweeted": false, 
+        "coordinates": null, 
+        "entities": {
+            "symbols": [], 
+            "user_mentions": [], 
+            "hashtags": [], 
+            "urls": [
+                {
+                    "url": "https://t.co/fWjiNTne6v", 
+                    "indices": [
+                        121, 
+                        144
+                    ], 
+                    "expanded_url": "https://twitter.com/i/web/status/1017847780293767168", 
+                    "display_url": "twitter.com/i/web/status/1\u2026"
+                }
+            ]
+        }, 
+        "in_reply_to_screen_name": null, 
+        "in_reply_to_user_id": null, 
+        "scopes": {
+            "followers": false
+        }, 
+        "retweet_count": 3, 
+        "id_str": "1017847780293767168", 
+        "favorited": false, 
+        "user": {
+            "follow_request_sent": false, 
+            "has_extended_profile": false, 
+            "profile_use_background_image": true, 
+            "default_profile_image": false, 
+            "id": 87510313, 
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+            "verified": true, 
+            "translator_type": "none", 
+            "profile_text_color": "333333", 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1022814956742471681/H8bGnxFb_normal.jpg", 
+            "profile_sidebar_fill_color": "DDEEF6", 
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/Ub0vOuchNn", 
+                            "indices": [
+                                0, 
+                                23
+                            ], 
+                            "expanded_url": "http://www.tammybaldwin.com", 
+                            "display_url": "tammybaldwin.com"
+                        }
+                    ]
+                }, 
+                "description": {
+                    "urls": []
+                }
+            }, 
+            "followers_count": 41252, 
+            "profile_sidebar_border_color": "C0DEED", 
+            "id_str": "87510313", 
+            "profile_background_color": "C0DEED", 
+            "listed_count": 1237, 
+            "is_translation_enabled": false, 
+            "utc_offset": null, 
+            "statuses_count": 4154, 
+            "description": "Campaign account for Senator Tammy Baldwin. Tweets by staff. Tweets from Tammy signed \u2014 TB.", 
+            "friends_count": 4654, 
+            "location": "Wisconsin", 
+            "profile_link_color": "1DA1F2", 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1022814956742471681/H8bGnxFb_normal.jpg", 
+            "following": false, 
+            "geo_enabled": true, 
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/87510313/1535472362", 
+            "profile_image_extensions_alt_text": null, 
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+            "screen_name": "tammybaldwin", 
+            "lang": "en", 
+            "profile_background_tile": false, 
+            "favourites_count": 15, 
+            "name": "Tammy Baldwin", 
+            "notifications": false, 
+            "url": "https://t.co/Ub0vOuchNn", 
+            "created_at": "Wed Nov 04 19:20:25 +0000 2009", 
+            "profile_banner_extensions_alt_text": null, 
+            "contributors_enabled": false, 
+            "time_zone": null, 
+            "protected": false, 
+            "default_profile": true, 
+            "is_translator": false
+        }, 
+        "geo": null, 
+        "in_reply_to_user_id_str": null, 
+        "lang": "en", 
+        "created_at": "Fri Jul 13 19:06:36 +0000 2018", 
+        "in_reply_to_status_id_str": null, 
+        "place": null
+    }, 
+    {
+        "card_uri": "card://1022533197077204992", 
+        "contributors": null, 
+        "truncated": true, 
+        "text": "The single greatest threat to corporate special interests and their truckload of outside money is a grassroots move\u2026 https://t.co/p7KYQBx6Y1", 
+        "is_quote_status": false, 
+        "in_reply_to_status_id": null, 
+        "id": 1022533735399403520, 
+        "favorite_count": 31, 
+        "source": "<a href=\"https://ads-api.twitter.com\" rel=\"nofollow\">Twitter Ads Composer</a>", 
+        "retweeted": false, 
+        "coordinates": null, 
+        "entities": {
+            "symbols": [], 
+            "user_mentions": [], 
+            "hashtags": [], 
+            "urls": [
+                {
+                    "url": "https://t.co/p7KYQBx6Y1", 
+                    "indices": [
+                        117, 
+                        140
+                    ], 
+                    "expanded_url": "https://twitter.com/i/web/status/1022533735399403520", 
+                    "display_url": "twitter.com/i/web/status/1\u2026"
+                }
+            ]
+        }, 
+        "in_reply_to_screen_name": null, 
+        "in_reply_to_user_id": null, 
+        "scopes": {
+            "followers": false
+        }, 
+        "retweet_count": 9, 
+        "id_str": "1022533735399403520", 
+        "favorited": false, 
+        "user": {
+            "follow_request_sent": false, 
+            "has_extended_profile": false, 
+            "profile_use_background_image": true, 
+            "default_profile_image": false, 
+            "id": 87510313, 
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+            "verified": true, 
+            "translator_type": "none", 
+            "profile_text_color": "333333", 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1022814956742471681/H8bGnxFb_normal.jpg", 
+            "profile_sidebar_fill_color": "DDEEF6", 
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/Ub0vOuchNn", 
+                            "indices": [
+                                0, 
+                                23
+                            ], 
+                            "expanded_url": "http://www.tammybaldwin.com", 
+                            "display_url": "tammybaldwin.com"
+                        }
+                    ]
+                }, 
+                "description": {
+                    "urls": []
+                }
+            }, 
+            "followers_count": 41252, 
+            "profile_sidebar_border_color": "C0DEED", 
+            "id_str": "87510313", 
+            "profile_background_color": "C0DEED", 
+            "listed_count": 1237, 
+            "is_translation_enabled": false, 
+            "utc_offset": null, 
+            "statuses_count": 4154, 
+            "description": "Campaign account for Senator Tammy Baldwin. Tweets by staff. Tweets from Tammy signed \u2014 TB.", 
+            "friends_count": 4654, 
+            "location": "Wisconsin", 
+            "profile_link_color": "1DA1F2", 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1022814956742471681/H8bGnxFb_normal.jpg", 
+            "following": false, 
+            "geo_enabled": true, 
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/87510313/1535472362", 
+            "profile_image_extensions_alt_text": null, 
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+            "screen_name": "tammybaldwin", 
+            "lang": "en", 
+            "profile_background_tile": false, 
+            "favourites_count": 15, 
+            "name": "Tammy Baldwin", 
+            "notifications": false, 
+            "url": "https://t.co/Ub0vOuchNn", 
+            "created_at": "Wed Nov 04 19:20:25 +0000 2009", 
+            "profile_banner_extensions_alt_text": null, 
+            "contributors_enabled": false, 
+            "time_zone": null, 
+            "protected": false, 
+            "default_profile": true, 
+            "is_translator": false
+        }, 
+        "geo": null, 
+        "in_reply_to_user_id_str": null, 
+        "lang": "en", 
+        "created_at": "Thu Jul 26 17:26:54 +0000 2018", 
+        "in_reply_to_status_id_str": null, 
+        "place": null
+    }, 
+    {
+        "card_uri": "card://1025393634038837248", 
+        "contributors": null, 
+        "truncated": true, 
+        "text": "Trump\u2019s new #junkplans plans don\u2019t have to follow Obamacare protections or include essential services. We need qual\u2026 https://t.co/HBWLJfhqRu", 
+        "is_quote_status": false, 
+        "in_reply_to_status_id": null, 
+        "id": 1025394110369153030, 
+        "favorite_count": 1, 
+        "source": "<a href=\"https://ads-api.twitter.com\" rel=\"nofollow\">Twitter Ads Composer</a>", 
+        "retweeted": false, 
+        "coordinates": null, 
+        "entities": {
+            "symbols": [], 
+            "user_mentions": [], 
+            "hashtags": [
+                {
+                    "indices": [
+                        12, 
+                        22
+                    ], 
+                    "text": "junkplans"
+                }
+            ], 
+            "urls": [
+                {
+                    "url": "https://t.co/HBWLJfhqRu", 
+                    "indices": [
+                        117, 
+                        140
+                    ], 
+                    "expanded_url": "https://twitter.com/i/web/status/1025394110369153030", 
+                    "display_url": "twitter.com/i/web/status/1\u2026"
+                }
+            ]
+        }, 
+        "in_reply_to_screen_name": null, 
+        "in_reply_to_user_id": null, 
+        "scopes": {
+            "followers": false
+        }, 
+        "retweet_count": 0, 
+        "id_str": "1025394110369153030", 
+        "favorited": false, 
+        "user": {
+            "follow_request_sent": false, 
+            "has_extended_profile": false, 
+            "profile_use_background_image": true, 
+            "default_profile_image": false, 
+            "id": 87510313, 
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+            "verified": true, 
+            "translator_type": "none", 
+            "profile_text_color": "333333", 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1022814956742471681/H8bGnxFb_normal.jpg", 
+            "profile_sidebar_fill_color": "DDEEF6", 
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/Ub0vOuchNn", 
+                            "indices": [
+                                0, 
+                                23
+                            ], 
+                            "expanded_url": "http://www.tammybaldwin.com", 
+                            "display_url": "tammybaldwin.com"
+                        }
+                    ]
+                }, 
+                "description": {
+                    "urls": []
+                }
+            }, 
+            "followers_count": 41252, 
+            "profile_sidebar_border_color": "C0DEED", 
+            "id_str": "87510313", 
+            "profile_background_color": "C0DEED", 
+            "listed_count": 1237, 
+            "is_translation_enabled": false, 
+            "utc_offset": null, 
+            "statuses_count": 4154, 
+            "description": "Campaign account for Senator Tammy Baldwin. Tweets by staff. Tweets from Tammy signed \u2014 TB.", 
+            "friends_count": 4654, 
+            "location": "Wisconsin", 
+            "profile_link_color": "1DA1F2", 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1022814956742471681/H8bGnxFb_normal.jpg", 
+            "following": false, 
+            "geo_enabled": true, 
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/87510313/1535472362", 
+            "profile_image_extensions_alt_text": null, 
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+            "screen_name": "tammybaldwin", 
+            "lang": "en", 
+            "profile_background_tile": false, 
+            "favourites_count": 15, 
+            "name": "Tammy Baldwin", 
+            "notifications": false, 
+            "url": "https://t.co/Ub0vOuchNn", 
+            "created_at": "Wed Nov 04 19:20:25 +0000 2009", 
+            "profile_banner_extensions_alt_text": null, 
+            "contributors_enabled": false, 
+            "time_zone": null, 
+            "protected": false, 
+            "default_profile": true, 
+            "is_translator": false
+        }, 
+        "geo": null, 
+        "in_reply_to_user_id_str": null, 
+        "lang": "en", 
+        "created_at": "Fri Aug 03 14:53:01 +0000 2018", 
+        "in_reply_to_status_id_str": null, 
+        "place": null
+    }, 
+    {
+        "card_uri": "card://1018945369403621376", 
+        "contributors": null, 
+        "truncated": true, 
+        "text": "Trump attacked the Mueller investigation on stage with Putin himself! This needs to stop. Protecting our elections\u2026 https://t.co/wbp4ZISTx4", 
+        "is_quote_status": false, 
+        "in_reply_to_status_id": null, 
+        "id": 1018948001388089344, 
+        "favorite_count": 10, 
+        "source": "<a href=\"https://ads-api.twitter.com\" rel=\"nofollow\">Twitter Ads Composer</a>", 
+        "retweeted": false, 
+        "coordinates": null, 
+        "entities": {
+            "symbols": [], 
+            "user_mentions": [], 
+            "hashtags": [], 
+            "urls": [
+                {
+                    "url": "https://t.co/wbp4ZISTx4", 
+                    "indices": [
+                        116, 
+                        139
+                    ], 
+                    "expanded_url": "https://twitter.com/i/web/status/1018948001388089344", 
+                    "display_url": "twitter.com/i/web/status/1\u2026"
+                }
+            ]
+        }, 
+        "in_reply_to_screen_name": null, 
+        "in_reply_to_user_id": null, 
+        "scopes": {
+            "followers": false
+        }, 
+        "retweet_count": 0, 
+        "id_str": "1018948001388089344", 
+        "favorited": false, 
+        "user": {
+            "follow_request_sent": false, 
+            "has_extended_profile": false, 
+            "profile_use_background_image": true, 
+            "default_profile_image": false, 
+            "id": 87510313, 
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+            "verified": true, 
+            "translator_type": "none", 
+            "profile_text_color": "333333", 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1022814956742471681/H8bGnxFb_normal.jpg", 
+            "profile_sidebar_fill_color": "DDEEF6", 
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/Ub0vOuchNn", 
+                            "indices": [
+                                0, 
+                                23
+                            ], 
+                            "expanded_url": "http://www.tammybaldwin.com", 
+                            "display_url": "tammybaldwin.com"
+                        }
+                    ]
+                }, 
+                "description": {
+                    "urls": []
+                }
+            }, 
+            "followers_count": 41252, 
+            "profile_sidebar_border_color": "C0DEED", 
+            "id_str": "87510313", 
+            "profile_background_color": "C0DEED", 
+            "listed_count": 1237, 
+            "is_translation_enabled": false, 
+            "utc_offset": null, 
+            "statuses_count": 4154, 
+            "description": "Campaign account for Senator Tammy Baldwin. Tweets by staff. Tweets from Tammy signed \u2014 TB.", 
+            "friends_count": 4654, 
+            "location": "Wisconsin", 
+            "profile_link_color": "1DA1F2", 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1022814956742471681/H8bGnxFb_normal.jpg", 
+            "following": false, 
+            "geo_enabled": true, 
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/87510313/1535472362", 
+            "profile_image_extensions_alt_text": null, 
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+            "screen_name": "tammybaldwin", 
+            "lang": "en", 
+            "profile_background_tile": false, 
+            "favourites_count": 15, 
+            "name": "Tammy Baldwin", 
+            "notifications": false, 
+            "url": "https://t.co/Ub0vOuchNn", 
+            "created_at": "Wed Nov 04 19:20:25 +0000 2009", 
+            "profile_banner_extensions_alt_text": null, 
+            "contributors_enabled": false, 
+            "time_zone": null, 
+            "protected": false, 
+            "default_profile": true, 
+            "is_translator": false
+        }, 
+        "geo": null, 
+        "in_reply_to_user_id_str": null, 
+        "lang": "en", 
+        "created_at": "Mon Jul 16 19:58:29 +0000 2018", 
+        "in_reply_to_status_id_str": null, 
+        "place": null
+    }, 
+    {
+        "card_uri": "card://1022533365981798400", 
+        "contributors": null, 
+        "truncated": true, 
+        "text": "We can't afford to let out-of-state billionaires and dark money PACs buy this election \u2014 but that's what will happe\u2026 https://t.co/MdwnAH4Ni1", 
+        "is_quote_status": false, 
+        "in_reply_to_status_id": null, 
+        "id": 1022535419282386944, 
+        "favorite_count": 17, 
+        "source": "<a href=\"https://ads-api.twitter.com\" rel=\"nofollow\">Twitter Ads Composer</a>", 
+        "retweeted": false, 
+        "coordinates": null, 
+        "entities": {
+            "symbols": [], 
+            "user_mentions": [], 
+            "hashtags": [], 
+            "urls": [
+                {
+                    "url": "https://t.co/MdwnAH4Ni1", 
+                    "indices": [
+                        117, 
+                        140
+                    ], 
+                    "expanded_url": "https://twitter.com/i/web/status/1022535419282386944", 
+                    "display_url": "twitter.com/i/web/status/1\u2026"
+                }
+            ]
+        }, 
+        "in_reply_to_screen_name": null, 
+        "in_reply_to_user_id": null, 
+        "scopes": {
+            "followers": false
+        }, 
+        "retweet_count": 12, 
+        "id_str": "1022535419282386944", 
+        "favorited": false, 
+        "user": {
+            "follow_request_sent": false, 
+            "has_extended_profile": false, 
+            "profile_use_background_image": true, 
+            "default_profile_image": false, 
+            "id": 87510313, 
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+            "verified": true, 
+            "translator_type": "none", 
+            "profile_text_color": "333333", 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1022814956742471681/H8bGnxFb_normal.jpg", 
+            "profile_sidebar_fill_color": "DDEEF6", 
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/Ub0vOuchNn", 
+                            "indices": [
+                                0, 
+                                23
+                            ], 
+                            "expanded_url": "http://www.tammybaldwin.com", 
+                            "display_url": "tammybaldwin.com"
+                        }
+                    ]
+                }, 
+                "description": {
+                    "urls": []
+                }
+            }, 
+            "followers_count": 41252, 
+            "profile_sidebar_border_color": "C0DEED", 
+            "id_str": "87510313", 
+            "profile_background_color": "C0DEED", 
+            "listed_count": 1237, 
+            "is_translation_enabled": false, 
+            "utc_offset": null, 
+            "statuses_count": 4154, 
+            "description": "Campaign account for Senator Tammy Baldwin. Tweets by staff. Tweets from Tammy signed \u2014 TB.", 
+            "friends_count": 4654, 
+            "location": "Wisconsin", 
+            "profile_link_color": "1DA1F2", 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1022814956742471681/H8bGnxFb_normal.jpg", 
+            "following": false, 
+            "geo_enabled": true, 
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/87510313/1535472362", 
+            "profile_image_extensions_alt_text": null, 
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+            "screen_name": "tammybaldwin", 
+            "lang": "en", 
+            "profile_background_tile": false, 
+            "favourites_count": 15, 
+            "name": "Tammy Baldwin", 
+            "notifications": false, 
+            "url": "https://t.co/Ub0vOuchNn", 
+            "created_at": "Wed Nov 04 19:20:25 +0000 2009", 
+            "profile_banner_extensions_alt_text": null, 
+            "contributors_enabled": false, 
+            "time_zone": null, 
+            "protected": false, 
+            "default_profile": true, 
+            "is_translator": false
+        }, 
+        "geo": null, 
+        "in_reply_to_user_id_str": null, 
+        "lang": "en", 
+        "created_at": "Thu Jul 26 17:33:36 +0000 2018", 
+        "in_reply_to_status_id_str": null, 
+        "place": null
+    }, 
+    {
+        "card_uri": "card://1017847565327335425", 
+        "contributors": null, 
+        "truncated": true, 
+        "text": "Russia attacked our democracy and interfered with our elections. This isn\u2019t a hoax &amp; the Special Counsel\u2019s investig\u2026 https://t.co/HOLriSI5tc", 
+        "is_quote_status": false, 
+        "in_reply_to_status_id": null, 
+        "id": 1017847812938059776, 
+        "favorite_count": 298, 
+        "source": "<a href=\"https://ads-api.twitter.com\" rel=\"nofollow\">Twitter Ads Composer</a>", 
+        "retweeted": false, 
+        "coordinates": null, 
+        "entities": {
+            "symbols": [], 
+            "user_mentions": [], 
+            "hashtags": [], 
+            "urls": [
+                {
+                    "url": "https://t.co/HOLriSI5tc", 
+                    "indices": [
+                        121, 
+                        144
+                    ], 
+                    "expanded_url": "https://twitter.com/i/web/status/1017847812938059776", 
+                    "display_url": "twitter.com/i/web/status/1\u2026"
+                }
+            ]
+        }, 
+        "in_reply_to_screen_name": null, 
+        "in_reply_to_user_id": null, 
+        "scopes": {
+            "followers": false
+        }, 
+        "retweet_count": 120, 
+        "id_str": "1017847812938059776", 
+        "favorited": false, 
+        "user": {
+            "follow_request_sent": false, 
+            "has_extended_profile": false, 
+            "profile_use_background_image": true, 
+            "default_profile_image": false, 
+            "id": 87510313, 
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+            "verified": true, 
+            "translator_type": "none", 
+            "profile_text_color": "333333", 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1022814956742471681/H8bGnxFb_normal.jpg", 
+            "profile_sidebar_fill_color": "DDEEF6", 
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/Ub0vOuchNn", 
+                            "indices": [
+                                0, 
+                                23
+                            ], 
+                            "expanded_url": "http://www.tammybaldwin.com", 
+                            "display_url": "tammybaldwin.com"
+                        }
+                    ]
+                }, 
+                "description": {
+                    "urls": []
+                }
+            }, 
+            "followers_count": 41252, 
+            "profile_sidebar_border_color": "C0DEED", 
+            "id_str": "87510313", 
+            "profile_background_color": "C0DEED", 
+            "listed_count": 1237, 
+            "is_translation_enabled": false, 
+            "utc_offset": null, 
+            "statuses_count": 4154, 
+            "description": "Campaign account for Senator Tammy Baldwin. Tweets by staff. Tweets from Tammy signed \u2014 TB.", 
+            "friends_count": 4654, 
+            "location": "Wisconsin", 
+            "profile_link_color": "1DA1F2", 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1022814956742471681/H8bGnxFb_normal.jpg", 
+            "following": false, 
+            "geo_enabled": true, 
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/87510313/1535472362", 
+            "profile_image_extensions_alt_text": null, 
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+            "screen_name": "tammybaldwin", 
+            "lang": "en", 
+            "profile_background_tile": false, 
+            "favourites_count": 15, 
+            "name": "Tammy Baldwin", 
+            "notifications": false, 
+            "url": "https://t.co/Ub0vOuchNn", 
+            "created_at": "Wed Nov 04 19:20:25 +0000 2009", 
+            "profile_banner_extensions_alt_text": null, 
+            "contributors_enabled": false, 
+            "time_zone": null, 
+            "protected": false, 
+            "default_profile": true, 
+            "is_translator": false
+        }, 
+        "geo": null, 
+        "in_reply_to_user_id_str": null, 
+        "lang": "en", 
+        "created_at": "Fri Jul 13 19:06:43 +0000 2018", 
+        "in_reply_to_status_id_str": null, 
+        "place": null
+    }, 
+    {
+        "card_uri": "card://1018945607107375106", 
+        "contributors": null, 
+        "truncated": true, 
+        "text": "There\u2019s no doubt the Russian government interfered in our democracy. It\u2019s wrong for the president to deny that fact\u2026 https://t.co/ayLvvUONmk", 
+        "is_quote_status": false, 
+        "in_reply_to_status_id": null, 
+        "id": 1018948396294393856, 
+        "favorite_count": 258, 
+        "source": "<a href=\"https://ads-api.twitter.com\" rel=\"nofollow\">Twitter Ads Composer</a>", 
+        "retweeted": false, 
+        "coordinates": null, 
+        "entities": {
+            "symbols": [], 
+            "user_mentions": [], 
+            "hashtags": [], 
+            "urls": [
+                {
+                    "url": "https://t.co/ayLvvUONmk", 
+                    "indices": [
+                        117, 
+                        140
+                    ], 
+                    "expanded_url": "https://twitter.com/i/web/status/1018948396294393856", 
+                    "display_url": "twitter.com/i/web/status/1\u2026"
+                }
+            ]
+        }, 
+        "in_reply_to_screen_name": null, 
+        "in_reply_to_user_id": null, 
+        "scopes": {
+            "followers": false
+        }, 
+        "retweet_count": 123, 
+        "id_str": "1018948396294393856", 
+        "favorited": false, 
+        "user": {
+            "follow_request_sent": false, 
+            "has_extended_profile": false, 
+            "profile_use_background_image": true, 
+            "default_profile_image": false, 
+            "id": 87510313, 
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+            "verified": true, 
+            "translator_type": "none", 
+            "profile_text_color": "333333", 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1022814956742471681/H8bGnxFb_normal.jpg", 
+            "profile_sidebar_fill_color": "DDEEF6", 
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/Ub0vOuchNn", 
+                            "indices": [
+                                0, 
+                                23
+                            ], 
+                            "expanded_url": "http://www.tammybaldwin.com", 
+                            "display_url": "tammybaldwin.com"
+                        }
+                    ]
+                }, 
+                "description": {
+                    "urls": []
+                }
+            }, 
+            "followers_count": 41252, 
+            "profile_sidebar_border_color": "C0DEED", 
+            "id_str": "87510313", 
+            "profile_background_color": "C0DEED", 
+            "listed_count": 1237, 
+            "is_translation_enabled": false, 
+            "utc_offset": null, 
+            "statuses_count": 4154, 
+            "description": "Campaign account for Senator Tammy Baldwin. Tweets by staff. Tweets from Tammy signed \u2014 TB.", 
+            "friends_count": 4654, 
+            "location": "Wisconsin", 
+            "profile_link_color": "1DA1F2", 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1022814956742471681/H8bGnxFb_normal.jpg", 
+            "following": false, 
+            "geo_enabled": true, 
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/87510313/1535472362", 
+            "profile_image_extensions_alt_text": null, 
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+            "screen_name": "tammybaldwin", 
+            "lang": "en", 
+            "profile_background_tile": false, 
+            "favourites_count": 15, 
+            "name": "Tammy Baldwin", 
+            "notifications": false, 
+            "url": "https://t.co/Ub0vOuchNn", 
+            "created_at": "Wed Nov 04 19:20:25 +0000 2009", 
+            "profile_banner_extensions_alt_text": null, 
+            "contributors_enabled": false, 
+            "time_zone": null, 
+            "protected": false, 
+            "default_profile": true, 
+            "is_translator": false
+        }, 
+        "geo": null, 
+        "in_reply_to_user_id_str": null, 
+        "lang": "en", 
+        "created_at": "Mon Jul 16 20:00:03 +0000 2018", 
+        "in_reply_to_status_id_str": null, 
+        "place": null
+    }, 
+    {
+        "card_uri": "card://1018945162741874688", 
+        "contributors": null, 
+        "truncated": true, 
+        "text": "Trump attacked the Mueller investigation on stage with Putin himself! This needs to stop. Protecting our elections\u2026 https://t.co/NMiDwLeDHm", 
+        "is_quote_status": false, 
+        "in_reply_to_status_id": null, 
+        "id": 1018945872313311234, 
+        "favorite_count": 275, 
+        "source": "<a href=\"https://ads-api.twitter.com\" rel=\"nofollow\">Twitter Ads Composer</a>", 
+        "retweeted": false, 
+        "coordinates": null, 
+        "entities": {
+            "symbols": [], 
+            "user_mentions": [], 
+            "hashtags": [], 
+            "urls": [
+                {
+                    "url": "https://t.co/NMiDwLeDHm", 
+                    "indices": [
+                        116, 
+                        139
+                    ], 
+                    "expanded_url": "https://twitter.com/i/web/status/1018945872313311234", 
+                    "display_url": "twitter.com/i/web/status/1\u2026"
+                }
+            ]
+        }, 
+        "in_reply_to_screen_name": null, 
+        "in_reply_to_user_id": null, 
+        "scopes": {
+            "followers": false
+        }, 
+        "retweet_count": 127, 
+        "id_str": "1018945872313311234", 
+        "favorited": false, 
+        "user": {
+            "follow_request_sent": false, 
+            "has_extended_profile": false, 
+            "profile_use_background_image": true, 
+            "default_profile_image": false, 
+            "id": 87510313, 
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+            "verified": true, 
+            "translator_type": "none", 
+            "profile_text_color": "333333", 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1022814956742471681/H8bGnxFb_normal.jpg", 
+            "profile_sidebar_fill_color": "DDEEF6", 
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/Ub0vOuchNn", 
+                            "indices": [
+                                0, 
+                                23
+                            ], 
+                            "expanded_url": "http://www.tammybaldwin.com", 
+                            "display_url": "tammybaldwin.com"
+                        }
+                    ]
+                }, 
+                "description": {
+                    "urls": []
+                }
+            }, 
+            "followers_count": 41252, 
+            "profile_sidebar_border_color": "C0DEED", 
+            "id_str": "87510313", 
+            "profile_background_color": "C0DEED", 
+            "listed_count": 1237, 
+            "is_translation_enabled": false, 
+            "utc_offset": null, 
+            "statuses_count": 4154, 
+            "description": "Campaign account for Senator Tammy Baldwin. Tweets by staff. Tweets from Tammy signed \u2014 TB.", 
+            "friends_count": 4654, 
+            "location": "Wisconsin", 
+            "profile_link_color": "1DA1F2", 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1022814956742471681/H8bGnxFb_normal.jpg", 
+            "following": false, 
+            "geo_enabled": true, 
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/87510313/1535472362", 
+            "profile_image_extensions_alt_text": null, 
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+            "screen_name": "tammybaldwin", 
+            "lang": "en", 
+            "profile_background_tile": false, 
+            "favourites_count": 15, 
+            "name": "Tammy Baldwin", 
+            "notifications": false, 
+            "url": "https://t.co/Ub0vOuchNn", 
+            "created_at": "Wed Nov 04 19:20:25 +0000 2009", 
+            "profile_banner_extensions_alt_text": null, 
+            "contributors_enabled": false, 
+            "time_zone": null, 
+            "protected": false, 
+            "default_profile": true, 
+            "is_translator": false
+        }, 
+        "geo": null, 
+        "in_reply_to_user_id_str": null, 
+        "lang": "en", 
+        "created_at": "Mon Jul 16 19:50:01 +0000 2018", 
+        "in_reply_to_status_id_str": null, 
+        "place": null
+    }, 
+    {
+        "card_uri": "card://1018945270292180992", 
+        "contributors": null, 
+        "truncated": true, 
+        "text": "There\u2019s no doubt the Russian government interfered in our democracy. It\u2019s wrong for the president to deny that fact\u2026 https://t.co/TqBHHrMo14", 
+        "is_quote_status": false, 
+        "in_reply_to_status_id": null, 
+        "id": 1018945925408907266, 
+        "favorite_count": 147, 
+        "source": "<a href=\"https://ads-api.twitter.com\" rel=\"nofollow\">Twitter Ads Composer</a>", 
+        "retweeted": false, 
+        "coordinates": null, 
+        "entities": {
+            "symbols": [], 
+            "user_mentions": [], 
+            "hashtags": [], 
+            "urls": [
+                {
+                    "url": "https://t.co/TqBHHrMo14", 
+                    "indices": [
+                        117, 
+                        140
+                    ], 
+                    "expanded_url": "https://twitter.com/i/web/status/1018945925408907266", 
+                    "display_url": "twitter.com/i/web/status/1\u2026"
+                }
+            ]
+        }, 
+        "in_reply_to_screen_name": null, 
+        "in_reply_to_user_id": null, 
+        "scopes": {
+            "followers": false
+        }, 
+        "retweet_count": 69, 
+        "id_str": "1018945925408907266", 
+        "favorited": false, 
+        "user": {
+            "follow_request_sent": false, 
+            "has_extended_profile": false, 
+            "profile_use_background_image": true, 
+            "default_profile_image": false, 
+            "id": 87510313, 
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+            "verified": true, 
+            "translator_type": "none", 
+            "profile_text_color": "333333", 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1022814956742471681/H8bGnxFb_normal.jpg", 
+            "profile_sidebar_fill_color": "DDEEF6", 
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/Ub0vOuchNn", 
+                            "indices": [
+                                0, 
+                                23
+                            ], 
+                            "expanded_url": "http://www.tammybaldwin.com", 
+                            "display_url": "tammybaldwin.com"
+                        }
+                    ]
+                }, 
+                "description": {
+                    "urls": []
+                }
+            }, 
+            "followers_count": 41252, 
+            "profile_sidebar_border_color": "C0DEED", 
+            "id_str": "87510313", 
+            "profile_background_color": "C0DEED", 
+            "listed_count": 1237, 
+            "is_translation_enabled": false, 
+            "utc_offset": null, 
+            "statuses_count": 4154, 
+            "description": "Campaign account for Senator Tammy Baldwin. Tweets by staff. Tweets from Tammy signed \u2014 TB.", 
+            "friends_count": 4654, 
+            "location": "Wisconsin", 
+            "profile_link_color": "1DA1F2", 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1022814956742471681/H8bGnxFb_normal.jpg", 
+            "following": false, 
+            "geo_enabled": true, 
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/87510313/1535472362", 
+            "profile_image_extensions_alt_text": null, 
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+            "screen_name": "tammybaldwin", 
+            "lang": "en", 
+            "profile_background_tile": false, 
+            "favourites_count": 15, 
+            "name": "Tammy Baldwin", 
+            "notifications": false, 
+            "url": "https://t.co/Ub0vOuchNn", 
+            "created_at": "Wed Nov 04 19:20:25 +0000 2009", 
+            "profile_banner_extensions_alt_text": null, 
+            "contributors_enabled": false, 
+            "time_zone": null, 
+            "protected": false, 
+            "default_profile": true, 
+            "is_translator": false
+        }, 
+        "geo": null, 
+        "in_reply_to_user_id_str": null, 
+        "lang": "en", 
+        "created_at": "Mon Jul 16 19:50:14 +0000 2018", 
+        "in_reply_to_status_id_str": null, 
+        "place": null
+    }, 
+    {
+        "card_uri": "card://1022533131566383105", 
+        "contributors": null, 
+        "truncated": true, 
+        "text": "We can't afford to let out-of-state billionaires and dark money PACs buy this election \u2014 but that's what will happe\u2026 https://t.co/PmdTHphJb6", 
+        "is_quote_status": false, 
+        "in_reply_to_status_id": null, 
+        "id": 1022533682744029184, 
+        "favorite_count": 26, 
+        "source": "<a href=\"https://ads-api.twitter.com\" rel=\"nofollow\">Twitter Ads Composer</a>", 
+        "retweeted": false, 
+        "coordinates": null, 
+        "entities": {
+            "symbols": [], 
+            "user_mentions": [], 
+            "hashtags": [], 
+            "urls": [
+                {
+                    "url": "https://t.co/PmdTHphJb6", 
+                    "indices": [
+                        117, 
+                        140
+                    ], 
+                    "expanded_url": "https://twitter.com/i/web/status/1022533682744029184", 
+                    "display_url": "twitter.com/i/web/status/1\u2026"
+                }
+            ]
+        }, 
+        "in_reply_to_screen_name": null, 
+        "in_reply_to_user_id": null, 
+        "scopes": {
+            "followers": false
+        }, 
+        "retweet_count": 17, 
+        "id_str": "1022533682744029184", 
+        "favorited": false, 
+        "user": {
+            "follow_request_sent": false, 
+            "has_extended_profile": false, 
+            "profile_use_background_image": true, 
+            "default_profile_image": false, 
+            "id": 87510313, 
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+            "verified": true, 
+            "translator_type": "none", 
+            "profile_text_color": "333333", 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1022814956742471681/H8bGnxFb_normal.jpg", 
+            "profile_sidebar_fill_color": "DDEEF6", 
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/Ub0vOuchNn", 
+                            "indices": [
+                                0, 
+                                23
+                            ], 
+                            "expanded_url": "http://www.tammybaldwin.com", 
+                            "display_url": "tammybaldwin.com"
+                        }
+                    ]
+                }, 
+                "description": {
+                    "urls": []
+                }
+            }, 
+            "followers_count": 41252, 
+            "profile_sidebar_border_color": "C0DEED", 
+            "id_str": "87510313", 
+            "profile_background_color": "C0DEED", 
+            "listed_count": 1237, 
+            "is_translation_enabled": false, 
+            "utc_offset": null, 
+            "statuses_count": 4154, 
+            "description": "Campaign account for Senator Tammy Baldwin. Tweets by staff. Tweets from Tammy signed \u2014 TB.", 
+            "friends_count": 4654, 
+            "location": "Wisconsin", 
+            "profile_link_color": "1DA1F2", 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1022814956742471681/H8bGnxFb_normal.jpg", 
+            "following": false, 
+            "geo_enabled": true, 
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/87510313/1535472362", 
+            "profile_image_extensions_alt_text": null, 
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+            "screen_name": "tammybaldwin", 
+            "lang": "en", 
+            "profile_background_tile": false, 
+            "favourites_count": 15, 
+            "name": "Tammy Baldwin", 
+            "notifications": false, 
+            "url": "https://t.co/Ub0vOuchNn", 
+            "created_at": "Wed Nov 04 19:20:25 +0000 2009", 
+            "profile_banner_extensions_alt_text": null, 
+            "contributors_enabled": false, 
+            "time_zone": null, 
+            "protected": false, 
+            "default_profile": true, 
+            "is_translator": false
+        }, 
+        "geo": null, 
+        "in_reply_to_user_id_str": null, 
+        "lang": "en", 
+        "created_at": "Thu Jul 26 17:26:42 +0000 2018", 
+        "in_reply_to_status_id_str": null, 
+        "place": null
+    }, 
+    {
+        "card_uri": "card://1018945538073362432", 
+        "contributors": null, 
+        "truncated": true, 
+        "text": "Trump attacked the Mueller investigation on stage with Putin himself! This needs to stop. Protecting our elections\u2026 https://t.co/Oc9ImJZMf4", 
+        "is_quote_status": false, 
+        "in_reply_to_status_id": null, 
+        "id": 1018948360714125312, 
+        "favorite_count": 168, 
+        "source": "<a href=\"https://ads-api.twitter.com\" rel=\"nofollow\">Twitter Ads Composer</a>", 
+        "retweeted": false, 
+        "coordinates": null, 
+        "entities": {
+            "symbols": [], 
+            "user_mentions": [], 
+            "hashtags": [], 
+            "urls": [
+                {
+                    "url": "https://t.co/Oc9ImJZMf4", 
+                    "indices": [
+                        116, 
+                        139
+                    ], 
+                    "expanded_url": "https://twitter.com/i/web/status/1018948360714125312", 
+                    "display_url": "twitter.com/i/web/status/1\u2026"
+                }
+            ]
+        }, 
+        "in_reply_to_screen_name": null, 
+        "in_reply_to_user_id": null, 
+        "scopes": {
+            "followers": false
+        }, 
+        "retweet_count": 72, 
+        "id_str": "1018948360714125312", 
+        "favorited": false, 
+        "user": {
+            "follow_request_sent": false, 
+            "has_extended_profile": false, 
+            "profile_use_background_image": true, 
+            "default_profile_image": false, 
+            "id": 87510313, 
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+            "verified": true, 
+            "translator_type": "none", 
+            "profile_text_color": "333333", 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1022814956742471681/H8bGnxFb_normal.jpg", 
+            "profile_sidebar_fill_color": "DDEEF6", 
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/Ub0vOuchNn", 
+                            "indices": [
+                                0, 
+                                23
+                            ], 
+                            "expanded_url": "http://www.tammybaldwin.com", 
+                            "display_url": "tammybaldwin.com"
+                        }
+                    ]
+                }, 
+                "description": {
+                    "urls": []
+                }
+            }, 
+            "followers_count": 41252, 
+            "profile_sidebar_border_color": "C0DEED", 
+            "id_str": "87510313", 
+            "profile_background_color": "C0DEED", 
+            "listed_count": 1237, 
+            "is_translation_enabled": false, 
+            "utc_offset": null, 
+            "statuses_count": 4154, 
+            "description": "Campaign account for Senator Tammy Baldwin. Tweets by staff. Tweets from Tammy signed \u2014 TB.", 
+            "friends_count": 4654, 
+            "location": "Wisconsin", 
+            "profile_link_color": "1DA1F2", 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1022814956742471681/H8bGnxFb_normal.jpg", 
+            "following": false, 
+            "geo_enabled": true, 
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/87510313/1535472362", 
+            "profile_image_extensions_alt_text": null, 
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+            "screen_name": "tammybaldwin", 
+            "lang": "en", 
+            "profile_background_tile": false, 
+            "favourites_count": 15, 
+            "name": "Tammy Baldwin", 
+            "notifications": false, 
+            "url": "https://t.co/Ub0vOuchNn", 
+            "created_at": "Wed Nov 04 19:20:25 +0000 2009", 
+            "profile_banner_extensions_alt_text": null, 
+            "contributors_enabled": false, 
+            "time_zone": null, 
+            "protected": false, 
+            "default_profile": true, 
+            "is_translator": false
+        }, 
+        "geo": null, 
+        "in_reply_to_user_id_str": null, 
+        "lang": "en", 
+        "created_at": "Mon Jul 16 19:59:54 +0000 2018", 
+        "in_reply_to_status_id_str": null, 
+        "place": null
+    }, 
+    {
+        "card_uri": "card://1025377508181467136", 
+        "contributors": null, 
+        "truncated": true, 
+        "text": "The Trump administration just announced that it will allow insurance companies to sell #junkplans that will skirt e\u2026 https://t.co/h46We9jMW8", 
+        "is_quote_status": false, 
+        "in_reply_to_status_id": null, 
+        "id": 1025392503069929476, 
+        "favorite_count": 8, 
+        "source": "<a href=\"https://ads-api.twitter.com\" rel=\"nofollow\">Twitter Ads Composer</a>", 
+        "retweeted": false, 
+        "coordinates": null, 
+        "entities": {
+            "symbols": [], 
+            "user_mentions": [], 
+            "hashtags": [
+                {
+                    "indices": [
+                        87, 
+                        97
+                    ], 
+                    "text": "junkplans"
+                }
+            ], 
+            "urls": [
+                {
+                    "url": "https://t.co/h46We9jMW8", 
+                    "indices": [
+                        117, 
+                        140
+                    ], 
+                    "expanded_url": "https://twitter.com/i/web/status/1025392503069929476", 
+                    "display_url": "twitter.com/i/web/status/1\u2026"
+                }
+            ]
+        }, 
+        "in_reply_to_screen_name": null, 
+        "in_reply_to_user_id": null, 
+        "scopes": {
+            "followers": false
+        }, 
+        "retweet_count": 7, 
+        "id_str": "1025392503069929476", 
+        "favorited": false, 
+        "user": {
+            "follow_request_sent": false, 
+            "has_extended_profile": false, 
+            "profile_use_background_image": true, 
+            "default_profile_image": false, 
+            "id": 87510313, 
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+            "verified": true, 
+            "translator_type": "none", 
+            "profile_text_color": "333333", 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1022814956742471681/H8bGnxFb_normal.jpg", 
+            "profile_sidebar_fill_color": "DDEEF6", 
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/Ub0vOuchNn", 
+                            "indices": [
+                                0, 
+                                23
+                            ], 
+                            "expanded_url": "http://www.tammybaldwin.com", 
+                            "display_url": "tammybaldwin.com"
+                        }
+                    ]
+                }, 
+                "description": {
+                    "urls": []
+                }
+            }, 
+            "followers_count": 41252, 
+            "profile_sidebar_border_color": "C0DEED", 
+            "id_str": "87510313", 
+            "profile_background_color": "C0DEED", 
+            "listed_count": 1237, 
+            "is_translation_enabled": false, 
+            "utc_offset": null, 
+            "statuses_count": 4154, 
+            "description": "Campaign account for Senator Tammy Baldwin. Tweets by staff. Tweets from Tammy signed \u2014 TB.", 
+            "friends_count": 4654, 
+            "location": "Wisconsin", 
+            "profile_link_color": "1DA1F2", 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1022814956742471681/H8bGnxFb_normal.jpg", 
+            "following": false, 
+            "geo_enabled": true, 
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/87510313/1535472362", 
+            "profile_image_extensions_alt_text": null, 
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+            "screen_name": "tammybaldwin", 
+            "lang": "en", 
+            "profile_background_tile": false, 
+            "favourites_count": 15, 
+            "name": "Tammy Baldwin", 
+            "notifications": false, 
+            "url": "https://t.co/Ub0vOuchNn", 
+            "created_at": "Wed Nov 04 19:20:25 +0000 2009", 
+            "profile_banner_extensions_alt_text": null, 
+            "contributors_enabled": false, 
+            "time_zone": null, 
+            "protected": false, 
+            "default_profile": true, 
+            "is_translator": false
+        }, 
+        "geo": null, 
+        "in_reply_to_user_id_str": null, 
+        "lang": "en", 
+        "created_at": "Fri Aug 03 14:46:38 +0000 2018", 
+        "in_reply_to_status_id_str": null, 
+        "place": null
+    }, 
+    {
+        "card_uri": "card://1025377389159694337", 
+        "contributors": null, 
+        "truncated": true, 
+        "text": "The Trump administration is going to let insurance companies sell #junkplans that won\u2019t protect people with pre-exi\u2026 https://t.co/hRkhOkbNJi", 
+        "is_quote_status": false, 
+        "in_reply_to_status_id": null, 
+        "id": 1025392407049719808, 
+        "favorite_count": 11, 
+        "source": "<a href=\"https://ads-api.twitter.com\" rel=\"nofollow\">Twitter Ads Composer</a>", 
+        "retweeted": false, 
+        "coordinates": null, 
+        "entities": {
+            "symbols": [], 
+            "user_mentions": [], 
+            "hashtags": [
+                {
+                    "indices": [
+                        66, 
+                        76
+                    ], 
+                    "text": "junkplans"
+                }
+            ], 
+            "urls": [
+                {
+                    "url": "https://t.co/hRkhOkbNJi", 
+                    "indices": [
+                        117, 
+                        140
+                    ], 
+                    "expanded_url": "https://twitter.com/i/web/status/1025392407049719808", 
+                    "display_url": "twitter.com/i/web/status/1\u2026"
+                }
+            ]
+        }, 
+        "in_reply_to_screen_name": null, 
+        "in_reply_to_user_id": null, 
+        "scopes": {
+            "followers": false
+        }, 
+        "retweet_count": 6, 
+        "id_str": "1025392407049719808", 
+        "favorited": false, 
+        "user": {
+            "follow_request_sent": false, 
+            "has_extended_profile": false, 
+            "profile_use_background_image": true, 
+            "default_profile_image": false, 
+            "id": 87510313, 
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+            "verified": true, 
+            "translator_type": "none", 
+            "profile_text_color": "333333", 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1022814956742471681/H8bGnxFb_normal.jpg", 
+            "profile_sidebar_fill_color": "DDEEF6", 
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/Ub0vOuchNn", 
+                            "indices": [
+                                0, 
+                                23
+                            ], 
+                            "expanded_url": "http://www.tammybaldwin.com", 
+                            "display_url": "tammybaldwin.com"
+                        }
+                    ]
+                }, 
+                "description": {
+                    "urls": []
+                }
+            }, 
+            "followers_count": 41252, 
+            "profile_sidebar_border_color": "C0DEED", 
+            "id_str": "87510313", 
+            "profile_background_color": "C0DEED", 
+            "listed_count": 1237, 
+            "is_translation_enabled": false, 
+            "utc_offset": null, 
+            "statuses_count": 4154, 
+            "description": "Campaign account for Senator Tammy Baldwin. Tweets by staff. Tweets from Tammy signed \u2014 TB.", 
+            "friends_count": 4654, 
+            "location": "Wisconsin", 
+            "profile_link_color": "1DA1F2", 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1022814956742471681/H8bGnxFb_normal.jpg", 
+            "following": false, 
+            "geo_enabled": true, 
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/87510313/1535472362", 
+            "profile_image_extensions_alt_text": null, 
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+            "screen_name": "tammybaldwin", 
+            "lang": "en", 
+            "profile_background_tile": false, 
+            "favourites_count": 15, 
+            "name": "Tammy Baldwin", 
+            "notifications": false, 
+            "url": "https://t.co/Ub0vOuchNn", 
+            "created_at": "Wed Nov 04 19:20:25 +0000 2009", 
+            "profile_banner_extensions_alt_text": null, 
+            "contributors_enabled": false, 
+            "time_zone": null, 
+            "protected": false, 
+            "default_profile": true, 
+            "is_translator": false
+        }, 
+        "geo": null, 
+        "in_reply_to_user_id_str": null, 
+        "lang": "en", 
+        "created_at": "Fri Aug 03 14:46:15 +0000 2018", 
+        "in_reply_to_status_id_str": null, 
+        "place": null
+    }, 
+    {
+        "card_uri": "card://1025392825846792192", 
+        "contributors": null, 
+        "truncated": true, 
+        "text": "Trump\u2019s new #junkplans plans don\u2019t have to follow Obamacare protections or include essential services. We need qual\u2026 https://t.co/tRLI4jrTIz", 
+        "is_quote_status": false, 
+        "in_reply_to_status_id": null, 
+        "id": 1025393205779423233, 
+        "favorite_count": 0, 
+        "source": "<a href=\"https://ads-api.twitter.com\" rel=\"nofollow\">Twitter Ads Composer</a>", 
+        "retweeted": false, 
+        "coordinates": null, 
+        "entities": {
+            "symbols": [], 
+            "user_mentions": [], 
+            "hashtags": [
+                {
+                    "indices": [
+                        12, 
+                        22
+                    ], 
+                    "text": "junkplans"
+                }
+            ], 
+            "urls": [
+                {
+                    "url": "https://t.co/tRLI4jrTIz", 
+                    "indices": [
+                        117, 
+                        140
+                    ], 
+                    "expanded_url": "https://twitter.com/i/web/status/1025393205779423233", 
+                    "display_url": "twitter.com/i/web/status/1\u2026"
+                }
+            ]
+        }, 
+        "in_reply_to_screen_name": null, 
+        "in_reply_to_user_id": null, 
+        "scopes": {
+            "followers": false
+        }, 
+        "retweet_count": 0, 
+        "id_str": "1025393205779423233", 
+        "favorited": false, 
+        "user": {
+            "follow_request_sent": false, 
+            "has_extended_profile": false, 
+            "profile_use_background_image": true, 
+            "default_profile_image": false, 
+            "id": 87510313, 
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+            "verified": true, 
+            "translator_type": "none", 
+            "profile_text_color": "333333", 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1022814956742471681/H8bGnxFb_normal.jpg", 
+            "profile_sidebar_fill_color": "DDEEF6", 
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/Ub0vOuchNn", 
+                            "indices": [
+                                0, 
+                                23
+                            ], 
+                            "expanded_url": "http://www.tammybaldwin.com", 
+                            "display_url": "tammybaldwin.com"
+                        }
+                    ]
+                }, 
+                "description": {
+                    "urls": []
+                }
+            }, 
+            "followers_count": 41252, 
+            "profile_sidebar_border_color": "C0DEED", 
+            "id_str": "87510313", 
+            "profile_background_color": "C0DEED", 
+            "listed_count": 1237, 
+            "is_translation_enabled": false, 
+            "utc_offset": null, 
+            "statuses_count": 4154, 
+            "description": "Campaign account for Senator Tammy Baldwin. Tweets by staff. Tweets from Tammy signed \u2014 TB.", 
+            "friends_count": 4654, 
+            "location": "Wisconsin", 
+            "profile_link_color": "1DA1F2", 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1022814956742471681/H8bGnxFb_normal.jpg", 
+            "following": false, 
+            "geo_enabled": true, 
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/87510313/1535472362", 
+            "profile_image_extensions_alt_text": null, 
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+            "screen_name": "tammybaldwin", 
+            "lang": "en", 
+            "profile_background_tile": false, 
+            "favourites_count": 15, 
+            "name": "Tammy Baldwin", 
+            "notifications": false, 
+            "url": "https://t.co/Ub0vOuchNn", 
+            "created_at": "Wed Nov 04 19:20:25 +0000 2009", 
+            "profile_banner_extensions_alt_text": null, 
+            "contributors_enabled": false, 
+            "time_zone": null, 
+            "protected": false, 
+            "default_profile": true, 
+            "is_translator": false
+        }, 
+        "geo": null, 
+        "in_reply_to_user_id_str": null, 
+        "lang": "en", 
+        "created_at": "Fri Aug 03 14:49:25 +0000 2018", 
+        "in_reply_to_status_id_str": null, 
+        "place": null
+    }, 
+    {
+        "card_uri": "card://1022533302698143749", 
+        "contributors": null, 
+        "truncated": true, 
+        "text": "Thanks to your help, Tammy broke fundraising records last quarter. But for every $1 we raised through small online\u2026 https://t.co/G1ufFwDj08", 
+        "is_quote_status": false, 
+        "in_reply_to_status_id": null, 
+        "id": 1022535374025850881, 
+        "favorite_count": 19, 
+        "source": "<a href=\"https://ads-api.twitter.com\" rel=\"nofollow\">Twitter Ads Composer</a>", 
+        "retweeted": false, 
+        "coordinates": null, 
+        "entities": {
+            "symbols": [], 
+            "user_mentions": [], 
+            "hashtags": [], 
+            "urls": [
+                {
+                    "url": "https://t.co/G1ufFwDj08", 
+                    "indices": [
+                        116, 
+                        139
+                    ], 
+                    "expanded_url": "https://twitter.com/i/web/status/1022535374025850881", 
+                    "display_url": "twitter.com/i/web/status/1\u2026"
+                }
+            ]
+        }, 
+        "in_reply_to_screen_name": null, 
+        "in_reply_to_user_id": null, 
+        "scopes": {
+            "followers": false
+        }, 
+        "retweet_count": 12, 
+        "id_str": "1022535374025850881", 
+        "favorited": false, 
+        "user": {
+            "follow_request_sent": false, 
+            "has_extended_profile": false, 
+            "profile_use_background_image": true, 
+            "default_profile_image": false, 
+            "id": 87510313, 
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+            "verified": true, 
+            "translator_type": "none", 
+            "profile_text_color": "333333", 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1022814956742471681/H8bGnxFb_normal.jpg", 
+            "profile_sidebar_fill_color": "DDEEF6", 
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/Ub0vOuchNn", 
+                            "indices": [
+                                0, 
+                                23
+                            ], 
+                            "expanded_url": "http://www.tammybaldwin.com", 
+                            "display_url": "tammybaldwin.com"
+                        }
+                    ]
+                }, 
+                "description": {
+                    "urls": []
+                }
+            }, 
+            "followers_count": 41252, 
+            "profile_sidebar_border_color": "C0DEED", 
+            "id_str": "87510313", 
+            "profile_background_color": "C0DEED", 
+            "listed_count": 1237, 
+            "is_translation_enabled": false, 
+            "utc_offset": null, 
+            "statuses_count": 4154, 
+            "description": "Campaign account for Senator Tammy Baldwin. Tweets by staff. Tweets from Tammy signed \u2014 TB.", 
+            "friends_count": 4654, 
+            "location": "Wisconsin", 
+            "profile_link_color": "1DA1F2", 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1022814956742471681/H8bGnxFb_normal.jpg", 
+            "following": false, 
+            "geo_enabled": true, 
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/87510313/1535472362", 
+            "profile_image_extensions_alt_text": null, 
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+            "screen_name": "tammybaldwin", 
+            "lang": "en", 
+            "profile_background_tile": false, 
+            "favourites_count": 15, 
+            "name": "Tammy Baldwin", 
+            "notifications": false, 
+            "url": "https://t.co/Ub0vOuchNn", 
+            "created_at": "Wed Nov 04 19:20:25 +0000 2009", 
+            "profile_banner_extensions_alt_text": null, 
+            "contributors_enabled": false, 
+            "time_zone": null, 
+            "protected": false, 
+            "default_profile": true, 
+            "is_translator": false
+        }, 
+        "geo": null, 
+        "in_reply_to_user_id_str": null, 
+        "lang": "en", 
+        "created_at": "Thu Jul 26 17:33:25 +0000 2018", 
+        "in_reply_to_status_id_str": null, 
+        "place": null
+    }, 
+    {
+        "card_uri": "card://1025377254191157248", 
+        "contributors": null, 
+        "truncated": true, 
+        "text": "Trump\u2019s new #junkplans plans don\u2019t have to follow Obamacare protections or include essential services. We need qual\u2026 https://t.co/3cjY55aRxM", 
+        "is_quote_status": false, 
+        "in_reply_to_status_id": null, 
+        "id": 1025392225176281090, 
+        "favorite_count": 10, 
+        "source": "<a href=\"https://ads-api.twitter.com\" rel=\"nofollow\">Twitter Ads Composer</a>", 
+        "retweeted": false, 
+        "coordinates": null, 
+        "entities": {
+            "symbols": [], 
+            "user_mentions": [], 
+            "hashtags": [
+                {
+                    "indices": [
+                        12, 
+                        22
+                    ], 
+                    "text": "junkplans"
+                }
+            ], 
+            "urls": [
+                {
+                    "url": "https://t.co/3cjY55aRxM", 
+                    "indices": [
+                        117, 
+                        140
+                    ], 
+                    "expanded_url": "https://twitter.com/i/web/status/1025392225176281090", 
+                    "display_url": "twitter.com/i/web/status/1\u2026"
+                }
+            ]
+        }, 
+        "in_reply_to_screen_name": null, 
+        "in_reply_to_user_id": null, 
+        "scopes": {
+            "followers": false
+        }, 
+        "retweet_count": 4, 
+        "id_str": "1025392225176281090", 
+        "favorited": false, 
+        "user": {
+            "follow_request_sent": false, 
+            "has_extended_profile": false, 
+            "profile_use_background_image": true, 
+            "default_profile_image": false, 
+            "id": 87510313, 
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+            "verified": true, 
+            "translator_type": "none", 
+            "profile_text_color": "333333", 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1022814956742471681/H8bGnxFb_normal.jpg", 
+            "profile_sidebar_fill_color": "DDEEF6", 
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/Ub0vOuchNn", 
+                            "indices": [
+                                0, 
+                                23
+                            ], 
+                            "expanded_url": "http://www.tammybaldwin.com", 
+                            "display_url": "tammybaldwin.com"
+                        }
+                    ]
+                }, 
+                "description": {
+                    "urls": []
+                }
+            }, 
+            "followers_count": 41252, 
+            "profile_sidebar_border_color": "C0DEED", 
+            "id_str": "87510313", 
+            "profile_background_color": "C0DEED", 
+            "listed_count": 1237, 
+            "is_translation_enabled": false, 
+            "utc_offset": null, 
+            "statuses_count": 4154, 
+            "description": "Campaign account for Senator Tammy Baldwin. Tweets by staff. Tweets from Tammy signed \u2014 TB.", 
+            "friends_count": 4654, 
+            "location": "Wisconsin", 
+            "profile_link_color": "1DA1F2", 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1022814956742471681/H8bGnxFb_normal.jpg", 
+            "following": false, 
+            "geo_enabled": true, 
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/87510313/1535472362", 
+            "profile_image_extensions_alt_text": null, 
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+            "screen_name": "tammybaldwin", 
+            "lang": "en", 
+            "profile_background_tile": false, 
+            "favourites_count": 15, 
+            "name": "Tammy Baldwin", 
+            "notifications": false, 
+            "url": "https://t.co/Ub0vOuchNn", 
+            "created_at": "Wed Nov 04 19:20:25 +0000 2009", 
+            "profile_banner_extensions_alt_text": null, 
+            "contributors_enabled": false, 
+            "time_zone": null, 
+            "protected": false, 
+            "default_profile": true, 
+            "is_translator": false
+        }, 
+        "geo": null, 
+        "in_reply_to_user_id_str": null, 
+        "lang": "en", 
+        "created_at": "Fri Aug 03 14:45:32 +0000 2018", 
+        "in_reply_to_status_id_str": null, 
+        "place": null
+    }, 
+    {
+        "card_uri": "card://1025393753358356485", 
+        "contributors": null, 
+        "truncated": true, 
+        "text": "President Trump is determined to make it harder for people with pre-existing conditions to get quality health care.\u2026 https://t.co/W9Hm6rnVVN", 
+        "is_quote_status": false, 
+        "in_reply_to_status_id": null, 
+        "id": 1025394192762040320, 
+        "favorite_count": 3, 
+        "source": "<a href=\"https://ads-api.twitter.com\" rel=\"nofollow\">Twitter Ads Composer</a>", 
+        "retweeted": false, 
+        "coordinates": null, 
+        "entities": {
+            "symbols": [], 
+            "user_mentions": [], 
+            "hashtags": [], 
+            "urls": [
+                {
+                    "url": "https://t.co/W9Hm6rnVVN", 
+                    "indices": [
+                        117, 
+                        140
+                    ], 
+                    "expanded_url": "https://twitter.com/i/web/status/1025394192762040320", 
+                    "display_url": "twitter.com/i/web/status/1\u2026"
+                }
+            ]
+        }, 
+        "in_reply_to_screen_name": null, 
+        "in_reply_to_user_id": null, 
+        "scopes": {
+            "followers": false
+        }, 
+        "retweet_count": 5, 
+        "id_str": "1025394192762040320", 
+        "favorited": false, 
+        "user": {
+            "follow_request_sent": false, 
+            "has_extended_profile": false, 
+            "profile_use_background_image": true, 
+            "default_profile_image": false, 
+            "id": 87510313, 
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+            "verified": true, 
+            "translator_type": "none", 
+            "profile_text_color": "333333", 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1022814956742471681/H8bGnxFb_normal.jpg", 
+            "profile_sidebar_fill_color": "DDEEF6", 
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/Ub0vOuchNn", 
+                            "indices": [
+                                0, 
+                                23
+                            ], 
+                            "expanded_url": "http://www.tammybaldwin.com", 
+                            "display_url": "tammybaldwin.com"
+                        }
+                    ]
+                }, 
+                "description": {
+                    "urls": []
+                }
+            }, 
+            "followers_count": 41252, 
+            "profile_sidebar_border_color": "C0DEED", 
+            "id_str": "87510313", 
+            "profile_background_color": "C0DEED", 
+            "listed_count": 1237, 
+            "is_translation_enabled": false, 
+            "utc_offset": null, 
+            "statuses_count": 4154, 
+            "description": "Campaign account for Senator Tammy Baldwin. Tweets by staff. Tweets from Tammy signed \u2014 TB.", 
+            "friends_count": 4654, 
+            "location": "Wisconsin", 
+            "profile_link_color": "1DA1F2", 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1022814956742471681/H8bGnxFb_normal.jpg", 
+            "following": false, 
+            "geo_enabled": true, 
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/87510313/1535472362", 
+            "profile_image_extensions_alt_text": null, 
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+            "screen_name": "tammybaldwin", 
+            "lang": "en", 
+            "profile_background_tile": false, 
+            "favourites_count": 15, 
+            "name": "Tammy Baldwin", 
+            "notifications": false, 
+            "url": "https://t.co/Ub0vOuchNn", 
+            "created_at": "Wed Nov 04 19:20:25 +0000 2009", 
+            "profile_banner_extensions_alt_text": null, 
+            "contributors_enabled": false, 
+            "time_zone": null, 
+            "protected": false, 
+            "default_profile": true, 
+            "is_translator": false
+        }, 
+        "geo": null, 
+        "in_reply_to_user_id_str": null, 
+        "lang": "en", 
+        "created_at": "Fri Aug 03 14:53:21 +0000 2018", 
+        "in_reply_to_status_id_str": null, 
+        "place": null
+    }, 
+    {
+        "card_uri": "card://1025393097008545797", 
+        "contributors": null, 
+        "truncated": true, 
+        "text": "Trump\u2019s new #junkplans could make it impossible for millions Americans with pre-existing conditions to get coverage\u2026 https://t.co/ZGzBMQhvE5", 
+        "is_quote_status": false, 
+        "in_reply_to_status_id": null, 
+        "id": 1025393395655532545, 
+        "favorite_count": 30, 
+        "source": "<a href=\"https://ads-api.twitter.com\" rel=\"nofollow\">Twitter Ads Composer</a>", 
+        "retweeted": false, 
+        "coordinates": null, 
+        "entities": {
+            "symbols": [], 
+            "user_mentions": [], 
+            "hashtags": [
+                {
+                    "indices": [
+                        12, 
+                        22
+                    ], 
+                    "text": "junkplans"
+                }
+            ], 
+            "urls": [
+                {
+                    "url": "https://t.co/ZGzBMQhvE5", 
+                    "indices": [
+                        117, 
+                        140
+                    ], 
+                    "expanded_url": "https://twitter.com/i/web/status/1025393395655532545", 
+                    "display_url": "twitter.com/i/web/status/1\u2026"
+                }
+            ]
+        }, 
+        "in_reply_to_screen_name": null, 
+        "in_reply_to_user_id": null, 
+        "scopes": {
+            "followers": false
+        }, 
+        "retweet_count": 14, 
+        "id_str": "1025393395655532545", 
+        "favorited": false, 
+        "user": {
+            "follow_request_sent": false, 
+            "has_extended_profile": false, 
+            "profile_use_background_image": true, 
+            "default_profile_image": false, 
+            "id": 87510313, 
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+            "verified": true, 
+            "translator_type": "none", 
+            "profile_text_color": "333333", 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1022814956742471681/H8bGnxFb_normal.jpg", 
+            "profile_sidebar_fill_color": "DDEEF6", 
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/Ub0vOuchNn", 
+                            "indices": [
+                                0, 
+                                23
+                            ], 
+                            "expanded_url": "http://www.tammybaldwin.com", 
+                            "display_url": "tammybaldwin.com"
+                        }
+                    ]
+                }, 
+                "description": {
+                    "urls": []
+                }
+            }, 
+            "followers_count": 41252, 
+            "profile_sidebar_border_color": "C0DEED", 
+            "id_str": "87510313", 
+            "profile_background_color": "C0DEED", 
+            "listed_count": 1237, 
+            "is_translation_enabled": false, 
+            "utc_offset": null, 
+            "statuses_count": 4154, 
+            "description": "Campaign account for Senator Tammy Baldwin. Tweets by staff. Tweets from Tammy signed \u2014 TB.", 
+            "friends_count": 4654, 
+            "location": "Wisconsin", 
+            "profile_link_color": "1DA1F2", 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1022814956742471681/H8bGnxFb_normal.jpg", 
+            "following": false, 
+            "geo_enabled": true, 
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/87510313/1535472362", 
+            "profile_image_extensions_alt_text": null, 
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+            "screen_name": "tammybaldwin", 
+            "lang": "en", 
+            "profile_background_tile": false, 
+            "favourites_count": 15, 
+            "name": "Tammy Baldwin", 
+            "notifications": false, 
+            "url": "https://t.co/Ub0vOuchNn", 
+            "created_at": "Wed Nov 04 19:20:25 +0000 2009", 
+            "profile_banner_extensions_alt_text": null, 
+            "contributors_enabled": false, 
+            "time_zone": null, 
+            "protected": false, 
+            "default_profile": true, 
+            "is_translator": false
+        }, 
+        "geo": null, 
+        "in_reply_to_user_id_str": null, 
+        "lang": "en", 
+        "created_at": "Fri Aug 03 14:50:11 +0000 2018", 
+        "in_reply_to_status_id_str": null, 
+        "place": null
+    }, 
+    {
+        "card_uri": "card://1025393034626662400", 
+        "contributors": null, 
+        "truncated": true, 
+        "text": "The Trump administration just announced that it will allow insurance companies to sell #junkplans that will skirt e\u2026 https://t.co/524S1y1iTl", 
+        "is_quote_status": false, 
+        "in_reply_to_status_id": null, 
+        "id": 1025393351036551169, 
+        "favorite_count": 1, 
+        "source": "<a href=\"https://ads-api.twitter.com\" rel=\"nofollow\">Twitter Ads Composer</a>", 
+        "retweeted": false, 
+        "coordinates": null, 
+        "entities": {
+            "symbols": [], 
+            "user_mentions": [], 
+            "hashtags": [
+                {
+                    "indices": [
+                        87, 
+                        97
+                    ], 
+                    "text": "junkplans"
+                }
+            ], 
+            "urls": [
+                {
+                    "url": "https://t.co/524S1y1iTl", 
+                    "indices": [
+                        117, 
+                        140
+                    ], 
+                    "expanded_url": "https://twitter.com/i/web/status/1025393351036551169", 
+                    "display_url": "twitter.com/i/web/status/1\u2026"
+                }
+            ]
+        }, 
+        "in_reply_to_screen_name": null, 
+        "in_reply_to_user_id": null, 
+        "scopes": {
+            "followers": false
+        }, 
+        "retweet_count": 4, 
+        "id_str": "1025393351036551169", 
+        "favorited": false, 
+        "user": {
+            "follow_request_sent": false, 
+            "has_extended_profile": false, 
+            "profile_use_background_image": true, 
+            "default_profile_image": false, 
+            "id": 87510313, 
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+            "verified": true, 
+            "translator_type": "none", 
+            "profile_text_color": "333333", 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1022814956742471681/H8bGnxFb_normal.jpg", 
+            "profile_sidebar_fill_color": "DDEEF6", 
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/Ub0vOuchNn", 
+                            "indices": [
+                                0, 
+                                23
+                            ], 
+                            "expanded_url": "http://www.tammybaldwin.com", 
+                            "display_url": "tammybaldwin.com"
+                        }
+                    ]
+                }, 
+                "description": {
+                    "urls": []
+                }
+            }, 
+            "followers_count": 41252, 
+            "profile_sidebar_border_color": "C0DEED", 
+            "id_str": "87510313", 
+            "profile_background_color": "C0DEED", 
+            "listed_count": 1237, 
+            "is_translation_enabled": false, 
+            "utc_offset": null, 
+            "statuses_count": 4154, 
+            "description": "Campaign account for Senator Tammy Baldwin. Tweets by staff. Tweets from Tammy signed \u2014 TB.", 
+            "friends_count": 4654, 
+            "location": "Wisconsin", 
+            "profile_link_color": "1DA1F2", 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1022814956742471681/H8bGnxFb_normal.jpg", 
+            "following": false, 
+            "geo_enabled": true, 
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/87510313/1535472362", 
+            "profile_image_extensions_alt_text": null, 
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+            "screen_name": "tammybaldwin", 
+            "lang": "en", 
+            "profile_background_tile": false, 
+            "favourites_count": 15, 
+            "name": "Tammy Baldwin", 
+            "notifications": false, 
+            "url": "https://t.co/Ub0vOuchNn", 
+            "created_at": "Wed Nov 04 19:20:25 +0000 2009", 
+            "profile_banner_extensions_alt_text": null, 
+            "contributors_enabled": false, 
+            "time_zone": null, 
+            "protected": false, 
+            "default_profile": true, 
+            "is_translator": false
+        }, 
+        "geo": null, 
+        "in_reply_to_user_id_str": null, 
+        "lang": "en", 
+        "created_at": "Fri Aug 03 14:50:00 +0000 2018", 
+        "in_reply_to_status_id_str": null, 
+        "place": null
+    }, 
+    {
+        "card_uri": "card://1022533420973322240", 
+        "contributors": null, 
+        "truncated": true, 
+        "text": "The single greatest threat to corporate special interests and their truckload of outside money is a grassroots move\u2026 https://t.co/vg2CwLFPbH", 
+        "is_quote_status": false, 
+        "in_reply_to_status_id": null, 
+        "id": 1022535466560548864, 
+        "favorite_count": 38, 
+        "source": "<a href=\"https://ads-api.twitter.com\" rel=\"nofollow\">Twitter Ads Composer</a>", 
+        "retweeted": false, 
+        "coordinates": null, 
+        "entities": {
+            "symbols": [], 
+            "user_mentions": [], 
+            "hashtags": [], 
+            "urls": [
+                {
+                    "url": "https://t.co/vg2CwLFPbH", 
+                    "indices": [
+                        117, 
+                        140
+                    ], 
+                    "expanded_url": "https://twitter.com/i/web/status/1022535466560548864", 
+                    "display_url": "twitter.com/i/web/status/1\u2026"
+                }
+            ]
+        }, 
+        "in_reply_to_screen_name": null, 
+        "in_reply_to_user_id": null, 
+        "scopes": {
+            "followers": false
+        }, 
+        "retweet_count": 25, 
+        "id_str": "1022535466560548864", 
+        "favorited": false, 
+        "user": {
+            "follow_request_sent": false, 
+            "has_extended_profile": false, 
+            "profile_use_background_image": true, 
+            "default_profile_image": false, 
+            "id": 87510313, 
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+            "verified": true, 
+            "translator_type": "none", 
+            "profile_text_color": "333333", 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1022814956742471681/H8bGnxFb_normal.jpg", 
+            "profile_sidebar_fill_color": "DDEEF6", 
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/Ub0vOuchNn", 
+                            "indices": [
+                                0, 
+                                23
+                            ], 
+                            "expanded_url": "http://www.tammybaldwin.com", 
+                            "display_url": "tammybaldwin.com"
+                        }
+                    ]
+                }, 
+                "description": {
+                    "urls": []
+                }
+            }, 
+            "followers_count": 41252, 
+            "profile_sidebar_border_color": "C0DEED", 
+            "id_str": "87510313", 
+            "profile_background_color": "C0DEED", 
+            "listed_count": 1237, 
+            "is_translation_enabled": false, 
+            "utc_offset": null, 
+            "statuses_count": 4154, 
+            "description": "Campaign account for Senator Tammy Baldwin. Tweets by staff. Tweets from Tammy signed \u2014 TB.", 
+            "friends_count": 4654, 
+            "location": "Wisconsin", 
+            "profile_link_color": "1DA1F2", 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1022814956742471681/H8bGnxFb_normal.jpg", 
+            "following": false, 
+            "geo_enabled": true, 
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/87510313/1535472362", 
+            "profile_image_extensions_alt_text": null, 
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+            "screen_name": "tammybaldwin", 
+            "lang": "en", 
+            "profile_background_tile": false, 
+            "favourites_count": 15, 
+            "name": "Tammy Baldwin", 
+            "notifications": false, 
+            "url": "https://t.co/Ub0vOuchNn", 
+            "created_at": "Wed Nov 04 19:20:25 +0000 2009", 
+            "profile_banner_extensions_alt_text": null, 
+            "contributors_enabled": false, 
+            "time_zone": null, 
+            "protected": false, 
+            "default_profile": true, 
+            "is_translator": false
+        }, 
+        "geo": null, 
+        "in_reply_to_user_id_str": null, 
+        "lang": "en", 
+        "created_at": "Thu Jul 26 17:33:47 +0000 2018", 
+        "in_reply_to_status_id_str": null, 
+        "place": null
+    }, 
+    {
+        "card_uri": "card://1025377608953819136", 
+        "contributors": null, 
+        "truncated": true, 
+        "text": "Trump\u2019s new #junkplans could make it impossible for millions Americans with pre-existing conditions to get coverage\u2026 https://t.co/FrfHE1ns2K", 
+        "is_quote_status": false, 
+        "in_reply_to_status_id": null, 
+        "id": 1025392547705716736, 
+        "favorite_count": 28, 
+        "source": "<a href=\"https://ads-api.twitter.com\" rel=\"nofollow\">Twitter Ads Composer</a>", 
+        "retweeted": false, 
+        "coordinates": null, 
+        "entities": {
+            "symbols": [], 
+            "user_mentions": [], 
+            "hashtags": [
+                {
+                    "indices": [
+                        12, 
+                        22
+                    ], 
+                    "text": "junkplans"
+                }
+            ], 
+            "urls": [
+                {
+                    "url": "https://t.co/FrfHE1ns2K", 
+                    "indices": [
+                        117, 
+                        140
+                    ], 
+                    "expanded_url": "https://twitter.com/i/web/status/1025392547705716736", 
+                    "display_url": "twitter.com/i/web/status/1\u2026"
+                }
+            ]
+        }, 
+        "in_reply_to_screen_name": null, 
+        "in_reply_to_user_id": null, 
+        "scopes": {
+            "followers": false
+        }, 
+        "retweet_count": 19, 
+        "id_str": "1025392547705716736", 
+        "favorited": false, 
+        "user": {
+            "follow_request_sent": false, 
+            "has_extended_profile": false, 
+            "profile_use_background_image": true, 
+            "default_profile_image": false, 
+            "id": 87510313, 
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+            "verified": true, 
+            "translator_type": "none", 
+            "profile_text_color": "333333", 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1022814956742471681/H8bGnxFb_normal.jpg", 
+            "profile_sidebar_fill_color": "DDEEF6", 
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/Ub0vOuchNn", 
+                            "indices": [
+                                0, 
+                                23
+                            ], 
+                            "expanded_url": "http://www.tammybaldwin.com", 
+                            "display_url": "tammybaldwin.com"
+                        }
+                    ]
+                }, 
+                "description": {
+                    "urls": []
+                }
+            }, 
+            "followers_count": 41252, 
+            "profile_sidebar_border_color": "C0DEED", 
+            "id_str": "87510313", 
+            "profile_background_color": "C0DEED", 
+            "listed_count": 1237, 
+            "is_translation_enabled": false, 
+            "utc_offset": null, 
+            "statuses_count": 4154, 
+            "description": "Campaign account for Senator Tammy Baldwin. Tweets by staff. Tweets from Tammy signed \u2014 TB.", 
+            "friends_count": 4654, 
+            "location": "Wisconsin", 
+            "profile_link_color": "1DA1F2", 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1022814956742471681/H8bGnxFb_normal.jpg", 
+            "following": false, 
+            "geo_enabled": true, 
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/87510313/1535472362", 
+            "profile_image_extensions_alt_text": null, 
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+            "screen_name": "tammybaldwin", 
+            "lang": "en", 
+            "profile_background_tile": false, 
+            "favourites_count": 15, 
+            "name": "Tammy Baldwin", 
+            "notifications": false, 
+            "url": "https://t.co/Ub0vOuchNn", 
+            "created_at": "Wed Nov 04 19:20:25 +0000 2009", 
+            "profile_banner_extensions_alt_text": null, 
+            "contributors_enabled": false, 
+            "time_zone": null, 
+            "protected": false, 
+            "default_profile": true, 
+            "is_translator": false
+        }, 
+        "geo": null, 
+        "in_reply_to_user_id_str": null, 
+        "lang": "en", 
+        "created_at": "Fri Aug 03 14:46:48 +0000 2018", 
+        "in_reply_to_status_id_str": null, 
+        "place": null
+    }, 
+    {
+        "card_uri": "card://1025392980524290049", 
+        "contributors": null, 
+        "truncated": true, 
+        "text": "President Trump is determined to make it harder for people with pre-existing conditions to get quality health care.\u2026 https://t.co/etTdvJnyGJ", 
+        "is_quote_status": false, 
+        "in_reply_to_status_id": null, 
+        "id": 1025393303645126656, 
+        "favorite_count": 10, 
+        "source": "<a href=\"https://ads-api.twitter.com\" rel=\"nofollow\">Twitter Ads Composer</a>", 
+        "retweeted": false, 
+        "coordinates": null, 
+        "entities": {
+            "symbols": [], 
+            "user_mentions": [], 
+            "hashtags": [], 
+            "urls": [
+                {
+                    "url": "https://t.co/etTdvJnyGJ", 
+                    "indices": [
+                        117, 
+                        140
+                    ], 
+                    "expanded_url": "https://twitter.com/i/web/status/1025393303645126656", 
+                    "display_url": "twitter.com/i/web/status/1\u2026"
+                }
+            ]
+        }, 
+        "in_reply_to_screen_name": null, 
+        "in_reply_to_user_id": null, 
+        "scopes": {
+            "followers": false
+        }, 
+        "retweet_count": 11, 
+        "id_str": "1025393303645126656", 
+        "favorited": false, 
+        "user": {
+            "follow_request_sent": false, 
+            "has_extended_profile": false, 
+            "profile_use_background_image": true, 
+            "default_profile_image": false, 
+            "id": 87510313, 
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+            "verified": true, 
+            "translator_type": "none", 
+            "profile_text_color": "333333", 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1022814956742471681/H8bGnxFb_normal.jpg", 
+            "profile_sidebar_fill_color": "DDEEF6", 
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/Ub0vOuchNn", 
+                            "indices": [
+                                0, 
+                                23
+                            ], 
+                            "expanded_url": "http://www.tammybaldwin.com", 
+                            "display_url": "tammybaldwin.com"
+                        }
+                    ]
+                }, 
+                "description": {
+                    "urls": []
+                }
+            }, 
+            "followers_count": 41252, 
+            "profile_sidebar_border_color": "C0DEED", 
+            "id_str": "87510313", 
+            "profile_background_color": "C0DEED", 
+            "listed_count": 1237, 
+            "is_translation_enabled": false, 
+            "utc_offset": null, 
+            "statuses_count": 4154, 
+            "description": "Campaign account for Senator Tammy Baldwin. Tweets by staff. Tweets from Tammy signed \u2014 TB.", 
+            "friends_count": 4654, 
+            "location": "Wisconsin", 
+            "profile_link_color": "1DA1F2", 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1022814956742471681/H8bGnxFb_normal.jpg", 
+            "following": false, 
+            "geo_enabled": true, 
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/87510313/1535472362", 
+            "profile_image_extensions_alt_text": null, 
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+            "screen_name": "tammybaldwin", 
+            "lang": "en", 
+            "profile_background_tile": false, 
+            "favourites_count": 15, 
+            "name": "Tammy Baldwin", 
+            "notifications": false, 
+            "url": "https://t.co/Ub0vOuchNn", 
+            "created_at": "Wed Nov 04 19:20:25 +0000 2009", 
+            "profile_banner_extensions_alt_text": null, 
+            "contributors_enabled": false, 
+            "time_zone": null, 
+            "protected": false, 
+            "default_profile": true, 
+            "is_translator": false
+        }, 
+        "geo": null, 
+        "in_reply_to_user_id_str": null, 
+        "lang": "en", 
+        "created_at": "Fri Aug 03 14:49:49 +0000 2018", 
+        "in_reply_to_status_id_str": null, 
+        "place": null
+    }
+]

@@ -1,0 +1,27 @@
+{
+    "407039290": {
+        "Tweets": [
+            {
+                "lastActiveAtSeconds": 1533173739, 
+                "promotedMetadata": {
+                    "advertiserId": 407039290, 
+                    "political": true
+                }, 
+                "serveable": true, 
+                "id": 1019703416405331968, 
+                "tweetId": "1019703416405331968"
+            }, 
+            {
+                "lastActiveAtSeconds": 1533173739, 
+                "promotedMetadata": {
+                    "advertiserId": 407039290, 
+                    "political": true
+                }, 
+                "serveable": true, 
+                "id": 1019688370367328257, 
+                "tweetId": "1019688370367328257"
+            }
+        ], 
+        "ScreenName": "BobMenendezNJ"
+    }
+}

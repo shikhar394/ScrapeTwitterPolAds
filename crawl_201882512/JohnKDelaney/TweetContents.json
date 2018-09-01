@@ -1,0 +1,1065 @@
+[
+    {
+        "card_uri": "card://1029150684145274881", 
+        "contributors": null, 
+        "truncated": true, 
+        "text": "No other Democratic presidential candidate has reached this milestone in more than a decade.\u00a0To rebuild a winning c\u2026 https://t.co/yuAl1u8KOt", 
+        "is_quote_status": false, 
+        "in_reply_to_status_id": null, 
+        "id": 1029163369679413248, 
+        "favorite_count": 32, 
+        "source": "<a href=\"https://ads-api.twitter.com\" rel=\"nofollow\">Twitter Ads Composer</a>", 
+        "retweeted": false, 
+        "coordinates": null, 
+        "entities": {
+            "symbols": [], 
+            "user_mentions": [], 
+            "hashtags": [], 
+            "urls": [
+                {
+                    "url": "https://t.co/yuAl1u8KOt", 
+                    "indices": [
+                        117, 
+                        140
+                    ], 
+                    "expanded_url": "https://twitter.com/i/web/status/1029163369679413248", 
+                    "display_url": "twitter.com/i/web/status/1\u2026"
+                }
+            ]
+        }, 
+        "in_reply_to_screen_name": null, 
+        "in_reply_to_user_id": null, 
+        "scopes": {
+            "followers": false
+        }, 
+        "retweet_count": 7, 
+        "id_str": "1029163369679413248", 
+        "favorited": false, 
+        "user": {
+            "follow_request_sent": false, 
+            "has_extended_profile": false, 
+            "profile_use_background_image": false, 
+            "default_profile_image": false, 
+            "id": 426028646, 
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif", 
+            "verified": true, 
+            "translator_type": "none", 
+            "profile_text_color": "333333", 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1017761512818012161/DXlTw-1E_normal.jpg", 
+            "profile_sidebar_fill_color": "A0C5C7", 
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/TVIZqNaUjE", 
+                            "indices": [
+                                0, 
+                                23
+                            ], 
+                            "expanded_url": "http://johnkdelaney.com", 
+                            "display_url": "johnkdelaney.com"
+                        }
+                    ]
+                }, 
+                "description": {
+                    "urls": []
+                }
+            }, 
+            "followers_count": 11028, 
+            "profile_sidebar_border_color": "FFFFFF", 
+            "id_str": "426028646", 
+            "profile_background_color": "115FB8", 
+            "listed_count": 192, 
+            "is_translation_enabled": false, 
+            "utc_offset": null, 
+            "statuses_count": 5150, 
+            "description": "Dad of 4 great girls, married to amazing April, Dem Candidate President,Congressman, Entrepreneur,electrician\u2019s son, Springsteen fan,centrist,can win Red states", 
+            "friends_count": 2454, 
+            "location": "Washington, DC", 
+            "profile_link_color": "1B95E0", 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1017761512818012161/DXlTw-1E_normal.jpg", 
+            "following": false, 
+            "geo_enabled": false, 
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/426028646/1533137435", 
+            "profile_image_extensions_alt_text": null, 
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif", 
+            "screen_name": "JohnKDelaney", 
+            "lang": "en", 
+            "profile_background_tile": false, 
+            "favourites_count": 758, 
+            "name": "John K. Delaney", 
+            "notifications": false, 
+            "url": "https://t.co/TVIZqNaUjE", 
+            "created_at": "Thu Dec 01 19:06:13 +0000 2011", 
+            "profile_banner_extensions_alt_text": null, 
+            "contributors_enabled": false, 
+            "time_zone": null, 
+            "protected": false, 
+            "default_profile": false, 
+            "is_translator": false
+        }, 
+        "geo": null, 
+        "in_reply_to_user_id_str": null, 
+        "lang": "en", 
+        "created_at": "Tue Aug 14 00:30:42 +0000 2018", 
+        "in_reply_to_status_id_str": null, 
+        "place": null
+    }, 
+    {
+        "card_uri": "card://1029150502271909888", 
+        "contributors": null, 
+        "truncated": true, 
+        "text": "I've met with voters in ALL 99 Iowa counties -- red and blue. Because to be able to win and govern, we're going to\u2026 https://t.co/ZAIp5gRJh2", 
+        "is_quote_status": false, 
+        "in_reply_to_status_id": null, 
+        "id": 1029162765699579905, 
+        "favorite_count": 38, 
+        "source": "<a href=\"https://ads-api.twitter.com\" rel=\"nofollow\">Twitter Ads Composer</a>", 
+        "retweeted": false, 
+        "coordinates": null, 
+        "entities": {
+            "symbols": [], 
+            "user_mentions": [], 
+            "hashtags": [], 
+            "urls": [
+                {
+                    "url": "https://t.co/ZAIp5gRJh2", 
+                    "indices": [
+                        116, 
+                        139
+                    ], 
+                    "expanded_url": "https://twitter.com/i/web/status/1029162765699579905", 
+                    "display_url": "twitter.com/i/web/status/1\u2026"
+                }
+            ]
+        }, 
+        "in_reply_to_screen_name": null, 
+        "in_reply_to_user_id": null, 
+        "scopes": {
+            "followers": false
+        }, 
+        "retweet_count": 13, 
+        "id_str": "1029162765699579905", 
+        "favorited": false, 
+        "user": {
+            "follow_request_sent": false, 
+            "has_extended_profile": false, 
+            "profile_use_background_image": false, 
+            "default_profile_image": false, 
+            "id": 426028646, 
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif", 
+            "verified": true, 
+            "translator_type": "none", 
+            "profile_text_color": "333333", 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1017761512818012161/DXlTw-1E_normal.jpg", 
+            "profile_sidebar_fill_color": "A0C5C7", 
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/TVIZqNaUjE", 
+                            "indices": [
+                                0, 
+                                23
+                            ], 
+                            "expanded_url": "http://johnkdelaney.com", 
+                            "display_url": "johnkdelaney.com"
+                        }
+                    ]
+                }, 
+                "description": {
+                    "urls": []
+                }
+            }, 
+            "followers_count": 11028, 
+            "profile_sidebar_border_color": "FFFFFF", 
+            "id_str": "426028646", 
+            "profile_background_color": "115FB8", 
+            "listed_count": 192, 
+            "is_translation_enabled": false, 
+            "utc_offset": null, 
+            "statuses_count": 5150, 
+            "description": "Dad of 4 great girls, married to amazing April, Dem Candidate President,Congressman, Entrepreneur,electrician\u2019s son, Springsteen fan,centrist,can win Red states", 
+            "friends_count": 2454, 
+            "location": "Washington, DC", 
+            "profile_link_color": "1B95E0", 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1017761512818012161/DXlTw-1E_normal.jpg", 
+            "following": false, 
+            "geo_enabled": false, 
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/426028646/1533137435", 
+            "profile_image_extensions_alt_text": null, 
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif", 
+            "screen_name": "JohnKDelaney", 
+            "lang": "en", 
+            "profile_background_tile": false, 
+            "favourites_count": 758, 
+            "name": "John K. Delaney", 
+            "notifications": false, 
+            "url": "https://t.co/TVIZqNaUjE", 
+            "created_at": "Thu Dec 01 19:06:13 +0000 2011", 
+            "profile_banner_extensions_alt_text": null, 
+            "contributors_enabled": false, 
+            "time_zone": null, 
+            "protected": false, 
+            "default_profile": false, 
+            "is_translator": false
+        }, 
+        "geo": null, 
+        "in_reply_to_user_id_str": null, 
+        "lang": "en", 
+        "created_at": "Tue Aug 14 00:28:18 +0000 2018", 
+        "in_reply_to_status_id_str": null, 
+        "place": null
+    }, 
+    {
+        "card_uri": "card://1031949000256221185", 
+        "contributors": null, 
+        "truncated": false, 
+        "text": "\"Delaney is a worthy candidate and could win the Iowa caucuses.\" Read more from @scj on what Iowans are saying about my campaign.", 
+        "is_quote_status": false, 
+        "in_reply_to_status_id": null, 
+        "id": 1031949130875265025, 
+        "favorite_count": 0, 
+        "source": "<a href=\"https://ads-api.twitter.com\" rel=\"nofollow\">Twitter Ads Composer</a>", 
+        "retweeted": false, 
+        "coordinates": null, 
+        "entities": {
+            "symbols": [], 
+            "user_mentions": [
+                {
+                    "id": 12663042, 
+                    "indices": [
+                        80, 
+                        84
+                    ], 
+                    "id_str": "12663042", 
+                    "screen_name": "scj", 
+                    "name": "Sioux City Journal"
+                }
+            ], 
+            "hashtags": [], 
+            "urls": []
+        }, 
+        "in_reply_to_screen_name": null, 
+        "in_reply_to_user_id": null, 
+        "scopes": {
+            "followers": false
+        }, 
+        "retweet_count": 0, 
+        "id_str": "1031949130875265025", 
+        "favorited": false, 
+        "user": {
+            "follow_request_sent": false, 
+            "has_extended_profile": false, 
+            "profile_use_background_image": false, 
+            "default_profile_image": false, 
+            "id": 426028646, 
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif", 
+            "verified": true, 
+            "translator_type": "none", 
+            "profile_text_color": "333333", 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1017761512818012161/DXlTw-1E_normal.jpg", 
+            "profile_sidebar_fill_color": "A0C5C7", 
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/TVIZqNaUjE", 
+                            "indices": [
+                                0, 
+                                23
+                            ], 
+                            "expanded_url": "http://johnkdelaney.com", 
+                            "display_url": "johnkdelaney.com"
+                        }
+                    ]
+                }, 
+                "description": {
+                    "urls": []
+                }
+            }, 
+            "followers_count": 11028, 
+            "profile_sidebar_border_color": "FFFFFF", 
+            "id_str": "426028646", 
+            "profile_background_color": "115FB8", 
+            "listed_count": 192, 
+            "is_translation_enabled": false, 
+            "utc_offset": null, 
+            "statuses_count": 5150, 
+            "description": "Dad of 4 great girls, married to amazing April, Dem Candidate President,Congressman, Entrepreneur,electrician\u2019s son, Springsteen fan,centrist,can win Red states", 
+            "friends_count": 2454, 
+            "location": "Washington, DC", 
+            "profile_link_color": "1B95E0", 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1017761512818012161/DXlTw-1E_normal.jpg", 
+            "following": false, 
+            "geo_enabled": false, 
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/426028646/1533137435", 
+            "profile_image_extensions_alt_text": null, 
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif", 
+            "screen_name": "JohnKDelaney", 
+            "lang": "en", 
+            "profile_background_tile": false, 
+            "favourites_count": 758, 
+            "name": "John K. Delaney", 
+            "notifications": false, 
+            "url": "https://t.co/TVIZqNaUjE", 
+            "created_at": "Thu Dec 01 19:06:13 +0000 2011", 
+            "profile_banner_extensions_alt_text": null, 
+            "contributors_enabled": false, 
+            "time_zone": null, 
+            "protected": false, 
+            "default_profile": false, 
+            "is_translator": false
+        }, 
+        "geo": null, 
+        "in_reply_to_user_id_str": null, 
+        "lang": "en", 
+        "created_at": "Tue Aug 21 17:00:20 +0000 2018", 
+        "in_reply_to_status_id_str": null, 
+        "place": null
+    }, 
+    {
+        "card_uri": "card://1031949000256221185", 
+        "contributors": null, 
+        "truncated": false, 
+        "text": "\u201cHe seems like he\u2019s a breath of fresh air.\" Excited to see my campaign getting noticed in Iowa. Read more from @scj.", 
+        "is_quote_status": false, 
+        "in_reply_to_status_id": null, 
+        "id": 1031949203432464384, 
+        "favorite_count": 2, 
+        "source": "<a href=\"https://ads-api.twitter.com\" rel=\"nofollow\">Twitter Ads Composer</a>", 
+        "retweeted": false, 
+        "coordinates": null, 
+        "entities": {
+            "symbols": [], 
+            "user_mentions": [
+                {
+                    "id": 12663042, 
+                    "indices": [
+                        111, 
+                        115
+                    ], 
+                    "id_str": "12663042", 
+                    "screen_name": "scj", 
+                    "name": "Sioux City Journal"
+                }
+            ], 
+            "hashtags": [], 
+            "urls": []
+        }, 
+        "in_reply_to_screen_name": null, 
+        "in_reply_to_user_id": null, 
+        "scopes": {
+            "followers": false
+        }, 
+        "retweet_count": 0, 
+        "id_str": "1031949203432464384", 
+        "favorited": false, 
+        "user": {
+            "follow_request_sent": false, 
+            "has_extended_profile": false, 
+            "profile_use_background_image": false, 
+            "default_profile_image": false, 
+            "id": 426028646, 
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif", 
+            "verified": true, 
+            "translator_type": "none", 
+            "profile_text_color": "333333", 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1017761512818012161/DXlTw-1E_normal.jpg", 
+            "profile_sidebar_fill_color": "A0C5C7", 
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/TVIZqNaUjE", 
+                            "indices": [
+                                0, 
+                                23
+                            ], 
+                            "expanded_url": "http://johnkdelaney.com", 
+                            "display_url": "johnkdelaney.com"
+                        }
+                    ]
+                }, 
+                "description": {
+                    "urls": []
+                }
+            }, 
+            "followers_count": 11028, 
+            "profile_sidebar_border_color": "FFFFFF", 
+            "id_str": "426028646", 
+            "profile_background_color": "115FB8", 
+            "listed_count": 192, 
+            "is_translation_enabled": false, 
+            "utc_offset": null, 
+            "statuses_count": 5150, 
+            "description": "Dad of 4 great girls, married to amazing April, Dem Candidate President,Congressman, Entrepreneur,electrician\u2019s son, Springsteen fan,centrist,can win Red states", 
+            "friends_count": 2454, 
+            "location": "Washington, DC", 
+            "profile_link_color": "1B95E0", 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1017761512818012161/DXlTw-1E_normal.jpg", 
+            "following": false, 
+            "geo_enabled": false, 
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/426028646/1533137435", 
+            "profile_image_extensions_alt_text": null, 
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif", 
+            "screen_name": "JohnKDelaney", 
+            "lang": "en", 
+            "profile_background_tile": false, 
+            "favourites_count": 758, 
+            "name": "John K. Delaney", 
+            "notifications": false, 
+            "url": "https://t.co/TVIZqNaUjE", 
+            "created_at": "Thu Dec 01 19:06:13 +0000 2011", 
+            "profile_banner_extensions_alt_text": null, 
+            "contributors_enabled": false, 
+            "time_zone": null, 
+            "protected": false, 
+            "default_profile": false, 
+            "is_translator": false
+        }, 
+        "geo": null, 
+        "in_reply_to_user_id_str": null, 
+        "lang": "en", 
+        "created_at": "Tue Aug 21 17:00:37 +0000 2018", 
+        "in_reply_to_status_id_str": null, 
+        "place": null
+    }, 
+    {
+        "card_uri": "card://1027324191735836672", 
+        "contributors": null, 
+        "truncated": true, 
+        "text": "No other Democrat has reached this milestone in more than a decade. Read more from @politico on how I'm campaigning\u2026 https://t.co/HXgqrABanH", 
+        "is_quote_status": false, 
+        "in_reply_to_status_id": null, 
+        "id": 1027324338528182272, 
+        "favorite_count": 85, 
+        "source": "<a href=\"https://ads-api.twitter.com\" rel=\"nofollow\">Twitter Ads Composer</a>", 
+        "retweeted": false, 
+        "coordinates": null, 
+        "entities": {
+            "symbols": [], 
+            "user_mentions": [
+                {
+                    "id": 9300262, 
+                    "indices": [
+                        83, 
+                        92
+                    ], 
+                    "id_str": "9300262", 
+                    "screen_name": "politico", 
+                    "name": "POLITICO"
+                }
+            ], 
+            "hashtags": [], 
+            "urls": [
+                {
+                    "url": "https://t.co/HXgqrABanH", 
+                    "indices": [
+                        117, 
+                        140
+                    ], 
+                    "expanded_url": "https://twitter.com/i/web/status/1027324338528182272", 
+                    "display_url": "twitter.com/i/web/status/1\u2026"
+                }
+            ]
+        }, 
+        "in_reply_to_screen_name": null, 
+        "in_reply_to_user_id": null, 
+        "scopes": {
+            "followers": false
+        }, 
+        "retweet_count": 20, 
+        "id_str": "1027324338528182272", 
+        "favorited": false, 
+        "user": {
+            "follow_request_sent": false, 
+            "has_extended_profile": false, 
+            "profile_use_background_image": false, 
+            "default_profile_image": false, 
+            "id": 426028646, 
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif", 
+            "verified": true, 
+            "translator_type": "none", 
+            "profile_text_color": "333333", 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1017761512818012161/DXlTw-1E_normal.jpg", 
+            "profile_sidebar_fill_color": "A0C5C7", 
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/TVIZqNaUjE", 
+                            "indices": [
+                                0, 
+                                23
+                            ], 
+                            "expanded_url": "http://johnkdelaney.com", 
+                            "display_url": "johnkdelaney.com"
+                        }
+                    ]
+                }, 
+                "description": {
+                    "urls": []
+                }
+            }, 
+            "followers_count": 11028, 
+            "profile_sidebar_border_color": "FFFFFF", 
+            "id_str": "426028646", 
+            "profile_background_color": "115FB8", 
+            "listed_count": 192, 
+            "is_translation_enabled": false, 
+            "utc_offset": null, 
+            "statuses_count": 5150, 
+            "description": "Dad of 4 great girls, married to amazing April, Dem Candidate President,Congressman, Entrepreneur,electrician\u2019s son, Springsteen fan,centrist,can win Red states", 
+            "friends_count": 2454, 
+            "location": "Washington, DC", 
+            "profile_link_color": "1B95E0", 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1017761512818012161/DXlTw-1E_normal.jpg", 
+            "following": false, 
+            "geo_enabled": false, 
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/426028646/1533137435", 
+            "profile_image_extensions_alt_text": null, 
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif", 
+            "screen_name": "JohnKDelaney", 
+            "lang": "en", 
+            "profile_background_tile": false, 
+            "favourites_count": 758, 
+            "name": "John K. Delaney", 
+            "notifications": false, 
+            "url": "https://t.co/TVIZqNaUjE", 
+            "created_at": "Thu Dec 01 19:06:13 +0000 2011", 
+            "profile_banner_extensions_alt_text": null, 
+            "contributors_enabled": false, 
+            "time_zone": null, 
+            "protected": false, 
+            "default_profile": false, 
+            "is_translator": false
+        }, 
+        "geo": null, 
+        "in_reply_to_user_id_str": null, 
+        "lang": "en", 
+        "created_at": "Wed Aug 08 22:43:03 +0000 2018", 
+        "in_reply_to_status_id_str": null, 
+        "place": null
+    }, 
+    {
+        "card_uri": "card://1029150502271909888", 
+        "contributors": null, 
+        "truncated": true, 
+        "text": "After campaigning in ALL 99 counties in Iowa, I can tell you that voters aren't as divided as our politics -- and t\u2026 https://t.co/ymB1evrKrv", 
+        "is_quote_status": false, 
+        "in_reply_to_status_id": null, 
+        "id": 1029163208068685824, 
+        "favorite_count": 78, 
+        "source": "<a href=\"https://ads-api.twitter.com\" rel=\"nofollow\">Twitter Ads Composer</a>", 
+        "retweeted": false, 
+        "coordinates": null, 
+        "entities": {
+            "symbols": [], 
+            "user_mentions": [], 
+            "hashtags": [], 
+            "urls": [
+                {
+                    "url": "https://t.co/ymB1evrKrv", 
+                    "indices": [
+                        117, 
+                        140
+                    ], 
+                    "expanded_url": "https://twitter.com/i/web/status/1029163208068685824", 
+                    "display_url": "twitter.com/i/web/status/1\u2026"
+                }
+            ]
+        }, 
+        "in_reply_to_screen_name": null, 
+        "in_reply_to_user_id": null, 
+        "scopes": {
+            "followers": false
+        }, 
+        "retweet_count": 22, 
+        "id_str": "1029163208068685824", 
+        "favorited": false, 
+        "user": {
+            "follow_request_sent": false, 
+            "has_extended_profile": false, 
+            "profile_use_background_image": false, 
+            "default_profile_image": false, 
+            "id": 426028646, 
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif", 
+            "verified": true, 
+            "translator_type": "none", 
+            "profile_text_color": "333333", 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1017761512818012161/DXlTw-1E_normal.jpg", 
+            "profile_sidebar_fill_color": "A0C5C7", 
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/TVIZqNaUjE", 
+                            "indices": [
+                                0, 
+                                23
+                            ], 
+                            "expanded_url": "http://johnkdelaney.com", 
+                            "display_url": "johnkdelaney.com"
+                        }
+                    ]
+                }, 
+                "description": {
+                    "urls": []
+                }
+            }, 
+            "followers_count": 11028, 
+            "profile_sidebar_border_color": "FFFFFF", 
+            "id_str": "426028646", 
+            "profile_background_color": "115FB8", 
+            "listed_count": 192, 
+            "is_translation_enabled": false, 
+            "utc_offset": null, 
+            "statuses_count": 5150, 
+            "description": "Dad of 4 great girls, married to amazing April, Dem Candidate President,Congressman, Entrepreneur,electrician\u2019s son, Springsteen fan,centrist,can win Red states", 
+            "friends_count": 2454, 
+            "location": "Washington, DC", 
+            "profile_link_color": "1B95E0", 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1017761512818012161/DXlTw-1E_normal.jpg", 
+            "following": false, 
+            "geo_enabled": false, 
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/426028646/1533137435", 
+            "profile_image_extensions_alt_text": null, 
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif", 
+            "screen_name": "JohnKDelaney", 
+            "lang": "en", 
+            "profile_background_tile": false, 
+            "favourites_count": 758, 
+            "name": "John K. Delaney", 
+            "notifications": false, 
+            "url": "https://t.co/TVIZqNaUjE", 
+            "created_at": "Thu Dec 01 19:06:13 +0000 2011", 
+            "profile_banner_extensions_alt_text": null, 
+            "contributors_enabled": false, 
+            "time_zone": null, 
+            "protected": false, 
+            "default_profile": false, 
+            "is_translator": false
+        }, 
+        "geo": null, 
+        "in_reply_to_user_id_str": null, 
+        "lang": "en", 
+        "created_at": "Tue Aug 14 00:30:04 +0000 2018", 
+        "in_reply_to_status_id_str": null, 
+        "place": null
+    }, 
+    {
+        "card_uri": "card://1027324191735836672", 
+        "contributors": null, 
+        "truncated": true, 
+        "text": "To win back the White House, it wouldn\u2019t hurt Democrats to figure out how to win back Iowa. Read more about how I'm\u2026 https://t.co/peLeoTZ7g5", 
+        "is_quote_status": false, 
+        "in_reply_to_status_id": null, 
+        "id": 1027324394815643649, 
+        "favorite_count": 248, 
+        "source": "<a href=\"https://ads-api.twitter.com\" rel=\"nofollow\">Twitter Ads Composer</a>", 
+        "retweeted": false, 
+        "coordinates": null, 
+        "entities": {
+            "symbols": [], 
+            "user_mentions": [], 
+            "hashtags": [], 
+            "urls": [
+                {
+                    "url": "https://t.co/peLeoTZ7g5", 
+                    "indices": [
+                        117, 
+                        140
+                    ], 
+                    "expanded_url": "https://twitter.com/i/web/status/1027324394815643649", 
+                    "display_url": "twitter.com/i/web/status/1\u2026"
+                }
+            ]
+        }, 
+        "in_reply_to_screen_name": null, 
+        "in_reply_to_user_id": null, 
+        "scopes": {
+            "followers": false
+        }, 
+        "retweet_count": 94, 
+        "id_str": "1027324394815643649", 
+        "favorited": false, 
+        "user": {
+            "follow_request_sent": false, 
+            "has_extended_profile": false, 
+            "profile_use_background_image": false, 
+            "default_profile_image": false, 
+            "id": 426028646, 
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif", 
+            "verified": true, 
+            "translator_type": "none", 
+            "profile_text_color": "333333", 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1017761512818012161/DXlTw-1E_normal.jpg", 
+            "profile_sidebar_fill_color": "A0C5C7", 
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/TVIZqNaUjE", 
+                            "indices": [
+                                0, 
+                                23
+                            ], 
+                            "expanded_url": "http://johnkdelaney.com", 
+                            "display_url": "johnkdelaney.com"
+                        }
+                    ]
+                }, 
+                "description": {
+                    "urls": []
+                }
+            }, 
+            "followers_count": 11028, 
+            "profile_sidebar_border_color": "FFFFFF", 
+            "id_str": "426028646", 
+            "profile_background_color": "115FB8", 
+            "listed_count": 192, 
+            "is_translation_enabled": false, 
+            "utc_offset": null, 
+            "statuses_count": 5150, 
+            "description": "Dad of 4 great girls, married to amazing April, Dem Candidate President,Congressman, Entrepreneur,electrician\u2019s son, Springsteen fan,centrist,can win Red states", 
+            "friends_count": 2454, 
+            "location": "Washington, DC", 
+            "profile_link_color": "1B95E0", 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1017761512818012161/DXlTw-1E_normal.jpg", 
+            "following": false, 
+            "geo_enabled": false, 
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/426028646/1533137435", 
+            "profile_image_extensions_alt_text": null, 
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif", 
+            "screen_name": "JohnKDelaney", 
+            "lang": "en", 
+            "profile_background_tile": false, 
+            "favourites_count": 758, 
+            "name": "John K. Delaney", 
+            "notifications": false, 
+            "url": "https://t.co/TVIZqNaUjE", 
+            "created_at": "Thu Dec 01 19:06:13 +0000 2011", 
+            "profile_banner_extensions_alt_text": null, 
+            "contributors_enabled": false, 
+            "time_zone": null, 
+            "protected": false, 
+            "default_profile": false, 
+            "is_translator": false
+        }, 
+        "geo": null, 
+        "in_reply_to_user_id_str": null, 
+        "lang": "en", 
+        "created_at": "Wed Aug 08 22:43:17 +0000 2018", 
+        "in_reply_to_status_id_str": null, 
+        "place": null
+    }, 
+    {
+        "card_uri": "card://1031949885019439105", 
+        "contributors": null, 
+        "truncated": true, 
+        "text": "\u201cTraveling to all of Iowa\u2019s 99 counties is still very much a smart strategy to getting into contention on caucus ni\u2026 https://t.co/coNd5P0MPc", 
+        "is_quote_status": false, 
+        "in_reply_to_status_id": null, 
+        "id": 1031950058655297536, 
+        "favorite_count": 3, 
+        "source": "<a href=\"https://ads-api.twitter.com\" rel=\"nofollow\">Twitter Ads Composer</a>", 
+        "retweeted": false, 
+        "coordinates": null, 
+        "entities": {
+            "symbols": [], 
+            "user_mentions": [], 
+            "hashtags": [], 
+            "urls": [
+                {
+                    "url": "https://t.co/coNd5P0MPc", 
+                    "indices": [
+                        117, 
+                        140
+                    ], 
+                    "expanded_url": "https://twitter.com/i/web/status/1031950058655297536", 
+                    "display_url": "twitter.com/i/web/status/1\u2026"
+                }
+            ]
+        }, 
+        "in_reply_to_screen_name": null, 
+        "in_reply_to_user_id": null, 
+        "scopes": {
+            "followers": false
+        }, 
+        "retweet_count": 0, 
+        "id_str": "1031950058655297536", 
+        "favorited": false, 
+        "user": {
+            "follow_request_sent": false, 
+            "has_extended_profile": false, 
+            "profile_use_background_image": false, 
+            "default_profile_image": false, 
+            "id": 426028646, 
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif", 
+            "verified": true, 
+            "translator_type": "none", 
+            "profile_text_color": "333333", 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1017761512818012161/DXlTw-1E_normal.jpg", 
+            "profile_sidebar_fill_color": "A0C5C7", 
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/TVIZqNaUjE", 
+                            "indices": [
+                                0, 
+                                23
+                            ], 
+                            "expanded_url": "http://johnkdelaney.com", 
+                            "display_url": "johnkdelaney.com"
+                        }
+                    ]
+                }, 
+                "description": {
+                    "urls": []
+                }
+            }, 
+            "followers_count": 11028, 
+            "profile_sidebar_border_color": "FFFFFF", 
+            "id_str": "426028646", 
+            "profile_background_color": "115FB8", 
+            "listed_count": 192, 
+            "is_translation_enabled": false, 
+            "utc_offset": null, 
+            "statuses_count": 5150, 
+            "description": "Dad of 4 great girls, married to amazing April, Dem Candidate President,Congressman, Entrepreneur,electrician\u2019s son, Springsteen fan,centrist,can win Red states", 
+            "friends_count": 2454, 
+            "location": "Washington, DC", 
+            "profile_link_color": "1B95E0", 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1017761512818012161/DXlTw-1E_normal.jpg", 
+            "following": false, 
+            "geo_enabled": false, 
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/426028646/1533137435", 
+            "profile_image_extensions_alt_text": null, 
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif", 
+            "screen_name": "JohnKDelaney", 
+            "lang": "en", 
+            "profile_background_tile": false, 
+            "favourites_count": 758, 
+            "name": "John K. Delaney", 
+            "notifications": false, 
+            "url": "https://t.co/TVIZqNaUjE", 
+            "created_at": "Thu Dec 01 19:06:13 +0000 2011", 
+            "profile_banner_extensions_alt_text": null, 
+            "contributors_enabled": false, 
+            "time_zone": null, 
+            "protected": false, 
+            "default_profile": false, 
+            "is_translator": false
+        }, 
+        "geo": null, 
+        "in_reply_to_user_id_str": null, 
+        "lang": "en", 
+        "created_at": "Tue Aug 21 17:04:01 +0000 2018", 
+        "in_reply_to_status_id_str": null, 
+        "place": null
+    }, 
+    {
+        "card_uri": "card://1029150684145274881", 
+        "contributors": null, 
+        "truncated": false, 
+        "text": "Urban, suburban, rural. Progressives, centrists, independents. We've held events in all 99 counties in IOWA. And we're just getting started.", 
+        "is_quote_status": false, 
+        "in_reply_to_status_id": null, 
+        "id": 1029163317426671616, 
+        "favorite_count": 16, 
+        "source": "<a href=\"https://ads-api.twitter.com\" rel=\"nofollow\">Twitter Ads Composer</a>", 
+        "retweeted": false, 
+        "coordinates": null, 
+        "entities": {
+            "symbols": [], 
+            "user_mentions": [], 
+            "hashtags": [], 
+            "urls": []
+        }, 
+        "in_reply_to_screen_name": null, 
+        "in_reply_to_user_id": null, 
+        "scopes": {
+            "followers": false
+        }, 
+        "retweet_count": 5, 
+        "id_str": "1029163317426671616", 
+        "favorited": false, 
+        "user": {
+            "follow_request_sent": false, 
+            "has_extended_profile": false, 
+            "profile_use_background_image": false, 
+            "default_profile_image": false, 
+            "id": 426028646, 
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif", 
+            "verified": true, 
+            "translator_type": "none", 
+            "profile_text_color": "333333", 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1017761512818012161/DXlTw-1E_normal.jpg", 
+            "profile_sidebar_fill_color": "A0C5C7", 
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/TVIZqNaUjE", 
+                            "indices": [
+                                0, 
+                                23
+                            ], 
+                            "expanded_url": "http://johnkdelaney.com", 
+                            "display_url": "johnkdelaney.com"
+                        }
+                    ]
+                }, 
+                "description": {
+                    "urls": []
+                }
+            }, 
+            "followers_count": 11028, 
+            "profile_sidebar_border_color": "FFFFFF", 
+            "id_str": "426028646", 
+            "profile_background_color": "115FB8", 
+            "listed_count": 192, 
+            "is_translation_enabled": false, 
+            "utc_offset": null, 
+            "statuses_count": 5150, 
+            "description": "Dad of 4 great girls, married to amazing April, Dem Candidate President,Congressman, Entrepreneur,electrician\u2019s son, Springsteen fan,centrist,can win Red states", 
+            "friends_count": 2454, 
+            "location": "Washington, DC", 
+            "profile_link_color": "1B95E0", 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1017761512818012161/DXlTw-1E_normal.jpg", 
+            "following": false, 
+            "geo_enabled": false, 
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/426028646/1533137435", 
+            "profile_image_extensions_alt_text": null, 
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif", 
+            "screen_name": "JohnKDelaney", 
+            "lang": "en", 
+            "profile_background_tile": false, 
+            "favourites_count": 758, 
+            "name": "John K. Delaney", 
+            "notifications": false, 
+            "url": "https://t.co/TVIZqNaUjE", 
+            "created_at": "Thu Dec 01 19:06:13 +0000 2011", 
+            "profile_banner_extensions_alt_text": null, 
+            "contributors_enabled": false, 
+            "time_zone": null, 
+            "protected": false, 
+            "default_profile": false, 
+            "is_translator": false
+        }, 
+        "geo": null, 
+        "in_reply_to_user_id_str": null, 
+        "lang": "en", 
+        "created_at": "Tue Aug 14 00:30:30 +0000 2018", 
+        "in_reply_to_status_id_str": null, 
+        "place": null
+    }, 
+    {
+        "card_uri": "card://1027324191735836672", 
+        "contributors": null, 
+        "truncated": true, 
+        "text": "\"Long before most Democrats formally enter the race, he will have campaigned in all 99 counties in Iowa.\" Read more\u2026 https://t.co/xf4IyidnSU", 
+        "is_quote_status": false, 
+        "in_reply_to_status_id": null, 
+        "id": 1029798674249871361, 
+        "favorite_count": 82, 
+        "source": "<a href=\"https://ads-api.twitter.com\" rel=\"nofollow\">Twitter Ads Composer</a>", 
+        "retweeted": false, 
+        "coordinates": null, 
+        "entities": {
+            "symbols": [], 
+            "user_mentions": [], 
+            "hashtags": [], 
+            "urls": [
+                {
+                    "url": "https://t.co/xf4IyidnSU", 
+                    "indices": [
+                        117, 
+                        140
+                    ], 
+                    "expanded_url": "https://twitter.com/i/web/status/1029798674249871361", 
+                    "display_url": "twitter.com/i/web/status/1\u2026"
+                }
+            ]
+        }, 
+        "in_reply_to_screen_name": null, 
+        "in_reply_to_user_id": null, 
+        "scopes": {
+            "followers": false
+        }, 
+        "retweet_count": 20, 
+        "id_str": "1029798674249871361", 
+        "favorited": false, 
+        "user": {
+            "follow_request_sent": false, 
+            "has_extended_profile": false, 
+            "profile_use_background_image": false, 
+            "default_profile_image": false, 
+            "id": 426028646, 
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif", 
+            "verified": true, 
+            "translator_type": "none", 
+            "profile_text_color": "333333", 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1017761512818012161/DXlTw-1E_normal.jpg", 
+            "profile_sidebar_fill_color": "A0C5C7", 
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/TVIZqNaUjE", 
+                            "indices": [
+                                0, 
+                                23
+                            ], 
+                            "expanded_url": "http://johnkdelaney.com", 
+                            "display_url": "johnkdelaney.com"
+                        }
+                    ]
+                }, 
+                "description": {
+                    "urls": []
+                }
+            }, 
+            "followers_count": 11028, 
+            "profile_sidebar_border_color": "FFFFFF", 
+            "id_str": "426028646", 
+            "profile_background_color": "115FB8", 
+            "listed_count": 192, 
+            "is_translation_enabled": false, 
+            "utc_offset": null, 
+            "statuses_count": 5150, 
+            "description": "Dad of 4 great girls, married to amazing April, Dem Candidate President,Congressman, Entrepreneur,electrician\u2019s son, Springsteen fan,centrist,can win Red states", 
+            "friends_count": 2454, 
+            "location": "Washington, DC", 
+            "profile_link_color": "1B95E0", 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1017761512818012161/DXlTw-1E_normal.jpg", 
+            "following": false, 
+            "geo_enabled": false, 
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/426028646/1533137435", 
+            "profile_image_extensions_alt_text": null, 
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif", 
+            "screen_name": "JohnKDelaney", 
+            "lang": "en", 
+            "profile_background_tile": false, 
+            "favourites_count": 758, 
+            "name": "John K. Delaney", 
+            "notifications": false, 
+            "url": "https://t.co/TVIZqNaUjE", 
+            "created_at": "Thu Dec 01 19:06:13 +0000 2011", 
+            "profile_banner_extensions_alt_text": null, 
+            "contributors_enabled": false, 
+            "time_zone": null, 
+            "protected": false, 
+            "default_profile": false, 
+            "is_translator": false
+        }, 
+        "geo": null, 
+        "in_reply_to_user_id_str": null, 
+        "lang": "en", 
+        "created_at": "Wed Aug 15 18:35:11 +0000 2018", 
+        "in_reply_to_status_id_str": null, 
+        "place": null
+    }
+]

@@ -1,0 +1,447 @@
+{
+    "c50ml": {
+        "Overview": {
+            "lineItem": {
+                "usd_spend": 820.25, 
+                "start_timestamp": 1532462400, 
+                "account_id": "18ce54qs3b5", 
+                "tweet_count": 2, 
+                "tailored_audience_used": false, 
+                "political_disclaimer": {
+                    "organization": "Menendez for Senate ", 
+                    "sponsorshipType": "Indirect", 
+                    "candidate": "Menendez for Senate "
+                }, 
+                "impressions": 98803, 
+                "line_item_id": "c50ml", 
+                "end_timestamp": 1533095940
+            }
+        }, 
+        "UserID": "407039290", 
+        "TargetDetails": {
+            "targeting_criteria_details": [
+                {
+                    "targeted": false, 
+                    "impressions": 16136, 
+                    "segmentation_type": "AGE", 
+                    "name": "30-39"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 44253, 
+                    "segmentation_type": "AGE", 
+                    "name": "20-49"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 19586, 
+                    "segmentation_type": "AGE", 
+                    "name": "18-34"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 40574, 
+                    "segmentation_type": "AGE", 
+                    "name": "13-49"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 26816, 
+                    "segmentation_type": "AGE", 
+                    "name": "20-39"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 13227, 
+                    "segmentation_type": "AGE", 
+                    "name": "13-24"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 17529, 
+                    "segmentation_type": "AGE", 
+                    "name": "13-29"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 86657, 
+                    "segmentation_type": "AGE", 
+                    "name": "25 and up"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 5382, 
+                    "segmentation_type": "AGE", 
+                    "name": "13-19"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 18875, 
+                    "segmentation_type": "AGE", 
+                    "name": "40-49"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 71927, 
+                    "segmentation_type": "AGE", 
+                    "name": "40 and up"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 56648, 
+                    "segmentation_type": "AGE", 
+                    "name": "21-54"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 81215, 
+                    "segmentation_type": "AGE", 
+                    "name": "30 and up"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 51236, 
+                    "segmentation_type": "AGE", 
+                    "name": "18-54"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 26830, 
+                    "segmentation_type": "AGE", 
+                    "name": "13-39"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 41119, 
+                    "segmentation_type": "AGE", 
+                    "name": "35-54"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 96425, 
+                    "segmentation_type": "AGE", 
+                    "name": "18 and up"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 13540, 
+                    "segmentation_type": "AGE", 
+                    "name": "20-29"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 43523, 
+                    "segmentation_type": "AGE", 
+                    "name": "21-49"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 91847, 
+                    "segmentation_type": "AGE", 
+                    "name": "21 and up"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 19057, 
+                    "segmentation_type": "AGE", 
+                    "name": "20-34"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 58184, 
+                    "segmentation_type": "AGE", 
+                    "name": "50 and up"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 22629, 
+                    "segmentation_type": "AGE", 
+                    "name": "13-34"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 93365, 
+                    "segmentation_type": "AGE", 
+                    "name": "20 and up"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 54449, 
+                    "segmentation_type": "AGE", 
+                    "name": "25-54"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 78183, 
+                    "segmentation_type": "AGE", 
+                    "name": "35 and up"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 55257, 
+                    "segmentation_type": "AGE", 
+                    "name": "13-54"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 35937, 
+                    "segmentation_type": "AGE", 
+                    "name": "25-49"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 28163, 
+                    "segmentation_type": "AGE", 
+                    "name": "35-49"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 10135, 
+                    "segmentation_type": "AGE", 
+                    "name": "18-24"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 17834, 
+                    "segmentation_type": "AGE", 
+                    "name": "21-34"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 33922, 
+                    "segmentation_type": "AGE", 
+                    "name": "30-49"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 41611, 
+                    "segmentation_type": "AGE", 
+                    "name": "18-49"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 98747, 
+                    "segmentation_type": "AGE", 
+                    "name": "13 and up"
+                }, 
+                {
+                    "targeted": true, 
+                    "impressions": 88981, 
+                    "segmentation_type": "REGIONS", 
+                    "name": "New Jersey, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 152, 
+                    "segmentation_type": "LANGUAGES", 
+                    "name": "Turkish"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 222, 
+                    "segmentation_type": "LANGUAGES", 
+                    "name": "Portuguese"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 311, 
+                    "segmentation_type": "LANGUAGES", 
+                    "name": "French"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 52, 
+                    "segmentation_type": "LANGUAGES", 
+                    "name": "Polish"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 3, 
+                    "segmentation_type": "LANGUAGES", 
+                    "name": "Thai"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 54, 
+                    "segmentation_type": "LANGUAGES", 
+                    "name": "Russian"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 47, 
+                    "segmentation_type": "LANGUAGES", 
+                    "name": "Italian"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 34, 
+                    "segmentation_type": "LANGUAGES", 
+                    "name": "Persian"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 2, 
+                    "segmentation_type": "LANGUAGES", 
+                    "name": "Indonesian"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 49, 
+                    "segmentation_type": "LANGUAGES", 
+                    "name": "Dutch"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 98419, 
+                    "segmentation_type": "LANGUAGES", 
+                    "name": "English"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 106, 
+                    "segmentation_type": "LANGUAGES", 
+                    "name": "Hindi"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 4, 
+                    "segmentation_type": "LANGUAGES", 
+                    "name": "Finnish"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 14, 
+                    "segmentation_type": "LANGUAGES", 
+                    "name": "Norwegian"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 79, 
+                    "segmentation_type": "LANGUAGES", 
+                    "name": "German"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 7117, 
+                    "segmentation_type": "LANGUAGES", 
+                    "name": "Spanish"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 141, 
+                    "segmentation_type": "LANGUAGES", 
+                    "name": "Arabic"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 265, 
+                    "segmentation_type": "LANGUAGES", 
+                    "name": "Japanese"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 22, 
+                    "segmentation_type": "LANGUAGES", 
+                    "name": "Swedish"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 127, 
+                    "segmentation_type": "LANGUAGES", 
+                    "name": "Korean"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 125, 
+                    "segmentation_type": "LANGUAGES", 
+                    "name": "Chinese"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 65403, 
+                    "segmentation_type": "CITIES", 
+                    "name": "New York NY, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 3, 
+                    "segmentation_type": "CITIES", 
+                    "name": "Fort Smith-Fayetteville-Springdale-Rogers AR, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 1, 
+                    "segmentation_type": "CITIES", 
+                    "name": "Cincinnati OH, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 3, 
+                    "segmentation_type": "CITIES", 
+                    "name": "Las Vegas NV, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 1, 
+                    "segmentation_type": "CITIES", 
+                    "name": "El Paso TX, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 14, 
+                    "segmentation_type": "CITIES", 
+                    "name": "Washington DC, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 1, 
+                    "segmentation_type": "CITIES", 
+                    "name": "Omaha NE, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 82, 
+                    "segmentation_type": "CITIES", 
+                    "name": "Memphis TN, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 21, 
+                    "segmentation_type": "CITIES", 
+                    "name": "Salt Lake City UT, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 23310, 
+                    "segmentation_type": "CITIES", 
+                    "name": "Philadelphia PA, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 1, 
+                    "segmentation_type": "CITIES", 
+                    "name": "Knoxville TN, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 37670, 
+                    "segmentation_type": "GENDER", 
+                    "name": "Female"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 60721, 
+                    "segmentation_type": "GENDER", 
+                    "name": "Male"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 412, 
+                    "segmentation_type": "GENDER", 
+                    "name": "Unknown"
+                }
+            ]
+        }, 
+        "ScreenName": "BobMenendezNJ"
+    }
+}

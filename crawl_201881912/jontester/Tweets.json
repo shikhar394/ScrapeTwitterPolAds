@@ -1,0 +1,57 @@
+{
+    "16473577": {
+        "Tweets": [
+            {
+                "lastActiveAtSeconds": 1532775108, 
+                "promotedMetadata": {
+                    "advertiserId": 16473577, 
+                    "political": true
+                }, 
+                "serveable": true, 
+                "id": 1022582649326452736, 
+                "tweetId": "1022582649326452736"
+            }, 
+            {
+                "lastActiveAtSeconds": 1532775108, 
+                "promotedMetadata": {
+                    "advertiserId": 16473577, 
+                    "political": true
+                }, 
+                "serveable": true, 
+                "id": 1022582612995371008, 
+                "tweetId": "1022582612995371008"
+            }, 
+            {
+                "lastActiveAtSeconds": 1532775108, 
+                "promotedMetadata": {
+                    "advertiserId": 16473577, 
+                    "political": true
+                }, 
+                "serveable": true, 
+                "id": 1022581995283468289, 
+                "tweetId": "1022581995283468289"
+            }, 
+            {
+                "lastActiveAtSeconds": 1532775108, 
+                "promotedMetadata": {
+                    "advertiserId": 16473577, 
+                    "political": true
+                }, 
+                "serveable": true, 
+                "id": 1022582684831248384, 
+                "tweetId": "1022582684831248384"
+            }, 
+            {
+                "lastActiveAtSeconds": 1532709350, 
+                "promotedMetadata": {
+                    "advertiserId": 16473577, 
+                    "political": true
+                }, 
+                "serveable": true, 
+                "id": 1022193280358830081, 
+                "tweetId": "1022193280358830081"
+            }
+        ], 
+        "ScreenName": "jontester"
+    }
+}

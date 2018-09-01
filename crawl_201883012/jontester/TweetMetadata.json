@@ -1,0 +1,147 @@
+{
+    "1022582649326452736": {
+        "ScreenName": "jontester", 
+        "UserID": "16473577", 
+        "TweetCampaigns": {
+            "metadata": [
+                {
+                    "usd_spend": 118.47248, 
+                    "start_timestamp": 1532637128, 
+                    "account_id": "18ce54qmi01", 
+                    "tweet_count": 4, 
+                    "tailored_audience_used": false, 
+                    "political_disclaimer": {
+                        "organization": "Montanans for Tester", 
+                        "sponsorshipType": "Direct"
+                    }, 
+                    "impressions": 16516, 
+                    "line_item_id": "c5k48", 
+                    "end_timestamp": 1533095940
+                }
+            ]
+        }, 
+        "TweetPerformance": {
+            "isRejected": false, 
+            "tweetPerformance": {
+                "totalSpend": 13.023605, 
+                "totalImpressions": 3071
+            }
+        }
+    }, 
+    "1022193280358830081": {
+        "ScreenName": "jontester", 
+        "UserID": "16473577", 
+        "TweetCampaigns": {
+            "metadata": [
+                {
+                    "usd_spend": 86.041649, 
+                    "start_timestamp": 1532544891, 
+                    "account_id": "18ce54qmi01", 
+                    "tweet_count": 1, 
+                    "tailored_audience_used": false, 
+                    "political_disclaimer": {
+                        "organization": "Montanans for Tester", 
+                        "sponsorshipType": "Direct"
+                    }, 
+                    "impressions": 10358, 
+                    "line_item_id": "c5a88", 
+                    "end_timestamp": 1532709350
+                }
+            ]
+        }, 
+        "TweetPerformance": {
+            "isRejected": false, 
+            "tweetPerformance": {
+                "totalSpend": 86.041649, 
+                "totalImpressions": 10358
+            }
+        }
+    }, 
+    "1022582684831248384": {
+        "ScreenName": "jontester", 
+        "UserID": "16473577", 
+        "TweetCampaigns": {
+            "metadata": [
+                {
+                    "usd_spend": 118.47248, 
+                    "start_timestamp": 1532637128, 
+                    "account_id": "18ce54qmi01", 
+                    "tweet_count": 4, 
+                    "tailored_audience_used": false, 
+                    "political_disclaimer": {
+                        "organization": "Montanans for Tester", 
+                        "sponsorshipType": "Direct"
+                    }, 
+                    "impressions": 16516, 
+                    "line_item_id": "c5k48", 
+                    "end_timestamp": 1533095940
+                }
+            ]
+        }, 
+        "TweetPerformance": {
+            "isRejected": false, 
+            "tweetPerformance": {
+                "totalSpend": 19.829124, 
+                "totalImpressions": 2997
+            }
+        }
+    }, 
+    "1022582612995371008": {
+        "ScreenName": "jontester", 
+        "UserID": "16473577", 
+        "TweetCampaigns": {
+            "metadata": [
+                {
+                    "usd_spend": 118.47248, 
+                    "start_timestamp": 1532637128, 
+                    "account_id": "18ce54qmi01", 
+                    "tweet_count": 4, 
+                    "tailored_audience_used": false, 
+                    "political_disclaimer": {
+                        "organization": "Montanans for Tester", 
+                        "sponsorshipType": "Direct"
+                    }, 
+                    "impressions": 16516, 
+                    "line_item_id": "c5k48", 
+                    "end_timestamp": 1533095940
+                }
+            ]
+        }, 
+        "TweetPerformance": {
+            "isRejected": false, 
+            "tweetPerformance": {
+                "totalSpend": 50.869214, 
+                "totalImpressions": 6029
+            }
+        }
+    }, 
+    "1022581995283468289": {
+        "ScreenName": "jontester", 
+        "UserID": "16473577", 
+        "TweetCampaigns": {
+            "metadata": [
+                {
+                    "usd_spend": 118.47248, 
+                    "start_timestamp": 1532637128, 
+                    "account_id": "18ce54qmi01", 
+                    "tweet_count": 4, 
+                    "tailored_audience_used": false, 
+                    "political_disclaimer": {
+                        "organization": "Montanans for Tester", 
+                        "sponsorshipType": "Direct"
+                    }, 
+                    "impressions": 16516, 
+                    "line_item_id": "c5k48", 
+                    "end_timestamp": 1533095940
+                }
+            ]
+        }, 
+        "TweetPerformance": {
+            "isRejected": false, 
+            "tweetPerformance": {
+                "totalSpend": 34.750537, 
+                "totalImpressions": 4419
+            }
+        }
+    }
+}

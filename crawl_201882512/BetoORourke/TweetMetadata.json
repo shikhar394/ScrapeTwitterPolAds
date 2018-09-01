@@ -1,0 +1,4180 @@
+{
+    "1030164267482398720": {
+        "ScreenName": "BetoORourke", 
+        "UserID": "342863309", 
+        "TweetCampaigns": {
+            "metadata": [
+                {
+                    "usd_spend": 101.856983, 
+                    "start_timestamp": 1533668224, 
+                    "account_id": "18ce54qh4jc", 
+                    "tweet_count": 2, 
+                    "tailored_audience_used": false, 
+                    "political_disclaimer": {
+                        "organization": "Beto for Texas", 
+                        "sponsorshipType": "Direct"
+                    }, 
+                    "impressions": 3617, 
+                    "line_item_id": "cad7s", 
+                    "end_timestamp": 1534910340
+                }
+            ]
+        }, 
+        "TweetPerformance": {
+            "isRejected": false, 
+            "tweetPerformance": {
+                "totalSpend": 25.233752, 
+                "totalImpressions": 745
+            }
+        }
+    }, 
+    "1029735411982036993": {
+        "ScreenName": "BetoORourke", 
+        "UserID": "342863309", 
+        "TweetCampaigns": {
+            "metadata": [
+                {
+                    "usd_spend": 24.971853, 
+                    "start_timestamp": 1533668224, 
+                    "account_id": "18ce54qh4jc", 
+                    "tweet_count": 1, 
+                    "tailored_audience_used": false, 
+                    "political_disclaimer": {
+                        "organization": "Beto for Texas", 
+                        "sponsorshipType": "Direct"
+                    }, 
+                    "impressions": 1058, 
+                    "line_item_id": "ca4i0", 
+                    "end_timestamp": 1534737540
+                }
+            ]
+        }, 
+        "TweetPerformance": {
+            "isRejected": false, 
+            "tweetPerformance": {
+                "totalSpend": 24.971853, 
+                "totalImpressions": 1058
+            }
+        }
+    }, 
+    "1026872826878472197": {
+        "ScreenName": "BetoORourke", 
+        "UserID": "342863309", 
+        "TweetCampaigns": {
+            "metadata": [
+                {
+                    "usd_spend": 12.11134, 
+                    "start_timestamp": 1533656944, 
+                    "account_id": "18ce54qh4jc", 
+                    "tweet_count": 1, 
+                    "tailored_audience_used": false, 
+                    "political_disclaimer": {
+                        "organization": "Beto for Texas", 
+                        "sponsorshipType": "Direct"
+                    }, 
+                    "impressions": 295, 
+                    "line_item_id": "c8g9d", 
+                    "end_timestamp": 1534089600
+                }, 
+                {
+                    "usd_spend": 6.449551, 
+                    "start_timestamp": 1533656944, 
+                    "account_id": "18ce54qh4jc", 
+                    "tweet_count": 2, 
+                    "tailored_audience_used": false, 
+                    "political_disclaimer": {
+                        "organization": "Beto for Texas", 
+                        "sponsorshipType": "Direct"
+                    }, 
+                    "impressions": 135, 
+                    "line_item_id": "c8g9w", 
+                    "end_timestamp": 1534089600
+                }
+            ]
+        }, 
+        "TweetPerformance": {
+            "isRejected": false, 
+            "tweetPerformance": {
+                "totalSpend": 12.11134, 
+                "totalImpressions": 295
+            }
+        }
+    }, 
+    "1029082324871327745": {
+        "ScreenName": "BetoORourke", 
+        "UserID": "342863309", 
+        "TweetCampaigns": {
+            "metadata": [
+                {
+                    "usd_spend": 7.744003, 
+                    "start_timestamp": 1533668224, 
+                    "account_id": "18ce54qh4jc", 
+                    "tweet_count": 2, 
+                    "tailored_audience_used": false, 
+                    "political_disclaimer": {
+                        "organization": "Beto for Texas", 
+                        "sponsorshipType": "Direct"
+                    }, 
+                    "impressions": 341, 
+                    "line_item_id": "c9pny", 
+                    "end_timestamp": 1534651140
+                }, 
+                {
+                    "usd_spend": 4.01113, 
+                    "start_timestamp": 1533668224, 
+                    "account_id": "18ce54qh4jc", 
+                    "tweet_count": 3, 
+                    "tailored_audience_used": false, 
+                    "political_disclaimer": {
+                        "organization": "Beto for Texas", 
+                        "sponsorshipType": "Direct"
+                    }, 
+                    "impressions": 146, 
+                    "line_item_id": "c9pil", 
+                    "end_timestamp": 1534262400
+                }
+            ]
+        }, 
+        "TweetPerformance": {
+            "isRejected": false, 
+            "tweetPerformance": {
+                "totalSpend": 2.462868, 
+                "totalImpressions": 82
+            }
+        }
+    }, 
+    "1016446512543485952": {
+        "ScreenName": "BetoORourke", 
+        "UserID": "342863309", 
+        "TweetCampaigns": {
+            "metadata": [
+                {
+                    "usd_spend": 4988.88, 
+                    "start_timestamp": 1531174883, 
+                    "account_id": "18ce54qh4jc", 
+                    "tweet_count": 3, 
+                    "tailored_audience_used": false, 
+                    "political_disclaimer": {
+                        "organization": "Beto for Texas", 
+                        "sponsorshipType": "Direct"
+                    }, 
+                    "impressions": 566132, 
+                    "line_item_id": "c1dxj", 
+                    "end_timestamp": 1531709691
+                }
+            ]
+        }, 
+        "TweetPerformance": {
+            "isRejected": false, 
+            "tweetPerformance": {
+                "totalSpend": 340.565197, 
+                "totalImpressions": 46012
+            }
+        }
+    }, 
+    "1027269300330147845": {
+        "ScreenName": "BetoORourke", 
+        "UserID": "342863309", 
+        "TweetCampaigns": {
+            "metadata": [
+                {
+                    "usd_spend": 1482.74157, 
+                    "start_timestamp": 1533215585, 
+                    "account_id": "18ce54qh4jc", 
+                    "tweet_count": 17, 
+                    "tailored_audience_used": false, 
+                    "political_disclaimer": {
+                        "organization": "Beto for Texas", 
+                        "sponsorshipType": "Direct"
+                    }, 
+                    "impressions": 106144, 
+                    "line_item_id": "c756h", 
+                    "end_timestamp": 1536465540
+                }
+            ]
+        }, 
+        "TweetPerformance": {
+            "isRejected": false, 
+            "tweetPerformance": {
+                "totalSpend": 1.206774, 
+                "totalImpressions": 35
+            }
+        }
+    }, 
+    "1019179193320419328": {
+        "ScreenName": "BetoORourke", 
+        "UserID": "342863309", 
+        "TweetCampaigns": {
+            "metadata": [
+                {
+                    "usd_spend": 691.151406, 
+                    "start_timestamp": 1531826839, 
+                    "account_id": "18ce54qh4jc", 
+                    "tweet_count": 2, 
+                    "tailored_audience_used": false, 
+                    "political_disclaimer": {
+                        "organization": "Beto for Texas", 
+                        "sponsorshipType": "Direct"
+                    }, 
+                    "impressions": 94493, 
+                    "line_item_id": "c3b8d", 
+                    "end_timestamp": 1532136343
+                }
+            ]
+        }, 
+        "TweetPerformance": {
+            "isRejected": false, 
+            "tweetPerformance": {
+                "totalSpend": 346.634918, 
+                "totalImpressions": 52102
+            }
+        }
+    }, 
+    "1027269761951035392": {
+        "ScreenName": "BetoORourke", 
+        "UserID": "342863309", 
+        "TweetCampaigns": {
+            "metadata": [
+                {
+                    "usd_spend": 1482.74157, 
+                    "start_timestamp": 1533215585, 
+                    "account_id": "18ce54qh4jc", 
+                    "tweet_count": 17, 
+                    "tailored_audience_used": false, 
+                    "political_disclaimer": {
+                        "organization": "Beto for Texas", 
+                        "sponsorshipType": "Direct"
+                    }, 
+                    "impressions": 106144, 
+                    "line_item_id": "c756h", 
+                    "end_timestamp": 1536465540
+                }, 
+                {
+                    "usd_spend": 14341.168944, 
+                    "start_timestamp": 1533215585, 
+                    "account_id": "18ce54qh4jc", 
+                    "tweet_count": 10, 
+                    "tailored_audience_used": false, 
+                    "political_disclaimer": {
+                        "organization": "Beto for Texas", 
+                        "sponsorshipType": "Direct"
+                    }, 
+                    "impressions": 987708, 
+                    "line_item_id": "c756k", 
+                    "end_timestamp": 1536465540
+                }
+            ]
+        }, 
+        "TweetPerformance": {
+            "isRejected": false, 
+            "tweetPerformance": {
+                "totalSpend": 13.55877, 
+                "totalImpressions": 1323
+            }
+        }
+    }, 
+    "1026873849713963018": {
+        "ScreenName": "BetoORourke", 
+        "UserID": "342863309", 
+        "TweetCampaigns": {
+            "metadata": [
+                {
+                    "usd_spend": 6.449551, 
+                    "start_timestamp": 1533656944, 
+                    "account_id": "18ce54qh4jc", 
+                    "tweet_count": 2, 
+                    "tailored_audience_used": false, 
+                    "political_disclaimer": {
+                        "organization": "Beto for Texas", 
+                        "sponsorshipType": "Direct"
+                    }, 
+                    "impressions": 135, 
+                    "line_item_id": "c8g9w", 
+                    "end_timestamp": 1534089600
+                }
+            ]
+        }, 
+        "TweetPerformance": {
+            "isRejected": false, 
+            "tweetPerformance": {
+                "totalSpend": 6.449551, 
+                "totalImpressions": 135
+            }
+        }
+    }, 
+    "1022302619224567808": {
+        "ScreenName": "BetoORourke", 
+        "UserID": "342863309", 
+        "TweetCampaigns": {
+            "metadata": [
+                {
+                    "usd_spend": 124.686234, 
+                    "start_timestamp": 1533157935, 
+                    "account_id": "18ce54qh4jc", 
+                    "tweet_count": 4, 
+                    "tailored_audience_used": false, 
+                    "political_disclaimer": {
+                        "organization": "Beto for Texas", 
+                        "sponsorshipType": "Direct"
+                    }, 
+                    "impressions": 3978, 
+                    "line_item_id": "c6z3z", 
+                    "end_timestamp": 1533959940
+                }, 
+                {
+                    "usd_spend": 3.759, 
+                    "start_timestamp": 1533158290, 
+                    "account_id": "18ce54qh4jc", 
+                    "tweet_count": 4, 
+                    "tailored_audience_used": false, 
+                    "political_disclaimer": {
+                        "organization": "Beto for Texas", 
+                        "sponsorshipType": "Direct"
+                    }, 
+                    "impressions": 535, 
+                    "line_item_id": "c6z5a", 
+                    "end_timestamp": 1533959940
+                }, 
+                {
+                    "usd_spend": 0.940994, 
+                    "start_timestamp": 1533157935, 
+                    "account_id": "18ce54qh4jc", 
+                    "tweet_count": 8, 
+                    "tailored_audience_used": false, 
+                    "political_disclaimer": {
+                        "organization": "Beto for Texas", 
+                        "sponsorshipType": "Direct"
+                    }, 
+                    "impressions": 17, 
+                    "line_item_id": "c6z4r", 
+                    "end_timestamp": 1533959940
+                }, 
+                {
+                    "usd_spend": 0.07, 
+                    "start_timestamp": 1533158290, 
+                    "account_id": "18ce54qh4jc", 
+                    "tweet_count": 4, 
+                    "tailored_audience_used": false, 
+                    "political_disclaimer": {
+                        "organization": "Beto for Texas", 
+                        "sponsorshipType": "Direct"
+                    }, 
+                    "impressions": 11, 
+                    "line_item_id": "c6z5f", 
+                    "end_timestamp": 1533959940
+                }, 
+                {
+                    "usd_spend": 1790.296105, 
+                    "start_timestamp": 1532610000, 
+                    "account_id": "18ce54qh4jc", 
+                    "tweet_count": 4, 
+                    "tailored_audience_used": false, 
+                    "political_disclaimer": {
+                        "organization": "Beto for Texas", 
+                        "sponsorshipType": "Direct"
+                    }, 
+                    "impressions": 28762, 
+                    "line_item_id": "c59p6", 
+                    "end_timestamp": 1533959940
+                }
+            ]
+        }, 
+        "TweetPerformance": {
+            "isRejected": false, 
+            "tweetPerformance": {
+                "totalSpend": 708.864549, 
+                "totalImpressions": 9506
+            }
+        }
+    }, 
+    "1025016541744525322": {
+        "ScreenName": "BetoORourke", 
+        "UserID": "342863309", 
+        "TweetCampaigns": {
+            "metadata": [
+                {
+                    "usd_spend": 1482.74157, 
+                    "start_timestamp": 1533215585, 
+                    "account_id": "18ce54qh4jc", 
+                    "tweet_count": 17, 
+                    "tailored_audience_used": false, 
+                    "political_disclaimer": {
+                        "organization": "Beto for Texas", 
+                        "sponsorshipType": "Direct"
+                    }, 
+                    "impressions": 106144, 
+                    "line_item_id": "c756h", 
+                    "end_timestamp": 1536465540
+                }
+            ]
+        }, 
+        "TweetPerformance": {
+            "isRejected": false, 
+            "tweetPerformance": {
+                "totalSpend": 4.538336, 
+                "totalImpressions": 727
+            }
+        }
+    }, 
+    "1031942036004458496": {
+        "ScreenName": "BetoORourke", 
+        "UserID": "342863309", 
+        "TweetCampaigns": {
+            "metadata": [
+                {
+                    "usd_spend": 10974.401574, 
+                    "start_timestamp": 1533219539, 
+                    "account_id": "18ce54qh4jc", 
+                    "tweet_count": 15, 
+                    "tailored_audience_used": false, 
+                    "political_disclaimer": {
+                        "organization": "Beto for Texas", 
+                        "sponsorshipType": "Direct"
+                    }, 
+                    "impressions": 1005583, 
+                    "line_item_id": "c75o8", 
+                    "end_timestamp": 1536465540
+                }
+            ]
+        }, 
+        "TweetPerformance": {
+            "isRejected": false, 
+            "tweetPerformance": {
+                "totalSpend": 3605.708438, 
+                "totalImpressions": 297954
+            }
+        }
+    }, 
+    "1025025799018229762": {
+        "ScreenName": "BetoORourke", 
+        "UserID": "342863309", 
+        "TweetCampaigns": {
+            "metadata": [
+                {
+                    "usd_spend": 10974.401574, 
+                    "start_timestamp": 1533219539, 
+                    "account_id": "18ce54qh4jc", 
+                    "tweet_count": 15, 
+                    "tailored_audience_used": false, 
+                    "political_disclaimer": {
+                        "organization": "Beto for Texas", 
+                        "sponsorshipType": "Direct"
+                    }, 
+                    "impressions": 1005631, 
+                    "line_item_id": "c75o8", 
+                    "end_timestamp": 1536465540
+                }
+            ]
+        }, 
+        "TweetPerformance": {
+            "isRejected": false, 
+            "tweetPerformance": {
+                "totalSpend": 148.031951, 
+                "totalImpressions": 11999
+            }
+        }
+    }, 
+    "1026473294864809984": {
+        "ScreenName": "BetoORourke", 
+        "UserID": "342863309", 
+        "TweetCampaigns": {
+            "metadata": [
+                {
+                    "usd_spend": 281.752317, 
+                    "start_timestamp": 1533668224, 
+                    "account_id": "18ce54qh4jc", 
+                    "tweet_count": 1, 
+                    "tailored_audience_used": false, 
+                    "political_disclaimer": {
+                        "organization": "Beto for Texas", 
+                        "sponsorshipType": "Direct"
+                    }, 
+                    "impressions": 9459, 
+                    "line_item_id": "c8hif", 
+                    "end_timestamp": 1534003200
+                }
+            ]
+        }, 
+        "TweetPerformance": {
+            "isRejected": false, 
+            "tweetPerformance": {
+                "totalSpend": 281.752317, 
+                "totalImpressions": 9459
+            }
+        }
+    }, 
+    "1023921040605564935": {
+        "ScreenName": "BetoORourke", 
+        "UserID": "342863309", 
+        "TweetCampaigns": {
+            "metadata": [
+                {
+                    "usd_spend": 49.965713, 
+                    "start_timestamp": 1533668224, 
+                    "account_id": "18ce54qh4jc", 
+                    "tweet_count": 2, 
+                    "tailored_audience_used": false, 
+                    "political_disclaimer": {
+                        "organization": "Beto for Texas", 
+                        "sponsorshipType": "Direct"
+                    }, 
+                    "impressions": 1314, 
+                    "line_item_id": "c8hfo", 
+                    "end_timestamp": 1534003200
+                }
+            ]
+        }, 
+        "TweetPerformance": {
+            "isRejected": false, 
+            "tweetPerformance": {
+                "totalSpend": 49.965713, 
+                "totalImpressions": 1314
+            }
+        }
+    }, 
+    "1025482925616377861": {
+        "ScreenName": "BetoORourke", 
+        "UserID": "342863309", 
+        "TweetCampaigns": {
+            "metadata": [
+                {
+                    "usd_spend": 10974.401574, 
+                    "start_timestamp": 1533219539, 
+                    "account_id": "18ce54qh4jc", 
+                    "tweet_count": 15, 
+                    "tailored_audience_used": false, 
+                    "political_disclaimer": {
+                        "organization": "Beto for Texas", 
+                        "sponsorshipType": "Direct"
+                    }, 
+                    "impressions": 1005722, 
+                    "line_item_id": "c75o8", 
+                    "end_timestamp": 1536465540
+                }
+            ]
+        }, 
+        "TweetPerformance": {
+            "isRejected": false, 
+            "tweetPerformance": {
+                "totalSpend": 252.145346, 
+                "totalImpressions": 20172
+            }
+        }
+    }, 
+    "1027268951229833223": {
+        "ScreenName": "BetoORourke", 
+        "UserID": "342863309", 
+        "TweetCampaigns": {
+            "metadata": [
+                {
+                    "usd_spend": 1482.74157, 
+                    "start_timestamp": 1533215585, 
+                    "account_id": "18ce54qh4jc", 
+                    "tweet_count": 17, 
+                    "tailored_audience_used": false, 
+                    "political_disclaimer": {
+                        "organization": "Beto for Texas", 
+                        "sponsorshipType": "Direct"
+                    }, 
+                    "impressions": 106144, 
+                    "line_item_id": "c756h", 
+                    "end_timestamp": 1536465540
+                }, 
+                {
+                    "usd_spend": 14341.168944, 
+                    "start_timestamp": 1533215585, 
+                    "account_id": "18ce54qh4jc", 
+                    "tweet_count": 10, 
+                    "tailored_audience_used": false, 
+                    "political_disclaimer": {
+                        "organization": "Beto for Texas", 
+                        "sponsorshipType": "Direct"
+                    }, 
+                    "impressions": 987708, 
+                    "line_item_id": "c756k", 
+                    "end_timestamp": 1536465540
+                }
+            ]
+        }, 
+        "TweetPerformance": {
+            "isRejected": false, 
+            "tweetPerformance": {
+                "totalSpend": 163.669461, 
+                "totalImpressions": 16200
+            }
+        }
+    }, 
+    "1025016704546484224": {
+        "ScreenName": "BetoORourke", 
+        "UserID": "342863309", 
+        "TweetCampaigns": {
+            "metadata": [
+                {
+                    "usd_spend": 14341.168944, 
+                    "start_timestamp": 1533215585, 
+                    "account_id": "18ce54qh4jc", 
+                    "tweet_count": 10, 
+                    "tailored_audience_used": false, 
+                    "political_disclaimer": {
+                        "organization": "Beto for Texas", 
+                        "sponsorshipType": "Direct"
+                    }, 
+                    "impressions": 987708, 
+                    "line_item_id": "c756k", 
+                    "end_timestamp": 1536465540
+                }
+            ]
+        }, 
+        "TweetPerformance": {
+            "isRejected": false, 
+            "tweetPerformance": {
+                "totalSpend": 0.0, 
+                "totalImpressions": 51
+            }
+        }
+    }, 
+    "1025041580695187457": {
+        "ScreenName": "BetoORourke", 
+        "UserID": "342863309", 
+        "TweetCampaigns": {
+            "metadata": [
+                {
+                    "usd_spend": 1482.74157, 
+                    "start_timestamp": 1533215585, 
+                    "account_id": "18ce54qh4jc", 
+                    "tweet_count": 17, 
+                    "tailored_audience_used": false, 
+                    "political_disclaimer": {
+                        "organization": "Beto for Texas", 
+                        "sponsorshipType": "Direct"
+                    }, 
+                    "impressions": 106144, 
+                    "line_item_id": "c756h", 
+                    "end_timestamp": 1536465540
+                }
+            ]
+        }, 
+        "TweetPerformance": {
+            "isRejected": false, 
+            "tweetPerformance": {
+                "totalSpend": 17.428569, 
+                "totalImpressions": 555
+            }
+        }
+    }, 
+    "1031941079044685825": {
+        "ScreenName": "BetoORourke", 
+        "UserID": "342863309", 
+        "TweetCampaigns": {
+            "metadata": [
+                {
+                    "usd_spend": 10974.401574, 
+                    "start_timestamp": 1533219539, 
+                    "account_id": "18ce54qh4jc", 
+                    "tweet_count": 15, 
+                    "tailored_audience_used": false, 
+                    "political_disclaimer": {
+                        "organization": "Beto for Texas", 
+                        "sponsorshipType": "Direct"
+                    }, 
+                    "impressions": 1005816, 
+                    "line_item_id": "c75o8", 
+                    "end_timestamp": 1536465540
+                }
+            ]
+        }, 
+        "TweetPerformance": {
+            "isRejected": false, 
+            "tweetPerformance": {
+                "totalSpend": 3956.388416, 
+                "totalImpressions": 371845
+            }
+        }
+    }, 
+    "1027269711145394181": {
+        "ScreenName": "BetoORourke", 
+        "UserID": "342863309", 
+        "TweetCampaigns": {
+            "metadata": [
+                {
+                    "usd_spend": 10974.401574, 
+                    "start_timestamp": 1533219539, 
+                    "account_id": "18ce54qh4jc", 
+                    "tweet_count": 15, 
+                    "tailored_audience_used": false, 
+                    "political_disclaimer": {
+                        "organization": "Beto for Texas", 
+                        "sponsorshipType": "Direct"
+                    }, 
+                    "impressions": 1005763, 
+                    "line_item_id": "c75o8", 
+                    "end_timestamp": 1536465540
+                }
+            ]
+        }, 
+        "TweetPerformance": {
+            "isRejected": false, 
+            "tweetPerformance": {
+                "totalSpend": 19.115369, 
+                "totalImpressions": 1715
+            }
+        }
+    }, 
+    "1023678311233409024": {
+        "ScreenName": "BetoORourke", 
+        "UserID": "342863309", 
+        "TweetCampaigns": {
+            "metadata": [
+                {
+                    "usd_spend": 21.286673, 
+                    "start_timestamp": 1533656944, 
+                    "account_id": "18ce54qh4jc", 
+                    "tweet_count": 1, 
+                    "tailored_audience_used": false, 
+                    "political_disclaimer": {
+                        "organization": "Beto for Texas", 
+                        "sponsorshipType": "Direct"
+                    }, 
+                    "impressions": 1087, 
+                    "line_item_id": "c8g3f", 
+                    "end_timestamp": 1534089600
+                }, 
+                {
+                    "usd_spend": 0.0, 
+                    "start_timestamp": 1533656944, 
+                    "account_id": "18ce54qh4jc", 
+                    "tweet_count": 2, 
+                    "tailored_audience_used": false, 
+                    "political_disclaimer": {
+                        "organization": "Beto for Texas", 
+                        "sponsorshipType": "Direct"
+                    }, 
+                    "impressions": 249, 
+                    "line_item_id": "c8g7d", 
+                    "end_timestamp": 1534089600
+                }
+            ]
+        }, 
+        "TweetPerformance": {
+            "isRejected": false, 
+            "tweetPerformance": {
+                "totalSpend": 21.286673, 
+                "totalImpressions": 1087
+            }
+        }
+    }, 
+    "1029065276564951041": {
+        "ScreenName": "BetoORourke", 
+        "UserID": "342863309", 
+        "TweetCampaigns": {
+            "metadata": [
+                {
+                    "usd_spend": 12.382682, 
+                    "start_timestamp": 1533668224, 
+                    "account_id": "18ce54qh4jc", 
+                    "tweet_count": 1, 
+                    "tailored_audience_used": false, 
+                    "political_disclaimer": {
+                        "organization": "Beto for Texas", 
+                        "sponsorshipType": "Direct"
+                    }, 
+                    "impressions": 501, 
+                    "line_item_id": "ca4hp", 
+                    "end_timestamp": 1534775400
+                }
+            ]
+        }, 
+        "TweetPerformance": {
+            "isRejected": false, 
+            "tweetPerformance": {
+                "totalSpend": 12.382682, 
+                "totalImpressions": 501
+            }
+        }
+    }, 
+    "1025016643921952778": {
+        "ScreenName": "BetoORourke", 
+        "UserID": "342863309", 
+        "TweetCampaigns": {
+            "metadata": [
+                {
+                    "usd_spend": 1482.74157, 
+                    "start_timestamp": 1533215585, 
+                    "account_id": "18ce54qh4jc", 
+                    "tweet_count": 17, 
+                    "tailored_audience_used": false, 
+                    "political_disclaimer": {
+                        "organization": "Beto for Texas", 
+                        "sponsorshipType": "Direct"
+                    }, 
+                    "impressions": 106144, 
+                    "line_item_id": "c756h", 
+                    "end_timestamp": 1536465540
+                }
+            ]
+        }, 
+        "TweetPerformance": {
+            "isRejected": false, 
+            "tweetPerformance": {
+                "totalSpend": 831.974568, 
+                "totalImpressions": 54750
+            }
+        }
+    }, 
+    "1029083245600591873": {
+        "ScreenName": "BetoORourke", 
+        "UserID": "342863309", 
+        "TweetCampaigns": {
+            "metadata": [
+                {
+                    "usd_spend": 0.044743, 
+                    "start_timestamp": 1533668224, 
+                    "account_id": "18ce54qh4jc", 
+                    "tweet_count": 1, 
+                    "tailored_audience_used": false, 
+                    "political_disclaimer": {
+                        "organization": "Beto for Texas", 
+                        "sponsorshipType": "Direct"
+                    }, 
+                    "impressions": 4, 
+                    "line_item_id": "c9pk5", 
+                    "end_timestamp": 1534651140
+                }
+            ]
+        }, 
+        "TweetPerformance": {
+            "isRejected": false, 
+            "tweetPerformance": {
+                "totalSpend": 0.044743, 
+                "totalImpressions": 4
+            }
+        }
+    }, 
+    "1025041682876821504": {
+        "ScreenName": "BetoORourke", 
+        "UserID": "342863309", 
+        "TweetCampaigns": {
+            "metadata": [
+                {
+                    "usd_spend": 1482.74157, 
+                    "start_timestamp": 1533215585, 
+                    "account_id": "18ce54qh4jc", 
+                    "tweet_count": 17, 
+                    "tailored_audience_used": false, 
+                    "political_disclaimer": {
+                        "organization": "Beto for Texas", 
+                        "sponsorshipType": "Direct"
+                    }, 
+                    "impressions": 106144, 
+                    "line_item_id": "c756h", 
+                    "end_timestamp": 1536465540
+                }
+            ]
+        }, 
+        "TweetPerformance": {
+            "isRejected": false, 
+            "tweetPerformance": {
+                "totalSpend": 2.293827, 
+                "totalImpressions": 473
+            }
+        }
+    }, 
+    "1029082479443959808": {
+        "ScreenName": "BetoORourke", 
+        "UserID": "342863309", 
+        "TweetCampaigns": {
+            "metadata": [
+                {
+                    "usd_spend": 4.01113, 
+                    "start_timestamp": 1533668224, 
+                    "account_id": "18ce54qh4jc", 
+                    "tweet_count": 3, 
+                    "tailored_audience_used": false, 
+                    "political_disclaimer": {
+                        "organization": "Beto for Texas", 
+                        "sponsorshipType": "Direct"
+                    }, 
+                    "impressions": 146, 
+                    "line_item_id": "c9pil", 
+                    "end_timestamp": 1534262400
+                }
+            ]
+        }, 
+        "TweetPerformance": {
+            "isRejected": false, 
+            "tweetPerformance": {
+                "totalSpend": 1.501187, 
+                "totalImpressions": 63
+            }
+        }
+    }, 
+    "1028331455804579840": {
+        "ScreenName": "BetoORourke", 
+        "UserID": "342863309", 
+        "TweetCampaigns": {
+            "metadata": [
+                {
+                    "usd_spend": 0.287707, 
+                    "start_timestamp": 1533668224, 
+                    "account_id": "18ce54qh4jc", 
+                    "tweet_count": 1, 
+                    "tailored_audience_used": false, 
+                    "political_disclaimer": {
+                        "organization": "Beto for Texas", 
+                        "sponsorshipType": "Direct"
+                    }, 
+                    "impressions": 27, 
+                    "line_item_id": "c9pdf", 
+                    "end_timestamp": 1534651140
+                }
+            ]
+        }, 
+        "TweetPerformance": {
+            "isRejected": false, 
+            "tweetPerformance": {
+                "totalSpend": 0.287707, 
+                "totalImpressions": 27
+            }
+        }
+    }, 
+    "1025017130708688896": {
+        "ScreenName": "BetoORourke", 
+        "UserID": "342863309", 
+        "TweetCampaigns": {
+            "metadata": [
+                {
+                    "usd_spend": 15159.394143, 
+                    "start_timestamp": 1533215585, 
+                    "account_id": "18ce54qh4jc", 
+                    "tweet_count": 10, 
+                    "tailored_audience_used": false, 
+                    "political_disclaimer": {
+                        "organization": "Beto for Texas", 
+                        "sponsorshipType": "Direct"
+                    }, 
+                    "impressions": 883812, 
+                    "line_item_id": "c756y", 
+                    "end_timestamp": 1536465540
+                }
+            ]
+        }, 
+        "TweetPerformance": {
+            "isRejected": false, 
+            "tweetPerformance": {
+                "totalSpend": 40.328075, 
+                "totalImpressions": 816
+            }
+        }
+    }, 
+    "1025041974322257920": {
+        "ScreenName": "BetoORourke", 
+        "UserID": "342863309", 
+        "TweetCampaigns": {
+            "metadata": [
+                {
+                    "usd_spend": 14341.168944, 
+                    "start_timestamp": 1533215585, 
+                    "account_id": "18ce54qh4jc", 
+                    "tweet_count": 10, 
+                    "tailored_audience_used": false, 
+                    "political_disclaimer": {
+                        "organization": "Beto for Texas", 
+                        "sponsorshipType": "Direct"
+                    }, 
+                    "impressions": 987708, 
+                    "line_item_id": "c756k", 
+                    "end_timestamp": 1536465540
+                }
+            ]
+        }, 
+        "TweetPerformance": {
+            "isRejected": false, 
+            "tweetPerformance": {
+                "totalSpend": 971.507445, 
+                "totalImpressions": 77670
+            }
+        }
+    }, 
+    "1025017087423537152": {
+        "ScreenName": "BetoORourke", 
+        "UserID": "342863309", 
+        "TweetCampaigns": {
+            "metadata": [
+                {
+                    "usd_spend": 15159.394143, 
+                    "start_timestamp": 1533215585, 
+                    "account_id": "18ce54qh4jc", 
+                    "tweet_count": 10, 
+                    "tailored_audience_used": false, 
+                    "political_disclaimer": {
+                        "organization": "Beto for Texas", 
+                        "sponsorshipType": "Direct"
+                    }, 
+                    "impressions": 883812, 
+                    "line_item_id": "c756y", 
+                    "end_timestamp": 1536465540
+                }
+            ]
+        }, 
+        "TweetPerformance": {
+            "isRejected": false, 
+            "tweetPerformance": {
+                "totalSpend": 42.906525, 
+                "totalImpressions": 585
+            }
+        }
+    }, 
+    "1025016763732262912": {
+        "ScreenName": "BetoORourke", 
+        "UserID": "342863309", 
+        "TweetCampaigns": {
+            "metadata": [
+                {
+                    "usd_spend": 14341.168944, 
+                    "start_timestamp": 1533215585, 
+                    "account_id": "18ce54qh4jc", 
+                    "tweet_count": 10, 
+                    "tailored_audience_used": false, 
+                    "political_disclaimer": {
+                        "organization": "Beto for Texas", 
+                        "sponsorshipType": "Direct"
+                    }, 
+                    "impressions": 987708, 
+                    "line_item_id": "c756k", 
+                    "end_timestamp": 1536465540
+                }
+            ]
+        }, 
+        "TweetPerformance": {
+            "isRejected": false, 
+            "tweetPerformance": {
+                "totalSpend": 0.0, 
+                "totalImpressions": 28
+            }
+        }
+    }, 
+    "1029348316725821440": {
+        "ScreenName": "BetoORourke", 
+        "UserID": "342863309", 
+        "TweetCampaigns": {
+            "metadata": [
+                {
+                    "usd_spend": 467.0, 
+                    "start_timestamp": 1533668224, 
+                    "account_id": "18ce54qh4jc", 
+                    "tweet_count": 1, 
+                    "tailored_audience_used": false, 
+                    "political_disclaimer": {
+                        "organization": "Beto for Texas", 
+                        "sponsorshipType": "Direct"
+                    }, 
+                    "impressions": 17927, 
+                    "line_item_id": "ca0ga", 
+                    "end_timestamp": 1534737540
+                }
+            ]
+        }, 
+        "TweetPerformance": {
+            "isRejected": false, 
+            "tweetPerformance": {
+                "totalSpend": 467.0, 
+                "totalImpressions": 17927
+            }
+        }
+    }, 
+    "1027931441093664768": {
+        "ScreenName": "BetoORourke", 
+        "UserID": "342863309", 
+        "TweetCampaigns": {
+            "metadata": [
+                {
+                    "usd_spend": 0.0, 
+                    "start_timestamp": 1533656944, 
+                    "account_id": "18ce54qh4jc", 
+                    "tweet_count": 1, 
+                    "tailored_audience_used": false, 
+                    "political_disclaimer": {
+                        "organization": "Beto for Texas", 
+                        "sponsorshipType": "Direct"
+                    }, 
+                    "impressions": 32, 
+                    "line_item_id": "cahn5", 
+                    "end_timestamp": 1534910340
+                }
+            ]
+        }, 
+        "TweetPerformance": {
+            "isRejected": false, 
+            "tweetPerformance": {
+                "totalSpend": 0.0, 
+                "totalImpressions": 32
+            }
+        }
+    }, 
+    "1029375645195927558": {
+        "ScreenName": "BetoORourke", 
+        "UserID": "342863309", 
+        "TweetCampaigns": {
+            "metadata": [
+                {
+                    "usd_spend": 7.744003, 
+                    "start_timestamp": 1533668224, 
+                    "account_id": "18ce54qh4jc", 
+                    "tweet_count": 2, 
+                    "tailored_audience_used": false, 
+                    "political_disclaimer": {
+                        "organization": "Beto for Texas", 
+                        "sponsorshipType": "Direct"
+                    }, 
+                    "impressions": 341, 
+                    "line_item_id": "c9pny", 
+                    "end_timestamp": 1534651140
+                }
+            ]
+        }, 
+        "TweetPerformance": {
+            "isRejected": false, 
+            "tweetPerformance": {
+                "totalSpend": 7.744003, 
+                "totalImpressions": 341
+            }
+        }
+    }, 
+    "1023923455786397696": {
+        "ScreenName": "BetoORourke", 
+        "UserID": "342863309", 
+        "TweetCampaigns": {
+            "metadata": [
+                {
+                    "usd_spend": 46.275199, 
+                    "start_timestamp": 1533657480, 
+                    "account_id": "18ce54qh4jc", 
+                    "tweet_count": 4, 
+                    "tailored_audience_used": false, 
+                    "political_disclaimer": {
+                        "organization": "Beto for Texas", 
+                        "sponsorshipType": "Direct"
+                    }, 
+                    "impressions": 2117, 
+                    "line_item_id": "c8fyv", 
+                    "end_timestamp": 1534996740
+                }, 
+                {
+                    "usd_spend": 0.940994, 
+                    "start_timestamp": 1533157935, 
+                    "account_id": "18ce54qh4jc", 
+                    "tweet_count": 8, 
+                    "tailored_audience_used": false, 
+                    "political_disclaimer": {
+                        "organization": "Beto for Texas", 
+                        "sponsorshipType": "Direct"
+                    }, 
+                    "impressions": 17, 
+                    "line_item_id": "c6z4r", 
+                    "end_timestamp": 1533959940
+                }, 
+                {
+                    "usd_spend": 4.582533, 
+                    "start_timestamp": 1532610000, 
+                    "account_id": "18ce54qh4jc", 
+                    "tweet_count": 4, 
+                    "tailored_audience_used": false, 
+                    "political_disclaimer": {
+                        "organization": "Beto for Texas", 
+                        "sponsorshipType": "Direct"
+                    }, 
+                    "impressions": 173, 
+                    "line_item_id": "c59qc", 
+                    "end_timestamp": 1533959940
+                }
+            ]
+        }, 
+        "TweetPerformance": {
+            "isRejected": false, 
+            "tweetPerformance": {
+                "totalSpend": 18.129405, 
+                "totalImpressions": 674
+            }
+        }
+    }, 
+    "1025041626580824064": {
+        "ScreenName": "BetoORourke", 
+        "UserID": "342863309", 
+        "TweetCampaigns": {
+            "metadata": [
+                {
+                    "usd_spend": 1482.74157, 
+                    "start_timestamp": 1533215585, 
+                    "account_id": "18ce54qh4jc", 
+                    "tweet_count": 17, 
+                    "tailored_audience_used": false, 
+                    "political_disclaimer": {
+                        "organization": "Beto for Texas", 
+                        "sponsorshipType": "Direct"
+                    }, 
+                    "impressions": 106144, 
+                    "line_item_id": "c756h", 
+                    "end_timestamp": 1536465540
+                }
+            ]
+        }, 
+        "TweetPerformance": {
+            "isRejected": false, 
+            "tweetPerformance": {
+                "totalSpend": 18.707556, 
+                "totalImpressions": 846
+            }
+        }
+    }, 
+    "1029009492132941824": {
+        "ScreenName": "BetoORourke", 
+        "UserID": "342863309", 
+        "TweetCampaigns": {
+            "metadata": [
+                {
+                    "usd_spend": 2.984769, 
+                    "start_timestamp": 1533656944, 
+                    "account_id": "18ce54qh4jc", 
+                    "tweet_count": 1, 
+                    "tailored_audience_used": false, 
+                    "political_disclaimer": {
+                        "organization": "Beto for Texas", 
+                        "sponsorshipType": "Direct"
+                    }, 
+                    "impressions": 387, 
+                    "line_item_id": "cahlx", 
+                    "end_timestamp": 1534910340
+                }
+            ]
+        }, 
+        "TweetPerformance": {
+            "isRejected": false, 
+            "tweetPerformance": {
+                "totalSpend": 2.984769, 
+                "totalImpressions": 387
+            }
+        }
+    }, 
+    "1025042217591812096": {
+        "ScreenName": "BetoORourke", 
+        "UserID": "342863309", 
+        "TweetCampaigns": {
+            "metadata": [
+                {
+                    "usd_spend": 15159.394143, 
+                    "start_timestamp": 1533215585, 
+                    "account_id": "18ce54qh4jc", 
+                    "tweet_count": 10, 
+                    "tailored_audience_used": false, 
+                    "political_disclaimer": {
+                        "organization": "Beto for Texas", 
+                        "sponsorshipType": "Direct"
+                    }, 
+                    "impressions": 883812, 
+                    "line_item_id": "c756y", 
+                    "end_timestamp": 1536465540
+                }
+            ]
+        }, 
+        "TweetPerformance": {
+            "isRejected": false, 
+            "tweetPerformance": {
+                "totalSpend": 233.079375, 
+                "totalImpressions": 19616
+            }
+        }
+    }, 
+    "1026863721094803456": {
+        "ScreenName": "BetoORourke", 
+        "UserID": "342863309", 
+        "TweetCampaigns": {
+            "metadata": [
+                {
+                    "usd_spend": 32638.581647, 
+                    "start_timestamp": 1533657480, 
+                    "account_id": "18ce54qh4jc", 
+                    "tweet_count": 4, 
+                    "tailored_audience_used": false, 
+                    "political_disclaimer": {
+                        "organization": "Beto for Texas", 
+                        "sponsorshipType": "Direct"
+                    }, 
+                    "impressions": 2260453, 
+                    "line_item_id": "c8g1d", 
+                    "end_timestamp": 1534996740
+                }, 
+                {
+                    "usd_spend": 2170.601505, 
+                    "start_timestamp": 1533657480, 
+                    "account_id": "18ce54qh4jc", 
+                    "tweet_count": 8, 
+                    "tailored_audience_used": false, 
+                    "political_disclaimer": {
+                        "organization": "Beto for Texas", 
+                        "sponsorshipType": "Direct"
+                    }, 
+                    "impressions": 140351, 
+                    "line_item_id": "c8fyq", 
+                    "end_timestamp": 1534996740
+                }
+            ]
+        }, 
+        "TweetPerformance": {
+            "isRejected": false, 
+            "tweetPerformance": {
+                "totalSpend": 9645.20499, 
+                "totalImpressions": 635401
+            }
+        }
+    }, 
+    "1026864054994915328": {
+        "ScreenName": "BetoORourke", 
+        "UserID": "342863309", 
+        "TweetCampaigns": {
+            "metadata": [
+                {
+                    "usd_spend": 32638.581647, 
+                    "start_timestamp": 1533657480, 
+                    "account_id": "18ce54qh4jc", 
+                    "tweet_count": 4, 
+                    "tailored_audience_used": false, 
+                    "political_disclaimer": {
+                        "organization": "Beto for Texas", 
+                        "sponsorshipType": "Direct"
+                    }, 
+                    "impressions": 2260453, 
+                    "line_item_id": "c8g1d", 
+                    "end_timestamp": 1534996740
+                }, 
+                {
+                    "usd_spend": 2170.601505, 
+                    "start_timestamp": 1533657480, 
+                    "account_id": "18ce54qh4jc", 
+                    "tweet_count": 8, 
+                    "tailored_audience_used": false, 
+                    "political_disclaimer": {
+                        "organization": "Beto for Texas", 
+                        "sponsorshipType": "Direct"
+                    }, 
+                    "impressions": 140351, 
+                    "line_item_id": "c8fyq", 
+                    "end_timestamp": 1534996740
+                }
+            ]
+        }, 
+        "TweetPerformance": {
+            "isRejected": false, 
+            "tweetPerformance": {
+                "totalSpend": 3587.093061, 
+                "totalImpressions": 230514
+            }
+        }
+    }, 
+    "1025025564950839296": {
+        "ScreenName": "BetoORourke", 
+        "UserID": "342863309", 
+        "TweetCampaigns": {
+            "metadata": [
+                {
+                    "usd_spend": 10974.401574, 
+                    "start_timestamp": 1533219539, 
+                    "account_id": "18ce54qh4jc", 
+                    "tweet_count": 15, 
+                    "tailored_audience_used": false, 
+                    "political_disclaimer": {
+                        "organization": "Beto for Texas", 
+                        "sponsorshipType": "Direct"
+                    }, 
+                    "impressions": 1005583, 
+                    "line_item_id": "c75o8", 
+                    "end_timestamp": 1536465540
+                }
+            ]
+        }, 
+        "TweetPerformance": {
+            "isRejected": false, 
+            "tweetPerformance": {
+                "totalSpend": 207.005574, 
+                "totalImpressions": 22248
+            }
+        }
+    }, 
+    "1019178960792350720": {
+        "ScreenName": "BetoORourke", 
+        "UserID": "342863309", 
+        "TweetCampaigns": {
+            "metadata": [
+                {
+                    "usd_spend": 396.043602, 
+                    "start_timestamp": 1531825941, 
+                    "account_id": "18ce54qh4jc", 
+                    "tweet_count": 2, 
+                    "tailored_audience_used": false, 
+                    "political_disclaimer": {
+                        "organization": "Beto for Texas", 
+                        "sponsorshipType": "Direct"
+                    }, 
+                    "impressions": 53222, 
+                    "line_item_id": "c3b5x", 
+                    "end_timestamp": 1532197585
+                }, 
+                {
+                    "usd_spend": 340.777016, 
+                    "start_timestamp": 1531825941, 
+                    "account_id": "18ce54qh4jc", 
+                    "tweet_count": 2, 
+                    "tailored_audience_used": false, 
+                    "political_disclaimer": {
+                        "organization": "Beto for Texas", 
+                        "sponsorshipType": "Direct"
+                    }, 
+                    "impressions": 51350, 
+                    "line_item_id": "c3b51", 
+                    "end_timestamp": 1532192241
+                }
+            ]
+        }, 
+        "TweetPerformance": {
+            "isRejected": false, 
+            "tweetPerformance": {
+                "totalSpend": 270.105677, 
+                "totalImpressions": 39383
+            }
+        }
+    }, 
+    "1026137340438294529": {
+        "ScreenName": "BetoORourke", 
+        "UserID": "342863309", 
+        "TweetCampaigns": {
+            "metadata": [
+                {
+                    "usd_spend": 0.049515, 
+                    "start_timestamp": 1533668224, 
+                    "account_id": "18ce54qh4jc", 
+                    "tweet_count": 1, 
+                    "tailored_audience_used": false, 
+                    "political_disclaimer": {
+                        "organization": "Beto for Texas", 
+                        "sponsorshipType": "Direct"
+                    }, 
+                    "impressions": 4, 
+                    "line_item_id": "c8hie", 
+                    "end_timestamp": 1534003200
+                }
+            ]
+        }, 
+        "TweetPerformance": {
+            "isRejected": false, 
+            "tweetPerformance": {
+                "totalSpend": 0.049515, 
+                "totalImpressions": 4
+            }
+        }
+    }, 
+    "1025016917956816899": {
+        "ScreenName": "BetoORourke", 
+        "UserID": "342863309", 
+        "TweetCampaigns": {
+            "metadata": [
+                {
+                    "usd_spend": 14341.168944, 
+                    "start_timestamp": 1533215585, 
+                    "account_id": "18ce54qh4jc", 
+                    "tweet_count": 10, 
+                    "tailored_audience_used": false, 
+                    "political_disclaimer": {
+                        "organization": "Beto for Texas", 
+                        "sponsorshipType": "Direct"
+                    }, 
+                    "impressions": 987708, 
+                    "line_item_id": "c756k", 
+                    "end_timestamp": 1536465540
+                }
+            ]
+        }, 
+        "TweetPerformance": {
+            "isRejected": false, 
+            "tweetPerformance": {
+                "totalSpend": 7.5, 
+                "totalImpressions": 101
+            }
+        }
+    }, 
+    "1016446677572620289": {
+        "ScreenName": "BetoORourke", 
+        "UserID": "342863309", 
+        "TweetCampaigns": {
+            "metadata": [
+                {
+                    "usd_spend": 4988.88, 
+                    "start_timestamp": 1531174883, 
+                    "account_id": "18ce54qh4jc", 
+                    "tweet_count": 3, 
+                    "tailored_audience_used": false, 
+                    "political_disclaimer": {
+                        "organization": "Beto for Texas", 
+                        "sponsorshipType": "Direct"
+                    }, 
+                    "impressions": 566132, 
+                    "line_item_id": "c1dxj", 
+                    "end_timestamp": 1531709691
+                }
+            ]
+        }, 
+        "TweetPerformance": {
+            "isRejected": false, 
+            "tweetPerformance": {
+                "totalSpend": 4316.084655, 
+                "totalImpressions": 475778
+            }
+        }
+    }, 
+    "1025042127821135873": {
+        "ScreenName": "BetoORourke", 
+        "UserID": "342863309", 
+        "TweetCampaigns": {
+            "metadata": [
+                {
+                    "usd_spend": 15159.394143, 
+                    "start_timestamp": 1533215585, 
+                    "account_id": "18ce54qh4jc", 
+                    "tweet_count": 10, 
+                    "tailored_audience_used": false, 
+                    "political_disclaimer": {
+                        "organization": "Beto for Texas", 
+                        "sponsorshipType": "Direct"
+                    }, 
+                    "impressions": 883812, 
+                    "line_item_id": "c756y", 
+                    "end_timestamp": 1536465540
+                }
+            ]
+        }, 
+        "TweetPerformance": {
+            "isRejected": false, 
+            "tweetPerformance": {
+                "totalSpend": 10102.541878, 
+                "totalImpressions": 592931
+            }
+        }
+    }, 
+    "1025016597373579266": {
+        "ScreenName": "BetoORourke", 
+        "UserID": "342863309", 
+        "TweetCampaigns": {
+            "metadata": [
+                {
+                    "usd_spend": 1482.74157, 
+                    "start_timestamp": 1533215585, 
+                    "account_id": "18ce54qh4jc", 
+                    "tweet_count": 17, 
+                    "tailored_audience_used": false, 
+                    "political_disclaimer": {
+                        "organization": "Beto for Texas", 
+                        "sponsorshipType": "Direct"
+                    }, 
+                    "impressions": 106144, 
+                    "line_item_id": "c756h", 
+                    "end_timestamp": 1536465540
+                }
+            ]
+        }, 
+        "TweetPerformance": {
+            "isRejected": false, 
+            "tweetPerformance": {
+                "totalSpend": 4.895501, 
+                "totalImpressions": 436
+            }
+        }
+    }, 
+    "1027269677628751872": {
+        "ScreenName": "BetoORourke", 
+        "UserID": "342863309", 
+        "TweetCampaigns": {
+            "metadata": [
+                {
+                    "usd_spend": 31036.177884, 
+                    "start_timestamp": 1533219539, 
+                    "account_id": "18ce54qh4jc", 
+                    "tweet_count": 10, 
+                    "tailored_audience_used": false, 
+                    "political_disclaimer": {
+                        "organization": "Beto for Texas", 
+                        "sponsorshipType": "Direct"
+                    }, 
+                    "impressions": 2450391, 
+                    "line_item_id": "c75qw", 
+                    "end_timestamp": 1536465540
+                }
+            ]
+        }, 
+        "TweetPerformance": {
+            "isRejected": false, 
+            "tweetPerformance": {
+                "totalSpend": 157.909212, 
+                "totalImpressions": 20211
+            }
+        }
+    }, 
+    "1011696708051402752": {
+        "ScreenName": "BetoORourke", 
+        "UserID": "342863309", 
+        "TweetCampaigns": {
+            "metadata": [
+                {
+                    "usd_spend": 5244.495214, 
+                    "start_timestamp": 1530212520, 
+                    "account_id": "18ce54qbbxn", 
+                    "tweet_count": 1, 
+                    "tailored_audience_used": false, 
+                    "political_disclaimer": {
+                        "organization": "Beto for Texas", 
+                        "sponsorshipType": "Indirect", 
+                        "candidate": "Beto O'Rourke"
+                    }, 
+                    "impressions": 1068662, 
+                    "line_item_id": "bysnj", 
+                    "end_timestamp": 1530623150
+                }
+            ]
+        }, 
+        "TweetPerformance": {
+            "isRejected": false, 
+            "tweetPerformance": {
+                "totalSpend": 5424.438566, 
+                "totalImpressions": 1097339
+            }
+        }
+    }, 
+    "1026863609928933377": {
+        "ScreenName": "BetoORourke", 
+        "UserID": "342863309", 
+        "TweetCampaigns": {
+            "metadata": [
+                {
+                    "usd_spend": 32638.581647, 
+                    "start_timestamp": 1533657480, 
+                    "account_id": "18ce54qh4jc", 
+                    "tweet_count": 4, 
+                    "tailored_audience_used": false, 
+                    "political_disclaimer": {
+                        "organization": "Beto for Texas", 
+                        "sponsorshipType": "Direct"
+                    }, 
+                    "impressions": 2260453, 
+                    "line_item_id": "c8g1d", 
+                    "end_timestamp": 1534996740
+                }, 
+                {
+                    "usd_spend": 2170.601505, 
+                    "start_timestamp": 1533657480, 
+                    "account_id": "18ce54qh4jc", 
+                    "tweet_count": 8, 
+                    "tailored_audience_used": false, 
+                    "political_disclaimer": {
+                        "organization": "Beto for Texas", 
+                        "sponsorshipType": "Direct"
+                    }, 
+                    "impressions": 140351, 
+                    "line_item_id": "c8fyq", 
+                    "end_timestamp": 1534996740
+                }
+            ]
+        }, 
+        "TweetPerformance": {
+            "isRejected": false, 
+            "tweetPerformance": {
+                "totalSpend": 17385.563918, 
+                "totalImpressions": 1270208
+            }
+        }
+    }, 
+    "1024725000392265728": {
+        "ScreenName": "BetoORourke", 
+        "UserID": "342863309", 
+        "TweetCampaigns": {
+            "metadata": [
+                {
+                    "usd_spend": 30.30727, 
+                    "start_timestamp": 1533668224, 
+                    "account_id": "18ce54qh4jc", 
+                    "tweet_count": 1, 
+                    "tailored_audience_used": false, 
+                    "political_disclaimer": {
+                        "organization": "Beto for Texas", 
+                        "sponsorshipType": "Direct"
+                    }, 
+                    "impressions": 941, 
+                    "line_item_id": "c8hgn", 
+                    "end_timestamp": 1534003200
+                }
+            ]
+        }, 
+        "TweetPerformance": {
+            "isRejected": false, 
+            "tweetPerformance": {
+                "totalSpend": 30.30727, 
+                "totalImpressions": 941
+            }
+        }
+    }, 
+    "1025017006733516800": {
+        "ScreenName": "BetoORourke", 
+        "UserID": "342863309", 
+        "TweetCampaigns": {
+            "metadata": [
+                {
+                    "usd_spend": 15159.394143, 
+                    "start_timestamp": 1533215585, 
+                    "account_id": "18ce54qh4jc", 
+                    "tweet_count": 10, 
+                    "tailored_audience_used": false, 
+                    "political_disclaimer": {
+                        "organization": "Beto for Texas", 
+                        "sponsorshipType": "Direct"
+                    }, 
+                    "impressions": 883812, 
+                    "line_item_id": "c756y", 
+                    "end_timestamp": 1536465540
+                }
+            ]
+        }, 
+        "TweetPerformance": {
+            "isRejected": false, 
+            "tweetPerformance": {
+                "totalSpend": 65.666663, 
+                "totalImpressions": 913
+            }
+        }
+    }, 
+    "1025042682324955136": {
+        "ScreenName": "BetoORourke", 
+        "UserID": "342863309", 
+        "TweetCampaigns": {
+            "metadata": [
+                {
+                    "usd_spend": 31036.177884, 
+                    "start_timestamp": 1533219539, 
+                    "account_id": "18ce54qh4jc", 
+                    "tweet_count": 10, 
+                    "tailored_audience_used": false, 
+                    "political_disclaimer": {
+                        "organization": "Beto for Texas", 
+                        "sponsorshipType": "Direct"
+                    }, 
+                    "impressions": 2450391, 
+                    "line_item_id": "c75qw", 
+                    "end_timestamp": 1536465540
+                }
+            ]
+        }, 
+        "TweetPerformance": {
+            "isRejected": false, 
+            "tweetPerformance": {
+                "totalSpend": 2251.461053, 
+                "totalImpressions": 211689
+            }
+        }
+    }, 
+    "1025025938696884227": {
+        "ScreenName": "BetoORourke", 
+        "UserID": "342863309", 
+        "TweetCampaigns": {
+            "metadata": [
+                {
+                    "usd_spend": 31036.177884, 
+                    "start_timestamp": 1533219539, 
+                    "account_id": "18ce54qh4jc", 
+                    "tweet_count": 10, 
+                    "tailored_audience_used": false, 
+                    "political_disclaimer": {
+                        "organization": "Beto for Texas", 
+                        "sponsorshipType": "Direct"
+                    }, 
+                    "impressions": 2450391, 
+                    "line_item_id": "c75qw", 
+                    "end_timestamp": 1536465540
+                }
+            ]
+        }, 
+        "TweetPerformance": {
+            "isRejected": false, 
+            "tweetPerformance": {
+                "totalSpend": 0.0, 
+                "totalImpressions": 3
+            }
+        }
+    }, 
+    "1025041917598474240": {
+        "ScreenName": "BetoORourke", 
+        "UserID": "342863309", 
+        "TweetCampaigns": {
+            "metadata": [
+                {
+                    "usd_spend": 14341.168944, 
+                    "start_timestamp": 1533215585, 
+                    "account_id": "18ce54qh4jc", 
+                    "tweet_count": 10, 
+                    "tailored_audience_used": false, 
+                    "political_disclaimer": {
+                        "organization": "Beto for Texas", 
+                        "sponsorshipType": "Direct"
+                    }, 
+                    "impressions": 987708, 
+                    "line_item_id": "c756k", 
+                    "end_timestamp": 1536465540
+                }
+            ]
+        }, 
+        "TweetPerformance": {
+            "isRejected": false, 
+            "tweetPerformance": {
+                "totalSpend": 9035.835197, 
+                "totalImpressions": 648201
+            }
+        }
+    }, 
+    "1029730404968943616": {
+        "ScreenName": "BetoORourke", 
+        "UserID": "342863309", 
+        "TweetCampaigns": {
+            "metadata": [
+                {
+                    "usd_spend": 11.867261, 
+                    "start_timestamp": 1533668224, 
+                    "account_id": "18ce54qh4jc", 
+                    "tweet_count": 1, 
+                    "tailored_audience_used": false, 
+                    "political_disclaimer": {
+                        "organization": "Beto for Texas", 
+                        "sponsorshipType": "Direct"
+                    }, 
+                    "impressions": 543, 
+                    "line_item_id": "ca81s", 
+                    "end_timestamp": 1534807800
+                }
+            ]
+        }, 
+        "TweetPerformance": {
+            "isRejected": false, 
+            "tweetPerformance": {
+                "totalSpend": 11.867261, 
+                "totalImpressions": 543
+            }
+        }
+    }, 
+    "1019179087682605056": {
+        "ScreenName": "BetoORourke", 
+        "UserID": "342863309", 
+        "TweetCampaigns": {
+            "metadata": [
+                {
+                    "usd_spend": 396.043602, 
+                    "start_timestamp": 1531825941, 
+                    "account_id": "18ce54qh4jc", 
+                    "tweet_count": 2, 
+                    "tailored_audience_used": false, 
+                    "political_disclaimer": {
+                        "organization": "Beto for Texas", 
+                        "sponsorshipType": "Direct"
+                    }, 
+                    "impressions": 53222, 
+                    "line_item_id": "c3b5x", 
+                    "end_timestamp": 1532197585
+                }, 
+                {
+                    "usd_spend": 340.777016, 
+                    "start_timestamp": 1531825941, 
+                    "account_id": "18ce54qh4jc", 
+                    "tweet_count": 2, 
+                    "tailored_audience_used": false, 
+                    "political_disclaimer": {
+                        "organization": "Beto for Texas", 
+                        "sponsorshipType": "Direct"
+                    }, 
+                    "impressions": 51350, 
+                    "line_item_id": "c3b51", 
+                    "end_timestamp": 1532192241
+                }
+            ]
+        }, 
+        "TweetPerformance": {
+            "isRejected": false, 
+            "tweetPerformance": {
+                "totalSpend": 466.714941, 
+                "totalImpressions": 65189
+            }
+        }
+    }, 
+    "1028059150138454017": {
+        "ScreenName": "BetoORourke", 
+        "UserID": "342863309", 
+        "TweetCampaigns": {
+            "metadata": [
+                {
+                    "usd_spend": 5.842178, 
+                    "start_timestamp": 1533656944, 
+                    "account_id": "18ce54qh4jc", 
+                    "tweet_count": 3, 
+                    "tailored_audience_used": false, 
+                    "political_disclaimer": {
+                        "organization": "Beto for Texas", 
+                        "sponsorshipType": "Direct"
+                    }, 
+                    "impressions": 676, 
+                    "line_item_id": "cahkh", 
+                    "end_timestamp": 1534910340
+                }
+            ]
+        }, 
+        "TweetPerformance": {
+            "isRejected": false, 
+            "tweetPerformance": {
+                "totalSpend": 0.0, 
+                "totalImpressions": 7
+            }
+        }
+    }, 
+    "1025017040686342144": {
+        "ScreenName": "BetoORourke", 
+        "UserID": "342863309", 
+        "TweetCampaigns": {
+            "metadata": [
+                {
+                    "usd_spend": 15159.394143, 
+                    "start_timestamp": 1533215585, 
+                    "account_id": "18ce54qh4jc", 
+                    "tweet_count": 10, 
+                    "tailored_audience_used": false, 
+                    "political_disclaimer": {
+                        "organization": "Beto for Texas", 
+                        "sponsorshipType": "Direct"
+                    }, 
+                    "impressions": 883812, 
+                    "line_item_id": "c756y", 
+                    "end_timestamp": 1536465540
+                }
+            ]
+        }, 
+        "TweetPerformance": {
+            "isRejected": false, 
+            "tweetPerformance": {
+                "totalSpend": 42.686947, 
+                "totalImpressions": 670
+            }
+        }
+    }, 
+    "1027268893583257605": {
+        "ScreenName": "BetoORourke", 
+        "UserID": "342863309", 
+        "TweetCampaigns": {
+            "metadata": [
+                {
+                    "usd_spend": 31036.177884, 
+                    "start_timestamp": 1533219539, 
+                    "account_id": "18ce54qh4jc", 
+                    "tweet_count": 10, 
+                    "tailored_audience_used": false, 
+                    "political_disclaimer": {
+                        "organization": "Beto for Texas", 
+                        "sponsorshipType": "Direct"
+                    }, 
+                    "impressions": 2450391, 
+                    "line_item_id": "c75qw", 
+                    "end_timestamp": 1536465540
+                }
+            ]
+        }, 
+        "TweetPerformance": {
+            "isRejected": false, 
+            "tweetPerformance": {
+                "totalSpend": 435.040485, 
+                "totalImpressions": 38312
+            }
+        }
+    }, 
+    "1016441592830418946": {
+        "ScreenName": "BetoORourke", 
+        "UserID": "342863309", 
+        "TweetCampaigns": {
+            "metadata": [
+                {
+                    "usd_spend": 5000.0, 
+                    "start_timestamp": 1531172997, 
+                    "account_id": "18ce54qh4jc", 
+                    "tweet_count": 5, 
+                    "tailored_audience_used": false, 
+                    "political_disclaimer": {
+                        "organization": "Beto for Texas", 
+                        "sponsorshipType": "Direct"
+                    }, 
+                    "impressions": 575435, 
+                    "line_item_id": "c1duf", 
+                    "end_timestamp": 1531710706
+                }
+            ]
+        }, 
+        "TweetPerformance": {
+            "isRejected": false, 
+            "tweetPerformance": {
+                "totalSpend": 160.583421, 
+                "totalImpressions": 23941
+            }
+        }
+    }, 
+    "1026832615008034816": {
+        "ScreenName": "BetoORourke", 
+        "UserID": "342863309", 
+        "TweetCampaigns": {
+            "metadata": [
+                {
+                    "usd_spend": 467.0, 
+                    "start_timestamp": 1533668224, 
+                    "account_id": "18ce54qh4jc", 
+                    "tweet_count": 2, 
+                    "tailored_audience_used": false, 
+                    "political_disclaimer": {
+                        "organization": "Beto for Texas", 
+                        "sponsorshipType": "Direct"
+                    }, 
+                    "impressions": 10964, 
+                    "line_item_id": "c90qy", 
+                    "end_timestamp": 1534305540
+                }
+            ]
+        }, 
+        "TweetPerformance": {
+            "isRejected": false, 
+            "tweetPerformance": {
+                "totalSpend": 267.924519, 
+                "totalImpressions": 6309
+            }
+        }
+    }, 
+    "1029717439850766336": {
+        "ScreenName": "BetoORourke", 
+        "UserID": "342863309", 
+        "TweetCampaigns": {
+            "metadata": [
+                {
+                    "usd_spend": 467.0, 
+                    "start_timestamp": 1533656944, 
+                    "account_id": "18ce54qh4jc", 
+                    "tweet_count": 1, 
+                    "tailored_audience_used": false, 
+                    "political_disclaimer": {
+                        "organization": "Beto for Texas", 
+                        "sponsorshipType": "Direct"
+                    }, 
+                    "impressions": 23673, 
+                    "line_item_id": "cahl2", 
+                    "end_timestamp": 1534910340
+                }
+            ]
+        }, 
+        "TweetPerformance": {
+            "isRejected": false, 
+            "tweetPerformance": {
+                "totalSpend": 467.0, 
+                "totalImpressions": 23673
+            }
+        }
+    }, 
+    "1029564356609159168": {
+        "ScreenName": "BetoORourke", 
+        "UserID": "342863309", 
+        "TweetCampaigns": {
+            "metadata": [
+                {
+                    "usd_spend": 22.27452, 
+                    "start_timestamp": 1533656944, 
+                    "account_id": "18ce54qh4jc", 
+                    "tweet_count": 3, 
+                    "tailored_audience_used": false, 
+                    "political_disclaimer": {
+                        "organization": "Beto for Texas", 
+                        "sponsorshipType": "Direct"
+                    }, 
+                    "impressions": 952, 
+                    "line_item_id": "c8g3i", 
+                    "end_timestamp": 1534737540
+                }
+            ]
+        }, 
+        "TweetPerformance": {
+            "isRejected": false, 
+            "tweetPerformance": {
+                "totalSpend": 3.284642, 
+                "totalImpressions": 133
+            }
+        }
+    }, 
+    "1016441709788631040": {
+        "ScreenName": "BetoORourke", 
+        "UserID": "342863309", 
+        "TweetCampaigns": {
+            "metadata": [
+                {
+                    "usd_spend": 5000.0, 
+                    "start_timestamp": 1531172997, 
+                    "account_id": "18ce54qh4jc", 
+                    "tweet_count": 5, 
+                    "tailored_audience_used": false, 
+                    "political_disclaimer": {
+                        "organization": "Beto for Texas", 
+                        "sponsorshipType": "Direct"
+                    }, 
+                    "impressions": 575435, 
+                    "line_item_id": "c1duf", 
+                    "end_timestamp": 1531710706
+                }
+            ]
+        }, 
+        "TweetPerformance": {
+            "isRejected": false, 
+            "tweetPerformance": {
+                "totalSpend": 1068.073547, 
+                "totalImpressions": 131671
+            }
+        }
+    }, 
+    "1024685876641705985": {
+        "ScreenName": "BetoORourke", 
+        "UserID": "342863309", 
+        "TweetCampaigns": {
+            "metadata": [
+                {
+                    "usd_spend": 22.27452, 
+                    "start_timestamp": 1533656944, 
+                    "account_id": "18ce54qh4jc", 
+                    "tweet_count": 3, 
+                    "tailored_audience_used": false, 
+                    "political_disclaimer": {
+                        "organization": "Beto for Texas", 
+                        "sponsorshipType": "Direct"
+                    }, 
+                    "impressions": 952, 
+                    "line_item_id": "c8g3i", 
+                    "end_timestamp": 1534737540
+                }
+            ]
+        }, 
+        "TweetPerformance": {
+            "isRejected": false, 
+            "tweetPerformance": {
+                "totalSpend": 0.0, 
+                "totalImpressions": 262
+            }
+        }
+    }, 
+    "1016441908766433281": {
+        "ScreenName": "BetoORourke", 
+        "UserID": "342863309", 
+        "TweetCampaigns": {
+            "metadata": [
+                {
+                    "usd_spend": 5000.0, 
+                    "start_timestamp": 1531172997, 
+                    "account_id": "18ce54qh4jc", 
+                    "tweet_count": 5, 
+                    "tailored_audience_used": false, 
+                    "political_disclaimer": {
+                        "organization": "Beto for Texas", 
+                        "sponsorshipType": "Direct"
+                    }, 
+                    "impressions": 575435, 
+                    "line_item_id": "c1duf", 
+                    "end_timestamp": 1531710706
+                }
+            ]
+        }, 
+        "TweetPerformance": {
+            "isRejected": false, 
+            "tweetPerformance": {
+                "totalSpend": 350.69205, 
+                "totalImpressions": 61229
+            }
+        }
+    }, 
+    "1022302403276681217": {
+        "ScreenName": "BetoORourke", 
+        "UserID": "342863309", 
+        "TweetCampaigns": {
+            "metadata": [
+                {
+                    "usd_spend": 124.686234, 
+                    "start_timestamp": 1533157935, 
+                    "account_id": "18ce54qh4jc", 
+                    "tweet_count": 4, 
+                    "tailored_audience_used": false, 
+                    "political_disclaimer": {
+                        "organization": "Beto for Texas", 
+                        "sponsorshipType": "Direct"
+                    }, 
+                    "impressions": 3978, 
+                    "line_item_id": "c6z3z", 
+                    "end_timestamp": 1533959940
+                }, 
+                {
+                    "usd_spend": 3.759, 
+                    "start_timestamp": 1533158290, 
+                    "account_id": "18ce54qh4jc", 
+                    "tweet_count": 4, 
+                    "tailored_audience_used": false, 
+                    "political_disclaimer": {
+                        "organization": "Beto for Texas", 
+                        "sponsorshipType": "Direct"
+                    }, 
+                    "impressions": 535, 
+                    "line_item_id": "c6z5a", 
+                    "end_timestamp": 1533959940
+                }, 
+                {
+                    "usd_spend": 0.940994, 
+                    "start_timestamp": 1533157935, 
+                    "account_id": "18ce54qh4jc", 
+                    "tweet_count": 8, 
+                    "tailored_audience_used": false, 
+                    "political_disclaimer": {
+                        "organization": "Beto for Texas", 
+                        "sponsorshipType": "Direct"
+                    }, 
+                    "impressions": 17, 
+                    "line_item_id": "c6z4r", 
+                    "end_timestamp": 1533959940
+                }, 
+                {
+                    "usd_spend": 0.07, 
+                    "start_timestamp": 1533158290, 
+                    "account_id": "18ce54qh4jc", 
+                    "tweet_count": 4, 
+                    "tailored_audience_used": false, 
+                    "political_disclaimer": {
+                        "organization": "Beto for Texas", 
+                        "sponsorshipType": "Direct"
+                    }, 
+                    "impressions": 11, 
+                    "line_item_id": "c6z5f", 
+                    "end_timestamp": 1533959940
+                }, 
+                {
+                    "usd_spend": 1790.296105, 
+                    "start_timestamp": 1532610000, 
+                    "account_id": "18ce54qh4jc", 
+                    "tweet_count": 4, 
+                    "tailored_audience_used": false, 
+                    "political_disclaimer": {
+                        "organization": "Beto for Texas", 
+                        "sponsorshipType": "Direct"
+                    }, 
+                    "impressions": 28762, 
+                    "line_item_id": "c59p6", 
+                    "end_timestamp": 1533959940
+                }
+            ]
+        }, 
+        "TweetPerformance": {
+            "isRejected": false, 
+            "tweetPerformance": {
+                "totalSpend": 539.257747, 
+                "totalImpressions": 12560
+            }
+        }
+    }, 
+    "1029358974850801668": {
+        "ScreenName": "BetoORourke", 
+        "UserID": "342863309", 
+        "TweetCampaigns": {
+            "metadata": [
+                {
+                    "usd_spend": 19.025259, 
+                    "start_timestamp": 1533656944, 
+                    "account_id": "18ce54qh4jc", 
+                    "tweet_count": 1, 
+                    "tailored_audience_used": false, 
+                    "political_disclaimer": {
+                        "organization": "Beto for Texas", 
+                        "sponsorshipType": "Direct"
+                    }, 
+                    "impressions": 580, 
+                    "line_item_id": "cahmt", 
+                    "end_timestamp": 1534910340
+                }
+            ]
+        }, 
+        "TweetPerformance": {
+            "isRejected": false, 
+            "tweetPerformance": {
+                "totalSpend": 19.025259, 
+                "totalImpressions": 580
+            }
+        }
+    }, 
+    "1016446616935583744": {
+        "ScreenName": "BetoORourke", 
+        "UserID": "342863309", 
+        "TweetCampaigns": {
+            "metadata": [
+                {
+                    "usd_spend": 4988.88, 
+                    "start_timestamp": 1531174883, 
+                    "account_id": "18ce54qh4jc", 
+                    "tweet_count": 3, 
+                    "tailored_audience_used": false, 
+                    "political_disclaimer": {
+                        "organization": "Beto for Texas", 
+                        "sponsorshipType": "Direct"
+                    }, 
+                    "impressions": 566132, 
+                    "line_item_id": "c1dxj", 
+                    "end_timestamp": 1531709691
+                }
+            ]
+        }, 
+        "TweetPerformance": {
+            "isRejected": false, 
+            "tweetPerformance": {
+                "totalSpend": 332.230148, 
+                "totalImpressions": 44342
+            }
+        }
+    }, 
+    "1022302820052025345": {
+        "ScreenName": "BetoORourke", 
+        "UserID": "342863309", 
+        "TweetCampaigns": {
+            "metadata": [
+                {
+                    "usd_spend": 124.686234, 
+                    "start_timestamp": 1533157935, 
+                    "account_id": "18ce54qh4jc", 
+                    "tweet_count": 4, 
+                    "tailored_audience_used": false, 
+                    "political_disclaimer": {
+                        "organization": "Beto for Texas", 
+                        "sponsorshipType": "Direct"
+                    }, 
+                    "impressions": 3978, 
+                    "line_item_id": "c6z3z", 
+                    "end_timestamp": 1533959940
+                }, 
+                {
+                    "usd_spend": 3.759, 
+                    "start_timestamp": 1533158290, 
+                    "account_id": "18ce54qh4jc", 
+                    "tweet_count": 4, 
+                    "tailored_audience_used": false, 
+                    "political_disclaimer": {
+                        "organization": "Beto for Texas", 
+                        "sponsorshipType": "Direct"
+                    }, 
+                    "impressions": 535, 
+                    "line_item_id": "c6z5a", 
+                    "end_timestamp": 1533959940
+                }, 
+                {
+                    "usd_spend": 0.940994, 
+                    "start_timestamp": 1533157935, 
+                    "account_id": "18ce54qh4jc", 
+                    "tweet_count": 8, 
+                    "tailored_audience_used": false, 
+                    "political_disclaimer": {
+                        "organization": "Beto for Texas", 
+                        "sponsorshipType": "Direct"
+                    }, 
+                    "impressions": 17, 
+                    "line_item_id": "c6z4r", 
+                    "end_timestamp": 1533959940
+                }, 
+                {
+                    "usd_spend": 0.07, 
+                    "start_timestamp": 1533158290, 
+                    "account_id": "18ce54qh4jc", 
+                    "tweet_count": 4, 
+                    "tailored_audience_used": false, 
+                    "political_disclaimer": {
+                        "organization": "Beto for Texas", 
+                        "sponsorshipType": "Direct"
+                    }, 
+                    "impressions": 11, 
+                    "line_item_id": "c6z5f", 
+                    "end_timestamp": 1533959940
+                }, 
+                {
+                    "usd_spend": 1790.296105, 
+                    "start_timestamp": 1532610000, 
+                    "account_id": "18ce54qh4jc", 
+                    "tweet_count": 4, 
+                    "tailored_audience_used": false, 
+                    "political_disclaimer": {
+                        "organization": "Beto for Texas", 
+                        "sponsorshipType": "Direct"
+                    }, 
+                    "impressions": 28762, 
+                    "line_item_id": "c59p6", 
+                    "end_timestamp": 1533959940
+                }
+            ]
+        }, 
+        "TweetPerformance": {
+            "isRejected": false, 
+            "tweetPerformance": {
+                "totalSpend": 372.67535, 
+                "totalImpressions": 6779
+            }
+        }
+    }, 
+    "1024149854140944384": {
+        "ScreenName": "BetoORourke", 
+        "UserID": "342863309", 
+        "TweetCampaigns": {
+            "metadata": [
+                {
+                    "usd_spend": 12.083651, 
+                    "start_timestamp": 1533668224, 
+                    "account_id": "18ce54qh4jc", 
+                    "tweet_count": 1, 
+                    "tailored_audience_used": false, 
+                    "political_disclaimer": {
+                        "organization": "Beto for Texas", 
+                        "sponsorshipType": "Direct"
+                    }, 
+                    "impressions": 313, 
+                    "line_item_id": "c8gwz", 
+                    "end_timestamp": 1534003200
+                }
+            ]
+        }, 
+        "TweetPerformance": {
+            "isRejected": false, 
+            "tweetPerformance": {
+                "totalSpend": 12.083651, 
+                "totalImpressions": 313
+            }
+        }
+    }, 
+    "1027613465006034946": {
+        "ScreenName": "BetoORourke", 
+        "UserID": "342863309", 
+        "TweetCampaigns": {
+            "metadata": [
+                {
+                    "usd_spend": 4.01113, 
+                    "start_timestamp": 1533668224, 
+                    "account_id": "18ce54qh4jc", 
+                    "tweet_count": 3, 
+                    "tailored_audience_used": false, 
+                    "political_disclaimer": {
+                        "organization": "Beto for Texas", 
+                        "sponsorshipType": "Direct"
+                    }, 
+                    "impressions": 146, 
+                    "line_item_id": "c9pil", 
+                    "end_timestamp": 1534262400
+                }, 
+                {
+                    "usd_spend": 14.667638, 
+                    "start_timestamp": 1533668224, 
+                    "account_id": "18ce54qh4jc", 
+                    "tweet_count": 1, 
+                    "tailored_audience_used": false, 
+                    "political_disclaimer": {
+                        "organization": "Beto for Texas", 
+                        "sponsorshipType": "Direct"
+                    }, 
+                    "impressions": 521, 
+                    "line_item_id": "c99ja", 
+                    "end_timestamp": 1534262400
+                }
+            ]
+        }, 
+        "TweetPerformance": {
+            "isRejected": false, 
+            "tweetPerformance": {
+                "totalSpend": 14.667638, 
+                "totalImpressions": 521
+            }
+        }
+    }, 
+    "1027575677778841600": {
+        "ScreenName": "BetoORourke", 
+        "UserID": "342863309", 
+        "TweetCampaigns": {
+            "metadata": [
+                {
+                    "usd_spend": 32.020115, 
+                    "start_timestamp": 1533656944, 
+                    "account_id": "18ce54qh4jc", 
+                    "tweet_count": 2, 
+                    "tailored_audience_used": false, 
+                    "political_disclaimer": {
+                        "organization": "Beto for Texas", 
+                        "sponsorshipType": "Direct"
+                    }, 
+                    "impressions": 1235, 
+                    "line_item_id": "c90q1", 
+                    "end_timestamp": 1534348800
+                }
+            ]
+        }, 
+        "TweetPerformance": {
+            "isRejected": false, 
+            "tweetPerformance": {
+                "totalSpend": 3.35577, 
+                "totalImpressions": 799
+            }
+        }
+    }, 
+    "1025188005663977472": {
+        "ScreenName": "BetoORourke", 
+        "UserID": "342863309", 
+        "TweetCampaigns": {
+            "metadata": [
+                {
+                    "usd_spend": 0.0, 
+                    "start_timestamp": 1533656944, 
+                    "account_id": "18ce54qh4jc", 
+                    "tweet_count": 2, 
+                    "tailored_audience_used": false, 
+                    "political_disclaimer": {
+                        "organization": "Beto for Texas", 
+                        "sponsorshipType": "Direct"
+                    }, 
+                    "impressions": 249, 
+                    "line_item_id": "c8g7d", 
+                    "end_timestamp": 1534089600
+                }
+            ]
+        }, 
+        "TweetPerformance": {
+            "isRejected": false, 
+            "tweetPerformance": {
+                "totalSpend": 0.0, 
+                "totalImpressions": 249
+            }
+        }
+    }, 
+    "1025020196036206592": {
+        "ScreenName": "BetoORourke", 
+        "UserID": "342863309", 
+        "TweetCampaigns": {
+            "metadata": [
+                {
+                    "usd_spend": 10.328748, 
+                    "start_timestamp": 1533656944, 
+                    "account_id": "18ce54qh4jc", 
+                    "tweet_count": 1, 
+                    "tailored_audience_used": false, 
+                    "political_disclaimer": {
+                        "organization": "Beto for Texas", 
+                        "sponsorshipType": "Direct"
+                    }, 
+                    "impressions": 82, 
+                    "line_item_id": "c8g3j", 
+                    "end_timestamp": 1534046340
+                }
+            ]
+        }, 
+        "TweetPerformance": {
+            "isRejected": false, 
+            "tweetPerformance": {
+                "totalSpend": 10.328748, 
+                "totalImpressions": 82
+            }
+        }
+    }, 
+    "1025764305747275777": {
+        "ScreenName": "BetoORourke", 
+        "UserID": "342863309", 
+        "TweetCampaigns": {
+            "metadata": [
+                {
+                    "usd_spend": 0.5, 
+                    "start_timestamp": 1533668224, 
+                    "account_id": "18ce54qh4jc", 
+                    "tweet_count": 1, 
+                    "tailored_audience_used": false, 
+                    "political_disclaimer": {
+                        "organization": "Beto for Texas", 
+                        "sponsorshipType": "Direct"
+                    }, 
+                    "impressions": 1, 
+                    "line_item_id": "c8hh3", 
+                    "end_timestamp": 1534003200
+                }
+            ]
+        }, 
+        "TweetPerformance": {
+            "isRejected": false, 
+            "tweetPerformance": {
+                "totalSpend": 0.5, 
+                "totalImpressions": 1
+            }
+        }
+    }, 
+    "1027929703137476608": {
+        "ScreenName": "BetoORourke", 
+        "UserID": "342863309", 
+        "TweetCampaigns": {
+            "metadata": [
+                {
+                    "usd_spend": 5.842178, 
+                    "start_timestamp": 1533656944, 
+                    "account_id": "18ce54qh4jc", 
+                    "tweet_count": 3, 
+                    "tailored_audience_used": false, 
+                    "political_disclaimer": {
+                        "organization": "Beto for Texas", 
+                        "sponsorshipType": "Direct"
+                    }, 
+                    "impressions": 676, 
+                    "line_item_id": "cahkh", 
+                    "end_timestamp": 1534910340
+                }, 
+                {
+                    "usd_spend": 32.020115, 
+                    "start_timestamp": 1533656944, 
+                    "account_id": "18ce54qh4jc", 
+                    "tweet_count": 2, 
+                    "tailored_audience_used": false, 
+                    "political_disclaimer": {
+                        "organization": "Beto for Texas", 
+                        "sponsorshipType": "Direct"
+                    }, 
+                    "impressions": 1235, 
+                    "line_item_id": "c90q1", 
+                    "end_timestamp": 1534348800
+                }
+            ]
+        }, 
+        "TweetPerformance": {
+            "isRejected": false, 
+            "tweetPerformance": {
+                "totalSpend": 28.664345, 
+                "totalImpressions": 436
+            }
+        }
+    }, 
+    "1030072104975302657": {
+        "ScreenName": "BetoORourke", 
+        "UserID": "342863309", 
+        "TweetCampaigns": {
+            "metadata": [
+                {
+                    "usd_spend": 101.856983, 
+                    "start_timestamp": 1533668224, 
+                    "account_id": "18ce54qh4jc", 
+                    "tweet_count": 2, 
+                    "tailored_audience_used": false, 
+                    "political_disclaimer": {
+                        "organization": "Beto for Texas", 
+                        "sponsorshipType": "Direct"
+                    }, 
+                    "impressions": 3617, 
+                    "line_item_id": "cad7s", 
+                    "end_timestamp": 1534910340
+                }
+            ]
+        }, 
+        "TweetPerformance": {
+            "isRejected": false, 
+            "tweetPerformance": {
+                "totalSpend": 76.623231, 
+                "totalImpressions": 2872
+            }
+        }
+    }, 
+    "1016441482369224707": {
+        "ScreenName": "BetoORourke", 
+        "UserID": "342863309", 
+        "TweetCampaigns": {
+            "metadata": [
+                {
+                    "usd_spend": 5000.0, 
+                    "start_timestamp": 1531172997, 
+                    "account_id": "18ce54qh4jc", 
+                    "tweet_count": 5, 
+                    "tailored_audience_used": false, 
+                    "political_disclaimer": {
+                        "organization": "Beto for Texas", 
+                        "sponsorshipType": "Direct"
+                    }, 
+                    "impressions": 575435, 
+                    "line_item_id": "c1duf", 
+                    "end_timestamp": 1531710706
+                }
+            ]
+        }, 
+        "TweetPerformance": {
+            "isRejected": false, 
+            "tweetPerformance": {
+                "totalSpend": 206.85381, 
+                "totalImpressions": 31048
+            }
+        }
+    }, 
+    "1025025891351576576": {
+        "ScreenName": "BetoORourke", 
+        "UserID": "342863309", 
+        "TweetCampaigns": {
+            "metadata": [
+                {
+                    "usd_spend": 31036.177884, 
+                    "start_timestamp": 1533219539, 
+                    "account_id": "18ce54qh4jc", 
+                    "tweet_count": 10, 
+                    "tailored_audience_used": false, 
+                    "political_disclaimer": {
+                        "organization": "Beto for Texas", 
+                        "sponsorshipType": "Direct"
+                    }, 
+                    "impressions": 2450391, 
+                    "line_item_id": "c75qw", 
+                    "end_timestamp": 1536465540
+                }
+            ]
+        }, 
+        "TweetPerformance": {
+            "isRejected": false, 
+            "tweetPerformance": null
+        }
+    }, 
+    "1025025611859943424": {
+        "ScreenName": "BetoORourke", 
+        "UserID": "342863309", 
+        "TweetCampaigns": {
+            "metadata": [
+                {
+                    "usd_spend": 10974.401574, 
+                    "start_timestamp": 1533219539, 
+                    "account_id": "18ce54qh4jc", 
+                    "tweet_count": 15, 
+                    "tailored_audience_used": false, 
+                    "political_disclaimer": {
+                        "organization": "Beto for Texas", 
+                        "sponsorshipType": "Direct"
+                    }, 
+                    "impressions": 1005583, 
+                    "line_item_id": "c75o8", 
+                    "end_timestamp": 1536465540
+                }
+            ]
+        }, 
+        "TweetPerformance": {
+            "isRejected": false, 
+            "tweetPerformance": {
+                "totalSpend": 215.62181, 
+                "totalImpressions": 28007
+            }
+        }
+    }, 
+    "1025041527452643329": {
+        "ScreenName": "BetoORourke", 
+        "UserID": "342863309", 
+        "TweetCampaigns": {
+            "metadata": [
+                {
+                    "usd_spend": 1482.74157, 
+                    "start_timestamp": 1533215585, 
+                    "account_id": "18ce54qh4jc", 
+                    "tweet_count": 17, 
+                    "tailored_audience_used": false, 
+                    "political_disclaimer": {
+                        "organization": "Beto for Texas", 
+                        "sponsorshipType": "Direct"
+                    }, 
+                    "impressions": 106144, 
+                    "line_item_id": "c756h", 
+                    "end_timestamp": 1536465540
+                }
+            ]
+        }, 
+        "TweetPerformance": {
+            "isRejected": false, 
+            "tweetPerformance": {
+                "totalSpend": 9.134263, 
+                "totalImpressions": 611
+            }
+        }
+    }, 
+    "1025042727128518656": {
+        "ScreenName": "BetoORourke", 
+        "UserID": "342863309", 
+        "TweetCampaigns": {
+            "metadata": [
+                {
+                    "usd_spend": 31036.177884, 
+                    "start_timestamp": 1533219539, 
+                    "account_id": "18ce54qh4jc", 
+                    "tweet_count": 10, 
+                    "tailored_audience_used": false, 
+                    "political_disclaimer": {
+                        "organization": "Beto for Texas", 
+                        "sponsorshipType": "Direct"
+                    }, 
+                    "impressions": 2450391, 
+                    "line_item_id": "c75qw", 
+                    "end_timestamp": 1536465540
+                }
+            ]
+        }, 
+        "TweetPerformance": {
+            "isRejected": false, 
+            "tweetPerformance": {
+                "totalSpend": 3823.691041, 
+                "totalImpressions": 314436
+            }
+        }
+    }, 
+    "1025042073743966208": {
+        "ScreenName": "BetoORourke", 
+        "UserID": "342863309", 
+        "TweetCampaigns": {
+            "metadata": [
+                {
+                    "usd_spend": 14341.168944, 
+                    "start_timestamp": 1533215585, 
+                    "account_id": "18ce54qh4jc", 
+                    "tweet_count": 10, 
+                    "tailored_audience_used": false, 
+                    "political_disclaimer": {
+                        "organization": "Beto for Texas", 
+                        "sponsorshipType": "Direct"
+                    }, 
+                    "impressions": 987708, 
+                    "line_item_id": "c756k", 
+                    "end_timestamp": 1536465540
+                }
+            ]
+        }, 
+        "TweetPerformance": {
+            "isRejected": false, 
+            "tweetPerformance": {
+                "totalSpend": 3545.624908, 
+                "totalImpressions": 202149
+            }
+        }
+    }, 
+    "1025481979687575552": {
+        "ScreenName": "BetoORourke", 
+        "UserID": "342863309", 
+        "TweetCampaigns": {
+            "metadata": [
+                {
+                    "usd_spend": 10974.401574, 
+                    "start_timestamp": 1533219539, 
+                    "account_id": "18ce54qh4jc", 
+                    "tweet_count": 15, 
+                    "tailored_audience_used": false, 
+                    "political_disclaimer": {
+                        "organization": "Beto for Texas", 
+                        "sponsorshipType": "Direct"
+                    }, 
+                    "impressions": 1005722, 
+                    "line_item_id": "c75o8", 
+                    "end_timestamp": 1536465540
+                }
+            ]
+        }, 
+        "TweetPerformance": {
+            "isRejected": false, 
+            "tweetPerformance": {
+                "totalSpend": 1562.814574, 
+                "totalImpressions": 148595
+            }
+        }
+    }, 
+    "1031941041895694336": {
+        "ScreenName": "BetoORourke", 
+        "UserID": "342863309", 
+        "TweetCampaigns": {
+            "metadata": [
+                {
+                    "usd_spend": 1482.74157, 
+                    "start_timestamp": 1533215585, 
+                    "account_id": "18ce54qh4jc", 
+                    "tweet_count": 17, 
+                    "tailored_audience_used": false, 
+                    "political_disclaimer": {
+                        "organization": "Beto for Texas", 
+                        "sponsorshipType": "Direct"
+                    }, 
+                    "impressions": 106144, 
+                    "line_item_id": "c756h", 
+                    "end_timestamp": 1536465540
+                }
+            ]
+        }, 
+        "TweetPerformance": {
+            "isRejected": false, 
+            "tweetPerformance": {
+                "totalSpend": 393.213804, 
+                "totalImpressions": 29801
+            }
+        }
+    }, 
+    "1025483997974081538": {
+        "ScreenName": "BetoORourke", 
+        "UserID": "342863309", 
+        "TweetCampaigns": {
+            "metadata": [
+                {
+                    "usd_spend": 10974.401574, 
+                    "start_timestamp": 1533219539, 
+                    "account_id": "18ce54qh4jc", 
+                    "tweet_count": 15, 
+                    "tailored_audience_used": false, 
+                    "political_disclaimer": {
+                        "organization": "Beto for Texas", 
+                        "sponsorshipType": "Direct"
+                    }, 
+                    "impressions": 1005722, 
+                    "line_item_id": "c75o8", 
+                    "end_timestamp": 1536465540
+                }
+            ]
+        }, 
+        "TweetPerformance": {
+            "isRejected": false, 
+            "tweetPerformance": {
+                "totalSpend": 196.910025, 
+                "totalImpressions": 13765
+            }
+        }
+    }, 
+    "1025481766017097732": {
+        "ScreenName": "BetoORourke", 
+        "UserID": "342863309", 
+        "TweetCampaigns": {
+            "metadata": [
+                {
+                    "usd_spend": 1482.74157, 
+                    "start_timestamp": 1533215585, 
+                    "account_id": "18ce54qh4jc", 
+                    "tweet_count": 17, 
+                    "tailored_audience_used": false, 
+                    "political_disclaimer": {
+                        "organization": "Beto for Texas", 
+                        "sponsorshipType": "Direct"
+                    }, 
+                    "impressions": 106144, 
+                    "line_item_id": "c756h", 
+                    "end_timestamp": 1536465540
+                }
+            ]
+        }, 
+        "TweetPerformance": {
+            "isRejected": false, 
+            "tweetPerformance": {
+                "totalSpend": 3.703186, 
+                "totalImpressions": 499
+            }
+        }
+    }, 
+    "1017534100796780550": {
+        "ScreenName": "BetoORourke", 
+        "UserID": "342863309", 
+        "TweetCampaigns": {
+            "metadata": [
+                {
+                    "usd_spend": 5000.0, 
+                    "start_timestamp": 1531172997, 
+                    "account_id": "18ce54qh4jc", 
+                    "tweet_count": 5, 
+                    "tailored_audience_used": false, 
+                    "political_disclaimer": {
+                        "organization": "Beto for Texas", 
+                        "sponsorshipType": "Direct"
+                    }, 
+                    "impressions": 575435, 
+                    "line_item_id": "c1duf", 
+                    "end_timestamp": 1531710706
+                }
+            ]
+        }, 
+        "TweetPerformance": {
+            "isRejected": false, 
+            "tweetPerformance": {
+                "totalSpend": 3211.017172, 
+                "totalImpressions": 327135
+            }
+        }
+    }, 
+    "1019179306382065664": {
+        "ScreenName": "BetoORourke", 
+        "UserID": "342863309", 
+        "TweetCampaigns": {
+            "metadata": [
+                {
+                    "usd_spend": 691.151406, 
+                    "start_timestamp": 1531826839, 
+                    "account_id": "18ce54qh4jc", 
+                    "tweet_count": 2, 
+                    "tailored_audience_used": false, 
+                    "political_disclaimer": {
+                        "organization": "Beto for Texas", 
+                        "sponsorshipType": "Direct"
+                    }, 
+                    "impressions": 94493, 
+                    "line_item_id": "c3b8d", 
+                    "end_timestamp": 1532136343
+                }
+            ]
+        }, 
+        "TweetPerformance": {
+            "isRejected": false, 
+            "tweetPerformance": {
+                "totalSpend": 344.516488, 
+                "totalImpressions": 42391
+            }
+        }
+    }, 
+    "1025042825434615808": {
+        "ScreenName": "BetoORourke", 
+        "UserID": "342863309", 
+        "TweetCampaigns": {
+            "metadata": [
+                {
+                    "usd_spend": 31036.177884, 
+                    "start_timestamp": 1533219539, 
+                    "account_id": "18ce54qh4jc", 
+                    "tweet_count": 10, 
+                    "tailored_audience_used": false, 
+                    "political_disclaimer": {
+                        "organization": "Beto for Texas", 
+                        "sponsorshipType": "Direct"
+                    }, 
+                    "impressions": 2450391, 
+                    "line_item_id": "c75qw", 
+                    "end_timestamp": 1536465540
+                }
+            ]
+        }, 
+        "TweetPerformance": {
+            "isRejected": false, 
+            "tweetPerformance": {
+                "totalSpend": 9965.896977, 
+                "totalImpressions": 865838
+            }
+        }
+    }, 
+    "1022302698874462208": {
+        "ScreenName": "BetoORourke", 
+        "UserID": "342863309", 
+        "TweetCampaigns": {
+            "metadata": [
+                {
+                    "usd_spend": 124.686234, 
+                    "start_timestamp": 1533157935, 
+                    "account_id": "18ce54qh4jc", 
+                    "tweet_count": 4, 
+                    "tailored_audience_used": false, 
+                    "political_disclaimer": {
+                        "organization": "Beto for Texas", 
+                        "sponsorshipType": "Direct"
+                    }, 
+                    "impressions": 3978, 
+                    "line_item_id": "c6z3z", 
+                    "end_timestamp": 1533959940
+                }, 
+                {
+                    "usd_spend": 3.759, 
+                    "start_timestamp": 1533158290, 
+                    "account_id": "18ce54qh4jc", 
+                    "tweet_count": 4, 
+                    "tailored_audience_used": false, 
+                    "political_disclaimer": {
+                        "organization": "Beto for Texas", 
+                        "sponsorshipType": "Direct"
+                    }, 
+                    "impressions": 535, 
+                    "line_item_id": "c6z5a", 
+                    "end_timestamp": 1533959940
+                }, 
+                {
+                    "usd_spend": 0.940994, 
+                    "start_timestamp": 1533157935, 
+                    "account_id": "18ce54qh4jc", 
+                    "tweet_count": 8, 
+                    "tailored_audience_used": false, 
+                    "political_disclaimer": {
+                        "organization": "Beto for Texas", 
+                        "sponsorshipType": "Direct"
+                    }, 
+                    "impressions": 17, 
+                    "line_item_id": "c6z4r", 
+                    "end_timestamp": 1533959940
+                }, 
+                {
+                    "usd_spend": 0.07, 
+                    "start_timestamp": 1533158290, 
+                    "account_id": "18ce54qh4jc", 
+                    "tweet_count": 4, 
+                    "tailored_audience_used": false, 
+                    "political_disclaimer": {
+                        "organization": "Beto for Texas", 
+                        "sponsorshipType": "Direct"
+                    }, 
+                    "impressions": 11, 
+                    "line_item_id": "c6z5f", 
+                    "end_timestamp": 1533959940
+                }, 
+                {
+                    "usd_spend": 1790.296105, 
+                    "start_timestamp": 1532610000, 
+                    "account_id": "18ce54qh4jc", 
+                    "tweet_count": 4, 
+                    "tailored_audience_used": false, 
+                    "political_disclaimer": {
+                        "organization": "Beto for Texas", 
+                        "sponsorshipType": "Direct"
+                    }, 
+                    "impressions": 28762, 
+                    "line_item_id": "c59p6", 
+                    "end_timestamp": 1533959940
+                }
+            ]
+        }, 
+        "TweetPerformance": {
+            "isRejected": false, 
+            "tweetPerformance": {
+                "totalSpend": 298.034693, 
+                "totalImpressions": 4460
+            }
+        }
+    }, 
+    "1027269814761517056": {
+        "ScreenName": "BetoORourke", 
+        "UserID": "342863309", 
+        "TweetCampaigns": {
+            "metadata": [
+                {
+                    "usd_spend": 1482.74157, 
+                    "start_timestamp": 1533215585, 
+                    "account_id": "18ce54qh4jc", 
+                    "tweet_count": 17, 
+                    "tailored_audience_used": false, 
+                    "political_disclaimer": {
+                        "organization": "Beto for Texas", 
+                        "sponsorshipType": "Direct"
+                    }, 
+                    "impressions": 106144, 
+                    "line_item_id": "c756h", 
+                    "end_timestamp": 1536465540
+                }
+            ]
+        }, 
+        "TweetPerformance": {
+            "isRejected": false, 
+            "tweetPerformance": {
+                "totalSpend": 0.0, 
+                "totalImpressions": 3
+            }
+        }
+    }, 
+    "1025025980086329345": {
+        "ScreenName": "BetoORourke", 
+        "UserID": "342863309", 
+        "TweetCampaigns": {
+            "metadata": [
+                {
+                    "usd_spend": 31036.177884, 
+                    "start_timestamp": 1533219539, 
+                    "account_id": "18ce54qh4jc", 
+                    "tweet_count": 10, 
+                    "tailored_audience_used": false, 
+                    "political_disclaimer": {
+                        "organization": "Beto for Texas", 
+                        "sponsorshipType": "Direct"
+                    }, 
+                    "impressions": 2450391, 
+                    "line_item_id": "c75qw", 
+                    "end_timestamp": 1536465540
+                }
+            ]
+        }, 
+        "TweetPerformance": {
+            "isRejected": false, 
+            "tweetPerformance": null
+        }
+    }, 
+    "1027910621491326976": {
+        "ScreenName": "BetoORourke", 
+        "UserID": "342863309", 
+        "TweetCampaigns": {
+            "metadata": [
+                {
+                    "usd_spend": 13.390248, 
+                    "start_timestamp": 1533668224, 
+                    "account_id": "18ce54qh4jc", 
+                    "tweet_count": 1, 
+                    "tailored_audience_used": false, 
+                    "political_disclaimer": {
+                        "organization": "Beto for Texas", 
+                        "sponsorshipType": "Direct"
+                    }, 
+                    "impressions": 502, 
+                    "line_item_id": "c99wo", 
+                    "end_timestamp": 1534262400
+                }
+            ]
+        }, 
+        "TweetPerformance": {
+            "isRejected": false, 
+            "tweetPerformance": {
+                "totalSpend": 13.390248, 
+                "totalImpressions": 502
+            }
+        }
+    }, 
+    "1027268648665341952": {
+        "ScreenName": "BetoORourke", 
+        "UserID": "342863309", 
+        "TweetCampaigns": {
+            "metadata": [
+                {
+                    "usd_spend": 10974.401574, 
+                    "start_timestamp": 1533219539, 
+                    "account_id": "18ce54qh4jc", 
+                    "tweet_count": 15, 
+                    "tailored_audience_used": false, 
+                    "political_disclaimer": {
+                        "organization": "Beto for Texas", 
+                        "sponsorshipType": "Direct"
+                    }, 
+                    "impressions": 1005763, 
+                    "line_item_id": "c75o8", 
+                    "end_timestamp": 1536465540
+                }
+            ]
+        }, 
+        "TweetPerformance": {
+            "isRejected": false, 
+            "tweetPerformance": {
+                "totalSpend": 3.720249, 
+                "totalImpressions": 505
+            }
+        }
+    }, 
+    "1025482891655094272": {
+        "ScreenName": "BetoORourke", 
+        "UserID": "342863309", 
+        "TweetCampaigns": {
+            "metadata": [
+                {
+                    "usd_spend": 1482.74157, 
+                    "start_timestamp": 1533215585, 
+                    "account_id": "18ce54qh4jc", 
+                    "tweet_count": 17, 
+                    "tailored_audience_used": false, 
+                    "political_disclaimer": {
+                        "organization": "Beto for Texas", 
+                        "sponsorshipType": "Direct"
+                    }, 
+                    "impressions": 106144, 
+                    "line_item_id": "c756h", 
+                    "end_timestamp": 1536465540
+                }
+            ]
+        }, 
+        "TweetPerformance": {
+            "isRejected": false, 
+            "tweetPerformance": {
+                "totalSpend": 32.399745, 
+                "totalImpressions": 1205
+            }
+        }
+    }, 
+    "1024638719251365888": {
+        "ScreenName": "BetoORourke", 
+        "UserID": "342863309", 
+        "TweetCampaigns": {
+            "metadata": [
+                {
+                    "usd_spend": 22.27452, 
+                    "start_timestamp": 1533656944, 
+                    "account_id": "18ce54qh4jc", 
+                    "tweet_count": 3, 
+                    "tailored_audience_used": false, 
+                    "political_disclaimer": {
+                        "organization": "Beto for Texas", 
+                        "sponsorshipType": "Direct"
+                    }, 
+                    "impressions": 952, 
+                    "line_item_id": "c8g3i", 
+                    "end_timestamp": 1534737540
+                }
+            ]
+        }, 
+        "TweetPerformance": {
+            "isRejected": false, 
+            "tweetPerformance": {
+                "totalSpend": 18.989878, 
+                "totalImpressions": 557
+            }
+        }
+    }, 
+    "1027201918517633029": {
+        "ScreenName": "BetoORourke", 
+        "UserID": "342863309", 
+        "TweetCampaigns": {
+            "metadata": [
+                {
+                    "usd_spend": 467.0, 
+                    "start_timestamp": 1533668224, 
+                    "account_id": "18ce54qh4jc", 
+                    "tweet_count": 2, 
+                    "tailored_audience_used": false, 
+                    "political_disclaimer": {
+                        "organization": "Beto for Texas", 
+                        "sponsorshipType": "Direct"
+                    }, 
+                    "impressions": 10964, 
+                    "line_item_id": "c90qy", 
+                    "end_timestamp": 1534305540
+                }
+            ]
+        }, 
+        "TweetPerformance": {
+            "isRejected": false, 
+            "tweetPerformance": {
+                "totalSpend": 199.075481, 
+                "totalImpressions": 4655
+            }
+        }
+    }, 
+    "1025025851665080321": {
+        "ScreenName": "BetoORourke", 
+        "UserID": "342863309", 
+        "TweetCampaigns": {
+            "metadata": [
+                {
+                    "usd_spend": 31036.177884, 
+                    "start_timestamp": 1533219539, 
+                    "account_id": "18ce54qh4jc", 
+                    "tweet_count": 10, 
+                    "tailored_audience_used": false, 
+                    "political_disclaimer": {
+                        "organization": "Beto for Texas", 
+                        "sponsorshipType": "Direct"
+                    }, 
+                    "impressions": 2450391, 
+                    "line_item_id": "c75qw", 
+                    "end_timestamp": 1536465540
+                }
+            ]
+        }, 
+        "TweetPerformance": {
+            "isRejected": false, 
+            "tweetPerformance": null
+        }
+    }, 
+    "1023923303298359296": {
+        "ScreenName": "BetoORourke", 
+        "UserID": "342863309", 
+        "TweetCampaigns": {
+            "metadata": [
+                {
+                    "usd_spend": 46.275199, 
+                    "start_timestamp": 1533657480, 
+                    "account_id": "18ce54qh4jc", 
+                    "tweet_count": 4, 
+                    "tailored_audience_used": false, 
+                    "political_disclaimer": {
+                        "organization": "Beto for Texas", 
+                        "sponsorshipType": "Direct"
+                    }, 
+                    "impressions": 2117, 
+                    "line_item_id": "c8fyv", 
+                    "end_timestamp": 1534996740
+                }, 
+                {
+                    "usd_spend": 0.940994, 
+                    "start_timestamp": 1533157935, 
+                    "account_id": "18ce54qh4jc", 
+                    "tweet_count": 8, 
+                    "tailored_audience_used": false, 
+                    "political_disclaimer": {
+                        "organization": "Beto for Texas", 
+                        "sponsorshipType": "Direct"
+                    }, 
+                    "impressions": 17, 
+                    "line_item_id": "c6z4r", 
+                    "end_timestamp": 1533959940
+                }, 
+                {
+                    "usd_spend": 4.582533, 
+                    "start_timestamp": 1532610000, 
+                    "account_id": "18ce54qh4jc", 
+                    "tweet_count": 4, 
+                    "tailored_audience_used": false, 
+                    "political_disclaimer": {
+                        "organization": "Beto for Texas", 
+                        "sponsorshipType": "Direct"
+                    }, 
+                    "impressions": 173, 
+                    "line_item_id": "c59qc", 
+                    "end_timestamp": 1533959940
+                }
+            ]
+        }, 
+        "TweetPerformance": {
+            "isRejected": false, 
+            "tweetPerformance": {
+                "totalSpend": 16.183777, 
+                "totalImpressions": 728
+            }
+        }
+    }, 
+    "1025025654239191041": {
+        "ScreenName": "BetoORourke", 
+        "UserID": "342863309", 
+        "TweetCampaigns": {
+            "metadata": [
+                {
+                    "usd_spend": 10974.401574, 
+                    "start_timestamp": 1533219539, 
+                    "account_id": "18ce54qh4jc", 
+                    "tweet_count": 15, 
+                    "tailored_audience_used": false, 
+                    "political_disclaimer": {
+                        "organization": "Beto for Texas", 
+                        "sponsorshipType": "Direct"
+                    }, 
+                    "impressions": 1005631, 
+                    "line_item_id": "c75o8", 
+                    "end_timestamp": 1536465540
+                }
+            ]
+        }, 
+        "TweetPerformance": {
+            "isRejected": false, 
+            "tweetPerformance": {
+                "totalSpend": 206.670347, 
+                "totalImpressions": 27141
+            }
+        }
+    }, 
+    "1031936357072097282": {
+        "ScreenName": "BetoORourke", 
+        "UserID": "342863309", 
+        "TweetCampaigns": {
+            "metadata": [
+                {
+                    "usd_spend": 10974.401574, 
+                    "start_timestamp": 1533219539, 
+                    "account_id": "18ce54qh4jc", 
+                    "tweet_count": 15, 
+                    "tailored_audience_used": false, 
+                    "political_disclaimer": {
+                        "organization": "Beto for Texas", 
+                        "sponsorshipType": "Direct"
+                    }, 
+                    "impressions": 1005763, 
+                    "line_item_id": "c75o8", 
+                    "end_timestamp": 1536465540
+                }, 
+                {
+                    "usd_spend": 1482.74157, 
+                    "start_timestamp": 1533215585, 
+                    "account_id": "18ce54qh4jc", 
+                    "tweet_count": 17, 
+                    "tailored_audience_used": false, 
+                    "political_disclaimer": {
+                        "organization": "Beto for Texas", 
+                        "sponsorshipType": "Direct"
+                    }, 
+                    "impressions": 106144, 
+                    "line_item_id": "c756h", 
+                    "end_timestamp": 1536465540
+                }
+            ]
+        }, 
+        "TweetPerformance": {
+            "isRejected": false, 
+            "tweetPerformance": {
+                "totalSpend": 132.872758, 
+                "totalImpressions": 14251
+            }
+        }
+    }, 
+    "1025042527278247936": {
+        "ScreenName": "BetoORourke", 
+        "UserID": "342863309", 
+        "TweetCampaigns": {
+            "metadata": [
+                {
+                    "usd_spend": 10974.401574, 
+                    "start_timestamp": 1533219539, 
+                    "account_id": "18ce54qh4jc", 
+                    "tweet_count": 15, 
+                    "tailored_audience_used": false, 
+                    "political_disclaimer": {
+                        "organization": "Beto for Texas", 
+                        "sponsorshipType": "Direct"
+                    }, 
+                    "impressions": 1005680, 
+                    "line_item_id": "c75o8", 
+                    "end_timestamp": 1536465540
+                }
+            ]
+        }, 
+        "TweetPerformance": {
+            "isRejected": false, 
+            "tweetPerformance": {
+                "totalSpend": 221.715753, 
+                "totalImpressions": 23806
+            }
+        }
+    }, 
+    "1030099611673939970": {
+        "ScreenName": "BetoORourke", 
+        "UserID": "342863309", 
+        "TweetCampaigns": {
+            "metadata": [
+                {
+                    "usd_spend": 5.842178, 
+                    "start_timestamp": 1533656944, 
+                    "account_id": "18ce54qh4jc", 
+                    "tweet_count": 3, 
+                    "tailored_audience_used": false, 
+                    "political_disclaimer": {
+                        "organization": "Beto for Texas", 
+                        "sponsorshipType": "Direct"
+                    }, 
+                    "impressions": 676, 
+                    "line_item_id": "cahkh", 
+                    "end_timestamp": 1534910340
+                }
+            ]
+        }, 
+        "TweetPerformance": {
+            "isRejected": false, 
+            "tweetPerformance": {
+                "totalSpend": 5.842178, 
+                "totalImpressions": 669
+            }
+        }
+    }, 
+    "1025042779095871490": {
+        "ScreenName": "BetoORourke", 
+        "UserID": "342863309", 
+        "TweetCampaigns": {
+            "metadata": [
+                {
+                    "usd_spend": 31036.177884, 
+                    "start_timestamp": 1533219539, 
+                    "account_id": "18ce54qh4jc", 
+                    "tweet_count": 10, 
+                    "tailored_audience_used": false, 
+                    "political_disclaimer": {
+                        "organization": "Beto for Texas", 
+                        "sponsorshipType": "Direct"
+                    }, 
+                    "impressions": 2450391, 
+                    "line_item_id": "c75qw", 
+                    "end_timestamp": 1536465540
+                }
+            ]
+        }, 
+        "TweetPerformance": {
+            "isRejected": false, 
+            "tweetPerformance": {
+                "totalSpend": 14214.390763, 
+                "totalImpressions": 990178
+            }
+        }
+    }, 
+    "1025042573411397633": {
+        "ScreenName": "BetoORourke", 
+        "UserID": "342863309", 
+        "TweetCampaigns": {
+            "metadata": [
+                {
+                    "usd_spend": 10974.401574, 
+                    "start_timestamp": 1533219539, 
+                    "account_id": "18ce54qh4jc", 
+                    "tweet_count": 15, 
+                    "tailored_audience_used": false, 
+                    "political_disclaimer": {
+                        "organization": "Beto for Texas", 
+                        "sponsorshipType": "Direct"
+                    }, 
+                    "impressions": 1005680, 
+                    "line_item_id": "c75o8", 
+                    "end_timestamp": 1536465540
+                }
+            ]
+        }, 
+        "TweetPerformance": {
+            "isRejected": false, 
+            "tweetPerformance": {
+                "totalSpend": 326.073123, 
+                "totalImpressions": 30572
+            }
+        }
+    }, 
+    "1025016439474872320": {
+        "ScreenName": "BetoORourke", 
+        "UserID": "342863309", 
+        "TweetCampaigns": {
+            "metadata": [
+                {
+                    "usd_spend": 1482.74157, 
+                    "start_timestamp": 1533215585, 
+                    "account_id": "18ce54qh4jc", 
+                    "tweet_count": 17, 
+                    "tailored_audience_used": false, 
+                    "political_disclaimer": {
+                        "organization": "Beto for Texas", 
+                        "sponsorshipType": "Direct"
+                    }, 
+                    "impressions": 106144, 
+                    "line_item_id": "c756h", 
+                    "end_timestamp": 1536465540
+                }
+            ]
+        }, 
+        "TweetPerformance": {
+            "isRejected": false, 
+            "tweetPerformance": {
+                "totalSpend": 10.483945, 
+                "totalImpressions": 569
+            }
+        }
+    }, 
+    "1025016829142417408": {
+        "ScreenName": "BetoORourke", 
+        "UserID": "342863309", 
+        "TweetCampaigns": {
+            "metadata": [
+                {
+                    "usd_spend": 14341.168944, 
+                    "start_timestamp": 1533215585, 
+                    "account_id": "18ce54qh4jc", 
+                    "tweet_count": 10, 
+                    "tailored_audience_used": false, 
+                    "political_disclaimer": {
+                        "organization": "Beto for Texas", 
+                        "sponsorshipType": "Direct"
+                    }, 
+                    "impressions": 987708, 
+                    "line_item_id": "c756k", 
+                    "end_timestamp": 1536465540
+                }
+            ]
+        }, 
+        "TweetPerformance": {
+            "isRejected": false, 
+            "tweetPerformance": {
+                "totalSpend": 10.843154, 
+                "totalImpressions": 175
+            }
+        }
+    }, 
+    "1027269851612626945": {
+        "ScreenName": "BetoORourke", 
+        "UserID": "342863309", 
+        "TweetCampaigns": {
+            "metadata": [
+                {
+                    "usd_spend": 15159.394143, 
+                    "start_timestamp": 1533215585, 
+                    "account_id": "18ce54qh4jc", 
+                    "tweet_count": 10, 
+                    "tailored_audience_used": false, 
+                    "political_disclaimer": {
+                        "organization": "Beto for Texas", 
+                        "sponsorshipType": "Direct"
+                    }, 
+                    "impressions": 883812, 
+                    "line_item_id": "c756y", 
+                    "end_timestamp": 1536465540
+                }
+            ]
+        }, 
+        "TweetPerformance": {
+            "isRejected": false, 
+            "tweetPerformance": {
+                "totalSpend": 8.730454, 
+                "totalImpressions": 594
+            }
+        }
+    }, 
+    "1025042349272039425": {
+        "ScreenName": "BetoORourke", 
+        "UserID": "342863309", 
+        "TweetCampaigns": {
+            "metadata": [
+                {
+                    "usd_spend": 15159.394143, 
+                    "start_timestamp": 1533215585, 
+                    "account_id": "18ce54qh4jc", 
+                    "tweet_count": 10, 
+                    "tailored_audience_used": false, 
+                    "political_disclaimer": {
+                        "organization": "Beto for Texas", 
+                        "sponsorshipType": "Direct"
+                    }, 
+                    "impressions": 883812, 
+                    "line_item_id": "c756y", 
+                    "end_timestamp": 1536465540
+                }
+            ]
+        }, 
+        "TweetPerformance": {
+            "isRejected": false, 
+            "tweetPerformance": {
+                "totalSpend": 48.328215, 
+                "totalImpressions": 3785
+            }
+        }
+    }, 
+    "1023923371766099968": {
+        "ScreenName": "BetoORourke", 
+        "UserID": "342863309", 
+        "TweetCampaigns": {
+            "metadata": [
+                {
+                    "usd_spend": 46.275199, 
+                    "start_timestamp": 1533657480, 
+                    "account_id": "18ce54qh4jc", 
+                    "tweet_count": 4, 
+                    "tailored_audience_used": false, 
+                    "political_disclaimer": {
+                        "organization": "Beto for Texas", 
+                        "sponsorshipType": "Direct"
+                    }, 
+                    "impressions": 2117, 
+                    "line_item_id": "c8fyv", 
+                    "end_timestamp": 1534996740
+                }, 
+                {
+                    "usd_spend": 0.940994, 
+                    "start_timestamp": 1533157935, 
+                    "account_id": "18ce54qh4jc", 
+                    "tweet_count": 8, 
+                    "tailored_audience_used": false, 
+                    "political_disclaimer": {
+                        "organization": "Beto for Texas", 
+                        "sponsorshipType": "Direct"
+                    }, 
+                    "impressions": 17, 
+                    "line_item_id": "c6z4r", 
+                    "end_timestamp": 1533959940
+                }, 
+                {
+                    "usd_spend": 4.582533, 
+                    "start_timestamp": 1532610000, 
+                    "account_id": "18ce54qh4jc", 
+                    "tweet_count": 4, 
+                    "tailored_audience_used": false, 
+                    "political_disclaimer": {
+                        "organization": "Beto for Texas", 
+                        "sponsorshipType": "Direct"
+                    }, 
+                    "impressions": 173, 
+                    "line_item_id": "c59qc", 
+                    "end_timestamp": 1533959940
+                }
+            ]
+        }, 
+        "TweetPerformance": {
+            "isRejected": false, 
+            "tweetPerformance": {
+                "totalSpend": 10.242099, 
+                "totalImpressions": 489
+            }
+        }
+    }, 
+    "1026917562091806722": {
+        "ScreenName": "BetoORourke", 
+        "UserID": "342863309", 
+        "TweetCampaigns": {
+            "metadata": [
+                {
+                    "usd_spend": 10.222472, 
+                    "start_timestamp": 1533668224, 
+                    "account_id": "18ce54qh4jc", 
+                    "tweet_count": 1, 
+                    "tailored_audience_used": false, 
+                    "political_disclaimer": {
+                        "organization": "Beto for Texas", 
+                        "sponsorshipType": "Direct"
+                    }, 
+                    "impressions": 334, 
+                    "line_item_id": "c8h1y", 
+                    "end_timestamp": 1534003200
+                }
+            ]
+        }, 
+        "TweetPerformance": {
+            "isRejected": false, 
+            "tweetPerformance": {
+                "totalSpend": 10.222472, 
+                "totalImpressions": 334
+            }
+        }
+    }, 
+    "1028635939852234755": {
+        "ScreenName": "BetoORourke", 
+        "UserID": "342863309", 
+        "TweetCampaigns": {
+            "metadata": [
+                {
+                    "usd_spend": 467.0, 
+                    "start_timestamp": 1533668224, 
+                    "account_id": "18ce54qh4jc", 
+                    "tweet_count": 2, 
+                    "tailored_audience_used": false, 
+                    "political_disclaimer": {
+                        "organization": "Beto for Texas", 
+                        "sponsorshipType": "Direct"
+                    }, 
+                    "impressions": 16400, 
+                    "line_item_id": "c9pcx", 
+                    "end_timestamp": 1534651140
+                }
+            ]
+        }, 
+        "TweetPerformance": {
+            "isRejected": false, 
+            "tweetPerformance": {
+                "totalSpend": 327.772611, 
+                "totalImpressions": 13734
+            }
+        }
+    }, 
+    "1029395184704995328": {
+        "ScreenName": "BetoORourke", 
+        "UserID": "342863309", 
+        "TweetCampaigns": {
+            "metadata": [
+                {
+                    "usd_spend": 467.0, 
+                    "start_timestamp": 1533668224, 
+                    "account_id": "18ce54qh4jc", 
+                    "tweet_count": 1, 
+                    "tailored_audience_used": false, 
+                    "political_disclaimer": {
+                        "organization": "Beto for Texas", 
+                        "sponsorshipType": "Direct"
+                    }, 
+                    "impressions": 13646, 
+                    "line_item_id": "ca4co", 
+                    "end_timestamp": 1534773600
+                }
+            ]
+        }, 
+        "TweetPerformance": {
+            "isRejected": false, 
+            "tweetPerformance": {
+                "totalSpend": 467.0, 
+                "totalImpressions": 13646
+            }
+        }
+    }, 
+    "1026863834957533184": {
+        "ScreenName": "BetoORourke", 
+        "UserID": "342863309", 
+        "TweetCampaigns": {
+            "metadata": [
+                {
+                    "usd_spend": 32638.581647, 
+                    "start_timestamp": 1533657480, 
+                    "account_id": "18ce54qh4jc", 
+                    "tweet_count": 4, 
+                    "tailored_audience_used": false, 
+                    "political_disclaimer": {
+                        "organization": "Beto for Texas", 
+                        "sponsorshipType": "Direct"
+                    }, 
+                    "impressions": 2260453, 
+                    "line_item_id": "c8g1d", 
+                    "end_timestamp": 1534996740
+                }, 
+                {
+                    "usd_spend": 2170.601505, 
+                    "start_timestamp": 1533657480, 
+                    "account_id": "18ce54qh4jc", 
+                    "tweet_count": 8, 
+                    "tailored_audience_used": false, 
+                    "political_disclaimer": {
+                        "organization": "Beto for Texas", 
+                        "sponsorshipType": "Direct"
+                    }, 
+                    "impressions": 140351, 
+                    "line_item_id": "c8fyq", 
+                    "end_timestamp": 1534996740
+                }
+            ]
+        }, 
+        "TweetPerformance": {
+            "isRejected": false, 
+            "tweetPerformance": {
+                "totalSpend": 3800.889934, 
+                "totalImpressions": 243795
+            }
+        }
+    }, 
+    "1023923244175425536": {
+        "ScreenName": "BetoORourke", 
+        "UserID": "342863309", 
+        "TweetCampaigns": {
+            "metadata": [
+                {
+                    "usd_spend": 46.275199, 
+                    "start_timestamp": 1533657480, 
+                    "account_id": "18ce54qh4jc", 
+                    "tweet_count": 4, 
+                    "tailored_audience_used": false, 
+                    "political_disclaimer": {
+                        "organization": "Beto for Texas", 
+                        "sponsorshipType": "Direct"
+                    }, 
+                    "impressions": 2117, 
+                    "line_item_id": "c8fyv", 
+                    "end_timestamp": 1534996740
+                }, 
+                {
+                    "usd_spend": 0.940994, 
+                    "start_timestamp": 1533157935, 
+                    "account_id": "18ce54qh4jc", 
+                    "tweet_count": 8, 
+                    "tailored_audience_used": false, 
+                    "political_disclaimer": {
+                        "organization": "Beto for Texas", 
+                        "sponsorshipType": "Direct"
+                    }, 
+                    "impressions": 17, 
+                    "line_item_id": "c6z4r", 
+                    "end_timestamp": 1533959940
+                }, 
+                {
+                    "usd_spend": 4.582533, 
+                    "start_timestamp": 1532610000, 
+                    "account_id": "18ce54qh4jc", 
+                    "tweet_count": 4, 
+                    "tailored_audience_used": false, 
+                    "political_disclaimer": {
+                        "organization": "Beto for Texas", 
+                        "sponsorshipType": "Direct"
+                    }, 
+                    "impressions": 173, 
+                    "line_item_id": "c59qc", 
+                    "end_timestamp": 1533959940
+                }
+            ]
+        }, 
+        "TweetPerformance": {
+            "isRejected": false, 
+            "tweetPerformance": {
+                "totalSpend": 7.243445, 
+                "totalImpressions": 416
+            }
+        }
+    }, 
+    "1025042023773036546": {
+        "ScreenName": "BetoORourke", 
+        "UserID": "342863309", 
+        "TweetCampaigns": {
+            "metadata": [
+                {
+                    "usd_spend": 14341.168944, 
+                    "start_timestamp": 1533215585, 
+                    "account_id": "18ce54qh4jc", 
+                    "tweet_count": 10, 
+                    "tailored_audience_used": false, 
+                    "political_disclaimer": {
+                        "organization": "Beto for Texas", 
+                        "sponsorshipType": "Direct"
+                    }, 
+                    "impressions": 987708, 
+                    "line_item_id": "c756k", 
+                    "end_timestamp": 1536465540
+                }
+            ]
+        }, 
+        "TweetPerformance": {
+            "isRejected": false, 
+            "tweetPerformance": {
+                "totalSpend": 555.937454, 
+                "totalImpressions": 40283
+            }
+        }
+    }, 
+    "1025042395031851012": {
+        "ScreenName": "BetoORourke", 
+        "UserID": "342863309", 
+        "TweetCampaigns": {
+            "metadata": [
+                {
+                    "usd_spend": 15159.394143, 
+                    "start_timestamp": 1533215585, 
+                    "account_id": "18ce54qh4jc", 
+                    "tweet_count": 10, 
+                    "tailored_audience_used": false, 
+                    "political_disclaimer": {
+                        "organization": "Beto for Texas", 
+                        "sponsorshipType": "Direct"
+                    }, 
+                    "impressions": 883812, 
+                    "line_item_id": "c756y", 
+                    "end_timestamp": 1536465540
+                }
+            ]
+        }, 
+        "TweetPerformance": {
+            "isRejected": false, 
+            "tweetPerformance": {
+                "totalSpend": 4387.101254, 
+                "totalImpressions": 255152
+            }
+        }
+    }, 
+    "1025483968945242113": {
+        "ScreenName": "BetoORourke", 
+        "UserID": "342863309", 
+        "TweetCampaigns": {
+            "metadata": [
+                {
+                    "usd_spend": 1482.74157, 
+                    "start_timestamp": 1533215585, 
+                    "account_id": "18ce54qh4jc", 
+                    "tweet_count": 17, 
+                    "tailored_audience_used": false, 
+                    "political_disclaimer": {
+                        "organization": "Beto for Texas", 
+                        "sponsorshipType": "Direct"
+                    }, 
+                    "impressions": 106144, 
+                    "line_item_id": "c756h", 
+                    "end_timestamp": 1536465540
+                }
+            ]
+        }, 
+        "TweetPerformance": {
+            "isRejected": false, 
+            "tweetPerformance": {
+                "totalSpend": 18.253239, 
+                "totalImpressions": 1278
+            }
+        }
+    }, 
+    "1025042469262696450": {
+        "ScreenName": "BetoORourke", 
+        "UserID": "342863309", 
+        "TweetCampaigns": {
+            "metadata": [
+                {
+                    "usd_spend": 10974.401574, 
+                    "start_timestamp": 1533219539, 
+                    "account_id": "18ce54qh4jc", 
+                    "tweet_count": 15, 
+                    "tailored_audience_used": false, 
+                    "political_disclaimer": {
+                        "organization": "Beto for Texas", 
+                        "sponsorshipType": "Direct"
+                    }, 
+                    "impressions": 1005631, 
+                    "line_item_id": "c75o8", 
+                    "end_timestamp": 1536465540
+                }
+            ]
+        }, 
+        "TweetPerformance": {
+            "isRejected": false, 
+            "tweetPerformance": {
+                "totalSpend": 33.737629, 
+                "totalImpressions": 5772
+            }
+        }
+    }, 
+    "1028267543084118017": {
+        "ScreenName": "BetoORourke", 
+        "UserID": "342863309", 
+        "TweetCampaigns": {
+            "metadata": [
+                {
+                    "usd_spend": 467.0, 
+                    "start_timestamp": 1533668224, 
+                    "account_id": "18ce54qh4jc", 
+                    "tweet_count": 2, 
+                    "tailored_audience_used": false, 
+                    "political_disclaimer": {
+                        "organization": "Beto for Texas", 
+                        "sponsorshipType": "Direct"
+                    }, 
+                    "impressions": 16400, 
+                    "line_item_id": "c9pcx", 
+                    "end_timestamp": 1534651140
+                }
+            ]
+        }, 
+        "TweetPerformance": {
+            "isRejected": false, 
+            "tweetPerformance": {
+                "totalSpend": 139.227389, 
+                "totalImpressions": 2666
+            }
+        }
+    }, 
+    "1027269332550729729": {
+        "ScreenName": "BetoORourke", 
+        "UserID": "342863309", 
+        "TweetCampaigns": {
+            "metadata": [
+                {
+                    "usd_spend": 15159.394143, 
+                    "start_timestamp": 1533215585, 
+                    "account_id": "18ce54qh4jc", 
+                    "tweet_count": 10, 
+                    "tailored_audience_used": false, 
+                    "political_disclaimer": {
+                        "organization": "Beto for Texas", 
+                        "sponsorshipType": "Direct"
+                    }, 
+                    "impressions": 883812, 
+                    "line_item_id": "c756y", 
+                    "end_timestamp": 1536465540
+                }
+            ]
+        }, 
+        "TweetPerformance": {
+            "isRejected": false, 
+            "tweetPerformance": {
+                "totalSpend": 70.455623, 
+                "totalImpressions": 5689
+            }
+        }
+    }, 
+    "1026874365114294272": {
+        "ScreenName": "BetoORourke", 
+        "UserID": "342863309", 
+        "TweetCampaigns": {
+            "metadata": [
+                {
+                    "usd_spend": 0.0, 
+                    "start_timestamp": 1533656944, 
+                    "account_id": "18ce54qh4jc", 
+                    "tweet_count": 1, 
+                    "tailored_audience_used": false, 
+                    "political_disclaimer": {
+                        "organization": "Beto for Texas", 
+                        "sponsorshipType": "Direct"
+                    }, 
+                    "impressions": 1, 
+                    "line_item_id": "c8gaw", 
+                    "end_timestamp": 1534089600
+                }
+            ]
+        }, 
+        "TweetPerformance": {
+            "isRejected": false, 
+            "tweetPerformance": {
+                "totalSpend": 0.0, 
+                "totalImpressions": 1
+            }
+        }
+    }
+}

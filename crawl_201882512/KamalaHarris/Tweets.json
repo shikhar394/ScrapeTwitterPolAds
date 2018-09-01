@@ -1,0 +1,47 @@
+{
+    "30354991": {
+        "Tweets": [
+            {
+                "lastActiveAtSeconds": 1535041482, 
+                "promotedMetadata": {
+                    "advertiserId": 30354991, 
+                    "political": true
+                }, 
+                "serveable": true, 
+                "id": 1032045936397234177, 
+                "tweetId": "1032045936397234177"
+            }, 
+            {
+                "lastActiveAtSeconds": 1535041482, 
+                "promotedMetadata": {
+                    "advertiserId": 30354991, 
+                    "political": true
+                }, 
+                "serveable": true, 
+                "id": 1032088397760946176, 
+                "tweetId": "1032088397760946176"
+            }, 
+            {
+                "lastActiveAtSeconds": 1530665229, 
+                "promotedMetadata": {
+                    "advertiserId": 30354991, 
+                    "political": true
+                }, 
+                "serveable": true, 
+                "id": 1013903909994164224, 
+                "tweetId": "1013903909994164224"
+            }, 
+            {
+                "lastActiveAtSeconds": 1530665229, 
+                "promotedMetadata": {
+                    "advertiserId": 30354991, 
+                    "political": true
+                }, 
+                "serveable": true, 
+                "id": 1013903885793017856, 
+                "tweetId": "1013903885793017856"
+            }
+        ], 
+        "ScreenName": "KamalaHarris"
+    }
+}

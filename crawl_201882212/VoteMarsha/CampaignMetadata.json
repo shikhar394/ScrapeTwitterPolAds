@@ -1,0 +1,3122 @@
+{
+    "bzpch": {
+        "Overview": {
+            "lineItem": {
+                "usd_spend": 212.147938, 
+                "start_timestamp": 1530552407, 
+                "account_id": "18ce54pv63b", 
+                "tweet_count": 1, 
+                "tailored_audience_used": false, 
+                "political_disclaimer": {
+                    "organization": "Marsha for Senate", 
+                    "sponsorshipType": "Direct"
+                }, 
+                "impressions": 18972, 
+                "line_item_id": "bzpch", 
+                "end_timestamp": 1531717140
+            }
+        }, 
+        "UserID": "63150856", 
+        "TargetDetails": {
+            "targeting_criteria_details": [
+                {
+                    "targeted": false, 
+                    "impressions": 523, 
+                    "segmentation_type": "GENDER", 
+                    "name": "Unknown"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 8085, 
+                    "segmentation_type": "GENDER", 
+                    "name": "Female"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 10364, 
+                    "segmentation_type": "GENDER", 
+                    "name": "Male"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 102, 
+                    "segmentation_type": "CITIES", 
+                    "name": "Sacramento-Stockton-Modesto CA, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 80, 
+                    "segmentation_type": "CITIES", 
+                    "name": "Fort Myers-Naples FL, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 33, 
+                    "segmentation_type": "CITIES", 
+                    "name": "Colorado Springs-Pueblo CO, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 11, 
+                    "segmentation_type": "CITIES", 
+                    "name": "Parkersburg WV, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 1, 
+                    "segmentation_type": "CITIES", 
+                    "name": "Alexandria LA, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 31, 
+                    "segmentation_type": "CITIES", 
+                    "name": "Greenville-New Bern-Washington NC, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 27, 
+                    "segmentation_type": "CITIES", 
+                    "name": "Spokane WA, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 24, 
+                    "segmentation_type": "CITIES", 
+                    "name": "Wheeling WV-Steubenville OH, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 27, 
+                    "segmentation_type": "CITIES", 
+                    "name": "Boise ID, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 24, 
+                    "segmentation_type": "CITIES", 
+                    "name": "Columbus GA, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 440, 
+                    "segmentation_type": "CITIES", 
+                    "name": "Houston TX, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 29, 
+                    "segmentation_type": "CITIES", 
+                    "name": "Davenport IA-Rock Island-Moline IL, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 80, 
+                    "segmentation_type": "CITIES", 
+                    "name": "Little Rock-Pine Bluff AR, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 32, 
+                    "segmentation_type": "CITIES", 
+                    "name": "Springfield MO, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 12, 
+                    "segmentation_type": "CITIES", 
+                    "name": "Amarillo TX, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 195, 
+                    "segmentation_type": "CITIES", 
+                    "name": "Raleigh-Durham NC, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 171, 
+                    "segmentation_type": "CITIES", 
+                    "name": "Birmingham AL, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 29, 
+                    "segmentation_type": "CITIES", 
+                    "name": "Reno NV, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 5, 
+                    "segmentation_type": "CITIES", 
+                    "name": "Ottumwa IA-Kirksville MO, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 3, 
+                    "segmentation_type": "CITIES", 
+                    "name": "Zanesville OH, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 38, 
+                    "segmentation_type": "CITIES", 
+                    "name": "Jackson MS, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 15, 
+                    "segmentation_type": "CITIES", 
+                    "name": "Joplin MO-Pittsburg KS, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 4, 
+                    "segmentation_type": "CITIES", 
+                    "name": "Eureka CA, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 58, 
+                    "segmentation_type": "CITIES", 
+                    "name": "Cedar Rapids-Waterloo-Iowa City & Dubuque IA, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 24, 
+                    "segmentation_type": "CITIES", 
+                    "name": "Chico-Redding CA, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 4, 
+                    "segmentation_type": "CITIES", 
+                    "name": "Fairbanks AK, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 4, 
+                    "segmentation_type": "CITIES", 
+                    "name": "Lake Charles LA, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 491, 
+                    "segmentation_type": "CITIES", 
+                    "name": "Orlando-Daytona Beach-Melbourne FL, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 4, 
+                    "segmentation_type": "CITIES", 
+                    "name": "Meridian MS, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 107, 
+                    "segmentation_type": "CITIES", 
+                    "name": "Greenville-Spartanburg SC-Asheville NC-Anderson SC, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 15, 
+                    "segmentation_type": "CITIES", 
+                    "name": "Bangor ME, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 286, 
+                    "segmentation_type": "CITIES", 
+                    "name": "Minneapolis-St. Paul MN, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 16, 
+                    "segmentation_type": "CITIES", 
+                    "name": "Bend OR, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 13, 
+                    "segmentation_type": "CITIES", 
+                    "name": "Duluth MN-Superior WI, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 84, 
+                    "segmentation_type": "CITIES", 
+                    "name": "Portland OR, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 30, 
+                    "segmentation_type": "CITIES", 
+                    "name": "Binghamton NY, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 35, 
+                    "segmentation_type": "CITIES", 
+                    "name": "Florence-Myrtle Beach SC, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 59, 
+                    "segmentation_type": "CITIES", 
+                    "name": "Albuquerque-Santa Fe NM, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 48, 
+                    "segmentation_type": "CITIES", 
+                    "name": "Syracuse NY, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 355, 
+                    "segmentation_type": "CITIES", 
+                    "name": "Miami-Fort Lauderdale FL, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 65, 
+                    "segmentation_type": "CITIES", 
+                    "name": "Columbia SC, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 15, 
+                    "segmentation_type": "CITIES", 
+                    "name": "Wichita Falls TX & Lawton OK, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 55, 
+                    "segmentation_type": "CITIES", 
+                    "name": "Wilkes Barre-Scranton PA, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 62, 
+                    "segmentation_type": "CITIES", 
+                    "name": "Panama City FL, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 189, 
+                    "segmentation_type": "CITIES", 
+                    "name": "Baltimore MD, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 21, 
+                    "segmentation_type": "CITIES", 
+                    "name": "Corpus Christi TX, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 72, 
+                    "segmentation_type": "CITIES", 
+                    "name": "Roanoke-Lynchburg VA, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 19, 
+                    "segmentation_type": "CITIES", 
+                    "name": "Bowling Green KY, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 144, 
+                    "segmentation_type": "CITIES", 
+                    "name": "Atlanta GA, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 140, 
+                    "segmentation_type": "CITIES", 
+                    "name": "Columbus OH, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 94, 
+                    "segmentation_type": "CITIES", 
+                    "name": "Dayton OH, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 1545, 
+                    "segmentation_type": "CITIES", 
+                    "name": "New York NY, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 2, 
+                    "segmentation_type": "CITIES", 
+                    "name": "Yuma AZ-El Centro CA, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 20, 
+                    "segmentation_type": "CITIES", 
+                    "name": "Evansville IN, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 3, 
+                    "segmentation_type": "CITIES", 
+                    "name": "Harrisonburg VA, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 52, 
+                    "segmentation_type": "CITIES", 
+                    "name": "Fort Smith-Fayetteville-Springdale-Rogers AR, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 162, 
+                    "segmentation_type": "CITIES", 
+                    "name": "Cincinnati OH, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 125, 
+                    "segmentation_type": "CITIES", 
+                    "name": "Milwaukee WI, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 5, 
+                    "segmentation_type": "CITIES", 
+                    "name": "Cheyenne WY-Scottsbluff NE, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 21, 
+                    "segmentation_type": "CITIES", 
+                    "name": "Augusta GA, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 4, 
+                    "segmentation_type": "CITIES", 
+                    "name": "Jackson TN, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 14, 
+                    "segmentation_type": "CITIES", 
+                    "name": "Rochester MN-Mason City IA-Austin MN, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 44, 
+                    "segmentation_type": "CITIES", 
+                    "name": "Des Moines-Ames IA, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 38, 
+                    "segmentation_type": "CITIES", 
+                    "name": "Wilmington NC, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 795, 
+                    "segmentation_type": "CITIES", 
+                    "name": "Dallas-Fort Worth TX, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 137, 
+                    "segmentation_type": "CITIES", 
+                    "name": "West Palm Beach-Fort Pierce FL, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 14, 
+                    "segmentation_type": "CITIES", 
+                    "name": "San Angelo TX, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 285, 
+                    "segmentation_type": "CITIES", 
+                    "name": "Nashville TN, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 41, 
+                    "segmentation_type": "CITIES", 
+                    "name": "South Bend-Elkhart IN, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 98, 
+                    "segmentation_type": "CITIES", 
+                    "name": "New Orleans LA, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 20, 
+                    "segmentation_type": "CITIES", 
+                    "name": "Rockford IL, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 592, 
+                    "segmentation_type": "CITIES", 
+                    "name": "Boston MA-Manchester NH, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 23, 
+                    "segmentation_type": "CITIES", 
+                    "name": "Shreveport LA, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 464, 
+                    "segmentation_type": "CITIES", 
+                    "name": "Los Angeles CA, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 3, 
+                    "segmentation_type": "CITIES", 
+                    "name": "Butte-Bozeman MT, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 73, 
+                    "segmentation_type": "CITIES", 
+                    "name": "Providence RI-New Bedford MA, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 15, 
+                    "segmentation_type": "CITIES", 
+                    "name": "La Crosse-Eau Claire WI, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 10, 
+                    "segmentation_type": "CITIES", 
+                    "name": "Yakima-Pasco-Richland-Kennewick WA, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 10, 
+                    "segmentation_type": "CITIES", 
+                    "name": "Clarksburg-Weston WV, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 20, 
+                    "segmentation_type": "CITIES", 
+                    "name": "Honolulu HI, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 12, 
+                    "segmentation_type": "CITIES", 
+                    "name": "Rapid City SD, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 94, 
+                    "segmentation_type": "CITIES", 
+                    "name": "Las Vegas NV, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 3, 
+                    "segmentation_type": "CITIES", 
+                    "name": "North Platte NE, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 109, 
+                    "segmentation_type": "CITIES", 
+                    "name": "Oklahoma City OK, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 63, 
+                    "segmentation_type": "CITIES", 
+                    "name": "San Diego CA, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 74, 
+                    "segmentation_type": "CITIES", 
+                    "name": "Rochester NY, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 17, 
+                    "segmentation_type": "CITIES", 
+                    "name": "Erie PA, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 26, 
+                    "segmentation_type": "CITIES", 
+                    "name": "Macon GA, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 108, 
+                    "segmentation_type": "CITIES", 
+                    "name": "Louisville KY, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 14, 
+                    "segmentation_type": "CITIES", 
+                    "name": "Missoula MT, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 45, 
+                    "segmentation_type": "CITIES", 
+                    "name": "Burlington VT-Plattsburgh NY, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 200, 
+                    "segmentation_type": "CITIES", 
+                    "name": "Denver CO, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 71, 
+                    "segmentation_type": "CITIES", 
+                    "name": "Grand Rapids-Kalamazoo-Battle Creek MI, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 24, 
+                    "segmentation_type": "CITIES", 
+                    "name": "Albany GA, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 5, 
+                    "segmentation_type": "CITIES", 
+                    "name": "Charlottesville VA, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 12, 
+                    "segmentation_type": "CITIES", 
+                    "name": "Medford-Klamath Falls OR, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 31, 
+                    "segmentation_type": "CITIES", 
+                    "name": "Traverse City-Cadillac MI, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 69, 
+                    "segmentation_type": "CITIES", 
+                    "name": "Wichita-Hutchinson KS, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 16, 
+                    "segmentation_type": "CITIES", 
+                    "name": "Beaumont-Port Arthur TX, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 4, 
+                    "segmentation_type": "CITIES", 
+                    "name": "Lima OH, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 37, 
+                    "segmentation_type": "CITIES", 
+                    "name": "Lincoln & Hastings-Kearney NE, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 30, 
+                    "segmentation_type": "CITIES", 
+                    "name": "El Paso TX, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 28, 
+                    "segmentation_type": "CITIES", 
+                    "name": "Monterey-Salinas CA, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 662, 
+                    "segmentation_type": "CITIES", 
+                    "name": "Washington DC, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 41, 
+                    "segmentation_type": "CITIES", 
+                    "name": "Johnstown-Altoona PA, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 7, 
+                    "segmentation_type": "CITIES", 
+                    "name": "Idaho Falls-Pocatello ID, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 14, 
+                    "segmentation_type": "CITIES", 
+                    "name": "Tallahassee FL-Thomasville GA, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 85, 
+                    "segmentation_type": "CITIES", 
+                    "name": "Omaha NE, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 15, 
+                    "segmentation_type": "CITIES", 
+                    "name": "Watertown NY, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 42, 
+                    "segmentation_type": "CITIES", 
+                    "name": "Tri-Cities TN-VA, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 9, 
+                    "segmentation_type": "CITIES", 
+                    "name": "Grand Junction-Montrose CO, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 32, 
+                    "segmentation_type": "CITIES", 
+                    "name": "Tucson AZ, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 53, 
+                    "segmentation_type": "CITIES", 
+                    "name": "Flint-Saginaw-Bay City MI, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 19, 
+                    "segmentation_type": "CITIES", 
+                    "name": "Abilene-Sweetwater TX, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 100, 
+                    "segmentation_type": "CITIES", 
+                    "name": "Memphis TN, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 39, 
+                    "segmentation_type": "CITIES", 
+                    "name": "Chattanooga TN, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 19, 
+                    "segmentation_type": "CITIES", 
+                    "name": "Youngstown OH, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 13, 
+                    "segmentation_type": "CITIES", 
+                    "name": "Bakersfield CA, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 187, 
+                    "segmentation_type": "CITIES", 
+                    "name": "San Antonio TX, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 81, 
+                    "segmentation_type": "CITIES", 
+                    "name": "Mobile AL-Pensacola FL, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 16, 
+                    "segmentation_type": "CITIES", 
+                    "name": "Hattiesburg-Laurel MS, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 13, 
+                    "segmentation_type": "CITIES", 
+                    "name": "Biloxi-Gulfport MS, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 28, 
+                    "segmentation_type": "CITIES", 
+                    "name": "Harlingen-Weslaco-Brownsville-McAllen TX, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 38, 
+                    "segmentation_type": "CITIES", 
+                    "name": "Fort Wayne IN, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 173, 
+                    "segmentation_type": "CITIES", 
+                    "name": "Phoenix AZ, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 18, 
+                    "segmentation_type": "CITIES", 
+                    "name": "Montgomery AL, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 14, 
+                    "segmentation_type": "CITIES", 
+                    "name": "Palm Springs CA, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 15, 
+                    "segmentation_type": "CITIES", 
+                    "name": "Fargo-Valley City ND, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 8, 
+                    "segmentation_type": "CITIES", 
+                    "name": "Utica NY, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 3, 
+                    "segmentation_type": "CITIES", 
+                    "name": "Jonesboro AR, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 16, 
+                    "segmentation_type": "CITIES", 
+                    "name": "Minot-Bismarck-Dickinson ND, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 65, 
+                    "segmentation_type": "CITIES", 
+                    "name": "Salt Lake City UT, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 2, 
+                    "segmentation_type": "CITIES", 
+                    "name": "Great Falls MT, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 8, 
+                    "segmentation_type": "CITIES", 
+                    "name": "Dothan AL, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 46, 
+                    "segmentation_type": "CITIES", 
+                    "name": "Toledo OH, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 22, 
+                    "segmentation_type": "CITIES", 
+                    "name": "Salisbury MD, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 1, 
+                    "segmentation_type": "CITIES", 
+                    "name": "Mankato MN, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 48, 
+                    "segmentation_type": "CITIES", 
+                    "name": "Waco-Temple-Bryan TX, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 20, 
+                    "segmentation_type": "CITIES", 
+                    "name": "Fresno-Visalia CA, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 18, 
+                    "segmentation_type": "CITIES", 
+                    "name": "Wausau-Rhinelander WI, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 5, 
+                    "segmentation_type": "CITIES", 
+                    "name": "Victoria TX, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 90, 
+                    "segmentation_type": "CITIES", 
+                    "name": "Buffalo NY, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 12, 
+                    "segmentation_type": "CITIES", 
+                    "name": "Lafayette LA, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 18, 
+                    "segmentation_type": "CITIES", 
+                    "name": "Sherman TX-Ada OK, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 9, 
+                    "segmentation_type": "CITIES", 
+                    "name": "Casper-Riverton WY, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 59, 
+                    "segmentation_type": "CITIES", 
+                    "name": "Lexington KY, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 7, 
+                    "segmentation_type": "CITIES", 
+                    "name": "Gainesville FL, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 10, 
+                    "segmentation_type": "CITIES", 
+                    "name": "Santa Barbara-Santa Maria-San Luis Obispo CA, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 240, 
+                    "segmentation_type": "CITIES", 
+                    "name": "Indianapolis IN, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 110, 
+                    "segmentation_type": "CITIES", 
+                    "name": "Greensboro-High Point-Winston Salem NC, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 277, 
+                    "segmentation_type": "CITIES", 
+                    "name": "Cleveland-Akron OH, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 24, 
+                    "segmentation_type": "CITIES", 
+                    "name": "Sioux City IA, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 4, 
+                    "segmentation_type": "CITIES", 
+                    "name": "Bluefield-Beckley-Oak Hill WV, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 45, 
+                    "segmentation_type": "CITIES", 
+                    "name": "Tyler-Longview TX, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 37, 
+                    "segmentation_type": "CITIES", 
+                    "name": "Paducah KY-Cape Girardeau MO-Harrisburg-Mount Vernon IL, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 16, 
+                    "segmentation_type": "CITIES", 
+                    "name": "Terre Haute IN, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 23, 
+                    "segmentation_type": "CITIES", 
+                    "name": "Sioux Falls SD, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 21, 
+                    "segmentation_type": "CITIES", 
+                    "name": "Columbus-Tupelo-West Point MS, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 35, 
+                    "segmentation_type": "CITIES", 
+                    "name": "Madison WI, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 31, 
+                    "segmentation_type": "CITIES", 
+                    "name": "Green Bay-Appleton WI, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 2, 
+                    "segmentation_type": "CITIES", 
+                    "name": "Laredo TX, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 3, 
+                    "segmentation_type": "CITIES", 
+                    "name": "Lafayette IN, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 38, 
+                    "segmentation_type": "CITIES", 
+                    "name": "Springfield-Holyoke MA, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 2, 
+                    "segmentation_type": "CITIES", 
+                    "name": "Presque Isle ME, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 3, 
+                    "segmentation_type": "CITIES", 
+                    "name": "Alpena MI, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 35, 
+                    "segmentation_type": "CITIES", 
+                    "name": "Harrisburg-Lancaster-Lebanon-York PA, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 16, 
+                    "segmentation_type": "CITIES", 
+                    "name": "Odessa-Midland TX, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 263, 
+                    "segmentation_type": "CITIES", 
+                    "name": "Tampa-St. Petersburg FL, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 101, 
+                    "segmentation_type": "CITIES", 
+                    "name": "Richmond-Petersburg VA, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 246, 
+                    "segmentation_type": "CITIES", 
+                    "name": "Charlotte NC, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 504, 
+                    "segmentation_type": "CITIES", 
+                    "name": "Detroit MI, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 129, 
+                    "segmentation_type": "CITIES", 
+                    "name": "Jacksonville FL, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 7, 
+                    "segmentation_type": "CITIES", 
+                    "name": "Billings MT, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 62, 
+                    "segmentation_type": "CITIES", 
+                    "name": "Charleston-Huntington WV, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 32, 
+                    "segmentation_type": "CITIES", 
+                    "name": "Baton Rouge LA, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 210, 
+                    "segmentation_type": "CITIES", 
+                    "name": "San Francisco-Oakland-San Jose CA, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 187, 
+                    "segmentation_type": "CITIES", 
+                    "name": "Austin TX, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 805, 
+                    "segmentation_type": "CITIES", 
+                    "name": "Chicago IL, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 16, 
+                    "segmentation_type": "CITIES", 
+                    "name": "Topeka KS, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 222, 
+                    "segmentation_type": "CITIES", 
+                    "name": "Pittsburgh PA, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 143, 
+                    "segmentation_type": "CITIES", 
+                    "name": "St. Louis MO, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 28, 
+                    "segmentation_type": "CITIES", 
+                    "name": "Lubbock TX, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 113, 
+                    "segmentation_type": "CITIES", 
+                    "name": "Hartford & New Haven CT, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 80, 
+                    "segmentation_type": "CITIES", 
+                    "name": "Tulsa OK, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 128, 
+                    "segmentation_type": "CITIES", 
+                    "name": "Norfolk-Portsmouth-Newport News VA, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 33, 
+                    "segmentation_type": "CITIES", 
+                    "name": "Columbia-Jefferson City MO, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 1, 
+                    "segmentation_type": "CITIES", 
+                    "name": "Juneau AK, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 31, 
+                    "segmentation_type": "CITIES", 
+                    "name": "Lansing MI, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 18, 
+                    "segmentation_type": "CITIES", 
+                    "name": "Anchorage AK, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 15, 
+                    "segmentation_type": "CITIES", 
+                    "name": "Eugene OR, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 590, 
+                    "segmentation_type": "CITIES", 
+                    "name": "Philadelphia PA, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 733, 
+                    "segmentation_type": "CITIES", 
+                    "name": "Knoxville TN, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 53, 
+                    "segmentation_type": "CITIES", 
+                    "name": "Albany-Schenectady-Troy NY, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 184, 
+                    "segmentation_type": "CITIES", 
+                    "name": "Seattle-Tacoma WA, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 8, 
+                    "segmentation_type": "CITIES", 
+                    "name": "Quincy IL-Hannibal MO-Keokuk IA, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 22, 
+                    "segmentation_type": "CITIES", 
+                    "name": "Monroe LA-El Dorado AR, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 46, 
+                    "segmentation_type": "CITIES", 
+                    "name": "Champaign & Springfield-Decatur,IL, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 86, 
+                    "segmentation_type": "CITIES", 
+                    "name": "Portland-Auburn ME, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 216, 
+                    "segmentation_type": "CITIES", 
+                    "name": "Kansas City MO, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 1, 
+                    "segmentation_type": "CITIES", 
+                    "name": "Huntsville-Decatur AL, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 62, 
+                    "segmentation_type": "CITIES", 
+                    "name": "Savannah GA, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 1, 
+                    "segmentation_type": "CITIES", 
+                    "name": "Twin Falls ID, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 60, 
+                    "segmentation_type": "CITIES", 
+                    "name": "Charleston SC, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 17, 
+                    "segmentation_type": "CITIES", 
+                    "name": "Marquette MI, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 4, 
+                    "segmentation_type": "CITIES", 
+                    "name": "Elmira NY, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 26, 
+                    "segmentation_type": "CITIES", 
+                    "name": "Peoria-Bloomington IL, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 2767, 
+                    "segmentation_type": "AGE", 
+                    "name": "30-39"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 7126, 
+                    "segmentation_type": "AGE", 
+                    "name": "20-49"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 2258, 
+                    "segmentation_type": "AGE", 
+                    "name": "18-34"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 5780, 
+                    "segmentation_type": "AGE", 
+                    "name": "13-49"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 3542, 
+                    "segmentation_type": "AGE", 
+                    "name": "20-39"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 972, 
+                    "segmentation_type": "AGE", 
+                    "name": "13-24"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 1553, 
+                    "segmentation_type": "AGE", 
+                    "name": "13-29"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 17540, 
+                    "segmentation_type": "AGE", 
+                    "name": "25 and up"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 313, 
+                    "segmentation_type": "AGE", 
+                    "name": "13-19"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 3837, 
+                    "segmentation_type": "AGE", 
+                    "name": "40-49"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 15137, 
+                    "segmentation_type": "AGE", 
+                    "name": "40 and up"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 11470, 
+                    "segmentation_type": "AGE", 
+                    "name": "21-54"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 16778, 
+                    "segmentation_type": "AGE", 
+                    "name": "30 and up"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 8977, 
+                    "segmentation_type": "AGE", 
+                    "name": "18-54"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 3197, 
+                    "segmentation_type": "AGE", 
+                    "name": "13-39"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 8946, 
+                    "segmentation_type": "AGE", 
+                    "name": "35-54"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 18202, 
+                    "segmentation_type": "AGE", 
+                    "name": "18 and up"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 1524, 
+                    "segmentation_type": "AGE", 
+                    "name": "20-29"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 8587, 
+                    "segmentation_type": "AGE", 
+                    "name": "21-49"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 17938, 
+                    "segmentation_type": "AGE", 
+                    "name": "21 and up"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 2758, 
+                    "segmentation_type": "AGE", 
+                    "name": "20-34"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 12567, 
+                    "segmentation_type": "AGE", 
+                    "name": "50 and up"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 2534, 
+                    "segmentation_type": "AGE", 
+                    "name": "13-34"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 18020, 
+                    "segmentation_type": "AGE", 
+                    "name": "20 and up"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 11458, 
+                    "segmentation_type": "AGE", 
+                    "name": "25-54"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 16337, 
+                    "segmentation_type": "AGE", 
+                    "name": "35 and up"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 9450, 
+                    "segmentation_type": "AGE", 
+                    "name": "13-54"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 7344, 
+                    "segmentation_type": "AGE", 
+                    "name": "25-49"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 5932, 
+                    "segmentation_type": "AGE", 
+                    "name": "35-49"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 742, 
+                    "segmentation_type": "AGE", 
+                    "name": "18-24"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 2739, 
+                    "segmentation_type": "AGE", 
+                    "name": "21-34"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 6403, 
+                    "segmentation_type": "AGE", 
+                    "name": "30-49"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 6828, 
+                    "segmentation_type": "AGE", 
+                    "name": "18-49"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 18332, 
+                    "segmentation_type": "AGE", 
+                    "name": "13 and up"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 907, 
+                    "segmentation_type": "REGIONS", 
+                    "name": "Georgia, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 124, 
+                    "segmentation_type": "REGIONS", 
+                    "name": "Oregon, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 61, 
+                    "segmentation_type": "REGIONS", 
+                    "name": "Delaware, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 24, 
+                    "segmentation_type": "REGIONS", 
+                    "name": "Montana, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 130, 
+                    "segmentation_type": "REGIONS", 
+                    "name": "Arkansas, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 978, 
+                    "segmentation_type": "REGIONS", 
+                    "name": "California, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 237, 
+                    "segmentation_type": "REGIONS", 
+                    "name": "Wisconsin, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 215, 
+                    "segmentation_type": "REGIONS", 
+                    "name": "Connecticut, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 498, 
+                    "segmentation_type": "REGIONS", 
+                    "name": "Maryland, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 20, 
+                    "segmentation_type": "REGIONS", 
+                    "name": "Hawaii, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 718, 
+                    "segmentation_type": "REGIONS", 
+                    "name": "New Jersey, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 38, 
+                    "segmentation_type": "REGIONS", 
+                    "name": "Vermont, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 331, 
+                    "segmentation_type": "REGIONS", 
+                    "name": "Missouri, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 742, 
+                    "segmentation_type": "REGIONS", 
+                    "name": "Pennsylvania, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 1242, 
+                    "segmentation_type": "REGIONS", 
+                    "name": "New York, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 63, 
+                    "segmentation_type": "REGIONS", 
+                    "name": "Puerto Rico, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 217, 
+                    "segmentation_type": "REGIONS", 
+                    "name": "Washington, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 695, 
+                    "segmentation_type": "REGIONS", 
+                    "name": "North Carolina, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 134, 
+                    "segmentation_type": "REGIONS", 
+                    "name": "District of Columbia, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 107, 
+                    "segmentation_type": "REGIONS", 
+                    "name": "Nevada, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 103, 
+                    "segmentation_type": "REGIONS", 
+                    "name": "New Hampshire, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 23, 
+                    "segmentation_type": "REGIONS", 
+                    "name": "Alaska, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 57, 
+                    "segmentation_type": "REGIONS", 
+                    "name": "New Mexico, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 549, 
+                    "segmentation_type": "REGIONS", 
+                    "name": "Massachusetts, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 524, 
+                    "segmentation_type": "REGIONS", 
+                    "name": "Tennessee, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 1978, 
+                    "segmentation_type": "REGIONS", 
+                    "name": "Texas, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 531, 
+                    "segmentation_type": "REGIONS", 
+                    "name": "Virginia, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 756, 
+                    "segmentation_type": "REGIONS", 
+                    "name": "Michigan, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 259, 
+                    "segmentation_type": "REGIONS", 
+                    "name": "Kansas, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 28, 
+                    "segmentation_type": "REGIONS", 
+                    "name": "North Dakota, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 60, 
+                    "segmentation_type": "REGIONS", 
+                    "name": "Utah, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 211, 
+                    "segmentation_type": "REGIONS", 
+                    "name": "Arizona, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 45, 
+                    "segmentation_type": "REGIONS", 
+                    "name": "Idaho, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 391, 
+                    "segmentation_type": "REGIONS", 
+                    "name": "Indiana, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 103, 
+                    "segmentation_type": "REGIONS", 
+                    "name": "Nebraska, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 91, 
+                    "segmentation_type": "REGIONS", 
+                    "name": "West Virginia, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 234, 
+                    "segmentation_type": "REGIONS", 
+                    "name": "Oklahoma, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 152, 
+                    "segmentation_type": "REGIONS", 
+                    "name": "Iowa, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 280, 
+                    "segmentation_type": "REGIONS", 
+                    "name": "South Carolina, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 245, 
+                    "segmentation_type": "REGIONS", 
+                    "name": "Colorado, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 241, 
+                    "segmentation_type": "REGIONS", 
+                    "name": "Kentucky, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 1563, 
+                    "segmentation_type": "REGIONS", 
+                    "name": "Florida, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 131, 
+                    "segmentation_type": "REGIONS", 
+                    "name": "Mississippi, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 740, 
+                    "segmentation_type": "REGIONS", 
+                    "name": "Ohio, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 303, 
+                    "segmentation_type": "REGIONS", 
+                    "name": "Minnesota, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 191, 
+                    "segmentation_type": "REGIONS", 
+                    "name": "Louisiana, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 316, 
+                    "segmentation_type": "REGIONS", 
+                    "name": "Alabama, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 30, 
+                    "segmentation_type": "REGIONS", 
+                    "name": "South Dakota, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 82, 
+                    "segmentation_type": "REGIONS", 
+                    "name": "Rhode Island, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 24, 
+                    "segmentation_type": "REGIONS", 
+                    "name": "Wyoming, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 88, 
+                    "segmentation_type": "REGIONS", 
+                    "name": "Maine, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 934, 
+                    "segmentation_type": "REGIONS", 
+                    "name": "Illinois, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 11, 
+                    "segmentation_type": "LANGUAGES", 
+                    "name": "Turkish"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 28, 
+                    "segmentation_type": "LANGUAGES", 
+                    "name": "Portuguese"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 51, 
+                    "segmentation_type": "LANGUAGES", 
+                    "name": "French"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 2, 
+                    "segmentation_type": "LANGUAGES", 
+                    "name": "Polish"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 2, 
+                    "segmentation_type": "LANGUAGES", 
+                    "name": "Thai"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 9, 
+                    "segmentation_type": "LANGUAGES", 
+                    "name": "Russian"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 9, 
+                    "segmentation_type": "LANGUAGES", 
+                    "name": "Italian"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 20, 
+                    "segmentation_type": "LANGUAGES", 
+                    "name": "Persian"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 4, 
+                    "segmentation_type": "LANGUAGES", 
+                    "name": "Indonesian"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 3, 
+                    "segmentation_type": "LANGUAGES", 
+                    "name": "Dutch"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 18869, 
+                    "segmentation_type": "LANGUAGES", 
+                    "name": "English"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 11, 
+                    "segmentation_type": "LANGUAGES", 
+                    "name": "Hindi"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 1, 
+                    "segmentation_type": "LANGUAGES", 
+                    "name": "Finnish"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 1, 
+                    "segmentation_type": "LANGUAGES", 
+                    "name": "Norwegian"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 26, 
+                    "segmentation_type": "LANGUAGES", 
+                    "name": "German"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 1213, 
+                    "segmentation_type": "LANGUAGES", 
+                    "name": "Spanish"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 26, 
+                    "segmentation_type": "LANGUAGES", 
+                    "name": "Arabic"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 51, 
+                    "segmentation_type": "LANGUAGES", 
+                    "name": "Japanese"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 6, 
+                    "segmentation_type": "LANGUAGES", 
+                    "name": "Swedish"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 16, 
+                    "segmentation_type": "LANGUAGES", 
+                    "name": "Korean"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 38, 
+                    "segmentation_type": "LANGUAGES", 
+                    "name": "Chinese"
+                }
+            ]
+        }, 
+        "ScreenName": "VoteMarsha"
+    }, 
+    "bzpyt": {
+        "Overview": {
+            "lineItem": {
+                "usd_spend": 127.5, 
+                "start_timestamp": 1530555338, 
+                "account_id": "18ce54pv63b", 
+                "tweet_count": 1, 
+                "tailored_audience_used": false, 
+                "political_disclaimer": {
+                    "organization": "Marsha for Senate", 
+                    "sponsorshipType": "Direct"
+                }, 
+                "impressions": 8691, 
+                "line_item_id": "bzpyt", 
+                "end_timestamp": 1530848732
+            }
+        }, 
+        "UserID": "63150856", 
+        "TargetDetails": {
+            "targeting_criteria_details": [
+                {
+                    "targeted": false, 
+                    "impressions": 5, 
+                    "segmentation_type": "LANGUAGES", 
+                    "name": "Turkish"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 2, 
+                    "segmentation_type": "LANGUAGES", 
+                    "name": "Portuguese"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 21, 
+                    "segmentation_type": "LANGUAGES", 
+                    "name": "French"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 2, 
+                    "segmentation_type": "LANGUAGES", 
+                    "name": "Polish"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 2, 
+                    "segmentation_type": "LANGUAGES", 
+                    "name": "Russian"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 1, 
+                    "segmentation_type": "LANGUAGES", 
+                    "name": "Italian"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 8688, 
+                    "segmentation_type": "LANGUAGES", 
+                    "name": "English"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 1, 
+                    "segmentation_type": "LANGUAGES", 
+                    "name": "Hindi"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 1, 
+                    "segmentation_type": "LANGUAGES", 
+                    "name": "German"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 374, 
+                    "segmentation_type": "LANGUAGES", 
+                    "name": "Spanish"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 2, 
+                    "segmentation_type": "LANGUAGES", 
+                    "name": "Arabic"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 6, 
+                    "segmentation_type": "LANGUAGES", 
+                    "name": "Japanese"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 1803, 
+                    "segmentation_type": "AGE", 
+                    "name": "30-39"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 4624, 
+                    "segmentation_type": "AGE", 
+                    "name": "20-49"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 2056, 
+                    "segmentation_type": "AGE", 
+                    "name": "18-34"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 4292, 
+                    "segmentation_type": "AGE", 
+                    "name": "13-49"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 2743, 
+                    "segmentation_type": "AGE", 
+                    "name": "20-39"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 1195, 
+                    "segmentation_type": "AGE", 
+                    "name": "13-24"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 1596, 
+                    "segmentation_type": "AGE", 
+                    "name": "13-29"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 7484, 
+                    "segmentation_type": "AGE", 
+                    "name": "25 and up"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 337, 
+                    "segmentation_type": "AGE", 
+                    "name": "13-19"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 2193, 
+                    "segmentation_type": "AGE", 
+                    "name": "40-49"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 5885, 
+                    "segmentation_type": "AGE", 
+                    "name": "40 and up"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 6133, 
+                    "segmentation_type": "AGE", 
+                    "name": "21-54"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 7038, 
+                    "segmentation_type": "AGE", 
+                    "name": "30 and up"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 5767, 
+                    "segmentation_type": "AGE", 
+                    "name": "18-54"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 2761, 
+                    "segmentation_type": "AGE", 
+                    "name": "13-39"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 4403, 
+                    "segmentation_type": "AGE", 
+                    "name": "35-54"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 8526, 
+                    "segmentation_type": "AGE", 
+                    "name": "18 and up"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 1407, 
+                    "segmentation_type": "AGE", 
+                    "name": "20-29"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 4831, 
+                    "segmentation_type": "AGE", 
+                    "name": "21-49"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 8146, 
+                    "segmentation_type": "AGE", 
+                    "name": "21 and up"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 2079, 
+                    "segmentation_type": "AGE", 
+                    "name": "20-34"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 4336, 
+                    "segmentation_type": "AGE", 
+                    "name": "50 and up"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 2165, 
+                    "segmentation_type": "AGE", 
+                    "name": "13-34"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 8297, 
+                    "segmentation_type": "AGE", 
+                    "name": "20 and up"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 5277, 
+                    "segmentation_type": "AGE", 
+                    "name": "25-54"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 6557, 
+                    "segmentation_type": "AGE", 
+                    "name": "35 and up"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 5951, 
+                    "segmentation_type": "AGE", 
+                    "name": "13-54"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 4040, 
+                    "segmentation_type": "AGE", 
+                    "name": "25-49"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 3165, 
+                    "segmentation_type": "AGE", 
+                    "name": "35-49"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 1107, 
+                    "segmentation_type": "AGE", 
+                    "name": "18-24"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 1969, 
+                    "segmentation_type": "AGE", 
+                    "name": "21-34"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 3768, 
+                    "segmentation_type": "AGE", 
+                    "name": "30-49"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 4730, 
+                    "segmentation_type": "AGE", 
+                    "name": "18-49"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 8634, 
+                    "segmentation_type": "AGE", 
+                    "name": "13 and up"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 10, 
+                    "segmentation_type": "CITIES", 
+                    "name": "Greenville-Spartanburg SC-Asheville NC-Anderson SC, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 5, 
+                    "segmentation_type": "CITIES", 
+                    "name": "Atlanta GA, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 67, 
+                    "segmentation_type": "CITIES", 
+                    "name": "Jackson TN, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 4559, 
+                    "segmentation_type": "CITIES", 
+                    "name": "Nashville TN, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 361, 
+                    "segmentation_type": "CITIES", 
+                    "name": "Tri-Cities TN-VA, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 939, 
+                    "segmentation_type": "CITIES", 
+                    "name": "Memphis TN, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 392, 
+                    "segmentation_type": "CITIES", 
+                    "name": "Chattanooga TN, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 36, 
+                    "segmentation_type": "CITIES", 
+                    "name": "Paducah KY-Cape Girardeau MO-Harrisburg-Mount Vernon IL, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 1723, 
+                    "segmentation_type": "CITIES", 
+                    "name": "Knoxville TN, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 2913, 
+                    "segmentation_type": "GENDER", 
+                    "name": "Female"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 48, 
+                    "segmentation_type": "GENDER", 
+                    "name": "Unknown"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 5730, 
+                    "segmentation_type": "GENDER", 
+                    "name": "Male"
+                }, 
+                {
+                    "targeted": true, 
+                    "impressions": 8171, 
+                    "segmentation_type": "REGIONS", 
+                    "name": "Tennessee, US"
+                }
+            ]
+        }, 
+        "ScreenName": "VoteMarsha"
+    }, 
+    "bz65b": {
+        "Overview": {
+            "lineItem": {
+                "usd_spend": 75.0, 
+                "start_timestamp": 1530290408, 
+                "account_id": "18ce54pv63b", 
+                "tweet_count": 1, 
+                "tailored_audience_used": false, 
+                "political_disclaimer": {
+                    "organization": "Marsha for Senate", 
+                    "sponsorshipType": "Direct"
+                }, 
+                "impressions": 8252, 
+                "line_item_id": "bz65b", 
+                "end_timestamp": 1530421140
+            }
+        }, 
+        "UserID": "63150856", 
+        "TargetDetails": {
+            "targeting_criteria_details": [
+                {
+                    "targeted": false, 
+                    "impressions": 1003, 
+                    "segmentation_type": "AGE", 
+                    "name": "30-39"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 3147, 
+                    "segmentation_type": "AGE", 
+                    "name": "20-49"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 1599, 
+                    "segmentation_type": "AGE", 
+                    "name": "18-34"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 3234, 
+                    "segmentation_type": "AGE", 
+                    "name": "13-49"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 1734, 
+                    "segmentation_type": "AGE", 
+                    "name": "20-39"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 1400, 
+                    "segmentation_type": "AGE", 
+                    "name": "13-24"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 1725, 
+                    "segmentation_type": "AGE", 
+                    "name": "13-29"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 6506, 
+                    "segmentation_type": "AGE", 
+                    "name": "25 and up"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 662, 
+                    "segmentation_type": "AGE", 
+                    "name": "13-19"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 1529, 
+                    "segmentation_type": "AGE", 
+                    "name": "40-49"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 5537, 
+                    "segmentation_type": "AGE", 
+                    "name": "40 and up"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 4634, 
+                    "segmentation_type": "AGE", 
+                    "name": "21-54"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 6087, 
+                    "segmentation_type": "AGE", 
+                    "name": "30 and up"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 4112, 
+                    "segmentation_type": "AGE", 
+                    "name": "18-54"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 2275, 
+                    "segmentation_type": "AGE", 
+                    "name": "13-39"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 3396, 
+                    "segmentation_type": "AGE", 
+                    "name": "35-54"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 7503, 
+                    "segmentation_type": "AGE", 
+                    "name": "18 and up"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 1095, 
+                    "segmentation_type": "AGE", 
+                    "name": "20-29"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 3444, 
+                    "segmentation_type": "AGE", 
+                    "name": "21-49"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 6974, 
+                    "segmentation_type": "AGE", 
+                    "name": "21 and up"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 1437, 
+                    "segmentation_type": "AGE", 
+                    "name": "20-34"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 4584, 
+                    "segmentation_type": "AGE", 
+                    "name": "50 and up"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 2051, 
+                    "segmentation_type": "AGE", 
+                    "name": "13-34"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 7151, 
+                    "segmentation_type": "AGE", 
+                    "name": "20 and up"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 3784, 
+                    "segmentation_type": "AGE", 
+                    "name": "25-54"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 5902, 
+                    "segmentation_type": "AGE", 
+                    "name": "35 and up"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 4670, 
+                    "segmentation_type": "AGE", 
+                    "name": "13-54"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 2768, 
+                    "segmentation_type": "AGE", 
+                    "name": "25-49"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 2185, 
+                    "segmentation_type": "AGE", 
+                    "name": "35-49"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 960, 
+                    "segmentation_type": "AGE", 
+                    "name": "18-24"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 1274, 
+                    "segmentation_type": "AGE", 
+                    "name": "21-34"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 2661, 
+                    "segmentation_type": "AGE", 
+                    "name": "30-49"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 3271, 
+                    "segmentation_type": "AGE", 
+                    "name": "18-49"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 7813, 
+                    "segmentation_type": "AGE", 
+                    "name": "13 and up"
+                }, 
+                {
+                    "targeted": true, 
+                    "impressions": 7296, 
+                    "segmentation_type": "REGIONS", 
+                    "name": "Tennessee, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 4442, 
+                    "segmentation_type": "GENDER", 
+                    "name": "Male"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 391, 
+                    "segmentation_type": "GENDER", 
+                    "name": "Unknown"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 3419, 
+                    "segmentation_type": "GENDER", 
+                    "name": "Female"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 2, 
+                    "segmentation_type": "LANGUAGES", 
+                    "name": "Turkish"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 12, 
+                    "segmentation_type": "LANGUAGES", 
+                    "name": "Portuguese"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 29, 
+                    "segmentation_type": "LANGUAGES", 
+                    "name": "French"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 1, 
+                    "segmentation_type": "LANGUAGES", 
+                    "name": "Polish"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 1, 
+                    "segmentation_type": "LANGUAGES", 
+                    "name": "Thai"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 3, 
+                    "segmentation_type": "LANGUAGES", 
+                    "name": "Russian"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 1, 
+                    "segmentation_type": "LANGUAGES", 
+                    "name": "Italian"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 1, 
+                    "segmentation_type": "LANGUAGES", 
+                    "name": "Persian"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 8222, 
+                    "segmentation_type": "LANGUAGES", 
+                    "name": "English"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 1, 
+                    "segmentation_type": "LANGUAGES", 
+                    "name": "Finnish"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 1, 
+                    "segmentation_type": "LANGUAGES", 
+                    "name": "Norwegian"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 5, 
+                    "segmentation_type": "LANGUAGES", 
+                    "name": "German"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 377, 
+                    "segmentation_type": "LANGUAGES", 
+                    "name": "Spanish"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 5, 
+                    "segmentation_type": "LANGUAGES", 
+                    "name": "Arabic"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 23, 
+                    "segmentation_type": "LANGUAGES", 
+                    "name": "Japanese"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 1, 
+                    "segmentation_type": "LANGUAGES", 
+                    "name": "Swedish"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 18, 
+                    "segmentation_type": "LANGUAGES", 
+                    "name": "Korean"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 8, 
+                    "segmentation_type": "LANGUAGES", 
+                    "name": "Chinese"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 1, 
+                    "segmentation_type": "CITIES", 
+                    "name": "Greenville-Spartanburg SC-Asheville NC-Anderson SC, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 6, 
+                    "segmentation_type": "CITIES", 
+                    "name": "Atlanta GA, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 55, 
+                    "segmentation_type": "CITIES", 
+                    "name": "Jackson TN, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 3864, 
+                    "segmentation_type": "CITIES", 
+                    "name": "Nashville TN, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 365, 
+                    "segmentation_type": "CITIES", 
+                    "name": "Tri-Cities TN-VA, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 1185, 
+                    "segmentation_type": "CITIES", 
+                    "name": "Memphis TN, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 369, 
+                    "segmentation_type": "CITIES", 
+                    "name": "Chattanooga TN, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 20, 
+                    "segmentation_type": "CITIES", 
+                    "name": "Paducah KY-Cape Girardeau MO-Harrisburg-Mount Vernon IL, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 1363, 
+                    "segmentation_type": "CITIES", 
+                    "name": "Knoxville TN, US"
+                }
+            ]
+        }, 
+        "ScreenName": "VoteMarsha"
+    }, 
+    "bz63t": {
+        "Overview": {
+            "lineItem": {
+                "usd_spend": 73.753499, 
+                "start_timestamp": 1530289833, 
+                "account_id": "18ce54pv63b", 
+                "tweet_count": 2, 
+                "tailored_audience_used": false, 
+                "political_disclaimer": {
+                    "organization": "Marsha for Senate", 
+                    "sponsorshipType": "Direct"
+                }, 
+                "impressions": 6787, 
+                "line_item_id": "bz63t", 
+                "end_timestamp": 1530331188
+            }
+        }, 
+        "UserID": "63150856", 
+        "TargetDetails": {
+            "targeting_criteria_details": [
+                {
+                    "targeted": false, 
+                    "impressions": 4, 
+                    "segmentation_type": "LANGUAGES", 
+                    "name": "Turkish"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 8, 
+                    "segmentation_type": "LANGUAGES", 
+                    "name": "Portuguese"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 19, 
+                    "segmentation_type": "LANGUAGES", 
+                    "name": "French"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 1, 
+                    "segmentation_type": "LANGUAGES", 
+                    "name": "Russian"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 1, 
+                    "segmentation_type": "LANGUAGES", 
+                    "name": "Italian"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 1, 
+                    "segmentation_type": "LANGUAGES", 
+                    "name": "Persian"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 7, 
+                    "segmentation_type": "LANGUAGES", 
+                    "name": "Dutch"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 6779, 
+                    "segmentation_type": "LANGUAGES", 
+                    "name": "English"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 3, 
+                    "segmentation_type": "LANGUAGES", 
+                    "name": "Hindi"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 5, 
+                    "segmentation_type": "LANGUAGES", 
+                    "name": "German"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 374, 
+                    "segmentation_type": "LANGUAGES", 
+                    "name": "Spanish"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 6, 
+                    "segmentation_type": "LANGUAGES", 
+                    "name": "Arabic"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 14, 
+                    "segmentation_type": "LANGUAGES", 
+                    "name": "Japanese"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 2, 
+                    "segmentation_type": "LANGUAGES", 
+                    "name": "Swedish"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 14, 
+                    "segmentation_type": "LANGUAGES", 
+                    "name": "Korean"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 1, 
+                    "segmentation_type": "LANGUAGES", 
+                    "name": "Chinese"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 1034, 
+                    "segmentation_type": "AGE", 
+                    "name": "30-39"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 3153, 
+                    "segmentation_type": "AGE", 
+                    "name": "20-49"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 2079, 
+                    "segmentation_type": "AGE", 
+                    "name": "18-34"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 3481, 
+                    "segmentation_type": "AGE", 
+                    "name": "13-49"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 2189, 
+                    "segmentation_type": "AGE", 
+                    "name": "20-39"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 1588, 
+                    "segmentation_type": "AGE", 
+                    "name": "13-24"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 2029, 
+                    "segmentation_type": "AGE", 
+                    "name": "13-29"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 5153, 
+                    "segmentation_type": "AGE", 
+                    "name": "25 and up"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 665, 
+                    "segmentation_type": "AGE", 
+                    "name": "13-19"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 1023, 
+                    "segmentation_type": "AGE", 
+                    "name": "40-49"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 3929, 
+                    "segmentation_type": "AGE", 
+                    "name": "40 and up"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 4245, 
+                    "segmentation_type": "AGE", 
+                    "name": "21-54"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 4613, 
+                    "segmentation_type": "AGE", 
+                    "name": "30 and up"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 4072, 
+                    "segmentation_type": "AGE", 
+                    "name": "18-54"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 2711, 
+                    "segmentation_type": "AGE", 
+                    "name": "13-39"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 2706, 
+                    "segmentation_type": "AGE", 
+                    "name": "35-54"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 6369, 
+                    "segmentation_type": "AGE", 
+                    "name": "18 and up"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 1457, 
+                    "segmentation_type": "AGE", 
+                    "name": "20-29"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 3368, 
+                    "segmentation_type": "AGE", 
+                    "name": "21-49"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 5786, 
+                    "segmentation_type": "AGE", 
+                    "name": "21 and up"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 1913, 
+                    "segmentation_type": "AGE", 
+                    "name": "20-34"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 3161, 
+                    "segmentation_type": "AGE", 
+                    "name": "50 and up"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 2446, 
+                    "segmentation_type": "AGE", 
+                    "name": "13-34"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 5977, 
+                    "segmentation_type": "AGE", 
+                    "name": "20 and up"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 3364, 
+                    "segmentation_type": "AGE", 
+                    "name": "25-54"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 4362, 
+                    "segmentation_type": "AGE", 
+                    "name": "35 and up"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 4611, 
+                    "segmentation_type": "AGE", 
+                    "name": "13-54"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 2452, 
+                    "segmentation_type": "AGE", 
+                    "name": "25-49"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 1614, 
+                    "segmentation_type": "AGE", 
+                    "name": "35-49"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 1226, 
+                    "segmentation_type": "AGE", 
+                    "name": "18-24"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 1726, 
+                    "segmentation_type": "AGE", 
+                    "name": "21-34"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 2216, 
+                    "segmentation_type": "AGE", 
+                    "name": "30-49"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 3347, 
+                    "segmentation_type": "AGE", 
+                    "name": "18-49"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 6642, 
+                    "segmentation_type": "AGE", 
+                    "name": "13 and up"
+                }, 
+                {
+                    "targeted": true, 
+                    "impressions": 6035, 
+                    "segmentation_type": "REGIONS", 
+                    "name": "Tennessee, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 140, 
+                    "segmentation_type": "GENDER", 
+                    "name": "Unknown"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 2798, 
+                    "segmentation_type": "GENDER", 
+                    "name": "Female"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 3849, 
+                    "segmentation_type": "GENDER", 
+                    "name": "Male"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 4, 
+                    "segmentation_type": "CITIES", 
+                    "name": "Greenville-Spartanburg SC-Asheville NC-Anderson SC, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 2, 
+                    "segmentation_type": "CITIES", 
+                    "name": "Atlanta GA, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 43, 
+                    "segmentation_type": "CITIES", 
+                    "name": "Jackson TN, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 3095, 
+                    "segmentation_type": "CITIES", 
+                    "name": "Nashville TN, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 300, 
+                    "segmentation_type": "CITIES", 
+                    "name": "Tri-Cities TN-VA, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 1099, 
+                    "segmentation_type": "CITIES", 
+                    "name": "Memphis TN, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 271, 
+                    "segmentation_type": "CITIES", 
+                    "name": "Chattanooga TN, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 21, 
+                    "segmentation_type": "CITIES", 
+                    "name": "Paducah KY-Cape Girardeau MO-Harrisburg-Mount Vernon IL, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 1, 
+                    "segmentation_type": "CITIES", 
+                    "name": "Charlotte NC, US"
+                }, 
+                {
+                    "targeted": false, 
+                    "impressions": 1139, 
+                    "segmentation_type": "CITIES", 
+                    "name": "Knoxville TN, US"
+                }
+            ]
+        }, 
+        "ScreenName": "VoteMarsha"
+    }
+}

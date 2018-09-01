@@ -1,0 +1,17 @@
+{
+    "23022687": {
+        "Tweets": [
+            {
+                "lastActiveAtSeconds": 1535781592, 
+                "promotedMetadata": {
+                    "advertiserId": 23022687, 
+                    "political": false
+                }, 
+                "serveable": true, 
+                "id": 1035599309859954688, 
+                "tweetId": "1035599309859954688"
+            }
+        ], 
+        "ScreenName": "tedcruz"
+    }
+}
