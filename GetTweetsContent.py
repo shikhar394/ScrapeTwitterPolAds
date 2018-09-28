@@ -54,22 +54,20 @@ data = {"session[username_or_email]": USERNAME,
 def GetContentsForTweets(Tweets, Session):
   TempTweetList = []
   AllTweets = []
-  UserID = list(Tweets.keys())
-  if len(UserID) == 1:
-    UserID = UserID[0]
-  else:
-    SendErrorEmail("Multiple UserIDs with " + str(Tweets))
-  for Tweet in Tweets[UserID]['Tweets']:
-    TempTweetList.append(Tweet['tweetId'])
-    if len(TempTweetList) == 100:
-      TweetString = ','.join(TweetID for TweetID in TempTweetList)
-      AllTweets.extend(GetContentForTweetString(TweetString, Session))
-      WriteToDisk(Tweets[UserID]['ScreenName'], AllTweets, 'TweetContents')
-      TempTweetList = []
-      time.sleep(random.randint(MINWAIT, MAXWAIT))
-  TweetString = ','.join(TweetID for TweetID in TempTweetList)
-  AllTweets.extend(GetContentForTweetString(TweetString, Session))
-  WriteToDisk(Tweets[UserID]['ScreenName'], AllTweets, 'TweetContents')
+  UserIDs = list(Tweets.keys())
+  for UserID in UserIDs: 
+    TempTweetList = []   
+    for Tweet in Tweets[UserID]['Tweets']:
+      TempTweetList.append(Tweet['tweetId'])
+      if len(TempTweetList) == 100:
+        TweetString = ','.join(TweetID for TweetID in TempTweetList)
+        AllTweets.extend(GetContentForTweetString(TweetString, Session))
+        WriteToDisk(Tweets[UserID]['ScreenName'], AllTweets, 'TweetContents')
+        TempTweetList = []
+        time.sleep(random.randint(MINWAIT, MAXWAIT))
+    TweetString = ','.join(TweetID for TweetID in TempTweetList)
+    AllTweets.extend(GetContentForTweetString(TweetString, Session))
+    WriteToDisk(Tweets[UserID]['ScreenName'], AllTweets, 'TweetContents')
 
 
 
