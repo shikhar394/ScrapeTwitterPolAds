@@ -57,6 +57,7 @@ TwitterAPI = Twitter(auth=OAuth(ACCESS_KEY_TOKEN, ACCESS_KEY_SECRET,
 
 LoginPost = "https://twitter.com/sessions"
 URL = "https://twitter.com"
+PolUserLink = "https://ads.twitter.com/transparency/political_advertisers.json?"
 TweetsLinkForUser = "https://ads.twitter.com/transparency/tweets_timeline.json?user_id=%s&cursor=%s"
 SearchUserLink = 'https://api.twitter.com/1.1/users/search.json?q=%s&count=20&filter:verified'
 
@@ -175,7 +176,7 @@ def extractSeedWordsCSV(FirstName = True, LastName = True):
     """
     if TwitterHandlesFile.lower().startswith("twitter"):
       with open(TwitterHandlesFile) as f:
-        CurrentSeeds = set([seedWord[2].strip()[len('@'):] for seedWord in csv.reader(f) if seedWord[2].strip()[len('@'):] != ""])
+        CurrentSeeds = set([seedWord[2].strip()[len('@'):].lower() for seedWord in csv.reader(f) if seedWord[2].strip()[len('@'):] != ""])
     else:
       with open(TwitterHandlesFile, 'r') as f:
         CurrentSeeds = set([' '.join(seedWord).strip() for seedWord in csv.reader(f) if seedWord != " "])
@@ -188,6 +189,21 @@ def extractSeedWordsCSV(FirstName = True, LastName = True):
           f.write(Seed + '\n')
 
     return CurrentSeeds
+
+
+
+
+
+def AddPolUsersLink(TotalSeeds, Session):
+  AllPolUsersFromLink = Session.get(PolUserLink, headers=Headers)
+  if AllPolUsersFromLink.status_code == 200:
+    AllUsers = json.loads(AllPolUsersFromLink.text)['users']
+    for User in AllUsers:
+      TotalSeeds.add(User['screenName'].lower())
+  else:
+    SendErrorEmail("Not 200 code on " + PolUserLink)
+
+  return TotalSeeds
 
 
 
@@ -224,13 +240,16 @@ if __name__ == "__main__":
     Resp = Session.post(LoginPost, data=data, headers=Headers)
     print("Handles file", TwitterHandlesFile)
     TotalSeeds = extractSeedWordsCSV()
+    print(len(TotalSeeds))
+    TotalSeeds = AddPolUsersLink(TotalSeeds, Session)
+    print(len(TotalSeeds))
     #for Keyword in open("Keywords.txt"):
     for Keyword in TotalSeeds:
       Count += 1
       print("Seed # %s out of %s", (Count, len(TotalSeeds)))
       print("Twitter Handles: ", TwitterHandles)
       GetUsersWithPoliticalAds(Keyword.strip(), Session, TwitterHandles)
-      time.sleep(random.randint(MINWAIT/10,MAXWAIT/10))
+      time.sleep(random.randint(MINWAIT//10,MAXWAIT//10))
     FinalNameDir = WriteDir[3:]
     shutil.move(WriteDir, FinalNameDir)
     config.set("WORKINGDIR", "CURRENT", FinalNameDir)
