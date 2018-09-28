@@ -89,13 +89,16 @@ def GetUsersWithPoliticalAds(Keyword, Session, TwitterHandles):
       UsersFromKeyword.extend(TwitterResponse)
       #print(UsersFromKeyword)
       time.sleep(random.randint(MINWAIT, MAXWAIT))
-
+  count=0
   for User in UsersFromKeyword:
     UserID = User['id_str']
     if User['verified'] or TwitterHandles: #If curated list of twitter handles, don't check for verified stamp
       ScreenName = User['screen_name']
       Tweets = GetTweetsForUser(UserID, ScreenName)
       if Tweets:
+        count+=1
+        if count>1:
+          SendErrorEmail("The annoying user search with mutliple hits " + Keyword)
         PayloadToWrite[User['id_str']] = {}
         PayloadToWrite[User['id_str']]['ScreenName'] = ScreenName
         PayloadToWrite[User['id_str']]['Tweets'] = Tweets
@@ -225,6 +228,7 @@ if __name__ == "__main__":
     for Keyword in TotalSeeds:
       Count += 1
       print("Seed # %s out of %s", (Count, len(TotalSeeds)))
+      print("Twitter Handles: ", TwitterHandles)
       GetUsersWithPoliticalAds(Keyword.strip(), Session, TwitterHandles)
       time.sleep(random.randint(MINWAIT/10,MAXWAIT/10))
     FinalNameDir = WriteDir[3:]
